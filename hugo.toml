@@ -1,0 +1,64 @@
+baseURL = "https://www.warawareotoko.com/"
+canonifyURLs = true
+languageCode = "ja-jp"
+title = "私のカワイイトラとウマ"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  defaultTheme = "auto"
+  ShowShareButtons = false
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  displayFullLangName = true
+  disableScrollBar = true
+
+  homeInfoParams = { Title = "ようこそ", Content = "これはプロフィールの紹介文です" }
+
+  socialIcons = [
+    { name = "Twitter", url = "https://x.com/s_s_p_y" },
+    { name = "Note", url = "https://note.com/sinpeeei" }
+  ]
+
+[params.profileMode]
+  enabled = true
+  title = "ようこそ"
+  subtitle = "ハロー。しんぺーと申します。DIR EN GREYとsukekiyoのライブレポをメインに書いていました。今はnoteに色々書いています。フォローいただけますと幸いです。"
+  imageUrl = "myicon.jpg"
+  imageTitle = "プロフィールアイコン"
+  imageWidth = 150
+  imageHeight = 150
+
+[[menu.main]]
+  name = "トップ"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "記事一覧"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "カテゴリ"
+  url = "/categories/"
+  weight = 3
+
+[[menu.main]]
+  name = "タグ"
+  url = "/tags/"
+  weight = 4
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
+
+[languages]
+  [languages.ja]
+    languageName = "日本語"
+    weight = 1
+    title = "私のカワイイトラとウマ"
