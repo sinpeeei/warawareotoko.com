@@ -3,6 +3,7 @@ canonifyURLs = true
 languageCode = "ja-jp"
 title = "私のカワイイトラとウマ"
 theme = "PaperMod"
+publishDir = "docs"
 
 [services]
   [services.googleAnalytics]
