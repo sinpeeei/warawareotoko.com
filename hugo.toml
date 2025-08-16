@@ -3,8 +3,10 @@ canonifyURLs = true
 languageCode = "ja-jp"
 title = "私のカワイイトラとウマ"
 theme = "PaperMod"
-googleAnalytics = "G-CQVFKJB3ME"
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-CQVFKJB3ME"
 
 [pagination]
   pagerSize = 10
