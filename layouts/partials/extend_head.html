@@ -1,8 +1,9 @@
-<!-- EXTEND_HEAD_OK -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CQVFKJB3ME"></script>
+{{ with site.Config.Services.GoogleAnalytics.ID }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-CQVFKJB3ME');
+  gtag('config', '{{ . }}', { anonymize_ip: true });
 </script>
+{{ end }}
