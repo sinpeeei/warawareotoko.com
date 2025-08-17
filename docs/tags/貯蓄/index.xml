@@ -1,5 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>貯蓄 on 私のカワイイトラとウマ</title><link>https://www.warawareotoko.com/tags/%E8%B2%AF%E8%93%84/</link><description>Recent content in 貯蓄 on 私のカワイイトラとウマ</description><generator>Hugo -- 0.147.8</generator><language>ja</language><lastBuildDate>Mon, 27 Feb 2017 11:55:00 +0000</lastBuildDate><atom:link href="https://www.warawareotoko.com/tags/%E8%B2%AF%E8%93%84/index.xml" rel="self" type="application/rss+xml"/><item><title>recereco終了につきレシート読取アプリをマネーフォワードに乗り換えました</title><link>https://www.warawareotoko.com/posts/post-10318/</link><pubDate>Mon, 27 Feb 2017 11:55:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-10318/</guid><description>&lt;p>貯金できないマンなので家計簿アプリで家計簿をつけています。コンビニやスーパー、カフェなんかにいった時もレシートを必ずもらってレシート読取アプリで読み取って家計簿アプリに連携して支出を記録していました。(管理とは言っていない)&lt;/p>
-&lt;p>連携の仕方はこんな感じ&lt;/p>
-&lt;p>現金→レシート→recereco→マネーフォワード
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>貯蓄 on 私のカワイイトラとウマ</title>
+    <link>https://www.warawareotoko.com/tags/%E8%B2%AF%E8%93%84/</link>
+    <description>Recent content in 貯蓄 on 私のカワイイトラとウマ</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 27 Feb 2017 11:55:00 +0000</lastBuildDate>
+    <atom:link href="https://www.warawareotoko.com/tags/%E8%B2%AF%E8%93%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>recereco終了につきレシート読取アプリをマネーフォワードに乗り換えました</title>
+      <link>https://www.warawareotoko.com/posts/post-10318/</link>
+      <pubDate>Mon, 27 Feb 2017 11:55:00 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-10318/</guid>
+      <description>&lt;p&gt;貯金できないマンなので家計簿アプリで家計簿をつけています。コンビニやスーパー、カフェなんかにいった時もレシートを必ずもらってレシート読取アプリで読み取って家計簿アプリに連携して支出を記録していました。(管理とは言っていない)&lt;/p&gt;
+&lt;p&gt;連携の仕方はこんな感じ&lt;/p&gt;
+&lt;p&gt;現金→レシート→recereco→マネーフォワード
 現金→電子マネー→マネーフォワード
-クレジットカード→マネーフォワード&lt;/p></description></item></channel></rss>
+クレジットカード→マネーフォワード&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

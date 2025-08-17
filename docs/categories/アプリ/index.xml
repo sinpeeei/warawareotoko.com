@@ -1,87 +1,266 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>アプリ on 私のカワイイトラとウマ</title><link>https://www.warawareotoko.com/categories/%E3%82%A2%E3%83%97%E3%83%AA/</link><description>Recent content in アプリ on 私のカワイイトラとウマ</description><generator>Hugo -- 0.147.8</generator><language>ja</language><lastBuildDate>Tue, 04 Jul 2017 23:42:30 +0000</lastBuildDate><atom:link href="https://www.warawareotoko.com/categories/%E3%82%A2%E3%83%97%E3%83%AA/index.xml" rel="self" type="application/rss+xml"/><item><title>独自ルール多すぎ！メルカリを使ってみた感想。ヤフオクとの違い</title><link>https://www.warawareotoko.com/posts/post-10828/</link><pubDate>Tue, 04 Jul 2017 23:42:30 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-10828/</guid><description>&lt;p>最近メルカリをよく使っています。ガジェット関連のものを購入したり、自分でゲームを出品して売ってみたりしています。何回か使って見てだいたい勝手がわかってきたので感想をご紹介したいと思います。なんとなく不安でまだ使ったことがない人の参考になればと思います。&lt;/p></description></item><item><title>recereco終了につきレシート読取アプリをマネーフォワードに乗り換えました</title><link>https://www.warawareotoko.com/posts/post-10318/</link><pubDate>Mon, 27 Feb 2017 11:55:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-10318/</guid><description>&lt;p>貯金できないマンなので家計簿アプリで家計簿をつけています。コンビニやスーパー、カフェなんかにいった時もレシートを必ずもらってレシート読取アプリで読み取って家計簿アプリに連携して支出を記録していました。(管理とは言っていない)&lt;/p>
-&lt;p>連携の仕方はこんな感じ&lt;/p>
-&lt;p>現金→レシート→recereco→マネーフォワード
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>アプリ on 私のカワイイトラとウマ</title>
+    <link>https://www.warawareotoko.com/categories/%E3%82%A2%E3%83%97%E3%83%AA/</link>
+    <description>Recent content in アプリ on 私のカワイイトラとウマ</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 04 Jul 2017 23:42:30 +0000</lastBuildDate>
+    <atom:link href="https://www.warawareotoko.com/categories/%E3%82%A2%E3%83%97%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>独自ルール多すぎ！メルカリを使ってみた感想。ヤフオクとの違い</title>
+      <link>https://www.warawareotoko.com/posts/post-10828/</link>
+      <pubDate>Tue, 04 Jul 2017 23:42:30 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-10828/</guid>
+      <description>&lt;p&gt;最近メルカリをよく使っています。ガジェット関連のものを購入したり、自分でゲームを出品して売ってみたりしています。何回か使って見てだいたい勝手がわかってきたので感想をご紹介したいと思います。なんとなく不安でまだ使ったことがない人の参考になればと思います。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recereco終了につきレシート読取アプリをマネーフォワードに乗り換えました</title>
+      <link>https://www.warawareotoko.com/posts/post-10318/</link>
+      <pubDate>Mon, 27 Feb 2017 11:55:00 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-10318/</guid>
+      <description>&lt;p&gt;貯金できないマンなので家計簿アプリで家計簿をつけています。コンビニやスーパー、カフェなんかにいった時もレシートを必ずもらってレシート読取アプリで読み取って家計簿アプリに連携して支出を記録していました。(管理とは言っていない)&lt;/p&gt;
+&lt;p&gt;連携の仕方はこんな感じ&lt;/p&gt;
+&lt;p&gt;現金→レシート→recereco→マネーフォワード
 現金→電子マネー→マネーフォワード
-クレジットカード→マネーフォワード&lt;/p></description></item><item><title>鬱ゲーム「The war of mine」がアップデートしててとてもじゃないけどプレイ出来なかった。</title><link>https://www.warawareotoko.com/posts/post-10194/</link><pubDate>Mon, 30 Jan 2017 12:30:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-10194/</guid><description>&lt;p>戦争をする側のゲームはよくありますが、戦禍の中生き残ろうとする市民側がプレイヤーというゲームは少ないのではないでしょうか。さらにいうと実際の戦争を主題にしており、極限の人間の心理状態がかなりリアルに表現されています。&lt;/p>
-&lt;p>そんな「The war of mine」はPCゲームとしてsteamからダウンロードできます。今回はそのスマホ版のご紹介です。なんですが、これがプレイするのが結構つらそう。リリースしてからすぐに買ってやってたんですが、久しぶりに立ち上げてみたらアップデートされてて課金コンテンツが増えてたのでダウンロードしてプレイしてみよーと軽いノリだったんですが•••&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-10194/images/IIMG_5756.png">&lt;/p>
-&lt;p>戦争で荒廃した街の廃墟でいかに生き抜くかというゲームで、昼は住みかにしてる廃墟で作業をして夜はよその廃墟で資源収集というフェーズで1ヶ月生き延びればいいクリアです。&lt;/p>
-&lt;p>基本パラメーターは疲労度と空腹度の他に気分があり、このあたりのバランスをとりながらターンを進めていきます。働けば疲労度が増して休めば回復し、食糧を食べないとお腹が減ってそのままだと餓死します。また、気分が滅入ったりすると鬱状態となり正常に作業を行わなくなりやがて自ら命を絶つ場合もあります。&lt;/p>
-&lt;p>どうですか、このゲーム•••&lt;/p>
-&lt;p>あと資源収集フェーズでは他人の家に侵入し略奪を働くことも可能です。ただし、その場合罪悪感から鬱状態に陥りやすくなります。そんな時はアルコールを作って摂取して陽気に忘れたりします。これもリアル&lt;/p>
-&lt;p>食糧がなかったら地下室に罠を張ってネズミを捕って食べたり。あるいは資源を元に物々交換したり兵隊と取引したり&lt;/p>
-&lt;p>とまぁ、そんなゲームです。&lt;/p>
-&lt;p>いやーな気持ちになります。&lt;/p></description></item><item><title>スーポーマリオランの課金ハードルめっちゃ高いと思う</title><link>https://www.warawareotoko.com/posts/post-9926/</link><pubDate>Fri, 16 Dec 2016 12:38:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-9926/</guid><description>&lt;p>いくらポケモンGOの影響でスマホゲーム全体の課金ハードルが低くなってるからって途中からいきなり1200円請求されるのはちょっとなって思った。&lt;/p></description></item><item><title>おいいい！！スーパーマリオランが配信されねーぞ！！</title><link>https://www.warawareotoko.com/posts/post-9922/</link><pubDate>Thu, 15 Dec 2016 13:43:30 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-9922/</guid><description>&lt;p>今日配信予定のスーパーマリオランが夜の22時になっても配信されません！！どうなってんだ！！数ヶ月前から楽しみにしてたのに！！配信しないなら告知すんじゃねーよ！！！&lt;/p></description></item><item><title>Instagramとfacebookの連携を解除する方法</title><link>https://www.warawareotoko.com/posts/post-9576/</link><pubDate>Wed, 26 Oct 2016 09:00:21 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-9576/</guid><description>&lt;p>Instagramを始めてみたものの、Twitterと違ってなぜか知り合いにフォローされたり、「おすすめ」に知り合いが出まくったりしているそこのあなた。これでfacebookとの連携を断ち切ることができます。見落としがちな設定なので、ぜひこれをやってみましょう。&lt;/p></description></item><item><title>Instagramで相手のおすすめに自分を表示させない方法</title><link>https://www.warawareotoko.com/posts/post-9561/</link><pubDate>Tue, 25 Oct 2016 14:47:26 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-9561/</guid><description>&lt;p>最近買ったthetaのおかげでInstagramが捗ってきてるんですけど、どーも気になることがあるんですよねー。それが「おすすめ」に表示されるユーザーです！こいつを非表示にしたくて色々調べて見ました。&lt;/p></description></item><item><title>radikoの新機能が中途半端で使いにくい件</title><link>https://www.warawareotoko.com/posts/post-9443/</link><pubDate>Wed, 12 Oct 2016 14:19:16 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-9443/</guid><description>&lt;p>radikoがフルリニューアルしましたー！早速新機能を使ってみましたので感想をご紹介いたします。&lt;/p></description></item><item><title>TL監視 twitterで特定のツイートが多くツイートされると教えてくれるアプリ</title><link>https://www.warawareotoko.com/posts/post-8707/</link><pubDate>Thu, 03 Dec 2015 12:17:04 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-8707/</guid><description>&lt;p>自分が好きなバンドやアイドルの情報を逃さないようにtwitterをチェックしてても、四六時中チェックしてるわけにもいきません。オフィシャルアカウントからのツイートがあると通知が来るように設定していても、オフィシャル以外からの先行情報やリークなどは拾うことができません。そんな時に使えるのがYahoo!の「リアルタイム検索」というアプリです。本日はそのご紹介&lt;/p></description></item><item><title>instagramで特定のアカウントが投稿した画像を自動保存する方法【IF】</title><link>https://www.warawareotoko.com/posts/post-8643/</link><pubDate>Mon, 23 Nov 2015 01:04:38 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-8643/</guid><description>&lt;p>Instagramを最近頑張るようにしてます。ただし、画像を読み込んでるからもしかしてパケット通信料の制限に対して負荷になってるんじゃないかなーとか少し心配して、Twitterほど頻繁に開かないようにしています。&lt;/p>
-&lt;p>なので、よくお気に入りのアカウントの投稿を見逃してしまします。&lt;/p>
-&lt;p>そこで思いついた設定をご紹介します。&lt;/p></description></item><item><title>メモ帳を使ってInstagramの画像を保存する方法</title><link>https://www.warawareotoko.com/posts/post-8628/</link><pubDate>Mon, 16 Nov 2015 02:34:59 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-8628/</guid><description>&lt;p>昨日ご紹介しました&lt;!-- raw HTML omitted -->「instagram（インスタグラム）でいいねした画像を自動で保存する方法」&lt;!-- raw HTML omitted -->よりも簡単に画像を保存する方法を見つけましたのでご紹介します。&lt;/p></description></item><item><title>instagram（インスタグラム）でいいねした画像を自動で保存する方法</title><link>https://www.warawareotoko.com/posts/post-8606/</link><pubDate>Sun, 15 Nov 2015 01:33:03 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-8606/</guid><description>&lt;p>DIR EN GREYのShinyaがInstagramを頻繁にあげてくれるので、それを見るためにInstagramに登録しました。&lt;/p>
-&lt;p>そういう方も多いかと思います。しかし、Instagramといえば今や世界で一番使われているSNSで、今後もどんどん利用者が増えていきそうな勢いです。&lt;/p>
-&lt;p>ぼくもだんだんと使い方が解ってきたので、これからどんどん使っていきたいと思っております。&lt;/p>
-&lt;p>ということでInstagramの使い方について役にたつ設定をご紹介します。&lt;/p></description></item><item><title>ストリーミングサービスを比較した結果、Google Play Musicが一番おすすめ</title><link>https://www.warawareotoko.com/posts/post-8510/</link><pubDate>Sat, 24 Oct 2015 01:03:34 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-8510/</guid><description>&lt;p>Google Play Music、Apple Music、LINE MUSIC、AWAなどなど色々なストリーミングサービスが展開されてます。
+クレジットカード→マネーフォワード&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>鬱ゲーム「The war of mine」がアップデートしててとてもじゃないけどプレイ出来なかった。</title>
+      <link>https://www.warawareotoko.com/posts/post-10194/</link>
+      <pubDate>Mon, 30 Jan 2017 12:30:00 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-10194/</guid>
+      <description>&lt;p&gt;戦争をする側のゲームはよくありますが、戦禍の中生き残ろうとする市民側がプレイヤーというゲームは少ないのではないでしょうか。さらにいうと実際の戦争を主題にしており、極限の人間の心理状態がかなりリアルに表現されています。&lt;/p&gt;
+&lt;p&gt;そんな「The war of mine」はPCゲームとしてsteamからダウンロードできます。今回はそのスマホ版のご紹介です。なんですが、これがプレイするのが結構つらそう。リリースしてからすぐに買ってやってたんですが、久しぶりに立ち上げてみたらアップデートされてて課金コンテンツが増えてたのでダウンロードしてプレイしてみよーと軽いノリだったんですが•••&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-10194/images/IIMG_5756.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;戦争で荒廃した街の廃墟でいかに生き抜くかというゲームで、昼は住みかにしてる廃墟で作業をして夜はよその廃墟で資源収集というフェーズで1ヶ月生き延びればいいクリアです。&lt;/p&gt;
+&lt;p&gt;基本パラメーターは疲労度と空腹度の他に気分があり、このあたりのバランスをとりながらターンを進めていきます。働けば疲労度が増して休めば回復し、食糧を食べないとお腹が減ってそのままだと餓死します。また、気分が滅入ったりすると鬱状態となり正常に作業を行わなくなりやがて自ら命を絶つ場合もあります。&lt;/p&gt;
+&lt;p&gt;どうですか、このゲーム•••&lt;/p&gt;
+&lt;p&gt;あと資源収集フェーズでは他人の家に侵入し略奪を働くことも可能です。ただし、その場合罪悪感から鬱状態に陥りやすくなります。そんな時はアルコールを作って摂取して陽気に忘れたりします。これもリアル&lt;/p&gt;
+&lt;p&gt;食糧がなかったら地下室に罠を張ってネズミを捕って食べたり。あるいは資源を元に物々交換したり兵隊と取引したり&lt;/p&gt;
+&lt;p&gt;とまぁ、そんなゲームです。&lt;/p&gt;
+&lt;p&gt;いやーな気持ちになります。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>スーポーマリオランの課金ハードルめっちゃ高いと思う</title>
+      <link>https://www.warawareotoko.com/posts/post-9926/</link>
+      <pubDate>Fri, 16 Dec 2016 12:38:00 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-9926/</guid>
+      <description>&lt;p&gt;いくらポケモンGOの影響でスマホゲーム全体の課金ハードルが低くなってるからって途中からいきなり1200円請求されるのはちょっとなって思った。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>おいいい！！スーパーマリオランが配信されねーぞ！！</title>
+      <link>https://www.warawareotoko.com/posts/post-9922/</link>
+      <pubDate>Thu, 15 Dec 2016 13:43:30 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-9922/</guid>
+      <description>&lt;p&gt;今日配信予定のスーパーマリオランが夜の22時になっても配信されません！！どうなってんだ！！数ヶ月前から楽しみにしてたのに！！配信しないなら告知すんじゃねーよ！！！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instagramとfacebookの連携を解除する方法</title>
+      <link>https://www.warawareotoko.com/posts/post-9576/</link>
+      <pubDate>Wed, 26 Oct 2016 09:00:21 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-9576/</guid>
+      <description>&lt;p&gt;Instagramを始めてみたものの、Twitterと違ってなぜか知り合いにフォローされたり、「おすすめ」に知り合いが出まくったりしているそこのあなた。これでfacebookとの連携を断ち切ることができます。見落としがちな設定なので、ぜひこれをやってみましょう。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instagramで相手のおすすめに自分を表示させない方法</title>
+      <link>https://www.warawareotoko.com/posts/post-9561/</link>
+      <pubDate>Tue, 25 Oct 2016 14:47:26 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-9561/</guid>
+      <description>&lt;p&gt;最近買ったthetaのおかげでInstagramが捗ってきてるんですけど、どーも気になることがあるんですよねー。それが「おすすめ」に表示されるユーザーです！こいつを非表示にしたくて色々調べて見ました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>radikoの新機能が中途半端で使いにくい件</title>
+      <link>https://www.warawareotoko.com/posts/post-9443/</link>
+      <pubDate>Wed, 12 Oct 2016 14:19:16 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-9443/</guid>
+      <description>&lt;p&gt;radikoがフルリニューアルしましたー！早速新機能を使ってみましたので感想をご紹介いたします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TL監視 twitterで特定のツイートが多くツイートされると教えてくれるアプリ</title>
+      <link>https://www.warawareotoko.com/posts/post-8707/</link>
+      <pubDate>Thu, 03 Dec 2015 12:17:04 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-8707/</guid>
+      <description>&lt;p&gt;自分が好きなバンドやアイドルの情報を逃さないようにtwitterをチェックしてても、四六時中チェックしてるわけにもいきません。オフィシャルアカウントからのツイートがあると通知が来るように設定していても、オフィシャル以外からの先行情報やリークなどは拾うことができません。そんな時に使えるのがYahoo!の「リアルタイム検索」というアプリです。本日はそのご紹介&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>instagramで特定のアカウントが投稿した画像を自動保存する方法【IF】</title>
+      <link>https://www.warawareotoko.com/posts/post-8643/</link>
+      <pubDate>Mon, 23 Nov 2015 01:04:38 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-8643/</guid>
+      <description>&lt;p&gt;Instagramを最近頑張るようにしてます。ただし、画像を読み込んでるからもしかしてパケット通信料の制限に対して負荷になってるんじゃないかなーとか少し心配して、Twitterほど頻繁に開かないようにしています。&lt;/p&gt;
+&lt;p&gt;なので、よくお気に入りのアカウントの投稿を見逃してしまします。&lt;/p&gt;
+&lt;p&gt;そこで思いついた設定をご紹介します。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>メモ帳を使ってInstagramの画像を保存する方法</title>
+      <link>https://www.warawareotoko.com/posts/post-8628/</link>
+      <pubDate>Mon, 16 Nov 2015 02:34:59 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-8628/</guid>
+      <description>&lt;p&gt;昨日ご紹介しました&lt;!-- raw HTML omitted --&gt;「instagram（インスタグラム）でいいねした画像を自動で保存する方法」&lt;!-- raw HTML omitted --&gt;よりも簡単に画像を保存する方法を見つけましたのでご紹介します。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>instagram（インスタグラム）でいいねした画像を自動で保存する方法</title>
+      <link>https://www.warawareotoko.com/posts/post-8606/</link>
+      <pubDate>Sun, 15 Nov 2015 01:33:03 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-8606/</guid>
+      <description>&lt;p&gt;DIR EN GREYのShinyaがInstagramを頻繁にあげてくれるので、それを見るためにInstagramに登録しました。&lt;/p&gt;
+&lt;p&gt;そういう方も多いかと思います。しかし、Instagramといえば今や世界で一番使われているSNSで、今後もどんどん利用者が増えていきそうな勢いです。&lt;/p&gt;
+&lt;p&gt;ぼくもだんだんと使い方が解ってきたので、これからどんどん使っていきたいと思っております。&lt;/p&gt;
+&lt;p&gt;ということでInstagramの使い方について役にたつ設定をご紹介します。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ストリーミングサービスを比較した結果、Google Play Musicが一番おすすめ</title>
+      <link>https://www.warawareotoko.com/posts/post-8510/</link>
+      <pubDate>Sat, 24 Oct 2015 01:03:34 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-8510/</guid>
+      <description>&lt;p&gt;Google Play Music、Apple Music、LINE MUSIC、AWAなどなど色々なストリーミングサービスが展開されてます。
 DIR EN GREYやsukekiyoの音源以外はCDは買いませんし、その他のアーティストでもよほど気になったものしかitunesでダウンロードもしません。
-それでもitunesで買って今すぐに聴きたいというほどの衝動もないけど、どうしても聴きたいというものに関してはゲオやTSUTAYAでレンタルしてきます。&lt;/p>
-&lt;p>その中でミュージックストリーミングサービスにはかなり期待しています。どうしても狭くなりがちな自分の趣向を広げてくれればなという感じです。&lt;/p>
-&lt;p>そこで色々試してみたので、その中で一番いいなと思ったものをご紹介いたします。&lt;/p></description></item><item><title>色んな動作を完全自動にしてくれるアプリ「IFTTT」の設定方法</title><link>https://www.warawareotoko.com/posts/post-4512/</link><pubDate>Tue, 04 Mar 2014 15:21:33 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-4512/</guid><description>&lt;p>ハローしんぺー(&lt;!-- raw HTML omitted -->@s_s_p_y&lt;!-- raw HTML omitted --> )です。&lt;/p>
-&lt;p>IFTTTをご存知ですか？色んな動作を完全自動で色んなところに連携してくれる凄いサービス（アプリ）です。&lt;/p>
-&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4512/images/IMG_1540.png">&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4512/images/IMG_1541.png">&lt;/p>
-&lt;p>例えばinstagramで写真を撮ったら自動でDropboxに送ったり、foursquareでチェックインしたら自動でFacebookに送ったり、Facebookに投稿した内容をevernoteに自動で送ったりとか。とにかく設定だけしておけば、自動でやってくれるというアプリです。この設定をレシピといいます。&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>まずは登録。アプリをダウンロードしたら、そのまま登録しましょう。英語のアプリですが難しいことはありません。&lt;/p>
-&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4512/images/IMG_1542.png">&lt;/p>
-&lt;p>設定が済んだら、あとは自分の好きなレシピをつくるだけ。右上のマークをタップします。&lt;/p>
-&lt;p>if ＝　もし何かが起こったら
-then =　その時なにをしたいか&lt;/p>
-&lt;p>これを考えてください。&lt;/p>
-&lt;p>ここで試しに１つレシピを作ってみましょう。
-tweetしたら、evernoteに送ってバックアップをとるという設定です。&lt;/p>
-&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4512/images/IMG_1550.png">&lt;/p>
-&lt;p>左の青いプラスをタップします。
-ここではTwitterの一番上の項目をタップします。&lt;/p>
-&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4512/images/IMG_1551.png">&lt;/p>
-&lt;p>アカウントの認証などを求められる場合がありますので、そのまま進んで認証してください。&lt;/p>
-&lt;p>次に右をタップします。
-ここではevernoteの一番上の項目を選択します。tweetされる度に新しいノートを作るという項目です。&lt;/p>
-&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4512/images/IMG_1553.png">&lt;/p>
-&lt;p>最後にこのレシピが実行された時に通知をするかを決めます。頻繁に行われるものなら通知はオフでいいと思います。うるさいので。
-&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4512/images/IMG_1549.png">&lt;/p>
-&lt;p>はい、以上です。どうでしょうか？かんたんでしょう？&lt;/p>
-&lt;p>ま、この上記の設定は呟くたびにevernoteに新しいノートが作られるので少し現実的ではありませんがw&lt;/p>
-&lt;p>色々と工夫してみるのも楽しいかと思います。それと自分の作ったレシピは共有できますので、いいのができたら共有を。自分で作るのが難しい場合は、人のを探して色々とためしてみるのもいいかもしれませn。
-その場合は、メガネアイコンをタップしください。&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4512/images/995a1f463c8489bbebc585c7ff1b6a81.jpg">&lt;/p>
-&lt;p>これがぼくのレシピです。また後日ご紹介していこうと思います。&lt;/p>
-&lt;p>ぼくは毎日DIR EN GREYのオフィを見に行くことはしません。そのため、最新情報をよく見逃してました。&lt;/p>
-&lt;p>しかし、これを使いだして自分に通知がくる様に設定を行った結果、最新情報を見逃すことがなくなりました。&lt;/p>
-&lt;p>さらにフォロワーの方にもその情報を共有できちゃうということで、一石二鳥でとても重宝しています。&lt;/p>
-&lt;p>ぜひぜひ自分だけのレシピを作って、日頃不便に思っていることを解消してみてください。&lt;/p>
-&lt;!-- raw HTML omitted --></description></item><item><title>追加されたTwitterのリストを解除する方法</title><link>https://www.warawareotoko.com/posts/post-4209/</link><pubDate>Mon, 03 Feb 2014 15:33:32 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-4209/</guid><description>&lt;p>Twitterで意図していないリストに勝手に登録されちゃうことってありませんか？エロ系のリストやら政治系やら仮想通貨系やら、儲け方教えます！系やら、いい加減にしろ。で、多分困ってる人が多いかと思いますが、簡単に抜けることができますし相手に通知されることもないので、その方法をご紹介します。&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>そのあと、ブロックし続けるのもいいですが、ブロック解除しても相手にはなんの通知もいきませんので追加したつもりになってるけど、実はリストから抜けていたという状態になります。
-むこうが再度リストに登録するまでは、リストから外れた状態になります。&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>変なリストに追加されました。相手のアカウントページにいきましょう。&lt;/p>
-&lt;p>&lt;img loading="lazy" src="images/IMG_0409.jpg">&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>&lt;img loading="lazy" src="images/IMG_0408.jpg">&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>&lt;img loading="lazy" src="images/IMG_0405.jpg">&lt;/p>
-&lt;p>以上です。&lt;/p>
-&lt;p>下の画像が実際にリストから外れた証拠です。人数が減っています。また、相手側にも通知はいきませんでした。&lt;/p>
-&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4209/images/IMG_0410.jpg">&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>相手がリストを非公開にしている場合、自分が相手に追加されても通知も来ませんし、知るすべがありません。
-そのため、見られていることを認識できません。見ず知らずの人にリスト追加されるのが嫌なのであれば、アカウントに鍵をつけて非公開にした上で、知ってる人のみとつながることでしょう。&lt;/p>
-&lt;p>ただし、知っている人が非公開リストに追加をしてきても、同じくわかりませんが。&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>ぼくもフル活用しています。ようやく待っていた機能だと言っても過言ではありません。なぜなら、特定の有名な方をフォローした際にその周辺で悪さをしようとする変なアカウントにフォローされたりするからです。
-仮想通貨系や情報商材系は特にそういうのが多いです。与沢翼とかフォローすると自動で、与沢翼名言BOTみたいなのにいくつもフォローされたりします。&lt;/p>
-&lt;p>こういう系の方はリストで閲覧するのがよいと個人的には思います。&lt;/p>
-&lt;p>リストを有効に作成して、楽しいTwitterライフを過ごしましょう！&lt;/p>
-&lt;p>といったところで本日は以上です。おやすみなさい。
-[itemlink post_id=&amp;ldquo;12798&amp;rdquo;]&lt;/p></description></item><item><title>Youtubeをキャッシュで保存してオフライン再生できるアプリ「Mytube」が神過ぎるよって話</title><link>https://www.warawareotoko.com/posts/post-4003/</link><pubDate>Fri, 10 Jan 2014 17:05:09 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-4003/</guid><description>&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4003/images/38ea86841625964b15210d92c7a178c3.jpg"> &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4003/images/mzl.lhehgtzc.png">&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->MyTube - YouTubeが大好きで、なかったら生きていけないような人のためのものです(MyTube - For people who love YouTube and can’t live without it)&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->300円&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->(2014.01.11時点)&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->lixia chen&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->posted with &lt;!-- raw HTML omitted -->ポチレバ&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted --> このアプリはキャッシュで動画を保存しておいて、オフラインで再生をすることができるアプリです。 つまり外での通信が発生しない＝通信制限の7Gを圧迫しないという素晴らしいアプリになっております。 &lt;!-- raw HTML omitted -->「MyTube」を使ってYoutubeをオフライン再生させる方法&lt;!-- raw HTML omitted --> まずはお目当ての動画をチェック 右上のピョンピョン動いているマークをタップ &lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4003/images/59fee6297ef25040aa3341f4ebe64f7b.jpg"> &lt;!-- raw HTML omitted -->動画の品質を選択。&lt;!-- raw HTML omitted --> もちろん高いのを選ぶとその分容量を喰っちゃいます。基本低いので問題ないと思います。 &lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4003/images/b40433b7a986456d998dbf4042928d9e.png"> &lt;!-- raw HTML omitted -->保存すると一覧になります。&lt;!-- raw HTML omitted --> &lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4003/images/84fd30818c4617c68ae0bf4292de8c9f.png"> これでいつでもどこでも通信なしで再生がでできます。 &lt;!-- raw HTML omitted -->さらにバックグラウンド再生対応&lt;!-- raw HTML omitted --> ホーム画面に戻って、コントロールセンターから再生させれば、バックグラウンドでyoutubeを再生することができます！ &lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4003/images/a2f3865ab86b48359520d9e4ecd762e7.png"> &lt;!-- raw HTML omitted -->しんぺーはこう思った&lt;!-- raw HTML omitted --> &lt;!-- raw HTML omitted -->MyTubeのここが凄い&lt;!-- raw HTML omitted --> 超絶すんげー便利！ 外で通信しないから7G制限を気にせずにがんがん見れちゃいます！ といってもあらかじめWifi環境下でダウンロードして置く必要がありますけどね &lt;!-- raw HTML omitted -->MyTubeのここがダメ&lt;!-- raw HTML omitted --> 結構すぐに落ちます。 アカウントの中の購読中リストを読み込むと必ず落ちます。 あと、ストアでの評価を促すポップが出まくる。 この辺を改善してくれればかなり満足度があがります！ ま、このダメなところがあってもお釣りがあるほどの神機能ですけどね！ &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-4003/images/mzl.lhehgtzc.png">&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->MyTube - YouTubeが大好きで、なかったら生きていけないような人のためのものです(MyTube - For people who love YouTube and can’t live without it)&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->300円&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->(2014.01.11時点)&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->lixia chen&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->posted with &lt;!-- raw HTML omitted -->ポチレバ&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>ちょwまてwwコピーするだけでPocketに連携できる「Clipped for iOS (Bookmark all your favorite links)」が神すぎる</title><link>https://www.warawareotoko.com/posts/post-3728/</link><pubDate>Wed, 04 Dec 2013 16:17:23 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-3728/</guid><description>&lt;p>これはヤバい•••マジで&lt;/p></description></item><item><title>上司や嫌いな人にフォローされたくないFacebookアカウントの設定の仕方</title><link>https://www.warawareotoko.com/posts/post-3513/</link><pubDate>Thu, 31 Oct 2013 15:17:24 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-3513/</guid><description>&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-3513/images/34669922a36b6e93965ffdae5bc4450b.png">Facebookのセキュリティをいくら強固にしても、リアルの世界でFacebookフォローしていい？とか言われて断ったら気まずくなっちゃう人っていますよね？その対処法です。&lt;/p></description></item><item><title>覚えておきたい最低限のfacebookのロックの掛け方</title><link>https://www.warawareotoko.com/posts/post-3317/</link><pubDate>Sun, 27 Oct 2013 15:09:08 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-3317/</guid><description>&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-3317/images/IMG_2857.jpg">実名登録のFacebookは、プライベート情報が満載です。ちゃんとロックかけてますか？そして単に非公開にしただけで満足してませんか？そのセキュリティ不十分ですよ！&lt;/p></description></item><item><title>ゾンビから本当に走って逃げるランニングアプリ「Zombies,Run!」</title><link>https://www.warawareotoko.com/posts/post-3461/</link><pubDate>Sun, 27 Oct 2013 09:58:37 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-3461/</guid><description>&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-3461/images/56302b1d9cef87422a985e8e9b1523c2.png">あなたも健康のためにゾンビから走って逃げて見ませんか？&lt;/p></description></item><item><title>買ってよかった高額アプリレビューその4「ファイナルファンタジータクティクス獅子戦争」</title><link>https://www.warawareotoko.com/posts/post-2925/</link><pubDate>Tue, 27 Aug 2013 15:09:23 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-2925/</guid><description>&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-2925/images/final-fantasy-tactics.jpg">ファイナルファンタジーなのに、いわゆる一般的なロープレじゃない、シミュレーションRPGです。&lt;/p></description></item><item><title>高額だけど買ってよかったアプリレビューその２「FINAL FANTASY V」</title><link>https://www.warawareotoko.com/posts/post-2773/</link><pubDate>Sun, 18 Aug 2013 08:30:37 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-2773/</guid><description>&lt;p> 
-&lt;img loading="lazy" src="images/V4HttpAssetRepositoryClient-mzl.ipajlaas.png-7701807833009964696.100x100-75.png">高額だけど買ってよかったiphoneアプリレビューその2はファイナルファンタジー5です。&lt;/p></description></item><item><title>高額だけど買ってよかったアプリレビューその1「Sound Hound」</title><link>https://www.warawareotoko.com/posts/post-2761/</link><pubDate>Sun, 11 Aug 2013 21:47:22 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-2761/</guid><description>&lt;p> 
-有料のアプリってダウンロードしにくいですよね！そんな方にぼくが高額だけど買って良かったアプリをご紹介します。&lt;/p></description></item><item><title>海外ドラマがネットで見れる。家でもスマホでもゲーム機でも、どこでも「Hulu」</title><link>https://www.warawareotoko.com/posts/post-1307/</link><pubDate>Sun, 21 Apr 2013 08:59:02 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-1307/</guid><description>&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-1307/images/mzl.bfeerufj.100x100-75.png">さんざん海外連ドラ紹介してきておいてHuluのアプリ紹介すらしていなかったことに今きがつきました。&lt;/p></description></item></channel></rss>
+それでもitunesで買って今すぐに聴きたいというほどの衝動もないけど、どうしても聴きたいというものに関してはゲオやTSUTAYAでレンタルしてきます。&lt;/p&gt;
+&lt;p&gt;その中でミュージックストリーミングサービスにはかなり期待しています。どうしても狭くなりがちな自分の趣向を広げてくれればなという感じです。&lt;/p&gt;
+&lt;p&gt;そこで色々試してみたので、その中で一番いいなと思ったものをご紹介いたします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>色んな動作を完全自動にしてくれるアプリ「IFTTT」の設定方法</title>
+      <link>https://www.warawareotoko.com/posts/post-4512/</link>
+      <pubDate>Tue, 04 Mar 2014 15:21:33 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-4512/</guid>
+      <description>&lt;p&gt;ハローしんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;
+&lt;p&gt;IFTTTをご存知ですか？色んな動作を完全自動で色んなところに連携してくれる凄いサービス（アプリ）です。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4512/images/IMG_1540.png&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4512/images/IMG_1541.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;例えばinstagramで写真を撮ったら自動でDropboxに送ったり、foursquareでチェックインしたら自動でFacebookに送ったり、Facebookに投稿した内容をevernoteに自動で送ったりとか。とにかく設定だけしておけば、自動でやってくれるというアプリです。この設定をレシピといいます。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;まずは登録。アプリをダウンロードしたら、そのまま登録しましょう。英語のアプリですが難しいことはありません。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4512/images/IMG_1542.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;設定が済んだら、あとは自分の好きなレシピをつくるだけ。右上のマークをタップします。&lt;/p&gt;
+&lt;p&gt;if ＝　もし何かが起こったら
+then =　その時なにをしたいか&lt;/p&gt;
+&lt;p&gt;これを考えてください。&lt;/p&gt;
+&lt;p&gt;ここで試しに１つレシピを作ってみましょう。
+tweetしたら、evernoteに送ってバックアップをとるという設定です。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4512/images/IMG_1550.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;左の青いプラスをタップします。
+ここではTwitterの一番上の項目をタップします。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4512/images/IMG_1551.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;アカウントの認証などを求められる場合がありますので、そのまま進んで認証してください。&lt;/p&gt;
+&lt;p&gt;次に右をタップします。
+ここではevernoteの一番上の項目を選択します。tweetされる度に新しいノートを作るという項目です。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4512/images/IMG_1553.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最後にこのレシピが実行された時に通知をするかを決めます。頻繁に行われるものなら通知はオフでいいと思います。うるさいので。
+&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4512/images/IMG_1549.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;はい、以上です。どうでしょうか？かんたんでしょう？&lt;/p&gt;
+&lt;p&gt;ま、この上記の設定は呟くたびにevernoteに新しいノートが作られるので少し現実的ではありませんがw&lt;/p&gt;
+&lt;p&gt;色々と工夫してみるのも楽しいかと思います。それと自分の作ったレシピは共有できますので、いいのができたら共有を。自分で作るのが難しい場合は、人のを探して色々とためしてみるのもいいかもしれませn。
+その場合は、メガネアイコンをタップしください。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4512/images/995a1f463c8489bbebc585c7ff1b6a81.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;これがぼくのレシピです。また後日ご紹介していこうと思います。&lt;/p&gt;
+&lt;p&gt;ぼくは毎日DIR EN GREYのオフィを見に行くことはしません。そのため、最新情報をよく見逃してました。&lt;/p&gt;
+&lt;p&gt;しかし、これを使いだして自分に通知がくる様に設定を行った結果、最新情報を見逃すことがなくなりました。&lt;/p&gt;
+&lt;p&gt;さらにフォロワーの方にもその情報を共有できちゃうということで、一石二鳥でとても重宝しています。&lt;/p&gt;
+&lt;p&gt;ぜひぜひ自分だけのレシピを作って、日頃不便に思っていることを解消してみてください。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>追加されたTwitterのリストを解除する方法</title>
+      <link>https://www.warawareotoko.com/posts/post-4209/</link>
+      <pubDate>Mon, 03 Feb 2014 15:33:32 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-4209/</guid>
+      <description>&lt;p&gt;Twitterで意図していないリストに勝手に登録されちゃうことってありませんか？エロ系のリストやら政治系やら仮想通貨系やら、儲け方教えます！系やら、いい加減にしろ。で、多分困ってる人が多いかと思いますが、簡単に抜けることができますし相手に通知されることもないので、その方法をご紹介します。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;そのあと、ブロックし続けるのもいいですが、ブロック解除しても相手にはなんの通知もいきませんので追加したつもりになってるけど、実はリストから抜けていたという状態になります。
+むこうが再度リストに登録するまでは、リストから外れた状態になります。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;変なリストに追加されました。相手のアカウントページにいきましょう。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_0409.jpg&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_0408.jpg&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_0405.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;以上です。&lt;/p&gt;
+&lt;p&gt;下の画像が実際にリストから外れた証拠です。人数が減っています。また、相手側にも通知はいきませんでした。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4209/images/IMG_0410.jpg&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;相手がリストを非公開にしている場合、自分が相手に追加されても通知も来ませんし、知るすべがありません。
+そのため、見られていることを認識できません。見ず知らずの人にリスト追加されるのが嫌なのであれば、アカウントに鍵をつけて非公開にした上で、知ってる人のみとつながることでしょう。&lt;/p&gt;
+&lt;p&gt;ただし、知っている人が非公開リストに追加をしてきても、同じくわかりませんが。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;ぼくもフル活用しています。ようやく待っていた機能だと言っても過言ではありません。なぜなら、特定の有名な方をフォローした際にその周辺で悪さをしようとする変なアカウントにフォローされたりするからです。
+仮想通貨系や情報商材系は特にそういうのが多いです。与沢翼とかフォローすると自動で、与沢翼名言BOTみたいなのにいくつもフォローされたりします。&lt;/p&gt;
+&lt;p&gt;こういう系の方はリストで閲覧するのがよいと個人的には思います。&lt;/p&gt;
+&lt;p&gt;リストを有効に作成して、楽しいTwitterライフを過ごしましょう！&lt;/p&gt;
+&lt;p&gt;といったところで本日は以上です。おやすみなさい。
+[itemlink post_id=&amp;ldquo;12798&amp;rdquo;]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Youtubeをキャッシュで保存してオフライン再生できるアプリ「Mytube」が神過ぎるよって話</title>
+      <link>https://www.warawareotoko.com/posts/post-4003/</link>
+      <pubDate>Fri, 10 Jan 2014 17:05:09 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-4003/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4003/images/38ea86841625964b15210d92c7a178c3.jpg&#34;&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4003/images/mzl.lhehgtzc.png&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;MyTube - YouTubeが大好きで、なかったら生きていけないような人のためのものです(MyTube - For people who love YouTube and can’t live without it)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;300円&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;(2014.01.11時点)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;lixia chen&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;posted with &lt;!-- raw HTML omitted --&gt;ポチレバ&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; このアプリはキャッシュで動画を保存しておいて、オフラインで再生をすることができるアプリです。 つまり外での通信が発生しない＝通信制限の7Gを圧迫しないという素晴らしいアプリになっております。 &lt;!-- raw HTML omitted --&gt;「MyTube」を使ってYoutubeをオフライン再生させる方法&lt;!-- raw HTML omitted --&gt; まずはお目当ての動画をチェック 右上のピョンピョン動いているマークをタップ &lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4003/images/59fee6297ef25040aa3341f4ebe64f7b.jpg&#34;&gt; &lt;!-- raw HTML omitted --&gt;動画の品質を選択。&lt;!-- raw HTML omitted --&gt; もちろん高いのを選ぶとその分容量を喰っちゃいます。基本低いので問題ないと思います。 &lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4003/images/b40433b7a986456d998dbf4042928d9e.png&#34;&gt; &lt;!-- raw HTML omitted --&gt;保存すると一覧になります。&lt;!-- raw HTML omitted --&gt; &lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4003/images/84fd30818c4617c68ae0bf4292de8c9f.png&#34;&gt; これでいつでもどこでも通信なしで再生がでできます。 &lt;!-- raw HTML omitted --&gt;さらにバックグラウンド再生対応&lt;!-- raw HTML omitted --&gt; ホーム画面に戻って、コントロールセンターから再生させれば、バックグラウンドでyoutubeを再生することができます！ &lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4003/images/a2f3865ab86b48359520d9e4ecd762e7.png&#34;&gt; &lt;!-- raw HTML omitted --&gt;しんぺーはこう思った&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;MyTubeのここが凄い&lt;!-- raw HTML omitted --&gt; 超絶すんげー便利！ 外で通信しないから7G制限を気にせずにがんがん見れちゃいます！ といってもあらかじめWifi環境下でダウンロードして置く必要がありますけどね &lt;!-- raw HTML omitted --&gt;MyTubeのここがダメ&lt;!-- raw HTML omitted --&gt; 結構すぐに落ちます。 アカウントの中の購読中リストを読み込むと必ず落ちます。 あと、ストアでの評価を促すポップが出まくる。 この辺を改善してくれればかなり満足度があがります！ ま、このダメなところがあってもお釣りがあるほどの神機能ですけどね！ &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-4003/images/mzl.lhehgtzc.png&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;MyTube - YouTubeが大好きで、なかったら生きていけないような人のためのものです(MyTube - For people who love YouTube and can’t live without it)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;300円&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;(2014.01.11時点)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;lixia chen&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;posted with &lt;!-- raw HTML omitted --&gt;ポチレバ&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ちょwまてwwコピーするだけでPocketに連携できる「Clipped for iOS (Bookmark all your favorite links)」が神すぎる</title>
+      <link>https://www.warawareotoko.com/posts/post-3728/</link>
+      <pubDate>Wed, 04 Dec 2013 16:17:23 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-3728/</guid>
+      <description>&lt;p&gt;これはヤバい•••マジで&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>上司や嫌いな人にフォローされたくないFacebookアカウントの設定の仕方</title>
+      <link>https://www.warawareotoko.com/posts/post-3513/</link>
+      <pubDate>Thu, 31 Oct 2013 15:17:24 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-3513/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-3513/images/34669922a36b6e93965ffdae5bc4450b.png&#34;&gt;Facebookのセキュリティをいくら強固にしても、リアルの世界でFacebookフォローしていい？とか言われて断ったら気まずくなっちゃう人っていますよね？その対処法です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>覚えておきたい最低限のfacebookのロックの掛け方</title>
+      <link>https://www.warawareotoko.com/posts/post-3317/</link>
+      <pubDate>Sun, 27 Oct 2013 15:09:08 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-3317/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-3317/images/IMG_2857.jpg&#34;&gt;実名登録のFacebookは、プライベート情報が満載です。ちゃんとロックかけてますか？そして単に非公開にしただけで満足してませんか？そのセキュリティ不十分ですよ！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ゾンビから本当に走って逃げるランニングアプリ「Zombies,Run!」</title>
+      <link>https://www.warawareotoko.com/posts/post-3461/</link>
+      <pubDate>Sun, 27 Oct 2013 09:58:37 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-3461/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-3461/images/56302b1d9cef87422a985e8e9b1523c2.png&#34;&gt;あなたも健康のためにゾンビから走って逃げて見ませんか？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>買ってよかった高額アプリレビューその4「ファイナルファンタジータクティクス獅子戦争」</title>
+      <link>https://www.warawareotoko.com/posts/post-2925/</link>
+      <pubDate>Tue, 27 Aug 2013 15:09:23 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-2925/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-2925/images/final-fantasy-tactics.jpg&#34;&gt;ファイナルファンタジーなのに、いわゆる一般的なロープレじゃない、シミュレーションRPGです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>高額だけど買ってよかったアプリレビューその２「FINAL FANTASY V」</title>
+      <link>https://www.warawareotoko.com/posts/post-2773/</link>
+      <pubDate>Sun, 18 Aug 2013 08:30:37 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-2773/</guid>
+      <description>&lt;p&gt; 
+&lt;img loading=&#34;lazy&#34; src=&#34;images/V4HttpAssetRepositoryClient-mzl.ipajlaas.png-7701807833009964696.100x100-75.png&#34;&gt;高額だけど買ってよかったiphoneアプリレビューその2はファイナルファンタジー5です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>高額だけど買ってよかったアプリレビューその1「Sound Hound」</title>
+      <link>https://www.warawareotoko.com/posts/post-2761/</link>
+      <pubDate>Sun, 11 Aug 2013 21:47:22 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-2761/</guid>
+      <description>&lt;p&gt; 
+有料のアプリってダウンロードしにくいですよね！そんな方にぼくが高額だけど買って良かったアプリをご紹介します。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>海外ドラマがネットで見れる。家でもスマホでもゲーム機でも、どこでも「Hulu」</title>
+      <link>https://www.warawareotoko.com/posts/post-1307/</link>
+      <pubDate>Sun, 21 Apr 2013 08:59:02 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-1307/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-1307/images/mzl.bfeerufj.100x100-75.png&#34;&gt;さんざん海外連ドラ紹介してきておいてHuluのアプリ紹介すらしていなかったことに今きがつきました。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

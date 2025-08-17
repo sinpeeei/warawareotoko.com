@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Minecraft on 私のカワイイトラとウマ</title><link>https://www.warawareotoko.com/tags/minecraft/</link><description>Recent content in Minecraft on 私のカワイイトラとウマ</description><generator>Hugo -- 0.147.8</generator><language>ja</language><lastBuildDate>Wed, 11 Jan 2017 13:10:00 +0000</lastBuildDate><atom:link href="https://www.warawareotoko.com/tags/minecraft/index.xml" rel="self" type="application/rss+xml"/><item><title>MinecraftのPC版BGMのサントラがAmazonプライムミュージックで聴ける！</title><link>https://www.warawareotoko.com/posts/post-10100/</link><pubDate>Wed, 11 Jan 2017 13:10:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-10100/</guid><description>&lt;p>MinecraftのPC版をプレイしたことありますか？すごい癒しの音楽で聴いてるだけでリラックスしてきて、やがて眠くなります。スマホ版のMinecraft PEしかやったことがない人は多分聴いたことがないと思います。なぜなら今の所、スマホ版にはBGMがないので。そのため、アクションした際の音のみだと思います。&lt;/p>
-&lt;p>そんな癒しのサウンドトラック「Minecraft -Volume Alpha」がAmazonプライムミュージックで聴けるのです！&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Minecraft on 私のカワイイトラとウマ</title>
+    <link>https://www.warawareotoko.com/tags/minecraft/</link>
+    <description>Recent content in Minecraft on 私のカワイイトラとウマ</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 11 Jan 2017 13:10:00 +0000</lastBuildDate>
+    <atom:link href="https://www.warawareotoko.com/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MinecraftのPC版BGMのサントラがAmazonプライムミュージックで聴ける！</title>
+      <link>https://www.warawareotoko.com/posts/post-10100/</link>
+      <pubDate>Wed, 11 Jan 2017 13:10:00 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-10100/</guid>
+      <description>&lt;p&gt;MinecraftのPC版をプレイしたことありますか？すごい癒しの音楽で聴いてるだけでリラックスしてきて、やがて眠くなります。スマホ版のMinecraft PEしかやったことがない人は多分聴いたことがないと思います。なぜなら今の所、スマホ版にはBGMがないので。そのため、アクションした際の音のみだと思います。&lt;/p&gt;
+&lt;p&gt;そんな癒しのサウンドトラック「Minecraft -Volume Alpha」がAmazonプライムミュージックで聴けるのです！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

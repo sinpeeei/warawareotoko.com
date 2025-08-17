@@ -1,5 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Fire TV Stick on 私のカワイイトラとウマ</title><link>https://www.warawareotoko.com/tags/fire-tv-stick/</link><description>Recent content in Fire TV Stick on 私のカワイイトラとウマ</description><generator>Hugo -- 0.147.8</generator><language>ja</language><lastBuildDate>Sat, 05 Jan 2019 12:00:00 +0000</lastBuildDate><atom:link href="https://www.warawareotoko.com/tags/fire-tv-stick/index.xml" rel="self" type="application/rss+xml"/><item><title>HDMIを切り替えてChromecastとFire TV Stickを併用する方法</title><link>https://www.warawareotoko.com/posts/post-12285/</link><pubDate>Sat, 05 Jan 2019 12:00:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-12285/</guid><description>&lt;p>年末に大掃除がてらテレビの周辺環境を整備しました。&lt;/p>
-&lt;p>ホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。&lt;/p>
-&lt;p>AmazonのFire TV Stickです。&lt;/p>
-&lt;p>GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。&lt;/p>
-&lt;p>ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fire TV Stick on 私のカワイイトラとウマ</title>
+    <link>https://www.warawareotoko.com/tags/fire-tv-stick/</link>
+    <description>Recent content in Fire TV Stick on 私のカワイイトラとウマ</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 05 Jan 2019 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.warawareotoko.com/tags/fire-tv-stick/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HDMIを切り替えてChromecastとFire TV Stickを併用する方法</title>
+      <link>https://www.warawareotoko.com/posts/post-12285/</link>
+      <pubDate>Sat, 05 Jan 2019 12:00:00 +0000</pubDate>
+      <guid>https://www.warawareotoko.com/posts/post-12285/</guid>
+      <description>&lt;p&gt;年末に大掃除がてらテレビの周辺環境を整備しました。&lt;/p&gt;
+&lt;p&gt;ホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。&lt;/p&gt;
+&lt;p&gt;AmazonのFire TV Stickです。&lt;/p&gt;
+&lt;p&gt;GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。&lt;/p&gt;
+&lt;p&gt;ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,24 +1,408 @@
-<!doctype html><html lang=ja dir=auto><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>HDMIを切り替えてChromecastとFire TV Stickを併用する方法 | 私のカワイイトラとウマ</title><meta name=keywords content="Chromecast,Fire TV Stick,Google Home"><meta name=description content="年末に大掃除がてらテレビの周辺環境を整備しました。
+<!DOCTYPE html>
+<html lang="ja" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>HDMIを切り替えてChromecastとFire TV Stickを併用する方法 | 私のカワイイトラとウマ</title>
+<meta name="keywords" content="Chromecast, Fire TV Stick, Google Home">
+<meta name="description" content="年末に大掃除がてらテレビの周辺環境を整備しました。
 ホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。
 AmazonのFire TV Stickです。
 GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。
-ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。"><meta name=author content><link rel=canonical href=https://www.warawareotoko.com/posts/post-12285/><link crossorigin=anonymous href=https://www.warawareotoko.com/assets/css/stylesheet.8fe10233a706bc87f2e08b3cf97b8bd4c0a80f10675a143675d59212121037c0.css integrity="sha256-j+ECM6cGvIfy4Is8+XuL1MCoDxBnWhQ2ddWSEhIQN8A=" rel="preload stylesheet" as=style><link rel=icon href=https://www.warawareotoko.com/favicon.ico><link rel=icon type=image/png sizes=16x16 href=https://www.warawareotoko.com/favicon-16x16.png><link rel=icon type=image/png sizes=32x32 href=https://www.warawareotoko.com/favicon-32x32.png><link rel=apple-touch-icon href=https://www.warawareotoko.com/apple-touch-icon.png><link rel=mask-icon href=https://www.warawareotoko.com/safari-pinned-tab.svg><meta name=theme-color content="#2e2e33"><meta name=msapplication-TileColor content="#2e2e33"><link rel=alternate hreflang=ja href=https://www.warawareotoko.com/posts/post-12285/><noscript><style>#theme-toggle,.top-link{display:none}</style><style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--code-block-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style></noscript><script async src="https://www.googletagmanager.com/gtag/js?id=G-CQVFKJB3ME"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-CQVFKJB3ME",{anonymize_ip:!0})</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-CQVFKJB3ME"></script><script>var dnt,doNotTrack=!1;if(!1&&(dnt=navigator.doNotTrack||window.doNotTrack||navigator.msDoNotTrack,doNotTrack=dnt=="1"||dnt=="yes"),!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-CQVFKJB3ME")}</script><meta property="og:url" content="https://www.warawareotoko.com/posts/post-12285/"><meta property="og:site_name" content="私のカワイイトラとウマ"><meta property="og:title" content="HDMIを切り替えてChromecastとFire TV Stickを併用する方法"><meta property="og:description" content="年末に大掃除がてらテレビの周辺環境を整備しました。
+ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。">
+<meta name="author" content="">
+<link rel="canonical" href="https://www.warawareotoko.com/posts/post-12285/">
+<link crossorigin="anonymous" href="https://www.warawareotoko.com/assets/css/stylesheet.8fe10233a706bc87f2e08b3cf97b8bd4c0a80f10675a143675d59212121037c0.css" integrity="sha256-j&#43;ECM6cGvIfy4Is8&#43;XuL1MCoDxBnWhQ2ddWSEhIQN8A=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://www.warawareotoko.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.warawareotoko.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.warawareotoko.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://www.warawareotoko.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://www.warawareotoko.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="ja" href="https://www.warawareotoko.com/posts/post-12285/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CQVFKJB3ME"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-CQVFKJB3ME', { anonymize_ip: true });
+</script>
+
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-CQVFKJB3ME"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-CQVFKJB3ME');
+        }
+      </script><meta property="og:url" content="https://www.warawareotoko.com/posts/post-12285/">
+  <meta property="og:site_name" content="私のカワイイトラとウマ">
+  <meta property="og:title" content="HDMIを切り替えてChromecastとFire TV Stickを併用する方法">
+  <meta property="og:description" content="年末に大掃除がてらテレビの周辺環境を整備しました。
 ホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。
 AmazonのFire TV Stickです。
 GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。
-ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。"><meta property="og:locale" content="ja"><meta property="og:type" content="article"><meta property="article:section" content="posts"><meta property="article:published_time" content="2019-01-05T12:00:00+00:00"><meta property="article:modified_time" content="2019-01-05T12:00:00+00:00"><meta property="article:tag" content="Chromecast"><meta property="article:tag" content="Fire TV Stick"><meta property="article:tag" content="Google Home"><meta name=twitter:card content="summary"><meta name=twitter:title content="HDMIを切り替えてChromecastとFire TV Stickを併用する方法"><meta name=twitter:description content="年末に大掃除がてらテレビの周辺環境を整備しました。
+ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。">
+  <meta property="og:locale" content="ja">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2019-01-05T12:00:00+00:00">
+    <meta property="article:modified_time" content="2019-01-05T12:00:00+00:00">
+    <meta property="article:tag" content="Chromecast">
+    <meta property="article:tag" content="Fire TV Stick">
+    <meta property="article:tag" content="Google Home">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="HDMIを切り替えてChromecastとFire TV Stickを併用する方法">
+<meta name="twitter:description" content="年末に大掃除がてらテレビの周辺環境を整備しました。
 ホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。
 AmazonのFire TV Stickです。
 GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。
-ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。"><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://www.warawareotoko.com/posts/"},{"@type":"ListItem","position":2,"name":"HDMIを切り替えてChromecastとFire TV Stickを併用する方法","item":"https://www.warawareotoko.com/posts/post-12285/"}]}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"HDMIを切り替えてChromecastとFire TV Stickを併用する方法","name":"HDMIを切り替えてChromecastとFire TV Stickを併用する方法","description":"年末に大掃除がてらテレビの周辺環境を整備しました。\nホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。\nAmazonのFire TV Stickです。\nGoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。\nただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。\n","keywords":["Chromecast","Fire TV Stick","Google Home"],"articleBody":"年末に大掃除がてらテレビの周辺環境を整備しました。\nホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。\nAmazonのFire TV Stickです。\nGoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。\nただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。\nぐちゃぐちゃのテレビ周辺の配線状況を整理するとこんな感じです。 ぼくの家で火事が起きるとしたらここが火元なんじゃないかってくらいコンセントが密集しています。\nそのうち掃除機関係だけは別のところに移した方がいいかもです。今回はここにさらにもう一つガジェットを追加する感じですw\nどちらでもYoutubeが見れますし（昔はGoogleとAmazonが喧嘩してFire TVでYoutube見れなくなった）、Netflixも見れます。\nそれぞれの違う点も説明します。\n単体では操作ができず、テレビに動画を写すにはスマホやPCが必要です。\nあと、Google Homeで音声操作が可能です。\n「OK Google！瀬戸弘司の最新の動画を流して」ですぐに瀬戸弘司の最新の動画がテレビに流れます。\n「OK Google！猫の動画を見せて」などもできます。\n「OK Google！DIR EN GREYのRanunculusの動画を流して」も大丈夫\nAmazonのプライムビデオも見ることができます。ただし、Amazon Echoでの音声操作はできません。\nAmazonのFire TV Stickはプライムビデオが見れる。\nこの二つを併用するためにこいうことがしたい。 で、これを叶えてくれるのがHDMIを分配して切り替えてくれる装置です。 家にあったのはこれ。やっとつかえる。\n[itemlink post_id=“12289”]\nこれ、いちいち切り替えスイッチを押しにいかないといけないのがめんどくさいです。もう少し高いやつだとリモコンで切り替えできるようなのも売ってます。\n[itemlink post_id=“12291”]\nでも、ちゃんとやりたいように併用もできたので満足です。\n昔買ったけど使ってないガジェットで利用できるものはどんどん利用していきたいと思います。今回使っていない2つのガジェットを有効利用することができました！うれしい！\nなるべく新しく買い足さずにお金をかけずに欲求を満たせるとまた違った満足度がありますな。Mac miniの環境整備も使ってない外付けHDDとモニターを利用したので3万くらい浮いてるし、使ってないBluetoothスピーカーもあるし！！これも良い！！\nまだ眠ってるガジェットが家にあるかもなので、また探索したいと思います。\nといったところで本日は以上です。 おやすみなさい。\n","wordCount":"45","inLanguage":"ja","datePublished":"2019-01-05T12:00:00Z","dateModified":"2019-01-05T12:00:00Z","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.warawareotoko.com/posts/post-12285/"},"publisher":{"@type":"Organization","name":"私のカワイイトラとウマ","logo":{"@type":"ImageObject","url":"https://www.warawareotoko.com/favicon.ico"}}}</script></head><body id=top><script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add("dark"):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove("dark"):window.matchMedia("(prefers-color-scheme: dark)").matches&&document.body.classList.add("dark")</script><header class=header><nav class=nav><div class=logo><a href=https://www.warawareotoko.com/ accesskey=h title="私のカワイイトラとウマ (Alt + H)">私のカワイイトラとウマ</a><div class=logo-switches><button id=theme-toggle accesskey=t title="(Alt + T)" aria-label="Toggle theme">
-<svg id="moon" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
-<svg id="sun" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></button></div></div><ul id=menu><li><a href=https://www.warawareotoko.com/ title=トップ><span>トップ</span></a></li><li><a href=https://www.warawareotoko.com/posts/ title=記事一覧><span>記事一覧</span></a></li><li><a href=https://www.warawareotoko.com/categories/ title=カテゴリ><span>カテゴリ</span></a></li><li><a href=https://www.warawareotoko.com/tags/ title=タグ><span>タグ</span></a></li><li><a href=https://www.warawareotoko.com/about/ title=About><span>About</span></a></li></ul></nav></header><main class=main><article class=post-single><header class=post-header><h1 class="post-title entry-hint-parent">HDMIを切り替えてChromecastとFire TV Stickを併用する方法</h1><div class=post-meta><span title='2019-01-05 12:00:00 +0000 +0000'>1月 5, 2019</span>&nbsp;·&nbsp;1 分</div></header><div class=post-content><p>年末に大掃除がてらテレビの周辺環境を整備しました。</p><p>ホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。</p><p>AmazonのFire TV Stickです。</p><p>GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。</p><p>ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。</p><p>ぐちゃぐちゃのテレビ周辺の配線状況を整理するとこんな感じです。
-ぼくの家で火事が起きるとしたらここが火元なんじゃないかってくらいコンセントが密集しています。</p><p>そのうち掃除機関係だけは別のところに移した方がいいかもです。今回はここにさらにもう一つガジェットを追加する感じですw</p><p>どちらでもYoutubeが見れますし（昔はGoogleとAmazonが喧嘩してFire TVでYoutube見れなくなった）、Netflixも見れます。</p><p>それぞれの違う点も説明します。</p><p>単体では操作ができず、テレビに動画を写すにはスマホやPCが必要です。</p><p>あと、Google Homeで音声操作が可能です。</p><p>「OK Google！瀬戸弘司の最新の動画を流して」ですぐに瀬戸弘司の最新の動画がテレビに流れます。</p><p>「OK Google！猫の動画を見せて」などもできます。</p><p>「OK Google！DIR EN GREYのRanunculusの動画を流して」も大丈夫</p><p>Amazonのプライムビデオも見ることができます。ただし、Amazon Echoでの音声操作はできません。</p><p>AmazonのFire TV Stickはプライムビデオが見れる。</p><p>この二つを併用するためにこいうことがしたい。
-<img loading=lazy src=https://www.warawareotoko.com/posts/post-12285/images/hdmi_kirikae1.png>
+ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://www.warawareotoko.com/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "HDMIを切り替えてChromecastとFire TV Stickを併用する方法",
+      "item": "https://www.warawareotoko.com/posts/post-12285/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "HDMIを切り替えてChromecastとFire TV Stickを併用する方法",
+  "name": "HDMIを切り替えてChromecastとFire TV Stickを併用する方法",
+  "description": "年末に大掃除がてらテレビの周辺環境を整備しました。\nホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。\nAmazonのFire TV Stickです。\nGoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。\nただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。\n",
+  "keywords": [
+    "Chromecast", "Fire TV Stick", "Google Home"
+  ],
+  "articleBody": "年末に大掃除がてらテレビの周辺環境を整備しました。\nホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。\nAmazonのFire TV Stickです。\nGoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。\nただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。\nぐちゃぐちゃのテレビ周辺の配線状況を整理するとこんな感じです。 ぼくの家で火事が起きるとしたらここが火元なんじゃないかってくらいコンセントが密集しています。\nそのうち掃除機関係だけは別のところに移した方がいいかもです。今回はここにさらにもう一つガジェットを追加する感じですw\nどちらでもYoutubeが見れますし（昔はGoogleとAmazonが喧嘩してFire TVでYoutube見れなくなった）、Netflixも見れます。\nそれぞれの違う点も説明します。\n単体では操作ができず、テレビに動画を写すにはスマホやPCが必要です。\nあと、Google Homeで音声操作が可能です。\n「OK Google！瀬戸弘司の最新の動画を流して」ですぐに瀬戸弘司の最新の動画がテレビに流れます。\n「OK Google！猫の動画を見せて」などもできます。\n「OK Google！DIR EN GREYのRanunculusの動画を流して」も大丈夫\nAmazonのプライムビデオも見ることができます。ただし、Amazon Echoでの音声操作はできません。\nAmazonのFire TV Stickはプライムビデオが見れる。\nこの二つを併用するためにこいうことがしたい。 で、これを叶えてくれるのがHDMIを分配して切り替えてくれる装置です。 家にあったのはこれ。やっとつかえる。\n[itemlink post_id=“12289”]\nこれ、いちいち切り替えスイッチを押しにいかないといけないのがめんどくさいです。もう少し高いやつだとリモコンで切り替えできるようなのも売ってます。\n[itemlink post_id=“12291”]\nでも、ちゃんとやりたいように併用もできたので満足です。\n昔買ったけど使ってないガジェットで利用できるものはどんどん利用していきたいと思います。今回使っていない2つのガジェットを有効利用することができました！うれしい！\nなるべく新しく買い足さずにお金をかけずに欲求を満たせるとまた違った満足度がありますな。Mac miniの環境整備も使ってない外付けHDDとモニターを利用したので3万くらい浮いてるし、使ってないBluetoothスピーカーもあるし！！これも良い！！\nまだ眠ってるガジェットが家にあるかもなので、また探索したいと思います。\nといったところで本日は以上です。 おやすみなさい。\n",
+  "wordCount" : "45",
+  "inLanguage": "ja",
+  "datePublished": "2019-01-05T12:00:00Z",
+  "dateModified": "2019-01-05T12:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.warawareotoko.com/posts/post-12285/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "私のカワイイトラとウマ",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.warawareotoko.com/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://www.warawareotoko.com/" accesskey="h" title="私のカワイイトラとウマ (Alt + H)">私のカワイイトラとウマ</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://www.warawareotoko.com/" title="トップ">
+                    <span>トップ</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.warawareotoko.com/posts/" title="記事一覧">
+                    <span>記事一覧</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.warawareotoko.com/categories/" title="カテゴリ">
+                    <span>カテゴリ</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.warawareotoko.com/tags/" title="タグ">
+                    <span>タグ</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.warawareotoko.com/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      HDMIを切り替えてChromecastとFire TV Stickを併用する方法
+    </h1>
+    <div class="post-meta"><span title='2019-01-05 12:00:00 +0000 +0000'>1月 5, 2019</span>&nbsp;·&nbsp;1 分
+
+</div>
+  </header> 
+  <div class="post-content"><p>年末に大掃除がてらテレビの周辺環境を整備しました。</p>
+<p>ホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。</p>
+<p>AmazonのFire TV Stickです。</p>
+<p>GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。</p>
+<p>ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。</p>
+<!-- raw HTML omitted -->
+<p>ぐちゃぐちゃのテレビ周辺の配線状況を整理するとこんな感じです。
+ぼくの家で火事が起きるとしたらここが火元なんじゃないかってくらいコンセントが密集しています。</p>
+<p>そのうち掃除機関係だけは別のところに移した方がいいかもです。今回はここにさらにもう一つガジェットを追加する感じですw</p>
+<!-- raw HTML omitted -->
+<p>どちらでもYoutubeが見れますし（昔はGoogleとAmazonが喧嘩してFire TVでYoutube見れなくなった）、Netflixも見れます。</p>
+<p>それぞれの違う点も説明します。</p>
+<!-- raw HTML omitted -->
+<p>単体では操作ができず、<!-- raw HTML omitted -->テレビに動画を写すにはスマホやPCが必要<!-- raw HTML omitted -->です。</p>
+<p>あと、<!-- raw HTML omitted -->Google Homeで音声操作<!-- raw HTML omitted -->が可能です。</p>
+<p>「OK Google！瀬戸弘司の最新の動画を流して」ですぐに瀬戸弘司の最新の動画がテレビに流れます。</p>
+<p>「OK Google！猫の動画を見せて」などもできます。</p>
+<p>「OK Google！DIR EN GREYのRanunculusの動画を流して」も大丈夫</p>
+<!-- raw HTML omitted -->
+<p><!-- raw HTML omitted -->Amazonのプライムビデオも見ることができます。<!-- raw HTML omitted -->ただし、Amazon Echoでの音声操作はできません。</p>
+<!-- raw HTML omitted -->
+<p>AmazonのFire TV Stickはプライムビデオが見れる。</p>
+<p>この二つを併用するためにこいうことがしたい。
+<img loading="lazy" src="https://www.warawareotoko.com/posts/post-12285/images/hdmi_kirikae1.png">
 で、これを叶えてくれるのがHDMIを分配して切り替えてくれる装置です。
-家にあったのはこれ。やっとつかえる。</p><p>[itemlink post_id=&ldquo;12289&rdquo;]</p><p>これ、いちいち切り替えスイッチを押しにいかないといけないのがめんどくさいです。もう少し高いやつだとリモコンで切り替えできるようなのも売ってます。</p><p>[itemlink post_id=&ldquo;12291&rdquo;]</p><p>でも、ちゃんとやりたいように併用もできたので満足です。</p><p>昔買ったけど使ってないガジェットで利用できるものはどんどん利用していきたいと思います。今回使っていない2つのガジェットを有効利用することができました！うれしい！</p><p>なるべく新しく買い足さずにお金をかけずに欲求を満たせるとまた違った満足度がありますな。Mac miniの環境整備も使ってない外付けHDDとモニターを利用したので3万くらい浮いてるし、使ってないBluetoothスピーカーもあるし！！これも良い！！</p><p>まだ眠ってるガジェットが家にあるかもなので、また探索したいと思います。</p><p>といったところで本日は以上です。
-おやすみなさい。</p></div><footer class=post-footer><ul class=post-tags><li><a href=https://www.warawareotoko.com/tags/chromecast/>Chromecast</a></li><li><a href=https://www.warawareotoko.com/tags/fire-tv-stick/>Fire TV Stick</a></li><li><a href=https://www.warawareotoko.com/tags/google-home/>Google Home</a></li></ul></footer></article></main><footer class=footer><span>&copy; 2025 <a href=https://www.warawareotoko.com/>私のカワイイトラとウマ</a></span> ·
-<span>Powered by
-<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
-<a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentColor"><path d="M12 6H0l6-6z"/></svg>
-</a><script>let menu=document.getElementById("menu");menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);window.matchMedia("(prefers-reduced-motion: reduce)").matches?document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})</script><script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script><script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove("dark"),localStorage.setItem("pref-theme","light")):(document.body.classList.add("dark"),localStorage.setItem("pref-theme","dark"))})</script><script>document.querySelectorAll("pre > code").forEach(e=>{const n=e.parentNode.parentNode,t=document.createElement("button");t.classList.add("copy-code"),t.innerHTML="コピー";function s(){t.innerHTML="コピーされました!",setTimeout(()=>{t.innerHTML="コピー"},2e3)}t.addEventListener("click",t=>{if("clipboard"in navigator){navigator.clipboard.writeText(e.textContent),s();return}const n=document.createRange();n.selectNodeContents(e);const o=window.getSelection();o.removeAllRanges(),o.addRange(n);try{document.execCommand("copy"),s()}catch{}o.removeRange(n)}),n.classList.contains("highlight")?n.appendChild(t):n.parentNode.firstChild==n||(e.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?e.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(t):e.parentNode.appendChild(t))})</script></body></html>
+家にあったのはこれ。やっとつかえる。</p>
+<p>[itemlink post_id=&ldquo;12289&rdquo;]</p>
+<p>これ、いちいち切り替えスイッチを押しにいかないといけないのがめんどくさいです。もう少し高いやつだとリモコンで切り替えできるようなのも売ってます。</p>
+<p>[itemlink post_id=&ldquo;12291&rdquo;]</p>
+<p>でも、ちゃんとやりたいように併用もできたので満足です。</p>
+<!-- raw HTML omitted -->
+<p>昔買ったけど使ってないガジェットで利用できるものはどんどん利用していきたいと思います。今回使っていない2つのガジェットを有効利用することができました！うれしい！</p>
+<p>なるべく新しく買い足さずにお金をかけずに欲求を満たせるとまた違った満足度がありますな。Mac miniの環境整備も使ってない外付けHDDとモニターを利用したので3万くらい浮いてるし、使ってないBluetoothスピーカーもあるし！！これも良い！！</p>
+<p>まだ眠ってるガジェットが家にあるかもなので、また探索したいと思います。</p>
+<p>といったところで本日は以上です。
+おやすみなさい。</p>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://www.warawareotoko.com/tags/chromecast/">Chromecast</a></li>
+      <li><a href="https://www.warawareotoko.com/tags/fire-tv-stick/">Fire TV Stick</a></li>
+      <li><a href="https://www.warawareotoko.com/tags/google-home/">Google Home</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://www.warawareotoko.com/">私のカワイイトラとウマ</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'コピー';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'コピーされました!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'コピー';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
