@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>テレワーク on 私のカワイイトラとウマ</title><link>https://www.warawareotoko.com/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/</link><description>Recent content in テレワーク on 私のカワイイトラとウマ</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 12 Jan 2022 09:00:46 +0000</lastBuildDate><atom:link href="https://www.warawareotoko.com/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年1月デスク環境紹介</title><link>https://www.warawareotoko.com/posts/post-14219/</link><pubDate>Wed, 12 Jan 2022 09:00:46 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-14219/</guid><description>&lt;p>2021年12月よりまたテレワークになりましたので、自宅環境に大きく手を加えました。本日はデスク環境の紹介です。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>テレワーク on 私のカワイイトラとウマ</title><link>https://www.warawareotoko.com/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/</link><description>Recent content in テレワーク on 私のカワイイトラとウマ</description><generator>Hugo -- 0.147.8</generator><language>ja</language><lastBuildDate>Wed, 12 Jan 2022 09:00:46 +0000</lastBuildDate><atom:link href="https://www.warawareotoko.com/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年1月デスク環境紹介</title><link>https://www.warawareotoko.com/posts/post-14219/</link><pubDate>Wed, 12 Jan 2022 09:00:46 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-14219/</guid><description>&lt;p>2021年12月よりまたテレワークになりましたので、自宅環境に大きく手を加えました。本日はデスク環境の紹介です。&lt;/p>
 &lt;p>今まで&lt;/p>
 &lt;p>&lt;!-- raw HTML omitted -->「持ってるガジェットMAXで手の届く範囲に整理して配置してある」&lt;!-- raw HTML omitted -->&lt;/p>
 &lt;p>という感じでした。&lt;/p>
@@ -9,13 +9,11 @@
 &lt;!-- raw HTML omitted -->
 &lt;p>やったこと
 [st-cmemo myclass=&amp;ldquo;st-text-guide st-text-guide-point&amp;rdquo; webicon=&amp;ldquo;st-svg-check&amp;rdquo; iconcolor=&amp;quot;#FF8F00&amp;quot; bgcolor=&amp;quot;#FFF8E1&amp;quot; color=&amp;quot;#000000&amp;quot; bordercolor=&amp;quot;#FFE082&amp;quot; borderwidth=&amp;quot;&amp;quot; iconsize=&amp;ldquo;150&amp;rdquo;]&lt;/p></description></item><item><title>2021年7月版のデスク環境紹介</title><link>https://www.warawareotoko.com/posts/post-13965/</link><pubDate>Fri, 02 Jul 2021 11:48:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-13965/</guid><description>&lt;p>そういえば今のデスク環境になってから記事を書いてなかったと思うので、この機会に紹介しようと思います。4月以降会社に出社するようになってから自室に入る時間がめっきり少なくなったのですが、最近子どもがRSウィルスで保育園をお休みしているので、在宅勤務にしています。&lt;/p>
-&lt;p>&lt;!-- raw HTML omitted -->&lt;img src="https://www.warawareotoko.com/posts/post-13965/images/20210702084837.jpg" alt="">&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13965/images/20210702084837.jpg">&lt;!-- raw HTML omitted -->&lt;/p>
 &lt;p>自分のデスクに座っていると改めて色々と気がついて手を加えたくなったり、整理したくなったりしてきます。多分ですが、そのうちまた手を加えるかもしれませんので、今時点の環境となります。（あと整理整頓できてないからゴミとか写ってるのでご容赦を。）&lt;/p>
 &lt;p>前回からの変更点まとめ&lt;/p>
 &lt;!-- raw HTML omitted -->
 &lt;pre>&lt;code>&amp;lt;li&amp;gt;Macを有孔ボードに貼り付け&amp;lt;/li&amp;gt;
-
-
 &amp;lt;li&amp;gt;配線周り見直し&amp;lt;/li&amp;gt;
 &lt;/code>&lt;/pre>
 &lt;!-- raw HTML omitted -->
@@ -84,9 +82,9 @@
 &lt;!-- raw HTML omitted -->
 &lt;p>古いディスプレイを引っ張り出してきてデュアルモニター化しています。片っぽに会社のノートPC、もう一方に自分のMacをつなげて、キーボードとマウスを切り替えながら使っていました。&lt;/p>
 &lt;p>そのあとモニターアームを導入して少しアップデート
-&lt;img src="https://www.warawareotoko.com/posts/post-13695/images/IMG_3475.jpg" alt="">&lt;/p>
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13695/images/IMG_3475.jpg">&lt;/p>
 &lt;p>そして、これが2020年11月末時点の状態です。
-&lt;img src="https://www.warawareotoko.com/posts/post-13695/images/IMG_0175.jpeg" alt="">&lt;/p>
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13695/images/IMG_0175.jpeg">&lt;/p>
 &lt;p>具体的には、「ウルトラワイドモニターを導入」「壁にボードを取り付け」「サイドテーブルを設置」「カーテンで部屋を間仕切り設置」を行いました。&lt;/p>
 &lt;!-- raw HTML omitted -->
 &lt;p>両端が曲がっていて、ゲームなどをやるときに没入感が増すようになっています。写真編集などを行う人にとっては、正確な編集に支障をきたすかもということで嫌われるみたいです。ただ、ぼくは仕事とそのほかゲームなどで使う予定だし、1万円くらいの違いなので、思い切って曲面にしました。&lt;/p>
@@ -130,10 +128,10 @@
 &lt;p>これを期待して購入しました。ただ、昨今のテレワークの影響で同じ様に考えた人が多かったようで、若干品薄な上に少し高くなっていました。&lt;/p>
 &lt;p>注文から到着まで1週間以上かかりましたが、手元に届いてすぐに設置し問題なく使用することができました。&lt;/p>
 &lt;p>↓デスクの構造上若干心配だったけどギリギリで設置できた。
-&lt;img src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3386.jpg" alt="">&lt;/p>
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3386.jpg">&lt;/p>
 &lt;p>ただし、「モニターアーム導入によりデスク周りがすっきり！！こりゃおすすめです！」とはなりませんでした。全く思う様にはいかなかった。&lt;/p>
 &lt;p>↓ぐちゃぐちゃ
-&lt;img src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3401.jpg" alt="">&lt;/p>
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3401.jpg">&lt;/p>
 &lt;p>おかしい、何かを間違ったのか？そこで、デスク周りを整理する動画や、海外のSetup Tourと呼ばれるお洒落なデスク紹介動画を見漁りました。100本くらいは見たんじゃないかと思います。&lt;/p>
 &lt;!-- raw HTML omitted -->
 &lt;p>そこで導き出した結論です。&lt;/p>
