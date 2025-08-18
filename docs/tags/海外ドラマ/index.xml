@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>海外ドラマ on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/%E6%B5%B7%E5%A4%96%E3%83%89%E3%83%A9%E3%83%9E/</link>
     <description>Recent content in 海外ドラマ on 私のカワイイトラとウマ</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 19 Nov 2016 13:43:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/%E6%B5%B7%E5%A4%96%E3%83%89%E3%83%A9%E3%83%9E/index.xml" rel="self" type="application/rss+xml" />
@@ -20,9 +20,7 @@
       <link>https://www.warawareotoko.com/posts/post-8039/</link>
       <pubDate>Wed, 08 Jul 2015 03:00:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-8039/</guid>
-      <description>&lt;p&gt;ハローしんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。
-オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
-今日はふと妄想したネタです。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ハローしんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&#xA;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。&#xA;今日はふと妄想したネタです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【歓喜】Xファイル復活らしいのでその魅力をお話ししましょう</title>
@@ -50,8 +48,7 @@
       <link>https://www.warawareotoko.com/posts/post-6002/</link>
       <pubDate>Sat, 02 Aug 2014 13:45:54 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-6002/</guid>
-      <description>&lt;p&gt;ハローしんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。
-オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ハローしんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&#xA;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

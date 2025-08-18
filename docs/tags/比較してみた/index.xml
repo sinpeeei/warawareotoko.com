@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>比較してみた on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/%E6%AF%94%E8%BC%83%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</link>
     <description>Recent content in 比較してみた on 私のカワイイトラとウマ</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 12 Mar 2017 13:48:17 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/%E6%AF%94%E8%BC%83%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/index.xml" rel="self" type="application/rss+xml" />
@@ -34,15 +34,7 @@
       <link>https://www.warawareotoko.com/posts/post-10125/</link>
       <pubDate>Mon, 16 Jan 2017 14:33:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-10125/</guid>
-      <description>&lt;p&gt;比較記事第2弾です。今回はラテです。&lt;/p&gt;
-&lt;p&gt;ラテとはエスプレッソをミルクでわった飲み物です。ミルクを泡立てた際のフォームミルクとスチームミルクの甘味で、エスプレッソの苦味を中和しつつ味わうようなドリンクです。イタリアではコーヒー牛乳という意味でエスプレッソでもコーヒーでもどちらもラテと呼ぶそうです。日本ではコーヒーが入っているものをカフェオレと呼ぶ場合があります。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-10125/images/IIMG_5673.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;smallサイズ270円&lt;/p&gt;
-&lt;p&gt;全自動で機械で抽出するタイプ。ボタンを押すとスチームミルクとフォームミルクとエスプレッソらしきものがポタポタと垂れてくる。美味しいとはいえない。量も少ない。コスパは悪いと思います。&lt;/p&gt;
-&lt;p&gt;苦味:★★☆☆☆
-甘み:★☆☆☆☆
-しつこさ:★★☆☆☆&lt;/p&gt;</description>
+      <description>&lt;p&gt;比較記事第2弾です。今回はラテです。&lt;/p&gt;&#xA;&lt;p&gt;ラテとはエスプレッソをミルクでわった飲み物です。ミルクを泡立てた際のフォームミルクとスチームミルクの甘味で、エスプレッソの苦味を中和しつつ味わうようなドリンクです。イタリアではコーヒー牛乳という意味でエスプレッソでもコーヒーでもどちらもラテと呼ぶそうです。日本ではコーヒーが入っているものをカフェオレと呼ぶ場合があります。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.warawareotoko.com/posts/post-10125/images/IIMG_5673.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;smallサイズ270円&lt;/p&gt;&#xA;&lt;p&gt;全自動で機械で抽出するタイプ。ボタンを押すとスチームミルクとフォームミルクとエスプレッソらしきものがポタポタと垂れてくる。美味しいとはいえない。量も少ない。コスパは悪いと思います。&lt;/p&gt;&#xA;&lt;p&gt;苦味:★★☆☆☆&#xA;甘み:★☆☆☆☆&#xA;しつこさ:★★☆☆☆&lt;/p&gt;</description>
     </item>
     <item>
       <title>コーヒーチェーンとか5社のココアを飲んで味や価格の比較してみた</title>
@@ -56,9 +48,7 @@
       <link>https://www.warawareotoko.com/posts/post-7033/</link>
       <pubDate>Sun, 18 Jan 2015 16:00:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-7033/</guid>
-      <description>&lt;p&gt;好きなバンドのことをググった時に一番上にでてくる•••当たり前のことだと思っていませんか？否
-そのためにはあらゆる要素が絡み合い、Google先生に真に価値あるサイトだと判断されなければなりません。
-このことをSearch Engine Optimization(サーチ・エンジン・オプティマイゼーション)、すなわち検索エンジンの最適化といいます。&lt;/p&gt;</description>
+      <description>&lt;p&gt;好きなバンドのことをググった時に一番上にでてくる•••当たり前のことだと思っていませんか？否&#xA;そのためにはあらゆる要素が絡み合い、Google先生に真に価値あるサイトだと判断されなければなりません。&#xA;このことをSearch Engine Optimization(サーチ・エンジン・オプティマイゼーション)、すなわち検索エンジンの最適化といいます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Webデザインが気になるV系バンドのオフィシャルサイト</title>

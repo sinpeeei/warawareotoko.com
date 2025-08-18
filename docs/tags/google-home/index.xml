@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google Home on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/google-home/</link>
     <description>Recent content in Google Home on 私のカワイイトラとウマ</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 15 Jun 2019 12:05:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/google-home/index.xml" rel="self" type="application/rss+xml" />
@@ -13,51 +13,14 @@
       <link>https://www.warawareotoko.com/posts/post-12585/</link>
       <pubDate>Sat, 15 Jun 2019 12:05:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12585/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Googleアシスタントを搭載したスマートディスプレイです。&lt;/p&gt;
-&lt;p&gt;Googleアシスタントとは「OK Google」と呼びかけることで起動し、その後に指示をすることで様々な挙動をしてくれます。例えば、「OK Google 今日の天気は？」と聞くと天気予報を教えてくれたりします。そのほかにも、今日のニュースや近くの飲食店の情報など様々な情報を教えてくれます。&lt;/p&gt;
-&lt;p&gt;それ以外にもスマート家電の操作や、自分のGoogleアカウントと同期してスケジュールの登録やアラームのセットなども行うことができます。&lt;/p&gt;
-&lt;p&gt;日本では今までスマートスピーカーと呼ばれるGoogleアシスタント搭載のモデルしか販売されていませんでしたが、この度ディスプレイモデルが発売されました。&lt;/p&gt;
-&lt;p&gt;それがGoogle Nest Hubです。なおセットアップにはスマートフォンのアプリが必要となっています。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;「今日の天気は？」&lt;/p&gt;
-&lt;p&gt;「◯◯を英語で言うと？」&lt;/p&gt;
-&lt;p&gt;「クジラの鳴き声」&lt;/p&gt;
-&lt;p&gt;などです。&lt;/p&gt;
-&lt;p&gt;ただし、このあたりの音声による案内はGoogle Homeでもできました。しかし、Nest Hubはディスプレイがついていますので、画面を使った案内もすることができます。&lt;/p&gt;
-&lt;p&gt;天気については、その日の時間経過で予報を教えてくれます。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101139.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;レシピについては作り方もアシストしてくれます。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101144.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;音楽の再生はタイトルを表示してくれます。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101147.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Youtubeにいたっては、画面で再生もしてくれます。
-スマホからのキャストにも対応してます。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101151.jpg&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;対応している家電以外を操作しようとするとこういったガジェットが必要になります。ぼくが使っているのはehomeというガジェットです。赤外線リモコンを登録することで、リモートで家電を操作できるようになります。これをGoogle Homeアプリにセットすることで、音声操作が可能となるのです。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101156.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;我が家ではエアコン、換気扇を接続していて音声で操作することができます。
-特にエアコンの温度操作を声でできるようになったのはとても便利です。&lt;/p&gt;
-&lt;p&gt;[itemlink post_id=&amp;ldquo;12593&amp;rdquo;]&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;ただし、料理のレシピを見るためとかYoutubeを見るためとかで購入するのはおすすめできません。iPadの方が見やすいですし、操作もできるのでそっちの方が便利です。&lt;/p&gt;
-&lt;p&gt;逆に自分で買うよりも、人にプレゼントするのなら良いのではないでしょうか。タダでもらっても困るものではないですし、面白がって喜んでくれると思います。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;ということでGoogle Homeとの比較ですが、&lt;!-- raw HTML omitted --&gt;音質ならGoogle Homeが圧勝&lt;!-- raw HTML omitted --&gt;です。
-&lt;!-- raw HTML omitted --&gt;音楽を聴くためならGoogle Homeを買いましょう。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Googleアシスタントを搭載したスマートディスプレイです。&lt;/p&gt;&#xA;&lt;p&gt;Googleアシスタントとは「OK Google」と呼びかけることで起動し、その後に指示をすることで様々な挙動をしてくれます。例えば、「OK Google 今日の天気は？」と聞くと天気予報を教えてくれたりします。そのほかにも、今日のニュースや近くの飲食店の情報など様々な情報を教えてくれます。&lt;/p&gt;&#xA;&lt;p&gt;それ以外にもスマート家電の操作や、自分のGoogleアカウントと同期してスケジュールの登録やアラームのセットなども行うことができます。&lt;/p&gt;&#xA;&lt;p&gt;日本では今までスマートスピーカーと呼ばれるGoogleアシスタント搭載のモデルしか販売されていませんでしたが、この度ディスプレイモデルが発売されました。&lt;/p&gt;&#xA;&lt;p&gt;それがGoogle Nest Hubです。なおセットアップにはスマートフォンのアプリが必要となっています。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;「今日の天気は？」&lt;/p&gt;&#xA;&lt;p&gt;「◯◯を英語で言うと？」&lt;/p&gt;&#xA;&lt;p&gt;「クジラの鳴き声」&lt;/p&gt;&#xA;&lt;p&gt;などです。&lt;/p&gt;&#xA;&lt;p&gt;ただし、このあたりの音声による案内はGoogle Homeでもできました。しかし、Nest Hubはディスプレイがついていますので、画面を使った案内もすることができます。&lt;/p&gt;&#xA;&lt;p&gt;天気については、その日の時間経過で予報を教えてくれます。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101139.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;レシピについては作り方もアシストしてくれます。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101144.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;音楽の再生はタイトルを表示してくれます。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101147.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Youtubeにいたっては、画面で再生もしてくれます。&#xA;スマホからのキャストにも対応してます。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101151.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;対応している家電以外を操作しようとするとこういったガジェットが必要になります。ぼくが使っているのはehomeというガジェットです。赤外線リモコンを登録することで、リモートで家電を操作できるようになります。これをGoogle Homeアプリにセットすることで、音声操作が可能となるのです。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.warawareotoko.com/posts/post-12585/images/20190627101156.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;我が家ではエアコン、換気扇を接続していて音声で操作することができます。&#xA;特にエアコンの温度操作を声でできるようになったのはとても便利です。&lt;/p&gt;&#xA;&lt;p&gt;[itemlink post_id=&amp;ldquo;12593&amp;rdquo;]&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;ただし、料理のレシピを見るためとかYoutubeを見るためとかで購入するのはおすすめできません。iPadの方が見やすいですし、操作もできるのでそっちの方が便利です。&lt;/p&gt;&#xA;&lt;p&gt;逆に自分で買うよりも、人にプレゼントするのなら良いのではないでしょうか。タダでもらっても困るものではないですし、面白がって喜んでくれると思います。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;ということでGoogle Homeとの比較ですが、&lt;!-- raw HTML omitted --&gt;音質ならGoogle Homeが圧勝&lt;!-- raw HTML omitted --&gt;です。&#xA;&lt;!-- raw HTML omitted --&gt;音楽を聴くためならGoogle Homeを買いましょう。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>HDMIを切り替えてChromecastとFire TV Stickを併用する方法</title>
       <link>https://www.warawareotoko.com/posts/post-12285/</link>
       <pubDate>Sat, 05 Jan 2019 12:00:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12285/</guid>
-      <description>&lt;p&gt;年末に大掃除がてらテレビの周辺環境を整備しました。&lt;/p&gt;
-&lt;p&gt;ホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。&lt;/p&gt;
-&lt;p&gt;AmazonのFire TV Stickです。&lt;/p&gt;
-&lt;p&gt;GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。&lt;/p&gt;
-&lt;p&gt;ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。&lt;/p&gt;</description>
+      <description>&lt;p&gt;年末に大掃除がてらテレビの周辺環境を整備しました。&lt;/p&gt;&#xA;&lt;p&gt;ホコリかぶってぐちゃぐちゃの配線周りも整理。ふとテレビの後ろに落ちているあるガジェットを見つけました。&lt;/p&gt;&#xA;&lt;p&gt;AmazonのFire TV Stickです。&lt;/p&gt;&#xA;&lt;p&gt;GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで音声で動画を呼び出せる様になってから全く使わなくなって忘れ去ってしまったものでした。&lt;/p&gt;&#xA;&lt;p&gt;ただ、この正月休み中はプライムビデオを見る機会があったりして、いっちょこいつをちゃんと使えるようにしてやるかーと思ったので、そのことについて書きたいと思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon Echo dotレビュー。Google Homeと比較もしてみた！どっち買ったらいいのか？</title>

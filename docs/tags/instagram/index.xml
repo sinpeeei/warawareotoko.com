@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Instagram on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/instagram/</link>
     <description>Recent content in Instagram on 私のカワイイトラとウマ</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 26 Oct 2016 09:00:21 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/instagram/index.xml" rel="self" type="application/rss+xml" />
@@ -27,9 +27,7 @@
       <link>https://www.warawareotoko.com/posts/post-8643/</link>
       <pubDate>Mon, 23 Nov 2015 01:04:38 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-8643/</guid>
-      <description>&lt;p&gt;Instagramを最近頑張るようにしてます。ただし、画像を読み込んでるからもしかしてパケット通信料の制限に対して負荷になってるんじゃないかなーとか少し心配して、Twitterほど頻繁に開かないようにしています。&lt;/p&gt;
-&lt;p&gt;なので、よくお気に入りのアカウントの投稿を見逃してしまします。&lt;/p&gt;
-&lt;p&gt;そこで思いついた設定をご紹介します。&lt;/p&gt;</description>
+      <description>&lt;p&gt;Instagramを最近頑張るようにしてます。ただし、画像を読み込んでるからもしかしてパケット通信料の制限に対して負荷になってるんじゃないかなーとか少し心配して、Twitterほど頻繁に開かないようにしています。&lt;/p&gt;&#xA;&lt;p&gt;なので、よくお気に入りのアカウントの投稿を見逃してしまします。&lt;/p&gt;&#xA;&lt;p&gt;そこで思いついた設定をご紹介します。&lt;/p&gt;</description>
     </item>
     <item>
       <title>メモ帳を使ってInstagramの画像を保存する方法</title>
@@ -43,10 +41,7 @@
       <link>https://www.warawareotoko.com/posts/post-8606/</link>
       <pubDate>Sun, 15 Nov 2015 01:33:03 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-8606/</guid>
-      <description>&lt;p&gt;DIR EN GREYのShinyaがInstagramを頻繁にあげてくれるので、それを見るためにInstagramに登録しました。&lt;/p&gt;
-&lt;p&gt;そういう方も多いかと思います。しかし、Instagramといえば今や世界で一番使われているSNSで、今後もどんどん利用者が増えていきそうな勢いです。&lt;/p&gt;
-&lt;p&gt;ぼくもだんだんと使い方が解ってきたので、これからどんどん使っていきたいと思っております。&lt;/p&gt;
-&lt;p&gt;ということでInstagramの使い方について役にたつ設定をご紹介します。&lt;/p&gt;</description>
+      <description>&lt;p&gt;DIR EN GREYのShinyaがInstagramを頻繁にあげてくれるので、それを見るためにInstagramに登録しました。&lt;/p&gt;&#xA;&lt;p&gt;そういう方も多いかと思います。しかし、Instagramといえば今や世界で一番使われているSNSで、今後もどんどん利用者が増えていきそうな勢いです。&lt;/p&gt;&#xA;&lt;p&gt;ぼくもだんだんと使い方が解ってきたので、これからどんどん使っていきたいと思っております。&lt;/p&gt;&#xA;&lt;p&gt;ということでInstagramの使い方について役にたつ設定をご紹介します。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

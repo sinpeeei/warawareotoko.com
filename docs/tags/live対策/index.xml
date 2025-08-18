@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LIVE対策 on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/live%E5%AF%BE%E7%AD%96/</link>
     <description>Recent content in LIVE対策 on 私のカワイイトラとウマ</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 16 Mar 2019 12:54:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/live%E5%AF%BE%E7%AD%96/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,7 @@
       <link>https://www.warawareotoko.com/posts/post-12494/</link>
       <pubDate>Sat, 16 Mar 2019 12:54:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12494/</guid>
-      <description>&lt;p&gt;言いたい。男はライブ来んな&lt;/p&gt;
-&lt;p&gt;デカいし、力強いし、臭いし、ヒゲ痛いし、なんか勘違いしてるし、マジで邪魔で迷惑以外のなにものでもない。&lt;/p&gt;
-&lt;p&gt;今回はDIR EN GREYのツアー初日で悟ったことを書きたいと思います。念のためお断りを入れておきますが、決してフェミニズム的なことを言うつもりもありません。&lt;/p&gt;</description>
+      <description>&lt;p&gt;言いたい。男はライブ来んな&lt;/p&gt;&#xA;&lt;p&gt;デカいし、力強いし、臭いし、ヒゲ痛いし、なんか勘違いしてるし、マジで邪魔で迷惑以外のなにものでもない。&lt;/p&gt;&#xA;&lt;p&gt;今回はDIR EN GREYのツアー初日で悟ったことを書きたいと思います。念のためお断りを入れておきますが、決してフェミニズム的なことを言うつもりもありません。&lt;/p&gt;</description>
     </item>
     <item>
       <title>DIR EN GREYの男限定に参戦して改めて思った男がLIVEと時に気をつけるべき4つのこと</title>
