@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TOUR22 FROM DEPRESSION to ________ on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/categories/tour22-from-depression-to-________/</link>
     <description>Recent content in TOUR22 FROM DEPRESSION to ________ on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 16 Nov 2022 10:03:28 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/categories/tour22-from-depression-to-________/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,74 @@
       <link>https://www.warawareotoko.com/posts/post-14783/</link>
       <pubDate>Wed, 16 Nov 2022 10:03:28 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-14783/</guid>
-      <description>&lt;p&gt;久しぶりにフラットな気持ちでライブに臨めた。&lt;/p&gt;&#xA;&lt;p&gt;特にうしろめたさもなく、ダウナーな気分でもなく、行き過ぎたドキドキワクワクという興奮もなく&lt;/p&gt;&#xA;&lt;p&gt;可もなく不可もなく、フラットな気持ちでした。&lt;/p&gt;&#xA;&lt;p&gt;ただ、やはり今回もしっかりとApple Watchからの通知が来ていました。&#xA;体は正直です。&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;img src=&#34;https://www.warawareotoko.com/posts/post-14783/images/20221116065435.png&#34; alt=&#34;&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;と思ってたら京も口内掻っ切って血吐いてた。&lt;/p&gt;&#xA;&lt;p&gt;やはり、このあたりの曲はそういう心境なのね。&lt;/p&gt;&#xA;&lt;p&gt;最後の方、割とメンバー感でのワチャワチャもあったっぽいけど頭振ったりなんやかんやでもう記憶なし。ラスト羅刹国では、京自身も煽りまくって最後の最後まで頭振り続けてて、お立ち台上からフラッと落ちかけてた。&lt;/p&gt;&#xA;&lt;p&gt;餌巻きも完全復活で、それぞれ投げてた。薫が帰る間際に、バックスクリーンを指さしてたので、何か告知か？？と思ったら&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;と思ったら、まさかの追加公演。しかもフルキャパシティの声出し解禁ライブ&lt;/p&gt;&#xA;&lt;p&gt;この時をどれだけまっただろうか&lt;/p&gt;&#xA;&lt;p&gt;DIR EN GREY 25th Anniversary&#xA;TOUR22 FROM DEPRESSION TO ________ -「a knot」LIMITED EXTRA-&lt;/p&gt;&#xA;&lt;p&gt;ただ、会場が新宿BLAZE&lt;/p&gt;&#xA;&lt;p&gt;キャパ800人&lt;/p&gt;&#xA;&lt;p&gt;絶対にチケット取れないだろこれ。そして下手しら死人出るのでは。。。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/direngrey_jp/status/1592812902947622912?s=46&amp;amp;t=LoBfzsCKpb6pHrJBzsFUJA&#34;&gt;https://twitter.com/direngrey_jp/status/1592812902947622912?s=46&amp;t=LoBfzsCKpb6pHrJBzsFUJA&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;ぼく個人としての考えを書いておきたい。&lt;/p&gt;&#xA;&lt;p&gt;このライブの翌日にジャニーズからも声出し解禁の声明が出されてたけど、正直、もうそういう舵取りをしていい時期だと思う。&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.johnnys-net.jp/page?id=text&amp;amp;amp;dataId=1952&#34;&gt;https://www.johnnys-net.jp/page?id=text&amp;amp;dataId=1952&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;社会として、リスクを許容しつつ戻すべきところは戻してもいい。（在宅勤務とかは一生続いてくれ）&lt;/p&gt;&#xA;&lt;p&gt;一方で、そのためのガイドラインも、業界で策定してみたりもしてるっぽい&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.japan-mva.com/_files/ugd/58f3a1_258915be13e64ed2adcb873ab966d86a.pdf&#34;&gt;https://www.japan-mva.com/_files/ugd/58f3a1_258915be13e64ed2adcb873ab966d86a.pdf&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&#xA;ざっと読んでみてかいつまんで言うと、マスクしてればコールアンドレスポンスはOKみたいです。&lt;/p&gt;</description>
+      <description>&lt;p&gt;久しぶりにフラットな気持ちでライブに臨めた。&lt;/p&gt;
+&lt;p&gt;特にうしろめたさもなく、ダウナーな気分でもなく、行き過ぎたドキドキワクワクという興奮もなく&lt;/p&gt;
+&lt;p&gt;可もなく不可もなく、フラットな気持ちでした。&lt;/p&gt;
+&lt;p&gt;ただ、やはり今回もしっかりとApple Watchからの通知が来ていました。
+体は正直です。&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-14783/images/20221116065435.png&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;と思ってたら京も口内掻っ切って血吐いてた。&lt;/p&gt;
+&lt;p&gt;やはり、このあたりの曲はそういう心境なのね。&lt;/p&gt;
+&lt;p&gt;最後の方、割とメンバー感でのワチャワチャもあったっぽいけど頭振ったりなんやかんやでもう記憶なし。ラスト羅刹国では、京自身も煽りまくって最後の最後まで頭振り続けてて、お立ち台上からフラッと落ちかけてた。&lt;/p&gt;
+&lt;p&gt;餌巻きも完全復活で、それぞれ投げてた。薫が帰る間際に、バックスクリーンを指さしてたので、何か告知か？？と思ったら&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;と思ったら、まさかの追加公演。しかもフルキャパシティの声出し解禁ライブ&lt;/p&gt;
+&lt;p&gt;この時をどれだけまっただろうか&lt;/p&gt;
+&lt;p&gt;DIR EN GREY 25th Anniversary
+TOUR22 FROM DEPRESSION TO ________ -「a knot」LIMITED EXTRA-&lt;/p&gt;
+&lt;p&gt;ただ、会場が新宿BLAZE&lt;/p&gt;
+&lt;p&gt;キャパ800人&lt;/p&gt;
+&lt;p&gt;絶対にチケット取れないだろこれ。そして下手しら死人出るのでは。。。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/direngrey_jp/status/1592812902947622912?s=46&amp;amp;t=LoBfzsCKpb6pHrJBzsFUJA&#34;&gt;https://twitter.com/direngrey_jp/status/1592812902947622912?s=46&amp;t=LoBfzsCKpb6pHrJBzsFUJA&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;ぼく個人としての考えを書いておきたい。&lt;/p&gt;
+&lt;p&gt;このライブの翌日にジャニーズからも声出し解禁の声明が出されてたけど、正直、もうそういう舵取りをしていい時期だと思う。&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.johnnys-net.jp/page?id=text&amp;amp;amp;dataId=1952&#34;&gt;https://www.johnnys-net.jp/page?id=text&amp;amp;dataId=1952&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;社会として、リスクを許容しつつ戻すべきところは戻してもいい。（在宅勤務とかは一生続いてくれ）&lt;/p&gt;
+&lt;p&gt;一方で、そのためのガイドラインも、業界で策定してみたりもしてるっぽい&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.japan-mva.com/_files/ugd/58f3a1_258915be13e64ed2adcb873ab966d86a.pdf&#34;&gt;https://www.japan-mva.com/_files/ugd/58f3a1_258915be13e64ed2adcb873ab966d86a.pdf&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;
+ざっと読んでみてかいつまんで言うと、マスクしてればコールアンドレスポンスはOKみたいです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【ライブレポ】DIR EN GREY 25th Anniversary TOUR22 FROM DEPRESSION TO ________ -「a knot」only- 2022_10_25@CLUB CITTA’</title>
       <link>https://www.warawareotoko.com/posts/post-14764/</link>
       <pubDate>Thu, 27 Oct 2022 02:57:19 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-14764/</guid>
-      <description>&lt;p&gt;ついに始まりましたDIR EN GREY25周年ツアー「FROM DEPRESSION TO ________ 」&#xA;そういえば書いてなかったけど、紛れもないmode of DIR EN GREYといった内容のライブでした。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;ビールジョッキでエスプレッソ飲んで、「あー美味しかったー」って思ってたら「お待たせしましたー」って言っておかわり持って来られるような&#xA;ただ、それでいて全くもって楽しいとしか言いようのないライブでした。&lt;/p&gt;&#xA;&lt;p&gt;楽曲バトルの上位から半分くらいはやってるっぽい&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;薫は黒髪で特に濃いメイクはしていなかったかしら。服装が記憶にない・・・&lt;/p&gt;&#xA;&lt;p&gt;Toshiyaは白い貴族ジャケットに、中は黒シャツ、黒いボトムス&lt;/p&gt;&#xA;&lt;p&gt;Shinyaは白い&lt;/p&gt;&#xA;&lt;p&gt;Dieはこれはもうほんとにけしからん。ど頭からずっとハミ乳&#xA;証言によると、どうやら乳首がずっと見えていたとのこと&#xA;衣装は何かを封印しているかのような柄。いや、封印してきれてなくて漏れ出ちゃってる。&#xA;まぁでもわかる。筋トレして逞しくなった胸が収まりきらなくなったんやね。&lt;/p&gt;&#xA;&lt;p&gt;なお、アンコールではToshiyaもTシャツを脱いでいましたが、すっごいしっかりひきしまってた。&#xA;腹筋についてのツイートが多かったようですが、最近筋トレしているぼくからすると、広背筋とそれに伴う胸筋の拡がりと&#xA;しっかりと引き締まった「仕上げてきた体」がすばらしかった。そういえば、何度かベースをダンベルの様に持ち上げていたが、筋トレだったのだろうかアレ。なお、アンコールで見たToshiyaは右腕に刺青を入れてる！？って思ってたら、どうやら血管の陰影だったらしい。筋肉の凹凸で遠目からは刺青に見えるくらいでした。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;個人的な、あまりに個人的な感想になるけど&lt;/p&gt;&#xA;&lt;p&gt;朧って、あのMVからすると子殺しの詩なのかとずっと思ってた。&#xA;ただ、どうもあれは違うんじゃないかなと&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;ここ数年、なんとなく自分の中でネガティブな感情とかを押し殺してた気がする。&#xA;傷つかないように、疲れないように、病まないように、壊さないように&lt;/p&gt;&#xA;&lt;p&gt;そうやって過ごしてきた&lt;/p&gt;&#xA;&lt;p&gt;でも、そうじゃないことを思い出せた。&#xA;傷ついていいし、壊していいし、病んでいい&lt;/p&gt;&#xA;&lt;p&gt;自分はそんな上等な人間じゃない&lt;/p&gt;&#xA;&lt;p&gt;DIR EN GREYのライブに通うこと。それは、自分がそういう自分であることを忘れないために、再認識するため。&lt;/p&gt;&#xA;&lt;p&gt;朧で、腹から出てきたのは、まさにそれ。&#xA;本当の自分。ただ、それがあまりに醜すぎて思わず殺めてしまった。&#xA;ただ、手にかけたあとで、それが本当の自分であることに気がついて、愛おしくも後悔している。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ついに始まりましたDIR EN GREY25周年ツアー「FROM DEPRESSION TO ________ 」
+そういえば書いてなかったけど、紛れもないmode of DIR EN GREYといった内容のライブでした。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;ビールジョッキでエスプレッソ飲んで、「あー美味しかったー」って思ってたら「お待たせしましたー」って言っておかわり持って来られるような
+ただ、それでいて全くもって楽しいとしか言いようのないライブでした。&lt;/p&gt;
+&lt;p&gt;楽曲バトルの上位から半分くらいはやってるっぽい&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;薫は黒髪で特に濃いメイクはしていなかったかしら。服装が記憶にない・・・&lt;/p&gt;
+&lt;p&gt;Toshiyaは白い貴族ジャケットに、中は黒シャツ、黒いボトムス&lt;/p&gt;
+&lt;p&gt;Shinyaは白い&lt;/p&gt;
+&lt;p&gt;Dieはこれはもうほんとにけしからん。ど頭からずっとハミ乳
+証言によると、どうやら乳首がずっと見えていたとのこと
+衣装は何かを封印しているかのような柄。いや、封印してきれてなくて漏れ出ちゃってる。
+まぁでもわかる。筋トレして逞しくなった胸が収まりきらなくなったんやね。&lt;/p&gt;
+&lt;p&gt;なお、アンコールではToshiyaもTシャツを脱いでいましたが、すっごいしっかりひきしまってた。
+腹筋についてのツイートが多かったようですが、最近筋トレしているぼくからすると、広背筋とそれに伴う胸筋の拡がりと
+しっかりと引き締まった「仕上げてきた体」がすばらしかった。そういえば、何度かベースをダンベルの様に持ち上げていたが、筋トレだったのだろうかアレ。なお、アンコールで見たToshiyaは右腕に刺青を入れてる！？って思ってたら、どうやら血管の陰影だったらしい。筋肉の凹凸で遠目からは刺青に見えるくらいでした。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;個人的な、あまりに個人的な感想になるけど&lt;/p&gt;
+&lt;p&gt;朧って、あのMVからすると子殺しの詩なのかとずっと思ってた。
+ただ、どうもあれは違うんじゃないかなと&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;ここ数年、なんとなく自分の中でネガティブな感情とかを押し殺してた気がする。
+傷つかないように、疲れないように、病まないように、壊さないように&lt;/p&gt;
+&lt;p&gt;そうやって過ごしてきた&lt;/p&gt;
+&lt;p&gt;でも、そうじゃないことを思い出せた。
+傷ついていいし、壊していいし、病んでいい&lt;/p&gt;
+&lt;p&gt;自分はそんな上等な人間じゃない&lt;/p&gt;
+&lt;p&gt;DIR EN GREYのライブに通うこと。それは、自分がそういう自分であることを忘れないために、再認識するため。&lt;/p&gt;
+&lt;p&gt;朧で、腹から出てきたのは、まさにそれ。
+本当の自分。ただ、それがあまりに醜すぎて思わず殺めてしまった。
+ただ、手にかけたあとで、それが本当の自分であることに気がついて、愛おしくも後悔している。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

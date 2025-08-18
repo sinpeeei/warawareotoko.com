@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>サービス on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/categories/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</link>
     <description>Recent content in サービス on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 07 Apr 2022 07:10:18 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/categories/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,43 @@
       <link>https://www.warawareotoko.com/posts/post-14396/</link>
       <pubDate>Thu, 07 Apr 2022 07:10:18 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-14396/</guid>
-      <description>&lt;p&gt;Amazonのオーディオブックサービス「audible」に登録して、本を聞いてみました。これがすごくよかったので本日は、「audible」の紹介です。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;月額1500円で聴き放題、最初の1ヶ月目は無料。&#xA;12万冊以上のタイトルが用意されており、無制限に聴くことができる。&lt;/p&gt;&#xA;&lt;p&gt;プロのナレーターが朗読しているので、非常に聴きやすい。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;ぼくは本を読むのがかなり遅いです。1冊読み終えるのに1ヶ月以上かかります。理由は次の通り。&lt;/p&gt;&#xA;&lt;p&gt;全部読ないといけない気がする。&lt;/p&gt;&#xA;&lt;p&gt;少し読むと前の内容忘れて戻って読む。&lt;/p&gt;&#xA;&lt;p&gt;これが読むのが遅い原因だと思います。&lt;/p&gt;&#xA;&lt;p&gt;また、集中力がないので電車内などで本を読んでいてもすぐに眠くなったり、他のことを考え始めてしまいます。その度に戻って読んだり。&lt;/p&gt;&#xA;&lt;p&gt;そんなぼくにとってaudibleはとても合っている、神サービスでした。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;audibleのいいところは、速度の調整ができる点です。&lt;/p&gt;&#xA;&lt;p&gt;最大3.5倍速で聴くことができます。2倍くらいまでなら、聴いていて意味がわかるくらいだと思います。&lt;/p&gt;&#xA;&lt;p&gt;それにより半日程度で本を聴き終えることができます。&lt;/p&gt;&#xA;&lt;p&gt;結局は、本に書いてある情報が脳に入ってきて、多少なりとも自分の役に立てばいいわけです。&lt;/p&gt;&#xA;&lt;p&gt;なので、読んでようが、聴いていようがどっちでもいいと思います。ただ、読んだ方が脳にいいとか、記憶として定着しやすいとかってのは、厳密にあるかもしれません。&lt;/p&gt;&#xA;&lt;p&gt;あと、本みたいに線が引けないとかはあるかもしれませんし、もう一度詳しく中身読みたいとかがすぐにできません。もう一度聴き直すには、ある程度戻って探しなら、飛ばしつつみたいなめんどくさい作業が必要となります。&lt;/p&gt;&#xA;&lt;p&gt;なので、しっかり読みたいというか、さらっと内容を把握しておきたいような本に対して有効なサービスなんじゃないかと個人的には思いました。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;めちゃくちゃ良いサービスで、&lt;/p&gt;&#xA;&lt;p&gt;ぼくに合ってたんですが、&lt;/p&gt;&#xA;&lt;p&gt;解約してしまいました。&lt;/p&gt;&#xA;&lt;p&gt;理由としては、コンテンツ量が少ないため。全然少ない。&lt;/p&gt;&#xA;&lt;p&gt;どうやら読み放題では、読めるコンテンツ量が毎月更新されていくみたいなのですが、それでも少ない。&lt;/p&gt;&#xA;&lt;p&gt;それ以外の本は課金して購入しないといけないようです。&lt;/p&gt;&#xA;&lt;p&gt;すぐに聴き終えることができるので、どんどん聴きたいけど、聴くものがなくなったという感じです。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;とても良いサービスだからこそ、もっとたくさんのコンテンツを聴きたいと思いました。&lt;/p&gt;&#xA;&lt;p&gt;また、kindleの本をiPhoneの機能を使って読み上げるということもできますので、そっちを使ってもいいかもと思いました。&lt;/p&gt;&#xA;&lt;p&gt;今後検証します。&lt;/p&gt;&#xA;&lt;p&gt;といったところで本日は以上です。&lt;/p&gt;&#xA;&lt;p&gt;おやすみなさい。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;p&gt;Amazonのオーディオブックサービス「audible」に登録して、本を聞いてみました。これがすごくよかったので本日は、「audible」の紹介です。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;月額1500円で聴き放題、最初の1ヶ月目は無料。
+12万冊以上のタイトルが用意されており、無制限に聴くことができる。&lt;/p&gt;
+&lt;p&gt;プロのナレーターが朗読しているので、非常に聴きやすい。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;ぼくは本を読むのがかなり遅いです。1冊読み終えるのに1ヶ月以上かかります。理由は次の通り。&lt;/p&gt;
+&lt;p&gt;全部読ないといけない気がする。&lt;/p&gt;
+&lt;p&gt;少し読むと前の内容忘れて戻って読む。&lt;/p&gt;
+&lt;p&gt;これが読むのが遅い原因だと思います。&lt;/p&gt;
+&lt;p&gt;また、集中力がないので電車内などで本を読んでいてもすぐに眠くなったり、他のことを考え始めてしまいます。その度に戻って読んだり。&lt;/p&gt;
+&lt;p&gt;そんなぼくにとってaudibleはとても合っている、神サービスでした。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;audibleのいいところは、速度の調整ができる点です。&lt;/p&gt;
+&lt;p&gt;最大3.5倍速で聴くことができます。2倍くらいまでなら、聴いていて意味がわかるくらいだと思います。&lt;/p&gt;
+&lt;p&gt;それにより半日程度で本を聴き終えることができます。&lt;/p&gt;
+&lt;p&gt;結局は、本に書いてある情報が脳に入ってきて、多少なりとも自分の役に立てばいいわけです。&lt;/p&gt;
+&lt;p&gt;なので、読んでようが、聴いていようがどっちでもいいと思います。ただ、読んだ方が脳にいいとか、記憶として定着しやすいとかってのは、厳密にあるかもしれません。&lt;/p&gt;
+&lt;p&gt;あと、本みたいに線が引けないとかはあるかもしれませんし、もう一度詳しく中身読みたいとかがすぐにできません。もう一度聴き直すには、ある程度戻って探しなら、飛ばしつつみたいなめんどくさい作業が必要となります。&lt;/p&gt;
+&lt;p&gt;なので、しっかり読みたいというか、さらっと内容を把握しておきたいような本に対して有効なサービスなんじゃないかと個人的には思いました。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;めちゃくちゃ良いサービスで、&lt;/p&gt;
+&lt;p&gt;ぼくに合ってたんですが、&lt;/p&gt;
+&lt;p&gt;解約してしまいました。&lt;/p&gt;
+&lt;p&gt;理由としては、コンテンツ量が少ないため。全然少ない。&lt;/p&gt;
+&lt;p&gt;どうやら読み放題では、読めるコンテンツ量が毎月更新されていくみたいなのですが、それでも少ない。&lt;/p&gt;
+&lt;p&gt;それ以外の本は課金して購入しないといけないようです。&lt;/p&gt;
+&lt;p&gt;すぐに聴き終えることができるので、どんどん聴きたいけど、聴くものがなくなったという感じです。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;とても良いサービスだからこそ、もっとたくさんのコンテンツを聴きたいと思いました。&lt;/p&gt;
+&lt;p&gt;また、kindleの本をiPhoneの機能を使って読み上げるということもできますので、そっちを使ってもいいかもと思いました。&lt;/p&gt;
+&lt;p&gt;今後検証します。&lt;/p&gt;
+&lt;p&gt;といったところで本日は以上です。&lt;/p&gt;
+&lt;p&gt;おやすみなさい。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>

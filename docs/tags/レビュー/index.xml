@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>レビュー on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
     <description>Recent content in レビュー on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 02 Dec 2019 21:32:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,8 @@
       <link>https://www.warawareotoko.com/posts/post-12902/</link>
       <pubDate>Mon, 21 Oct 2019 17:41:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12902/</guid>
-      <description>&lt;p&gt;なんとAmazon Musicを聞くとあたるキャンペーンで当選してBOSEのノイズキャンセリングヘッドホン「BOSE NOISE CANCELLING HEADPHONES 700」を手に入れました。ノイズキャンセリングヘッドホンを初めてちゃんと使ってみたので、本日はそのレビューです。&lt;/p&gt;&#xA;&lt;p&gt;ただ結論からいうと、外界の騒音を遮断してくれて読書がすごい捗るようになりました！ノイズにより今までどれだけ集中力を乱されていたのか！学生時代の受験や勉強の時にこんなものがあったならよかったのに！&lt;/p&gt;</description>
+      <description>&lt;p&gt;なんとAmazon Musicを聞くとあたるキャンペーンで当選してBOSEのノイズキャンセリングヘッドホン「BOSE NOISE CANCELLING HEADPHONES 700」を手に入れました。ノイズキャンセリングヘッドホンを初めてちゃんと使ってみたので、本日はそのレビューです。&lt;/p&gt;
+&lt;p&gt;ただ結論からいうと、外界の騒音を遮断してくれて読書がすごい捗るようになりました！ノイズにより今までどれだけ集中力を乱されていたのか！学生時代の受験や勉強の時にこんなものがあったならよかったのに！&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

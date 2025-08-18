@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>スタバ on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/%E3%82%B9%E3%82%BF%E3%83%90/</link>
     <description>Recent content in スタバ on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 03 Feb 2015 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/%E3%82%B9%E3%82%BF%E3%83%90/index.xml" rel="self" type="application/rss+xml" />
@@ -27,21 +27,24 @@
       <link>https://www.warawareotoko.com/posts/post-6173/</link>
       <pubDate>Wed, 03 Sep 2014 15:24:57 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-6173/</guid>
-      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;&#xA;&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;
+&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>スタバ夏の新作「ストロベリーディライトフラペチーノ」は甘過ぎずほのかな酸味でおいしい</title>
       <link>https://www.warawareotoko.com/posts/post-5920/</link>
       <pubDate>Thu, 17 Jul 2014 15:38:38 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-5920/</guid>
-      <description>&lt;p&gt;ハローしんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&#xA;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ハローしんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。
+オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>スタバのドリンクをただで飲める4つの方法</title>
       <link>https://www.warawareotoko.com/posts/post-5864/</link>
       <pubDate>Thu, 10 Jul 2014 14:51:35 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-5864/</guid>
-      <description>&lt;p&gt;ハローしんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&#xA;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ハローしんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。
+オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LIVEのお作法 on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/live%E3%81%AE%E3%81%8A%E4%BD%9C%E6%B3%95/</link>
     <description>Recent content in LIVEのお作法 on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 26 Jan 2017 14:49:45 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/live%E3%81%AE%E3%81%8A%E4%BD%9C%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,13 @@
       <link>https://www.warawareotoko.com/posts/post-10178/</link>
       <pubDate>Thu, 26 Jan 2017 14:49:45 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-10178/</guid>
-      <description>&lt;p&gt;LIVEにおいて自分の位置を確保したり、定位置で見たかったりしたらその場にい続けるのではなく常に全身しなければならないと思う。流れに争うのではなく、流れにのって全身する。そうじゃないと無駄な力により反発生み余計に後退してしまう。それと現状維持も後退を意味している。&lt;/p&gt;&#xA;&lt;p&gt;常に前に前に行こうとする気概がなければLIVEでは後ろに流される。&lt;/p&gt;&#xA;&lt;p&gt;それと、常に最高のコンディションや条件はないと思う。&lt;/p&gt;&#xA;&lt;p&gt;今のコンディションでどう最高に楽しむかしかないと思う。&lt;/p&gt;&#xA;&lt;p&gt;今日は初期位置がいい！と思っても暗転と同時に後ろに流されるかもしれない。体調が万全だ！と思っても最後まで持たないかもしれない。&lt;/p&gt;&#xA;&lt;p&gt;それでも楽しむしかない。&lt;/p&gt;&#xA;&lt;p&gt;そう思うのでした。&lt;/p&gt;</description>
+      <description>&lt;p&gt;LIVEにおいて自分の位置を確保したり、定位置で見たかったりしたらその場にい続けるのではなく常に全身しなければならないと思う。流れに争うのではなく、流れにのって全身する。そうじゃないと無駄な力により反発生み余計に後退してしまう。それと現状維持も後退を意味している。&lt;/p&gt;
+&lt;p&gt;常に前に前に行こうとする気概がなければLIVEでは後ろに流される。&lt;/p&gt;
+&lt;p&gt;それと、常に最高のコンディションや条件はないと思う。&lt;/p&gt;
+&lt;p&gt;今のコンディションでどう最高に楽しむかしかないと思う。&lt;/p&gt;
+&lt;p&gt;今日は初期位置がいい！と思っても暗転と同時に後ろに流されるかもしれない。体調が万全だ！と思っても最後まで持たないかもしれない。&lt;/p&gt;
+&lt;p&gt;それでも楽しむしかない。&lt;/p&gt;
+&lt;p&gt;そう思うのでした。&lt;/p&gt;</description>
     </item>
     <item>
       <title>こんな女は嫌だ！LIVEで女の子にやめてもらいたいこと</title>
@@ -48,14 +54,17 @@
       <link>https://www.warawareotoko.com/posts/post-6609/</link>
       <pubDate>Thu, 20 Nov 2014 17:04:52 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-6609/</guid>
-      <description>&lt;p&gt;LIVEに行く時にどうしてますか？とくに平日。ぼくは会社が駅まで近いので定時に上がれば着替え込みで新木場にギリギリ入ることができます。&lt;/p&gt;&#xA;&lt;p&gt;が！何か突発的なトラブルが起こったり、突然会議とか入れられたらもはや諦めるしかありません。それではどうやったら自分の整理番号通りに入場できるでしょうか。ぼくが今まで使ってきたアイデアをご紹介します。&lt;/p&gt;</description>
+      <description>&lt;p&gt;LIVEに行く時にどうしてますか？とくに平日。ぼくは会社が駅まで近いので定時に上がれば着替え込みで新木場にギリギリ入ることができます。&lt;/p&gt;
+&lt;p&gt;が！何か突発的なトラブルが起こったり、突然会議とか入れられたらもはや諦めるしかありません。それではどうやったら自分の整理番号通りに入場できるでしょうか。ぼくが今まで使ってきたアイデアをご紹介します。&lt;/p&gt;</description>
     </item>
     <item>
       <title>LIVEの時、なぜ上手民となったのか</title>
       <link>https://www.warawareotoko.com/posts/post-6607/</link>
       <pubDate>Thu, 20 Nov 2014 16:29:58 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-6607/</guid>
-      <description>&lt;p&gt;ぼくは何故上手にいることが多いのか。&lt;/p&gt;&#xA;&lt;p&gt;要約するとこんな感じ&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;p&gt;ぼくは何故上手にいることが多いのか。&lt;/p&gt;
+&lt;p&gt;要約するとこんな感じ&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>

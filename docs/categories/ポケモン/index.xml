@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ポケモン on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/categories/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3/</link>
     <description>Recent content in ポケモン on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 17 Jan 2022 09:02:40 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/categories/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,37 @@
       <link>https://www.warawareotoko.com/posts/post-14256/</link>
       <pubDate>Mon, 17 Jan 2022 09:02:40 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-14256/</guid>
-      <description>&lt;p&gt;今日はポケモンのリメイク作品「シャイニングパール」をクリアしたので、そのレビュー(2月にリライトしました)です。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;[st-cmemo webicon=&amp;ldquo;st-svg-lightbulb-o&amp;rdquo; iconcolor=&amp;quot;#FFA726&amp;quot; bgcolor=&amp;quot;#FFF3E0&amp;quot; color=&amp;quot;#000000&amp;quot; bordercolor=&amp;quot;&amp;quot; borderwidth=&amp;quot;&amp;quot; iconsize=&amp;quot;&amp;quot;]&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;[itemlink post_id=&amp;ldquo;14257&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;今回発売されたのはリメイクの期待と噂が織り混ざった情報がかねてより囁かれていた「ポケットモンスターシャイニングパール」のリメイク、「ポケットモンスターブリリアントダイヤモンドシャイニングパール」です。&lt;/p&gt;&#xA;&lt;p&gt;ぼくはポケモンといえば、赤緑世代です。その後、だいぶ空いてポケモンGO、サンムーン、ピカブイで復活。そして剣盾をもう2年以上毎日やってるという歴になっています。&lt;/p&gt;&#xA;&lt;p&gt;ダイヤモンドパールは、第4世代で2006年発売。この時期まったくポケモンやってませんでした。&#xA;プレステとかゲーセン行ってました。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;ただ、Twitterを見ていると多くの人が同じような感じだったっぽいです。&#xA;　&#xA;例えば、&lt;!-- raw HTML omitted --&gt;初心者の館的なところのケーシィが普通に強すぎ&lt;!-- raw HTML omitted --&gt;、&lt;!-- raw HTML omitted --&gt;シロナが強い&lt;!-- raw HTML omitted --&gt;とか&lt;/p&gt;&#xA;&lt;p&gt;ちなみに剣盾は、そりゃーもうサクサク進めるし、厳選要素なんかもカンタン、レアなポケモンもすぐ出会えるという環境でした。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;しかしながら、ダイパリメイクについては二頭身！&lt;/p&gt;&#xA;&lt;p&gt;これに関しては、さんざん言われてて、炎上してました。&lt;/p&gt;&#xA;&lt;p&gt;ただ、おそらくは発売後はほぼこのキャラデザについての言及はなくなってたんじゃないかと思います。&lt;/p&gt;&#xA;&lt;p&gt;ぼく自身もほとんど気になりませんでした。プレイ当初はまぁ多少気になってたけど、進めていくうちには自然になっていと思います。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;そして、このアルセウスはダイパの舞台であるシンオウ地方の大昔の姿である「ヒスイ地方」が舞台となっています。&lt;/p&gt;&#xA;&lt;p&gt;アルセウスではダイパで出てくるキャラの先祖的なキャラや、なぜダイパでそうなっているのか？や、そもそもの起源の話などが描かれています。&lt;/p&gt;</description>
+      <description>&lt;p&gt;今日はポケモンのリメイク作品「シャイニングパール」をクリアしたので、そのレビュー(2月にリライトしました)です。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;[st-cmemo webicon=&amp;ldquo;st-svg-lightbulb-o&amp;rdquo; iconcolor=&amp;quot;#FFA726&amp;quot; bgcolor=&amp;quot;#FFF3E0&amp;quot; color=&amp;quot;#000000&amp;quot; bordercolor=&amp;quot;&amp;quot; borderwidth=&amp;quot;&amp;quot; iconsize=&amp;quot;&amp;quot;]&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;[itemlink post_id=&amp;ldquo;14257&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;今回発売されたのはリメイクの期待と噂が織り混ざった情報がかねてより囁かれていた「ポケットモンスターシャイニングパール」のリメイク、「ポケットモンスターブリリアントダイヤモンドシャイニングパール」です。&lt;/p&gt;
+&lt;p&gt;ぼくはポケモンといえば、赤緑世代です。その後、だいぶ空いてポケモンGO、サンムーン、ピカブイで復活。そして剣盾をもう2年以上毎日やってるという歴になっています。&lt;/p&gt;
+&lt;p&gt;ダイヤモンドパールは、第4世代で2006年発売。この時期まったくポケモンやってませんでした。
+プレステとかゲーセン行ってました。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;ただ、Twitterを見ていると多くの人が同じような感じだったっぽいです。
+　
+例えば、&lt;!-- raw HTML omitted --&gt;初心者の館的なところのケーシィが普通に強すぎ&lt;!-- raw HTML omitted --&gt;、&lt;!-- raw HTML omitted --&gt;シロナが強い&lt;!-- raw HTML omitted --&gt;とか&lt;/p&gt;
+&lt;p&gt;ちなみに剣盾は、そりゃーもうサクサク進めるし、厳選要素なんかもカンタン、レアなポケモンもすぐ出会えるという環境でした。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;しかしながら、ダイパリメイクについては二頭身！&lt;/p&gt;
+&lt;p&gt;これに関しては、さんざん言われてて、炎上してました。&lt;/p&gt;
+&lt;p&gt;ただ、おそらくは発売後はほぼこのキャラデザについての言及はなくなってたんじゃないかと思います。&lt;/p&gt;
+&lt;p&gt;ぼく自身もほとんど気になりませんでした。プレイ当初はまぁ多少気になってたけど、進めていくうちには自然になっていと思います。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;そして、このアルセウスはダイパの舞台であるシンオウ地方の大昔の姿である「ヒスイ地方」が舞台となっています。&lt;/p&gt;
+&lt;p&gt;アルセウスではダイパで出てくるキャラの先祖的なキャラや、なぜダイパでそうなっているのか？や、そもそもの起源の話などが描かれています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ポケモン剣盾ランクバトル戦闘報告vol.001</title>
       <link>https://www.warawareotoko.com/posts/post-13150/</link>
       <pubDate>Mon, 03 Feb 2020 15:01:18 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-13150/</guid>
-      <description>&lt;p&gt;実験的にポケットモンスターソードシールドのランクマッチシーズン3の戦闘報告を連載したいと思います。多分動画とかでやるのが望ましいんだろうけども。とりあえず自分の思考の整理もかねて、戦闘中のメモを書き起こしました。&#xA;ポケモンソードシールドのランクバトルは、2月に入ってシーズン3が始まったばかりです。しかし、今までの対戦とは明らかにレベルが変わりました。全く勝てない。スーパーボール級からのスタートになっていますが、いまだにスーパーボール級からあがれません。なぜだ。。。&lt;/p&gt;</description>
+      <description>&lt;p&gt;実験的にポケットモンスターソードシールドのランクマッチシーズン3の戦闘報告を連載したいと思います。多分動画とかでやるのが望ましいんだろうけども。とりあえず自分の思考の整理もかねて、戦闘中のメモを書き起こしました。
+ポケモンソードシールドのランクバトルは、2月に入ってシーズン3が始まったばかりです。しかし、今までの対戦とは明らかにレベルが変わりました。全く勝てない。スーパーボール級からのスタートになっていますが、いまだにスーパーボール級からあがれません。なぜだ。。。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ポケモン剣盾育成案「対害悪炎殺エンニュート」</title>
@@ -55,14 +78,17 @@
       <link>https://www.warawareotoko.com/posts/post-13070/</link>
       <pubDate>Thu, 09 Jan 2020 15:33:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-13070/</guid>
-      <description>&lt;p&gt;全く勝てない&lt;/p&gt;&#xA;&lt;p&gt;とりあえず勘どころを付けるために黙って100戦くらいやった。いわゆる厨ポケと呼ばれる強くて使用率の高いポケモンを使っても勝てず。&lt;/p&gt;&#xA;&lt;p&gt;それでもなんとかシーズン2はじまってすぐにマスターボール級に上がれたので、本日は自分なりに工夫したことと感想を書きたいと思います。&lt;/p&gt;</description>
+      <description>&lt;p&gt;全く勝てない&lt;/p&gt;
+&lt;p&gt;とりあえず勘どころを付けるために黙って100戦くらいやった。いわゆる厨ポケと呼ばれる強くて使用率の高いポケモンを使っても勝てず。&lt;/p&gt;
+&lt;p&gt;それでもなんとかシーズン2はじまってすぐにマスターボール級に上がれたので、本日は自分なりに工夫したことと感想を書きたいと思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ポケモンソードシールドでマクロコントローラー使って自動でお金稼ぎする方法</title>
       <link>https://www.warawareotoko.com/posts/post-13063/</link>
       <pubDate>Wed, 08 Jan 2020 15:30:45 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-13063/</guid>
-      <description>&lt;p&gt;絶賛ポケットモンスターソードシールドでランクマッチ対戦中です。&lt;/p&gt;&#xA;&lt;p&gt;ただ全然勝てない。強いポケモンを育てようと思ったらお金が必要。一体の努力値をマックスまで振ろうとするとだいたい50万円くらい必要。普通にストーリーを進めるだけじゃ絶対にそんなに貯まりません。そこで全クリ後のリーグ戦を周回することになりますが、それでも普通に戦っててもそうそう貯まるもんじゃありません。そこで本日はポケットモンスターソードシールドで自動的にお金稼ぎをする方法をご紹介します。&lt;/p&gt;</description>
+      <description>&lt;p&gt;絶賛ポケットモンスターソードシールドでランクマッチ対戦中です。&lt;/p&gt;
+&lt;p&gt;ただ全然勝てない。強いポケモンを育てようと思ったらお金が必要。一体の努力値をマックスまで振ろうとするとだいたい50万円くらい必要。普通にストーリーを進めるだけじゃ絶対にそんなに貯まりません。そこで全クリ後のリーグ戦を周回することになりますが、それでも普通に戦っててもそうそう貯まるもんじゃありません。そこで本日はポケットモンスターソードシールドで自動的にお金稼ぎをする方法をご紹介します。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【レビュー】ポケモンソードシールドは面白いけど控えめに言ってクソゲーです(断定)</title>
@@ -76,14 +102,18 @@
       <link>https://www.warawareotoko.com/posts/post-12737/</link>
       <pubDate>Sun, 28 Jul 2019 02:44:24 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12737/</guid>
-      <description>&lt;p&gt;151種類の初代ポケモンの柄からシャツを仕立ててもらえるポケモンシャツをご存知でしょうか？&lt;/p&gt;&#xA;&lt;p&gt;ポケモンの種類に応じた柄と、さらにシャツの形も細かくカスタマイズすることができるので、自分だけのシャツを作り出せるといっても過言ではありません。&#xA;そんなポケモンシャツを注文して待つこと１ヶ月以上。ようやく到着しましたので、本日はぼくが注文したポケモンシャツをレビューしたいと思います。&lt;/p&gt;</description>
+      <description>&lt;p&gt;151種類の初代ポケモンの柄からシャツを仕立ててもらえるポケモンシャツをご存知でしょうか？&lt;/p&gt;
+&lt;p&gt;ポケモンの種類に応じた柄と、さらにシャツの形も細かくカスタマイズすることができるので、自分だけのシャツを作り出せるといっても過言ではありません。
+そんなポケモンシャツを注文して待つこと１ヶ月以上。ようやく到着しましたので、本日はぼくが注文したポケモンシャツをレビューしたいと思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ポケモンGOと連携可能なのでスイッチとレッツゴーピカチュウにリアル課金した</title>
       <link>https://www.warawareotoko.com/posts/post-12208/</link>
       <pubDate>Mon, 10 Dec 2018 03:00:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12208/</guid>
-      <description>&lt;p&gt;ニンテンドースイッチで初段ポケモンの頃に出たイエローのリメイクである「レッツゴーピカチュウ（イーブイ）」が発売されました。&lt;/p&gt;&#xA;&lt;p&gt;ポケモンGOと連携できるらしいと聞いて本体購入してない段階で予約。スイッチ本体はAmazonのプライムナウでソフト発売に配送してもらいました。&lt;/p&gt;&#xA;&lt;p&gt;ということで本当はスイッチとポケモン最新作「レッツゴーピカチュウ」のレビューです。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ニンテンドースイッチで初段ポケモンの頃に出たイエローのリメイクである「レッツゴーピカチュウ（イーブイ）」が発売されました。&lt;/p&gt;
+&lt;p&gt;ポケモンGOと連携できるらしいと聞いて本体購入してない段階で予約。スイッチ本体はAmazonのプライムナウでソフト発売に配送してもらいました。&lt;/p&gt;
+&lt;p&gt;ということで本当はスイッチとポケモン最新作「レッツゴーピカチュウ」のレビューです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>横浜のポケモンGOパーク行ってきた！人がいない休憩スポット情報あり</title>
@@ -125,7 +155,8 @@
       <link>https://www.warawareotoko.com/posts/post-9774/</link>
       <pubDate>Thu, 24 Nov 2016 14:12:34 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-9774/</guid>
-      <description>&lt;p&gt;祝日に5、6時間くらいやりましたがまだ最初の試練をクリアとしたあたりです。全然進めておりません。寝ながらやってたら寝落ちしそうだったんで薄れゆく意識の中で、なんとかセーブだけしたのを覚えています。&lt;/p&gt;&#xA;&lt;p&gt;さて、そんなポケモンサンムーンですが、進めていけば進めていくほど新たな驚きがあります。本日はそれをご紹介&lt;/p&gt;</description>
+      <description>&lt;p&gt;祝日に5、6時間くらいやりましたがまだ最初の試練をクリアとしたあたりです。全然進めておりません。寝ながらやってたら寝落ちしそうだったんで薄れゆく意識の中で、なんとかセーブだけしたのを覚えています。&lt;/p&gt;
+&lt;p&gt;さて、そんなポケモンサンムーンですが、進めていけば進めていくほど新たな驚きがあります。本日はそれをご紹介&lt;/p&gt;</description>
     </item>
     <item>
       <title>【ポケモンサンムーン】やり始めたらなんか涙ぐんでしまうくらいジーンきた</title>

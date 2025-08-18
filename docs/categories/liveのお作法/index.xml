@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LIVEのお作法 on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/categories/live%E3%81%AE%E3%81%8A%E4%BD%9C%E6%B3%95/</link>
     <description>Recent content in LIVEのお作法 on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 16 Mar 2019 12:54:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/categories/live%E3%81%AE%E3%81%8A%E4%BD%9C%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,22 @@
       <link>https://www.warawareotoko.com/posts/post-12494/</link>
       <pubDate>Sat, 16 Mar 2019 12:54:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12494/</guid>
-      <description>&lt;p&gt;言いたい。男はライブ来んな&lt;/p&gt;&#xA;&lt;p&gt;デカいし、力強いし、臭いし、ヒゲ痛いし、なんか勘違いしてるし、マジで邪魔で迷惑以外のなにものでもない。&lt;/p&gt;&#xA;&lt;p&gt;今回はDIR EN GREYのツアー初日で悟ったことを書きたいと思います。念のためお断りを入れておきますが、決してフェミニズム的なことを言うつもりもありません。&lt;/p&gt;</description>
+      <description>&lt;p&gt;言いたい。男はライブ来んな&lt;/p&gt;
+&lt;p&gt;デカいし、力強いし、臭いし、ヒゲ痛いし、なんか勘違いしてるし、マジで邪魔で迷惑以外のなにものでもない。&lt;/p&gt;
+&lt;p&gt;今回はDIR EN GREYのツアー初日で悟ったことを書きたいと思います。念のためお断りを入れておきますが、決してフェミニズム的なことを言うつもりもありません。&lt;/p&gt;</description>
     </item>
     <item>
       <title>現状維持は後退と心得よ</title>
       <link>https://www.warawareotoko.com/posts/post-10178/</link>
       <pubDate>Thu, 26 Jan 2017 14:49:45 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-10178/</guid>
-      <description>&lt;p&gt;LIVEにおいて自分の位置を確保したり、定位置で見たかったりしたらその場にい続けるのではなく常に全身しなければならないと思う。流れに争うのではなく、流れにのって全身する。そうじゃないと無駄な力により反発生み余計に後退してしまう。それと現状維持も後退を意味している。&lt;/p&gt;&#xA;&lt;p&gt;常に前に前に行こうとする気概がなければLIVEでは後ろに流される。&lt;/p&gt;&#xA;&lt;p&gt;それと、常に最高のコンディションや条件はないと思う。&lt;/p&gt;&#xA;&lt;p&gt;今のコンディションでどう最高に楽しむかしかないと思う。&lt;/p&gt;&#xA;&lt;p&gt;今日は初期位置がいい！と思っても暗転と同時に後ろに流されるかもしれない。体調が万全だ！と思っても最後まで持たないかもしれない。&lt;/p&gt;&#xA;&lt;p&gt;それでも楽しむしかない。&lt;/p&gt;&#xA;&lt;p&gt;そう思うのでした。&lt;/p&gt;</description>
+      <description>&lt;p&gt;LIVEにおいて自分の位置を確保したり、定位置で見たかったりしたらその場にい続けるのではなく常に全身しなければならないと思う。流れに争うのではなく、流れにのって全身する。そうじゃないと無駄な力により反発生み余計に後退してしまう。それと現状維持も後退を意味している。&lt;/p&gt;
+&lt;p&gt;常に前に前に行こうとする気概がなければLIVEでは後ろに流される。&lt;/p&gt;
+&lt;p&gt;それと、常に最高のコンディションや条件はないと思う。&lt;/p&gt;
+&lt;p&gt;今のコンディションでどう最高に楽しむかしかないと思う。&lt;/p&gt;
+&lt;p&gt;今日は初期位置がいい！と思っても暗転と同時に後ろに流されるかもしれない。体調が万全だ！と思っても最後まで持たないかもしれない。&lt;/p&gt;
+&lt;p&gt;それでも楽しむしかない。&lt;/p&gt;
+&lt;p&gt;そう思うのでした。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ticket everyとは？使いにくいからちょっと調べてみた</title>
@@ -76,63 +84,97 @@
       <link>https://www.warawareotoko.com/posts/post-6609/</link>
       <pubDate>Thu, 20 Nov 2014 17:04:52 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-6609/</guid>
-      <description>&lt;p&gt;LIVEに行く時にどうしてますか？とくに平日。ぼくは会社が駅まで近いので定時に上がれば着替え込みで新木場にギリギリ入ることができます。&lt;/p&gt;&#xA;&lt;p&gt;が！何か突発的なトラブルが起こったり、突然会議とか入れられたらもはや諦めるしかありません。それではどうやったら自分の整理番号通りに入場できるでしょうか。ぼくが今まで使ってきたアイデアをご紹介します。&lt;/p&gt;</description>
+      <description>&lt;p&gt;LIVEに行く時にどうしてますか？とくに平日。ぼくは会社が駅まで近いので定時に上がれば着替え込みで新木場にギリギリ入ることができます。&lt;/p&gt;
+&lt;p&gt;が！何か突発的なトラブルが起こったり、突然会議とか入れられたらもはや諦めるしかありません。それではどうやったら自分の整理番号通りに入場できるでしょうか。ぼくが今まで使ってきたアイデアをご紹介します。&lt;/p&gt;</description>
     </item>
     <item>
       <title>LIVEの時、なぜ上手民となったのか</title>
       <link>https://www.warawareotoko.com/posts/post-6607/</link>
       <pubDate>Thu, 20 Nov 2014 16:29:58 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-6607/</guid>
-      <description>&lt;p&gt;ぼくは何故上手にいることが多いのか。&lt;/p&gt;&#xA;&lt;p&gt;要約するとこんな感じ&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;p&gt;ぼくは何故上手にいることが多いのか。&lt;/p&gt;
+&lt;p&gt;要約するとこんな感じ&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>スタンディングよりも、指定席の時のヘドバンのやり方のほうが首へのダメージは高い。</title>
       <link>https://www.warawareotoko.com/posts/post-6437/</link>
       <pubDate>Mon, 20 Oct 2014 12:24:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-6437/</guid>
-      <description>&lt;p&gt;可動範囲が広いし、掴まれるしってことでスタンディングよりも、指定席の時の方がヘドバンは存分にできる。&lt;/p&gt;&#xA;&lt;p&gt;よって首へのダメージは高い。&lt;/p&gt;</description>
+      <description>&lt;p&gt;可動範囲が広いし、掴まれるしってことでスタンディングよりも、指定席の時の方がヘドバンは存分にできる。&lt;/p&gt;
+&lt;p&gt;よって首へのダメージは高い。&lt;/p&gt;</description>
     </item>
     <item>
       <title>iPhone6の列に並んだ中国人が海外でも暴れたらしいけど、物販の列に横入りしてくる奴もなんなのよって話</title>
       <link>https://www.warawareotoko.com/posts/post-6356/</link>
       <pubDate>Tue, 23 Sep 2014 16:19:49 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-6356/</guid>
-      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;&#xA;&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;
+&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>LIVE中にスマホで写真を撮る行為について考えてみた</title>
       <link>https://www.warawareotoko.com/posts/post-5804/</link>
       <pubDate>Mon, 30 Jun 2014 14:21:37 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-5804/</guid>
-      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;&#xA;&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;
+&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>LIVEに彼女を連れていく方にお願いしたいこと</title>
       <link>https://www.warawareotoko.com/posts/post-5764/</link>
       <pubDate>Sun, 22 Jun 2014 09:16:24 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-5764/</guid>
-      <description>&lt;p&gt;お元気ですか？ぼくは日武は両日スタンドだったのでお会いできませんでしたが、いかがお過ごしでしょうか？彼女さんとあいもかわらず仲睦まじくヤッてすか？&lt;/p&gt;&#xA;&lt;p&gt;LIVEの時にいつも君たちを後ろから見てて微笑ましく思っております。&lt;/p&gt;&#xA;&lt;p&gt;ただ、ただ、少しだけ今日はお小言を言いたくて筆を取らせて頂きました。おバンギャならぬ、ジジンギャからの老婆心と取っていただいて結構です。この手紙を見て、少しでも気づきがあれば幸いです。&lt;/p&gt;&#xA;&lt;p&gt;まぁ、とは言っても何かと忙しいリア充の守くんの事ですからこの手紙を隅から隅まで読む時間も惜しいことでしょう。そこで下にこの手紙の構成を記します。&lt;/p&gt;&#xA;&lt;p&gt;気になるところに目を通していただければと思います。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;守くんがLIVEに来るのはきっと始めてじゃないと思う。だって、割と前の方にいるからね。きっと普段聞いてて、DVDなんかも見てて、彼女が軽い気持ちで言ったんじゃないか？&lt;/p&gt;&#xA;&lt;p&gt;「わたしもLIVEに行って見たい。連れてってよ」って&lt;/p&gt;&#xA;&lt;p&gt;もしかしたら守くんも一瞬躊躇したかもしれない。だって前の方は押しが激しいし、きっと彼女も色々と痛い思いをするかもしれない。でもそんな考えは吹き飛んですぐに君は「OK」したんじゃないか？じゃなかったらあんなにまえにいないよね？ぼくはそう思う。&lt;/p&gt;&#xA;&lt;p&gt;ここで最初のアドバイス&lt;/p&gt;&#xA;&lt;p&gt;「彼女とLIVEに行くなら後ろで見なさいよ」&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;次にお伝えしたいのは、彼女をガッツリガードするあまりATフィールド全開にしなさんなよということです。&lt;/p&gt;&#xA;&lt;p&gt;LIVEとは周りとの調和、そして空気感が産み出すカオスがじゅうようだと思います。それを無視して彼女の横に並んで押されて間に入ってしまいそうなぼくとか、彼女を押して圧迫してしまうぼくとかに肘鉄しないでください。まぁそれでもガードしたければ、彼女の後ろに回りましょう。そうすればあらかたコントロールできるでしょう。&#xA;横並びは、間に入られるし、肩に手置かれるし、何より彼女側で起きる事に対処できません。&lt;/p&gt;&#xA;&lt;p&gt;ということで、ガードするなら後ろから。これで守くんも周りもハッピーです。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;上でもちょっと言ったけど、彼女が押されても怒んないで、マジで。&lt;/p&gt;&#xA;&lt;p&gt;LIVEって押し押されるものですから。&#xA;もちろん意図的な迷惑行為はご法度だと思うけど。もしそういうのが嫌なら本当後ろ行って。&lt;/p&gt;&#xA;&lt;p&gt;もちろん愛する彼女に前で見せたいのわかるけど、だったら覚悟して覚悟させてね。&lt;/p&gt;&#xA;&lt;p&gt;と、まぁ口うるさく言ってきたけどさ、LIVEは楽しみましょうよ。&#xA;そしてもう次も彼女と来たかったら、やっぱり後ろの方行ってくださいな。&lt;/p&gt;&#xA;&lt;p&gt;それと私事で恐縮ですがぼく結婚しました。&#xA;さっき婚姻届出して来ました。&lt;/p&gt;&#xA;&lt;p&gt;なんかください。もしくはスタバのe-Giftでもいいよ。&lt;/p&gt;&#xA;&lt;p&gt;まってまーす。それではGAUZEツアーでお会いしましょう&lt;/p&gt;</description>
+      <description>&lt;p&gt;お元気ですか？ぼくは日武は両日スタンドだったのでお会いできませんでしたが、いかがお過ごしでしょうか？彼女さんとあいもかわらず仲睦まじくヤッてすか？&lt;/p&gt;
+&lt;p&gt;LIVEの時にいつも君たちを後ろから見てて微笑ましく思っております。&lt;/p&gt;
+&lt;p&gt;ただ、ただ、少しだけ今日はお小言を言いたくて筆を取らせて頂きました。おバンギャならぬ、ジジンギャからの老婆心と取っていただいて結構です。この手紙を見て、少しでも気づきがあれば幸いです。&lt;/p&gt;
+&lt;p&gt;まぁ、とは言っても何かと忙しいリア充の守くんの事ですからこの手紙を隅から隅まで読む時間も惜しいことでしょう。そこで下にこの手紙の構成を記します。&lt;/p&gt;
+&lt;p&gt;気になるところに目を通していただければと思います。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;守くんがLIVEに来るのはきっと始めてじゃないと思う。だって、割と前の方にいるからね。きっと普段聞いてて、DVDなんかも見てて、彼女が軽い気持ちで言ったんじゃないか？&lt;/p&gt;
+&lt;p&gt;「わたしもLIVEに行って見たい。連れてってよ」って&lt;/p&gt;
+&lt;p&gt;もしかしたら守くんも一瞬躊躇したかもしれない。だって前の方は押しが激しいし、きっと彼女も色々と痛い思いをするかもしれない。でもそんな考えは吹き飛んですぐに君は「OK」したんじゃないか？じゃなかったらあんなにまえにいないよね？ぼくはそう思う。&lt;/p&gt;
+&lt;p&gt;ここで最初のアドバイス&lt;/p&gt;
+&lt;p&gt;「彼女とLIVEに行くなら後ろで見なさいよ」&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;次にお伝えしたいのは、彼女をガッツリガードするあまりATフィールド全開にしなさんなよということです。&lt;/p&gt;
+&lt;p&gt;LIVEとは周りとの調和、そして空気感が産み出すカオスがじゅうようだと思います。それを無視して彼女の横に並んで押されて間に入ってしまいそうなぼくとか、彼女を押して圧迫してしまうぼくとかに肘鉄しないでください。まぁそれでもガードしたければ、彼女の後ろに回りましょう。そうすればあらかたコントロールできるでしょう。
+横並びは、間に入られるし、肩に手置かれるし、何より彼女側で起きる事に対処できません。&lt;/p&gt;
+&lt;p&gt;ということで、ガードするなら後ろから。これで守くんも周りもハッピーです。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;上でもちょっと言ったけど、彼女が押されても怒んないで、マジで。&lt;/p&gt;
+&lt;p&gt;LIVEって押し押されるものですから。
+もちろん意図的な迷惑行為はご法度だと思うけど。もしそういうのが嫌なら本当後ろ行って。&lt;/p&gt;
+&lt;p&gt;もちろん愛する彼女に前で見せたいのわかるけど、だったら覚悟して覚悟させてね。&lt;/p&gt;
+&lt;p&gt;と、まぁ口うるさく言ってきたけどさ、LIVEは楽しみましょうよ。
+そしてもう次も彼女と来たかったら、やっぱり後ろの方行ってくださいな。&lt;/p&gt;
+&lt;p&gt;それと私事で恐縮ですがぼく結婚しました。
+さっき婚姻届出して来ました。&lt;/p&gt;
+&lt;p&gt;なんかください。もしくはスタバのe-Giftでもいいよ。&lt;/p&gt;
+&lt;p&gt;まってまーす。それではGAUZEツアーでお会いしましょう&lt;/p&gt;</description>
     </item>
     <item>
       <title>LIVEの時のトイレってどうしてますか？</title>
       <link>https://www.warawareotoko.com/posts/post-5734/</link>
       <pubDate>Thu, 19 Jun 2014 13:05:28 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-5734/</guid>
-      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;&#xA;&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;
+&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>サマーソニックに向けて準備しておくこと</title>
       <link>https://www.warawareotoko.com/posts/post-2747/</link>
       <pubDate>Tue, 06 Aug 2013 15:31:05 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-2747/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.warawareotoko.com/posts/post-2747/images/91b01b1dcc102d7531a8009b6536eff6.png&#34; alt=&#34;&#34;&gt;今週末サマーソニックですね！ぼくは毎年いっております！今年もいきますよ〜&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-2747/images/91b01b1dcc102d7531a8009b6536eff6.png&#34;&gt;今週末サマーソニックですね！ぼくは毎年いっております！今年もいきますよ〜&lt;/p&gt;</description>
     </item>
     <item>
       <title>パンピーの女子をLIVEに誘うための5つのステップ</title>
       <link>https://www.warawareotoko.com/posts/post-725/</link>
       <pubDate>Sat, 30 Mar 2013 18:39:26 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-725/</guid>
-      <description>&lt;p&gt;先日の雅-MIYAVI-のライブ行ったときのこと、かわいらしい感じの女の子とおどおどした男の子が二人できてました。&lt;/p&gt;&#xA;&lt;p&gt;みたところつき合ってるって感じじゃないし、男の子の方はのらずにぼーっとたってる感じで顔も引きつってるし。&lt;/p&gt;</description>
+      <description>&lt;p&gt;先日の雅-MIYAVI-のライブ行ったときのこと、かわいらしい感じの女の子とおどおどした男の子が二人できてました。&lt;/p&gt;
+&lt;p&gt;みたところつき合ってるって感じじゃないし、男の子の方はのらずにぼーっとたってる感じで顔も引きつってるし。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

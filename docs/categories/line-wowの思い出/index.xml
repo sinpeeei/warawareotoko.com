@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LINE WOWの思い出 on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/categories/line-wow%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA/</link>
     <description>Recent content in LINE WOWの思い出 on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 14 Nov 2015 01:40:41 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/categories/line-wow%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <link>https://www.warawareotoko.com/posts/post-8600/</link>
       <pubDate>Sat, 14 Nov 2015 01:40:41 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-8600/</guid>
-      <description>&lt;p&gt;本日（11月12日）外苑にオープンしたハンバーガーシィップ「シェイクシャック」さっそく食べましたよ！&lt;/p&gt;&#xA;&lt;p&gt;でも実際にお店にいって食べたわけではなく、&lt;!-- raw HTML omitted --&gt;本日店じまいのLINE WOW&lt;!-- raw HTML omitted --&gt;にデリバリーをお願いして、食べました！&lt;/p&gt;</description>
+      <description>&lt;p&gt;本日（11月12日）外苑にオープンしたハンバーガーシィップ「シェイクシャック」さっそく食べましたよ！&lt;/p&gt;
+&lt;p&gt;でも実際にお店にいって食べたわけではなく、&lt;!-- raw HTML omitted --&gt;本日店じまいのLINE WOW&lt;!-- raw HTML omitted --&gt;にデリバリーをお願いして、食べました！&lt;/p&gt;</description>
     </item>
     <item>
       <title>【悲報】LINE WOWがサービス終了。一番うまかったハンバーガーをご紹介</title>
@@ -27,7 +28,8 @@
       <link>https://www.warawareotoko.com/posts/post-8276/</link>
       <pubDate>Wed, 26 Aug 2015 14:00:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-8276/</guid>
-      <description>&lt;p&gt;4月にLINEクリエーターズスタンプをリリースいたしました。ちなみに作ってLINEに提出したのが昨年の12月。そこから何度も規定に沿っていなかったためやり直しをして、ようやく販売開始となりました。&lt;/p&gt;&#xA;&lt;p&gt;で、ぶっちゃけいくら売れたの？とか儲かるの？ってところをご紹介したいと思います。&lt;/p&gt;</description>
+      <description>&lt;p&gt;4月にLINEクリエーターズスタンプをリリースいたしました。ちなみに作ってLINEに提出したのが昨年の12月。そこから何度も規定に沿っていなかったためやり直しをして、ようやく販売開始となりました。&lt;/p&gt;
+&lt;p&gt;で、ぶっちゃけいくら売れたの？とか儲かるの？ってところをご紹介したいと思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【LINE WOW】ピザハットでデリバリーしてもらいつつ半額で食べる方法</title>
@@ -76,7 +78,9 @@
       <link>https://www.warawareotoko.com/posts/post-7377/</link>
       <pubDate>Sat, 14 Mar 2015 16:00:50 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-7377/</guid>
-      <description>&lt;p&gt;平日のランチ、いつも決まったもの食べてませんか？だいたい決まったメンバーで決まった店をルーチンで回ってませんか？&lt;/p&gt;&#xA;&lt;p&gt;ぼくもそう。ってか最近は人とご飯食べるってことがほとんどなくて、スタバで簡単に済ませます。&#xA;そんな中見つけたLINE WOWというアプリ。ということで本日は「LINE　WOW」を実際に使った感想をご紹介&lt;/p&gt;</description>
+      <description>&lt;p&gt;平日のランチ、いつも決まったもの食べてませんか？だいたい決まったメンバーで決まった店をルーチンで回ってませんか？&lt;/p&gt;
+&lt;p&gt;ぼくもそう。ってか最近は人とご飯食べるってことがほとんどなくて、スタバで簡単に済ませます。
+そんな中見つけたLINE WOWというアプリ。ということで本日は「LINE　WOW」を実際に使った感想をご紹介&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>日常あれこれ on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/%E6%97%A5%E5%B8%B8%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C/</link>
     <description>Recent content in 日常あれこれ on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 24 May 2015 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/%E6%97%A5%E5%B8%B8%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,16 @@
       <link>https://www.warawareotoko.com/posts/post-7853/</link>
       <pubDate>Sun, 24 May 2015 16:00:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-7853/</guid>
-      <description>&lt;p&gt;美容室を選ぶ話です。&lt;/p&gt;&#xA;&lt;p&gt;告白します。ぼくは、今日いつも行ってる美容室と違う美容室に行きました。女性はだいたい毎回行く美容室が決まってるって人と気にいる所ができるまで、ひたすら変えていくって人2パターンが多いと思います。でも男性の場合、よっぽどのことがない限り変えないんじゃないかな。&lt;/p&gt;</description>
+      <description>&lt;p&gt;美容室を選ぶ話です。&lt;/p&gt;
+&lt;p&gt;告白します。ぼくは、今日いつも行ってる美容室と違う美容室に行きました。女性はだいたい毎回行く美容室が決まってるって人と気にいる所ができるまで、ひたすら変えていくって人2パターンが多いと思います。でも男性の場合、よっぽどのことがない限り変えないんじゃないかな。&lt;/p&gt;</description>
     </item>
     <item>
       <title>電車で新聞読む迷惑行為そろそろやめてもらっていっすか？</title>
       <link>https://www.warawareotoko.com/posts/post-6656/</link>
       <pubDate>Wed, 03 Dec 2014 04:56:15 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-6656/</guid>
-      <description>&lt;p&gt;スマホ以降どんどん減ってき、今じゃ滅多に見かけないですけど、たまにまだいますよね？電車の中で新聞読むおっさん&lt;/p&gt;&#xA;&lt;p&gt;あれやめてほしいです。&lt;/p&gt;</description>
+      <description>&lt;p&gt;スマホ以降どんどん減ってき、今じゃ滅多に見かけないですけど、たまにまだいますよね？電車の中で新聞読むおっさん&lt;/p&gt;
+&lt;p&gt;あれやめてほしいです。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

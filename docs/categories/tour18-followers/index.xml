@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TOUR18 FOLLOWERS on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/categories/tour18-followers/</link>
     <description>Recent content in TOUR18 FOLLOWERS on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 23 Dec 2018 00:35:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/categories/tour18-followers/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,10 @@
       <link>https://www.warawareotoko.com/posts/post-12222/</link>
       <pubDate>Sun, 23 Dec 2018 00:35:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12222/</guid>
-      <description>&lt;p&gt;だいたい関東というか東京周辺しかライブに行かないぼくですが、今回は年内ラスト、かつファンクラブ限定ツアー、さらにこれを逃すと次が3ヶ月先のツアー「The Insulated World」なので遠征することにしました！初Zepp Nagoyaでした！&#xA;(free-wii slumは今のところ行かない予定)&lt;/p&gt;&#xA;&lt;p&gt;久しぶりのDIR EN GREYのライブということもあって、体がついてこれませんでした。終わってみると体中痛いし、喉も首も痛い！でもぼくにとって今年最後のライブだったので行けてよかったー！&lt;/p&gt;&#xA;&lt;p&gt;ということで本日はDIR EN GREYのライブレポです。&lt;/p&gt;</description>
+      <description>&lt;p&gt;だいたい関東というか東京周辺しかライブに行かないぼくですが、今回は年内ラスト、かつファンクラブ限定ツアー、さらにこれを逃すと次が3ヶ月先のツアー「The Insulated World」なので遠征することにしました！初Zepp Nagoyaでした！
+(free-wii slumは今のところ行かない予定)&lt;/p&gt;
+&lt;p&gt;久しぶりのDIR EN GREYのライブということもあって、体がついてこれませんでした。終わってみると体中痛いし、喉も首も痛い！でもぼくにとって今年最後のライブだったので行けてよかったー！&lt;/p&gt;
+&lt;p&gt;ということで本日はDIR EN GREYのライブレポです。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

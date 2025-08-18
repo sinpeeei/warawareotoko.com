@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/categories/</link>
     <description>Recent content in Categories on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 17 May 2025 13:08:28 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/categories/index.xml" rel="self" type="application/rss+xml" />

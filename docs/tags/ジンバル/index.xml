@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ジンバル on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/%E3%82%B8%E3%83%B3%E3%83%90%E3%83%AB/</link>
     <description>Recent content in ジンバル on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:13:15 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/%E3%82%B8%E3%83%B3%E3%83%90%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,8 @@
       <link>https://www.warawareotoko.com/posts/post-10497/</link>
       <pubDate>Mon, 20 Mar 2017 15:42:31 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-10497/</guid>
-      <description>&lt;p&gt;ジンバルが気になって気になって、毎日メルカリやらヤフオクやらで激安の中古が出てないかチェックしてたんですが、そうしたらZhiyunから激安のジンバル「Smooth-Q」がつい先日発表されたとのことで、ソッコー予約いたしました。性能とかまだ日本語の記事がほとんどなかったので英語の記事を読んだりして情報収集しましたので本日はそのご紹介です。&lt;/p&gt;&#xA;&lt;p&gt;実際買いました！→&lt;!-- raw HTML omitted --&gt;激安ジンバル ZHIYUN「Smooth-Q」レビュー！軽くて手軽でいい！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;ジンバルが気になって気になって、毎日メルカリやらヤフオクやらで激安の中古が出てないかチェックしてたんですが、そうしたらZhiyunから激安のジンバル「Smooth-Q」がつい先日発表されたとのことで、ソッコー予約いたしました。性能とかまだ日本語の記事がほとんどなかったので英語の記事を読んだりして情報収集しましたので本日はそのご紹介です。&lt;/p&gt;
+&lt;p&gt;実際買いました！→&lt;!-- raw HTML omitted --&gt;激安ジンバル ZHIYUN「Smooth-Q」レビュー！軽くて手軽でいい！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

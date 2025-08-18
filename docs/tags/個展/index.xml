@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>個展 on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/%E5%80%8B%E5%B1%95/</link>
     <description>Recent content in 個展 on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 19 May 2018 09:00:39 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/%E5%80%8B%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
@@ -20,14 +20,16 @@
       <link>https://www.warawareotoko.com/posts/post-9031/</link>
       <pubDate>Sun, 10 Apr 2016 23:20:57 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-9031/</guid>
-      <description>&lt;p&gt;全日程終了につきレポ解禁。ということで最終日の本日いってまいりました京個展「我葬」&lt;/p&gt;&#xA;&lt;p&gt;とてつもなく重苦しい空気間と脳と体が両方披露するような圧を感じました。ということで本日は個展のレポートです。&lt;/p&gt;</description>
+      <description>&lt;p&gt;全日程終了につきレポ解禁。ということで最終日の本日いってまいりました京個展「我葬」&lt;/p&gt;
+&lt;p&gt;とてつもなく重苦しい空気間と脳と体が両方披露するような圧を感じました。ということで本日は個展のレポートです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【イベントレポ】京個展2015「我葬」＠GALLERY LE DECO</title>
       <link>https://www.warawareotoko.com/posts/post-8263/</link>
       <pubDate>Sun, 23 Aug 2015 14:00:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-8263/</guid>
-      <description>&lt;p&gt;本日参列してまいりました。京の個展「我葬」&lt;/p&gt;&#xA;&lt;p&gt;開催期間終了しましたので感想をここに残します。&lt;/p&gt;</description>
+      <description>&lt;p&gt;本日参列してまいりました。京の個展「我葬」&lt;/p&gt;
+&lt;p&gt;開催期間終了しましたので感想をここに残します。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

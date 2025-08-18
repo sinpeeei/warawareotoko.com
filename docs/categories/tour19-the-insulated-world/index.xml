@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TOUR19 the Insulated World on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/categories/tour19-the-insulated-world/</link>
     <description>Recent content in TOUR19 the Insulated World on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 30 Nov 2019 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/categories/tour19-the-insulated-world/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,16 @@
       <link>https://www.warawareotoko.com/posts/post-12974/</link>
       <pubDate>Sat, 30 Nov 2019 12:00:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12974/</guid>
-      <description>&lt;p&gt;DIR EN GREYのツアーが終わりましたので振り返りと感じたことをまとめたいと思います。&lt;/p&gt;&#xA;&lt;p&gt;今回行われたツアーは2018年9月に発売したアルバム「The Insulated World」の一端であり、アルバムの一部と言っても過言ではないシングル「The World of Mercy」の世界観を知らしめたツアーでした。&lt;/p&gt;</description>
+      <description>&lt;p&gt;DIR EN GREYのツアーが終わりましたので振り返りと感じたことをまとめたいと思います。&lt;/p&gt;
+&lt;p&gt;今回行われたツアーは2018年9月に発売したアルバム「The Insulated World」の一端であり、アルバムの一部と言っても過言ではないシングル「The World of Mercy」の世界観を知らしめたツアーでした。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【ライブレポ】DIR EN GREY TOUR19 「The Insulated World」2019_4_16@新木場スタジオコースト</title>
       <link>https://www.warawareotoko.com/posts/post-12524/</link>
       <pubDate>Thu, 18 Apr 2019 11:00:00 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-12524/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/20190418020620.png&#34; alt=&#34;&#34;&gt;&#xA;新木場スタジオコースト2日目、個人的には本ツアーのラストでした。昨日よりもさらに盛り上がりのあるライブで押しもかなり強く目の前にいた背の高い男性数名が一瞬で消失しました。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20190418020620.png&#34;&gt;
+新木場スタジオコースト2日目、個人的には本ツアーのラストでした。昨日よりもさらに盛り上がりのあるライブで押しもかなり強く目の前にいた背の高い男性数名が一瞬で消失しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【ライブレポ】DIR EN GREY TOUR19 「The Insulated World」2019_4_15@新木場スタジオコースト</title>

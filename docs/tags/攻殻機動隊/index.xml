@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>攻殻機動隊 on 私のカワイイトラとウマ</title>
     <link>https://www.warawareotoko.com/tags/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A/</link>
     <description>Recent content in 攻殻機動隊 on 私のカワイイトラとウマ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 05 Jul 2015 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.warawareotoko.com/tags/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A/index.xml" rel="self" type="application/rss+xml" />
@@ -27,14 +27,15 @@
       <link>https://www.warawareotoko.com/posts/post-5872/</link>
       <pubDate>Sat, 12 Jul 2014 18:44:55 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-5872/</guid>
-      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;&#xA;&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ハロー。しんぺー(&lt;!-- raw HTML omitted --&gt;@s_s_p_y&lt;!-- raw HTML omitted --&gt; )です。&lt;/p&gt;
+&lt;p&gt;オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>攻殻機動隊ARISE感想。その前に知らない人のために解説</title>
       <link>https://www.warawareotoko.com/posts/post-2429/</link>
       <pubDate>Thu, 27 Jun 2013 16:22:13 +0000</pubDate>
       <guid>https://www.warawareotoko.com/posts/post-2429/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.warawareotoko.com/posts/post-2429/images/61682ba03e5e2b7849f453e86930ce94.jpg&#34; alt=&#34;&#34;&gt;攻殻機動隊ARISE「GHOSTPAIN」見てきやしたっ！&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.warawareotoko.com/posts/post-2429/images/61682ba03e5e2b7849f453e86930ce94.jpg&#34;&gt;攻殻機動隊ARISE「GHOSTPAIN」見てきやしたっ！&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
