@@ -14,7 +14,9 @@ title: '【LUNATIC FEST.】出演アーティススト第１弾発表 #ルナフ
 <a href="http://lunaticfest.com/">http://lunaticfest.com/</a>
 
 
-<h2>参戦バンド</h2>
+
+## 参戦バンド
+
 
 ルナフェス公式：<a href="http://lunaticfest.com/artists/">http://lunaticfest.com/artists/</a>
 
@@ -38,7 +40,9 @@ title: '【LUNATIC FEST.】出演アーティススト第１弾発表 #ルナフ
 参戦予定の23バンド中の11バンドが発表されたことになります。
 残り12バンド。
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 次は5月4日
 

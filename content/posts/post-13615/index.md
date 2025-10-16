@@ -15,7 +15,9 @@ NIZIプロジェクトがはじまる少し前くらいからTwiceをYoutube上�
 
 その後、NIZIプロジェクトは始まり、いっきにJY.Parkの人柄に魅了されたみたいな感じです。（ありがち）
 
-<h2>NiziUについて</h2>
+
+## NiziUについて
+
 NiziUが好きというよりもJY.Parkが好きという感じです。
 
 ダンスや曲をテレビで披露しているのを何回か目にしましたが、やはりまだまだな感じがします。Twiceと比べると、比べるのもおかしな話ではありますが、まだまだレベルが違うのは当たり前かなという感じです。
@@ -28,7 +30,9 @@ https://youtu.be/xeUWGjPwujg
 
 ちなみに個人的にはこっちの曲の方が好きです。
 
-<h2>Twiceのここがいい</h2>
+
+## Twiceのここがいい
+
 最近というか今年に入ってからYouTubeで見まくってます。自然とそうなったという感じですが。
 
 毎日ほぼずっと流しっぱなしで何かしらの動画を見てる気がします。
@@ -52,7 +56,9 @@ Feel Specialのエピソードなんかを調べて涙ぐみましたわ。
 
 https://youtu.be/3ymwOvzhwHs
 
-<h2>Stay Kids</h2>
+
+## Stay Kids
+
 で、最近になってポツポツ見るようになって一気にハマったのが、Twiceの事務所の後輩のStray Kidsです。男性グループです。
 
 初めて見たのはThe First Takeでアカペラで歌ってる動画です。
@@ -69,7 +75,9 @@ https://youtu.be/T7DY0FXJV18
 
 <iframe src="https://embed.music.apple.com/us/album/all-in/1533769004?app=music&amp;itsct=music_box&amp;itscg=30200&amp;at=11ld5P&amp;ct=albums_all_in&amp;ls=1" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 K-POPなんか全く興味なかった(いや、過去4minutes聴いてた時あったな)のに、今やハマりはじめています。
 

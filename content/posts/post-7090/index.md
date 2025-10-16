@@ -18,14 +18,18 @@ title: 【sukekiyoまとめ】ついにスタートThe Unified Field-双卵の�
 
 
 
-<h2>LM.C</h2>
+
+## LM.C
+
 
 各日限定のコラボステッカー
 <blockquote class="twitter-tweet" lang="ja"><p>今日はsukekiyoとの対バンです。&#10;&#10;表現のベクトルがほぼ真逆なバンド同士なので、ある意味楽しみっす！&#10;&#10;sukekiyoファンの皆様もチーマーのみんなも、共に楽しみましょう。 <a href="http://t.co/48KN4JisGH">pic.twitter.com/48KN4JisGH</a></p>&mdash; LM.C Aiji (@Aiji_LMC) 2015, 1月 28</blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h3>LM.Cのセトリ</h3>
+
+### LM.Cのセトリ
+
 
 1.No.9
 2.LET ME' CRAZY!! 
@@ -43,7 +47,9 @@ title: 【sukekiyoまとめ】ついにスタートThe Unified Field-双卵の�
 <table  border="0" cellpadding="5" style="border:none"><tr><td style="border:none;text-align:left"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00OAXJYKK/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">PERFECT RAINBOW【初回限定盤】</a></td></tr><tr><td style="border:none"><table  border="0" cellpadding="0" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00OAXJYKK/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">![](images/51D0jD1tAhL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-detail" style="margin-bottom:5px;">LM.C ビクターエンタテインメント 2014-12-17</div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 88556</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=PERFECT%20RAINBOW%81y%8F%89%89%F1%8C%C0%92%E8%94%D5%81z&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPERFECT%2520RAINBOW%25E3%2580%2590%25E5%2588%259D%25E5%259B%259E%25E9%2599%2590%25E5%25AE%259A%25E7%259B%25A4%25E3%2580%2591%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3DPERFECT%2520RAINBOW%25E3%2580%2590%25E5%2588%259D%25E5%259B%259E%25E9%2599%2590%25E5%25AE%259A%25E7%259B%25A4%25E3%2580%2591" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3DPERFECT%2520RAINBOW%25E3%2580%2590%25E5%2588%259D%25E5%259B%259E%25E9%2599%2590%25E5%25AE%259A%25E7%259B%25A4%25E3%2580%2591" rel="nofollow"  target="_blank" title="ヤフオク!" >ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table></td></tr></table>
 
 
-<h3>LIVE後のLM.CギターAijiの反応</h3>
+
+### LIVE後のLM.CギターAijiの反応
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>今日のsukekiyoとの対バン@赤坂ブリッツ、超刺激的だった。&#10;2バンドだからこそのコントラスト具合で、お互いの世界感がブーストし合えたライブだったと思う！&#10;対バンのライブをほぼ全部ちゃんと観たのも本当久しぶりで、しっかり刺激いただきました。&#10;&#10;最高に楽しかったっす！</p>&mdash; LM.C Aiji (@Aiji_LMC) 2015, 1月 28</blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -77,7 +83,9 @@ suke、ピ、cali≠gari、X、LUNA SEA、凛としれ時雨、鬼束ちひろ�
 ってかmayaの方のTwitterみたら年末から止まってましたw
 
 
-<h2>sukekiyoのセトリ</h2>
+
+## sukekiyoのセトリ
+
 
 1.destrudo
 2.aftermath
@@ -96,12 +104,16 @@ suke、ピ、cali≠gari、X、LUNA SEA、凛としれ時雨、鬼束ちひろ�
 なお、追加公演として調布グリーンホールというところでのLIVEが発表されました。
 
 
-<h2>HEAD PHONES PRESIDENT</h2>
+
+## HEAD PHONES PRESIDENT
+
 
 各日限定のコラボステッカー
 <div class="kwout" style="text-align: center;">![](images/bqs_bor.jpg)<map id="map_b75mjbqs" name="map_b75mjbqs"><area coords="0,0,96,28" href="http://www.ameba.jp/" alt="" shape="rect" /><area coords="102,0,159,28" href="http://mypage.ameba.jp/" alt="" shape="rect" /><area coords="172,0,199,28" href="http://pigg.ameba.jp/" alt="" shape="rect" /><area coords="212,0,259,28" href="http://blog.ameba.jp/ucs/top.do" alt="" shape="rect" /></map><p style="margin-top: 10px; text-align: center;"><a href="http://ameblo.jp/yuchi-bassist/entry-11983792258.html">双卵の眼、名古屋公演終了！｜YUCHI OFFICIAL BLOG 「discharge!」Powered by Ameba</a> via <a href="http://kwout.com/quote/b75mjbqs">kwout</a></p></div>
 
-<h3>HEAD PHONES PRESIDENTのセトリ</h3>
+
+### HEAD PHONES PRESIDENTのセトリ
+
 
 1.Life is not fair
 2.Hang Veil
@@ -114,7 +126,9 @@ suke、ピ、cali≠gari、X、LUNA SEA、凛としれ時雨、鬼束ちひろ�
 9.Where Are You
 10.Stand in The World
 
-<h2>sukekiyoのセトリ</h2>
+
+## sukekiyoのセトリ
+
 
 1.destrudo
 2.aftermath
@@ -131,7 +145,9 @@ suke、ピ、cali≠gari、X、LUNA SEA、凛としれ時雨、鬼束ちひろ�
 13.in all weathers
 
 
-<h3>LIVE後のHEAD PHONES PRESIDENT関係者の反応</h3>
+
+### LIVE後のHEAD PHONES PRESIDENT関係者の反応
+
 
 LIVE後の匠のブログ。時間的に寝ないでそのまま書かれているみたいですw
 <a href="http://ameblo.jp/takumixofficial/entry-11983726496.html" target="_blank">![](images/entry-11983726496.html)</a><a style="color:#0070C5;" href="http://ameblo.jp/takumixofficial/entry-11983726496.html" target="_blank">sukekiyo / HEAD PHONES PRESIDENT 名古屋公演終了｜匠オフィシャルブログ「Takumi's blog」by Ameba</a>![](images/entry-11983726496.html)<br style="clear:both;" /><br>
@@ -146,7 +162,9 @@ LIVE後の匠のブログ。時間的に寝ないでそのまま書かれてい�
 <div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=444902119006265&amp;set=a.402040716625739.1073741826.100004594417078&amp;type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/photo.php?fbid=444902119006265&amp;set=a.402040716625739.1073741826.100004594417078&amp;type=1">投稿</a> by Anza Ohyama.</div></div>
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 次回は2月2日の福岡のスカラエスパシオにてacid androidoとの対バンです。
 
 それと公式アカウントで毎日カウントダウンツイートがされています。VITIUMの発売もとうとう来週です。

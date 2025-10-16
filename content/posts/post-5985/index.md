@@ -46,7 +46,9 @@ LIVE慣れしてるけどどこかきょどってる。
 
 そして今もそれはあんま変わらないかな
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 なんで、ふとこんなこと思ったかというと、こちらの記事がきっかけ。
 
 <a href="http://vif-music.com/pierrot-respect/vol2-sono/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="http://vif-music.com/pierrot-respect/vol2-sono/" target="_blank">Vol.2：苑（摩天楼オペラ） | Vif</a><a href="http://b.hatena.ne.jp/entry/http://vif-music.com/pierrot-respect/vol2-sono/" target="_blank">![](images/)</a><br><strong>増田さんインタビューのPIERROTに影響を受けた人たちの記事</strong><br style="clear:both;" /><br>

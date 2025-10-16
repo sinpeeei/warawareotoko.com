@@ -13,7 +13,9 @@ title: 今週のsukekiyoまとめ！3月〜4月5日(2014)
 あと数週間でsukekiyoの1stアルバム「IMMORTALIS」が発売、そしてツアーです。
 それもあって、ここ数週間の発表がいくつもありましたのでまとめておきたいと思います。
 
-<h2>京さんタワレコ京都にあらわる</h2>
+
+## 京さんタワレコ京都にあらわる
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>フラッとタワーレコード京都に来ましたよっと。 京 <a href="http://t.co/G1GTnjvaCG">pic.twitter.com/G1GTnjvaCG</a></p>&mdash; sukekiyo (@sukekiyo_band) <a href="https://twitter.com/sukekiyo_band/statuses/445469937339887616">2014, 3月 17</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -25,7 +27,9 @@ title: 今週のsukekiyoまとめ！3月〜4月5日(2014)
 すでに販売時期は終わってるのか、JIMMY CHOOのサイトでは確認できませんでした。
 
 
-<h2>1stアルバム「IMMORTALIS」の豪華すぎるゲストアーティスト</h2>
+
+## 1stアルバム「IMMORTALIS」の豪華すぎるゲストアーティスト
+
 
 いままで発表されていたアーティストがこちら
 
@@ -53,7 +57,9 @@ aftermath　Remixed by acid android
 
 それぞれ聴いたことの内アーティストもまじってますので予習がてらご紹介
 
-<h3>キリト（Angelo）</h3>
+
+### キリト（Angelo）
+
 
 以前こちらの記事にも書きましたが、改めて。
 <a href="https://www.warawareotoko.com/2014/03/07/post-4553/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2014/03/07/post-4553/" target="_blank">sukekiyoのアルバムに向けて。キリトを知らない人のためにキリトについてさわりだけ紹介したいと思います | Gadget Zombie Parasite</a>![](images/)<br style="clear:both;" /><br>
@@ -71,7 +77,9 @@ PIERROT解散後にはBassを務める実弟のKOHTAとDrumsのTAKEOとともに
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/album/rebirth-of-newborn-baby/id251207241?uo=4&at=11ld5P" target="_blank" ></a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/album/rebirth-of-newborn-baby/id251207241?uo=4&at=11ld5P" target="_blank" >REBIRTH OF NEWBORN BABY</a></div><div class="pochi_price" style="display:inline;">1,800円</div><div class="pochi_time" style="font-size:x-small;display:inline;">(2014.04.05時点)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/artist/angelo/id206269175?uo=4&at=11ld5P" target="_blank" >Angelo</a></div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
 
 
-<h3>P.T.PのPABLO</h3>
+
+### P.T.PのPABLO
+
 
 オフィシャルサイトはこちら
 <a href="http://www.paymoneytomypain.com">Pay money To my Pain official site</a>
@@ -99,7 +107,9 @@ Booクリスマス、SIMの主催するイベントでした。
 なお、今回リミックスを手がけたPABLO氏ですが、ギター担当のバンドリーダーです。かなりの実力派のようです。wikipediaによるとFAKE?や中島卓偉等のサポートを行っていたようです。さらにはリンプ・ビズキットのギタリスト・オーディションで最終選考まで残ったとのことです。
 
 
-<h3>凛として時雨のTK</h3>
+
+### 凛として時雨のTK
+
 
 ぼくこのバンド名前しか知らない。いや、厳密にいうとPSYCHO-PASSの主題歌を歌ってたことしか知らない。
 
@@ -110,7 +120,9 @@ Booクリスマス、SIMの主催するイベントでした。
 で、今回のTK氏はコムロテツヤではありません。北嶋徹のイニシャルです。
 
 
-<h3>Devilslug</h3>
+
+### Devilslug
+
 
 <blockquote>
 最終発表として公式サイトにて解禁されたのは、「in all weathers」を手掛けたDevilslug。実は、グラミー賞を受賞した経験もある、革新的ヘヴィ・ロックバンド、KORNのジョナサン・ディヴィス（Vo）によるコラボユニット。
@@ -131,7 +143,9 @@ KORNと言えば「THE FAMILY VALUES TOUR 2006」に参加したときからの�
 このアルバム「untitled」って名前じゃなくて、タイトル無しなんですねw
 それってあらゆる商業的な常識を無視してるw超ロックw
 
-<h3>石井 秀仁</h3>
+
+### 石井 秀仁
+
 
 あの桜井青様が才能に嫉妬したcali≠gariのボーカルです。
 ぼくの大好きなバンドの１つです。
@@ -162,7 +176,9 @@ Amazonはこちら
 itunesはこちらから
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/album/10/id326633222?uo=4&at=11ld5P" target="_blank" ></a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/album/10/id326633222?uo=4&at=11ld5P" target="_blank" >10</a></div><div class="pochi_price" style="display:inline;">2,100円</div><div class="pochi_time" style="font-size:x-small;display:inline;">(2014.04.05時点)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/artist/cali-gari/id322408624?uo=4&at=11ld5P" target="_blank" >cali≠gari</a></div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
 
-<h3>SUGIZO</h3>
+
+### SUGIZO
+
 
 説明は不要ですよね？
 sukekyoのデビューLIVEであるSUGIZOのオープニングアクトについてのレポートはこちら
@@ -172,7 +188,9 @@ sukekyoのデビューLIVEであるSUGIZOのオープニングアクトについ
 ぼくはLUNA SEAはほとんど聞いたことないですし、SUGIZO氏も全く聴いたことがありません。すいません。
 
 
-<h3>室姫 深</h3>
+
+### 室姫 深
+
 
 全く知らない•••と思ったらTHE MAD CAPSULE MARKETSの結成メンバーとのこと
 ということはTHE SPINのメンバーか！このTHE SPINですがひょんなことから知ったバンドですがけっこうお気に入りです。
@@ -183,7 +201,9 @@ sukekyoのデビューLIVEであるSUGIZOのオープニングアクトについ
 軽快なリズムで元気な女の子の声でいいんです！
 
 
-<h3>人時</h3>
+
+### 人時
+
 
 この方も説明いりますか？
 
@@ -198,7 +218,9 @@ sukekyoのデビューLIVEであるSUGIZOのオープニングアクトについ
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/album/wang-queno-kong-ep/id379048298?uo=4&at=11ld5P" target="_blank" ></a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/album/wang-queno-kong-ep/id379048298?uo=4&at=11ld5P" target="_blank" >忘却の空 - EP</a></div><div class="pochi_price" style="display:inline;">600円</div><div class="pochi_time" style="font-size:x-small;display:inline;">(2014.04.06時点)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/artist/sads/id73406833?uo=4&at=11ld5P" target="_blank" >SADS</a></div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
 
 
-<h3>HISASHI</h3>
+
+### HISASHI
+
 
 GLAYのギタリスト！！以上！！
 
@@ -216,7 +238,9 @@ MERMAIDです。
 
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name">ONE LOVE</div><div class="pochi_price" style="display:inline;">2,400円</div><div class="pochi_time" style="font-size:x-small;display:inline;">(2014.04.06時点)</div><div class="pochi_seller">GLAY</div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
 
-<h3> 橘尭葉 / 妖精帝國</h3>
+
+### 橘尭葉 / 妖精帝國
+
 
 このメンバーの中で本当に純粋にまったくきいたことがない！！
 予備情報一切なし！！
@@ -228,7 +252,9 @@ MERMAIDです。
 全くきいたことがないので楽曲のご紹介もいたしません。IMMORTALISを聴いてから、興味があれば聴いてみたいと思います。こういう場合はあえて偏見なしの純粋な気持ちで聴いた方がいいからね。
 
 
-<h3>acid android</h3>
+
+### acid android
+
 
 L'Arc〜en〜Cielのドラマー、yukihiroのソロプロジェクト。
 MTVか何かで聴いたことが1度あります。
@@ -246,7 +272,9 @@ MTVか何かで聴いたことが1度あります。
 さて！参加アーティストの予習は以上です！
 
 
-<h2>京都贔屓の京は京都出身じゃないwww</h2>
+
+## 京都贔屓の京は京都出身じゃないwww
+
 
 はい、我らが京さんからのエイプリルフールねたはこちらwww
 っていっても4月1日限定だったのか、あの記事。今見たらもう変ってましたわ。残念。
@@ -257,7 +285,9 @@ MTVか何かで聴いたことが1度あります。
 <a href="http://sukekiyo-official.jp/assets/images/archive/img_karasuma_omote.jpg" target="_blank">![](images/img_karasuma_omote.jpg)</a><a style="color:#0070C5;" href="http://sukekiyo-official.jp/assets/images/archive/img_karasuma_omote.jpg" target="_blank">img_karasuma_omote.jpg 850×787 ピクセル</a>![](images/img_karasuma_omote.jpg)<br style="clear:both;" /><br>
 
 
-<h2>追加公演けてーいww</h2>
+
+## 追加公演けてーいww
+
 
 イマサラかよ！ってしかも追加って言ってもツアーが始まる前にwアルバムが発売する前w
 
@@ -274,7 +304,9 @@ NEXTROAD
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>「in all weathers」のMVに鬼束ちひろ</h2>
+
+## 「in all weathers」のMVに鬼束ちひろ
+
 
 これもkyo onlineにて先行公開がされていました。
 あれー似てるかな？とか思ってたらけど違うかーと思ったらそうだったwww
@@ -283,7 +315,9 @@ NEXTROAD
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/zT-NBH-SXE4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 なんかあれだな、ここまで豪華だと昔のキリトのソロを思い出す。
 

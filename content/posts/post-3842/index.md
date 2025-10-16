@@ -15,7 +15,9 @@ title: sukekiyo直前情報。sukekiyo=kyo関連確定
 &nbsp;
 &nbsp;
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>SUGIZO氏から事前コメント</b></div></h2>
+
+## SUGIZO氏から事前コメント
+
 
 さて、昨日あたりにsugizo氏がこんなコメントをしておりました。
 
@@ -26,8 +28,9 @@ title: sukekiyo直前情報。sukekiyo=kyo関連確定
 
 確定か？？
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>今から物販向かいます。
-</b></div></h3>
+
+### 今から物販向かいます。
+
 
 
 ![](images/slooProImg_20131229124056.jpg)
@@ -45,50 +48,23 @@ title: sukekiyo直前情報。sukekiyo=kyo関連確定
 
 ちらほら虜がおりますな。
 
-<h4>さて物販は•••</h4>
 
-![](images/slooProImg_20131229124945.jpg)
+#### つに手に入れた！！
 
-12:50時点で100人？くらい並んでるかな。
-
-日当たり良好につきあったかいです。
-
-
-<h5>列が進んだぞ！あと1時間！</h5>
-
-<blockquote class="twitter-tweet" lang="ja"><p>sukekiyo情報。列は多くても60人くらい。&#10;右翼凱旋カーが行きかう。</p>&mdash; しんぺー@sukekiyo (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/statuses/417143185752592384">2013, 12月 29</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-今日の模様はニコ生にて放送するそうです。
-ただsukekiyoが放送されるかは不明
-
-<blockquote class="twitter-tweet" lang="ja"><p>[LIVE] The show will be live-streamed as well! <a href="http://t.co/yxdMSxFGjd">http://t.co/yxdMSxFGjd</a> <a href="http://t.co/H1OMoDNPty">pic.twitter.com/H1OMoDNPty</a></p>&mdash; SUGIZO (@SUGIZOofficial) <a href="https://twitter.com/SUGIZOofficial/statuses/417152445681131522">2013, 12月 29</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-当日券でる
-<blockquote class="twitter-tweet" lang="ja"><p>[LIVE] SUGIZO TOUR 2013 THRIVE TO REALIZE 渋谷AX公演、遂に今夜開催！当日券は15:00より販売。本公演はニコニコ生放送でも生中継されます。 <a href="http://t.co/yxdMSxFGjd">http://t.co/yxdMSxFGjd</a> <a href="http://t.co/XaKhFyLMlI">pic.twitter.com/XaKhFyLMlI</a></p>&mdash; SUGIZO (@SUGIZOofficial) <a href="https://twitter.com/SUGIZOofficial/statuses/417152225064910848">2013, 12月 29</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>つに手に入れた！！</b></div></h2>
-買えた！！
-
-<h3>これが音源のジャケット</h3>
-![](images/slooProImg_20131229142901.jpg)
-
-
-<h4>これがステッカー</h4>
 
 ![](images/slooProImg_20131229142859.jpg)
 
 
-<h5>これがTシャツ</h5>
+
+##### これがTシャツ
+
 
 ![](images/slooProImg_20131229142858.jpg)
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>そしてsukekiyo=KYO関連確定の件</b></div></h2>
+
+## そしてsukekiyo=KYO関連確定の件
+
 
 EPに書いてありました。ゼメキスと。ゼメキスと。
 
@@ -96,6 +72,8 @@ EPに書いてありました。ゼメキスと。ゼメキスと。
 
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>さてLIVEに参戦するか否か・・・</b></div></h3>
+
+### さてLIVEに参戦するか否か・・・
+
 
 結局LIVEには当日券で参加することにいたしました！！！その結果もあげております！！どうぞ

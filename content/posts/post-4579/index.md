@@ -10,7 +10,9 @@ title: 【速報】sukekiyoLIVEやるってよ
 
 ![](images/sukekiyo_LIVE.jpg)
 
-<h2>sukekiyoLIVEやるってよ</h2>
+
+## sukekiyoLIVEやるってよ
+
 
 ![](images/slooProImg_20140309211223.jpg)
 
@@ -36,7 +38,9 @@ title: 【速報】sukekiyoLIVEやるってよ
 撮影OKらしいけど、歓声や声援は上げちゃいけないってさ。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 ようやく書けた！土日はLIVEやらアプリの講座やらで、その後はLIVEレポあげたりで、月曜と火曜は会社のイベントで使う動画編集やらなんやらで書けかったけど、ようやくかけるsukekiyoLIVEのことちゃんと書けました。
 

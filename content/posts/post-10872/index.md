@@ -26,7 +26,9 @@ GAUZEの時は言ってもスタンディングだったし、本人たちも久
 
 けど、そんなこともなく、やっぱりDIR EN GREYはDIR EN GREYだった。一曲一曲がとてつもなく重厚で、sukekiyoとかDUMの様な息もできない圧倒感があった。
 
-来週の追加公演はスタンディングなので耐えられるかどうか…ということで本日のLIVEレポです。<!--more--><h2>MACABREとは？</h2>
+来週の追加公演はスタンディングなので耐えられるかどうか…ということで本日のLIVEレポです。<!--more-->
+## MACABREとは？
+
 
 当時の文献は持っていないので<a href="https://ja.wikipedia.org/wiki/MACABRE">wikipedia</a>と曖昧な記憶から
 
@@ -43,7 +45,9 @@ GAUZEと違ってセルフプロデュースで、ジャケットなどにも徹
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00005LPD0/warawareotoko-22/" target="_blank" rel="noopener noreferrer">![](images/31Q1RrG7%2BzL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00005LPD0/warawareotoko-22/" target="_blank" rel="noopener noreferrer">TOUR 00>>01 MACABRE [DVD]</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow noopener noreferrer" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">Dir en grey フリーウィル 2001-08-22    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="margin:5px 0"><a href="http://www.amazon.co.jp/gp/search?keywords=TOUR%2000&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=warawareotoko-22" target="_blank" rel="noopener noreferrer">Amazon</a></div><div class="shoplinkrakuten" style="margin:5px 0"><a href="https://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTOUR%252000%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer">楽天市場</a></div><div class="shoplinkyahoo" style="margin:5px 0"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DTOUR%252000&vcptn=kaereba" target="_blank" rel="noopener noreferrer">Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
 
-<h2>セトリ</h2>
+
+## セトリ
+
 
 ![](images/IIMG_8826.jpg)
 
@@ -83,7 +87,9 @@ Sustain the Untruth
 
 それと上手側の前方にてDieを生かしたいないいないばあと、背中合わせなどのイチャコラがございましたのでご報告いたします。
 
-<h2>メンバー衣装とステージセット</h2>
+
+## メンバー衣装とステージセット
+
 
 京は噂に聞いてた緑髪にジャケット？をはおり、黒いスキニーパンツ。途中でジャケットを脱ぐと中は襟がフリフリした長袖のシャツ（多分）グローブしてたかどうかは覚えてない。アンコではピンクヒョウ柄シャツにサスペンダー
 
@@ -94,7 +100,9 @@ Toshiyaはチョッキに白シャツに黒ネクタイでいつもの正装。�
 
 アンコはこれ
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">中野サンプラザ、1日目はこの場所に帰って来れた幸せと、楽しい時間をありがとう。<br><br>Toshiya<a href="https://twitter.com/hashtag/DIRENGREY?src=hash">#DIRENGREY</a> <a href="https://twitter.com/hashtag/modeofMACABRE?src=hash">#modeofMACABRE</a><br> <a href="https://t.co/Andnqsnov2">https://t.co/Andnqsnov2</a> <a href="https://t.co/EoGAqPiMqZ">pic.twitter.com/EoGAqPiMqZ</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/889856532283707392">2017年7月25日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">中野サンプラザ、1日目はこの場所に帰って来れた幸せと、楽しい時間をありがとう。
+
+Toshiya<a href="https://twitter.com/hashtag/DIRENGREY?src=hash">#DIRENGREY</a> <a href="https://twitter.com/hashtag/modeofMACABRE?src=hash">#modeofMACABRE</a><br> <a href="https://t.co/Andnqsnov2">https://t.co/Andnqsnov2</a> <a href="https://t.co/EoGAqPiMqZ">pic.twitter.com/EoGAqPiMqZ</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/889856532283707392">2017年7月25日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -106,7 +114,9 @@ Dieはフワッフワの髪型に噂の御御足は遠目にはわかりませ�
 やもさん白かったです。アンコは猫Tシャツ
 
 
-<h2>中野サンプラザ周辺情報</h2>
+
+## 中野サンプラザ周辺情報
+
 
 ![](images/IIMG_8821.jpg)
 
@@ -124,7 +134,9 @@ Dieはフワッフワの髪型に噂の御御足は遠目にはわかりませ�
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.795000680645!2d139.66403531529483!3d35.70666198018843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f296b7f6ad33%3A0x855c35e657627189!2z5LqM5Luj55uu44GI44KT5a-6!5e0!3m2!1sja!2sjp!4v1501000935720" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 ホールツアーだからこそ演出を堪能することができました。それにしても、もんなにも一曲一曲濃厚なアルバムだったとは思いませんでした。ぼくは次回は追加公演のZeppTokyoです。今日はグッズを見る余裕がありませんでしたので、次回はしっかりと見たいと思います。噂のビックリマンシールとか。それにしてもちゃんとした普通のTシャツを出してほしい。普段着で来てるんでそろそろ出してもらわないと全部ボロくなってきちゃったし。買ったDIRTはなんだか女性向けのシルエットなので男が着ると似合わない人は似合わない。。。似合いませんでした。ドルマンはきれないしな。。。
 

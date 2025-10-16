@@ -11,7 +11,9 @@ title: 【ライブレポ】DIR EN GREY TOUR16-17 FROM DEPRESSION TO ________ [m
   OF A BONE]ファイナル2017_4_29@沖縄ミュージックタウン音市場
 ---
 
-DIR EN GREY史上初の沖縄公演ということでこれはいくしかないと思い、人生で数回目の遠征に行って来ました。本日は2017/4/29に行われたTOUR16-17 FROM DEPRESSION TO ________ [mode of THE MARROW OF A BONE]のファイナル沖縄ミュージックタウン音市場のLIVEレポです。<!--more--><h2>会場</h2>
+DIR EN GREY史上初の沖縄公演ということでこれはいくしかないと思い、人生で数回目の遠征に行って来ました。本日は2017/4/29に行われたTOUR16-17 FROM DEPRESSION TO ________ [mode of THE MARROW OF A BONE]のファイナル沖縄ミュージックタウン音市場のLIVEレポです。<!--more-->
+## 会場
+
 
 会場はミュージックタウン音市場
 
@@ -36,7 +38,9 @@ DIR EN GREY史上初の沖縄公演ということでこれはいくしかない
 <blockquote data-width="500" data-height="375" class="ricoh-theta-spherical-image" >Post from RICOH THETA. - <a href="https://theta360.com/s/fjOD3afDj2nk3QCiVlPPGsVxE" target="_blank" rel="noopener noreferrer">Spherical Image - RICOH THETA</a></blockquote>
 <script async src="https://theta360.com/widgets.js" charset="utf-8"></script>
 
-<h2>セトリ</h2>
+
+## セトリ
+
 
 割と現地ファンが多かったのだろうか、遠征組が大半を占めてたのだろうか。割と見渡すと知ってる顔が多かったように思う。ただ、いつも起こらない歓声や拍手があったので、割と特別感があった。
 
@@ -71,7 +75,9 @@ THE FINAL
 詩踏み
 Sustain the Untruth
 
-<h2>セットと衣装</h2>
+
+## セットと衣装
+
 
 今回は前回の新木場と違ってわりと全体を見ることはできたと思いますが、思い返してみるとメンバーの個々の衣装の印象があまりない・・・　薫の網タイツを除いては
 
@@ -86,7 +92,9 @@ Sustain the Untruth
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">本日の戦利品、薫がマイクスタンドに頭をぶつけながら投げたペットボトル <a href="https://t.co/kEgGBMC2tj">pic.twitter.com/kEgGBMC2tj</a></p>&mdash; しんぺー@ (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/858274625276436480">2017年4月29日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 人生初めて沖縄にいったのですが、美ら海水族館ってめちゃくちゃ遠いのね！空港からだと100km離れてて、東京から山梨くらいの距離でしたw
 

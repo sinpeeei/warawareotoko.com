@@ -14,11 +14,15 @@ title: 恋するフォーチュンクッキーの動画を作る方法
 
 今回は、imovieの使い方と、恋するフォーチュンクッキーの動画の撮り方をご紹介します。
 
-<h2>恋するフォーチュンクッキーの動画の作り方</h2>
+
+## 恋するフォーチュンクッキーの動画の作り方
+
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/dFf4AgBNR1E?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<h3>撮影篇</h3>
+
+### 撮影篇
+
 
 ちなみに、こちら原曲の方は4分程度ありますが、企業が踊っているものはショートバージョンで3分程度のものになります。
 
@@ -27,7 +31,9 @@ title: 恋するフォーチュンクッキーの動画を作る方法
 とりあえずは4分バージョンで撮影しましょう。
 
 
-<h4>撮影機材は最低限揃えよう</h4>
+
+#### 撮影機材は最低限揃えよう
+
 今回はぼくは撮影には一切携わっていませんでした。そこがまずかった気がします。
 まず感じた事は、必ず三脚を立てて撮影しましょうってことです。
 
@@ -38,7 +44,9 @@ title: 恋するフォーチュンクッキーの動画を作る方法
 あとでアップすることはできます。でも映っていない所をどうにかするのはできません。
 必ず引いて撮りましょう。
 
-<h4>脚本というか段取りしっかり</h4>
+
+#### 脚本というか段取りしっかり
+
 
 ぶつ切りにパートで切った素材を渡されてからの編集スタートだったんですが、必ず全員に全部踊ってもらいましょうって思いました。
 
@@ -50,7 +58,9 @@ title: 恋するフォーチュンクッキーの動画を作る方法
 
 だって、開けてみたら皆サビ踊ってるし、必要な所なかったりするし、非常に困りました。
 
-<h4>必ず全員に一定期間練習してもらいましょう</h4>
+
+#### 必ず全員に一定期間練習してもらいましょう
+
 
 今回ほぼ全員いきなり本番だったみたいで、当然ながらほとんど踊れていませんでした。
 サイバーエージェントとか見てても思うけど、皆とても上手くて、ちゃんと合ってます。これは結構練習したんじゃないかと思います。
@@ -59,7 +69,9 @@ title: 恋するフォーチュンクッキーの動画を作る方法
 それでも、こういった動画を撮るということは、チームワーク醸成にも一役買ってくれそうな気がしましたので、主催側は練習期間を設けてもいいと思いました。
 
 
-<h3>編集篇</h3>
+
+### 編集篇
+
 
 さて、いよいよ編集ですが、imovieの最新のものを使いました。
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/app/imovie/id408981434?mt=12&uo=4&at=11ld5P" target="_blank" >![](images/iMovie.512x512-75.png)</a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/app/imovie/id408981434?mt=12&uo=4&at=11ld5P" target="_blank" >iMovie</a></div><div class="pochi_price" style="display:inline;"></div><div class="pochi_time" style="font-size:x-small;display:inline;">(2014.03.15時点)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/artist/apple/id284417353?mt=12&uo=4&at=11ld5P" target="_blank" >Apple</a></div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
@@ -84,7 +96,9 @@ macで最初から無料で入ってるはずです。
 
 
 
-<h3>修正篇</h3>
+
+### 修正篇
+
 
 さて、なんとなく編集できて、動画が組み上がったらいったん人に見せましょう。
 
@@ -95,11 +109,15 @@ macで最初から無料で入ってるはずです。
 他人に意見をもらいましょう。
 
 
-<h3>公開篇</h3>
+
+### 公開篇
+
 
 さて、動画変種して書き出したら、しかるべきところで公開します。
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 本当はあーしたかったとかこーしたかったとかあるけど、とりあえずは形にまとまってよかった。
 参考に色んな会社のフォーチュンクッキーを見ましたが、やっぱりサーバーエージェントは見ていてムラムライライラするものがありますね。

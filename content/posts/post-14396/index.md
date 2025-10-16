@@ -8,7 +8,9 @@ title: 【レビュー】Amazon audible「本を読むの苦手な人にはす�
 
 Amazonのオーディオブックサービス「audible」に登録して、本を聞いてみました。これがすごくよかったので本日は、「audible」の紹介です。
 
-<h2>Amazon audibleとは？</h2>
+
+## Amazon audibleとは？
+
 
 <blockquote>Audibleは、プロのナレーターが朗読した本をアプリで聴けるサービスです。移動中や作業中など、いつでもどこでも読書ができ、オフライン再生も可能です。</blockquote>
 
@@ -18,7 +20,9 @@ Amazonのオーディオブックサービス「audible」に登録して、本�
 プロのナレーターが朗読しているので、非常に聴きやすい。
 
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=294&l=ur1&category=audible&banner=1WZSBCEFY2J711K4HA82&f=ifr&linkID=a7ad2d368a8b6c1a893e02f9e0ce022c&t=warawareotoko-22&tracking_id=warawareotoko-22" width="320" height="100" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
-<h2>本を読むのが苦手な人には神サービスだと思う</h2>
+
+## 本を読むのが苦手な人には神サービスだと思う
+
 
 ぼくは本を読むのがかなり遅いです。1冊読み終えるのに1ヶ月以上かかります。理由は次の通り。
 
@@ -32,7 +36,9 @@ Amazonのオーディオブックサービス「audible」に登録して、本�
 
 そんなぼくにとってaudibleはとても合っている、神サービスでした。
 
-<h2>使い方</h2>
+
+## 使い方
+
 
 audibleのいいところは、速度の調整ができる点です。
 
@@ -50,7 +56,9 @@ audibleのいいところは、速度の調整ができる点です。
 
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=294&l=ur1&category=audible&banner=1WZSBCEFY2J711K4HA82&f=ifr&linkID=a7ad2d368a8b6c1a893e02f9e0ce022c&t=warawareotoko-22&tracking_id=warawareotoko-22" width="320" height="100" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
 
-<h2>「ただここがちょっと・・・結論解約しました。」</h2>
+
+## 「ただここがちょっと・・・結論解約しました。」
+
 
 めちゃくちゃ良いサービスで、
 
@@ -66,7 +74,9 @@ audibleのいいところは、速度の調整ができる点です。
 
 すぐに聴き終えることができるので、どんどん聴きたいけど、聴くものがなくなったという感じです。
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 とても良いサービスだからこそ、もっとたくさんのコンテンツを聴きたいと思いました。
 

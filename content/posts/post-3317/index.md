@@ -20,29 +20,9 @@ Facebookのセキュリティについてご紹介
 
 <h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>友達以外に見られないようにロックをかける。</b></div><h2>
 
-<h3>設定方法</h3>
 
-<a href="images/7889373028ce8e77131b8a32590f0859.png">![](images/7889373028ce8e77131b8a32590f0859.png)</a>
+### 自分に友達申請可能な範囲の設定
 
-<a href="images/bc3c5d97c4c21a19a21444acd073e9fc.png">![](images/bc3c5d97c4c21a19a21444acd073e9fc.png)</a>
-
-<a href="images/4600341b767d2cca731c050afcdd5ac0.png">![](images/4600341b767d2cca731c050afcdd5ac0.png)</a>
-
-<a href="images/126a433d5c0a6376134668af62a124e9.png">![](images/126a433d5c0a6376134668af62a124e9.png)</a>
-
-<h3>セキュリティレベル：★☆☆</h3>
-
-これはfacebookをする上で最低限の設定です。
-むしろ皆知っているでしょう？って感じです。もし、皆に見られて困るのであればこれを設定しましょう。
-
-
-
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>自分に友達申請可能な範囲の設定</b></div><h2>
-
-友達以外から見られなくても、見つけられたら嫌な人に友達申請されちゃう！上司とかに申請されちゃったらシカトも気まずい！！
-って人はこれをしておきましょう。
-
-<h3>設定方法</h3>
 
 <a href="images/7889373028ce8e77131b8a32590f0859.png">![](images/7889373028ce8e77131b8a32590f0859.png)</a>
 
@@ -52,18 +32,9 @@ Facebookのセキュリティについてご紹介
 
 <a href="images/7db26d6b5d546b05b44bbdb36821b265.png">![](images/7db26d6b5d546b05b44bbdb36821b265.png)</a>
 
-<h3>セキュリティレベル：★★☆</h3>
 
-これ友達が上司と繋がってたら通用しないので、気休めと言えば気休めですが、最初にご紹介したロックの掛け方と合わせて設定しておきましょう。
+### メールアドレスで検索できなくしちゃおう
 
-
-
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>メールアドレスで検索できなくしちゃおう</b></div><h2>
-
-さて最後にメールアドレスで検索できなくしちゃいましょう。
-これでメアドでの検索ができなくなりますので、知り合いではあるけどfacebook繋がりたくないって人から見えなくなります。
-
-<h3>設定方法</h3>
 
 <a href="images/7889373028ce8e77131b8a32590f0859.png">![](images/7889373028ce8e77131b8a32590f0859.png)</a>
 
@@ -77,7 +48,9 @@ Facebookのセキュリティについてご紹介
 ここから検索可能な範囲を設定
 <a href="images/ed91ed88741f80e60cf108faf64d31d9.png">![](images/ed91ed88741f80e60cf108faf64d31d9.png)</a>
 
-<h3>セキュリティレベル：★★☆</h3>
+
+### セキュリティレベル：★★☆
+
 
 これで知り合いだけど、つながりたくない人からも隠れることができます。
 

@@ -12,7 +12,9 @@ title: 【ライブレポ】DIR EN GREY「疎外」2021_6_5@東京ガーデン�
 DIR EN GREYのライブに参戦したのはどうやら18ヶ月ぶりくらいっぽいです。
 前回が2019年11月20日の「This Way to Self-Destruction」のツアーファイナル（新木場スタジオコースト）で、そこからはライブが開催されていなかったので、爆音上映会やオンラインのライブを除いては実に長い間ライブがない状態でした。
 
-<h2>ライブレポ</h2>
+
+## ライブレポ
+
 というか感想、というか思いの丈です。
 
 
@@ -75,7 +77,9 @@ The World of Mercyからの朧で倒れそうな程耐えられなくて目を�
 
 改めて確信した。
 
-<h2>セットリスト</h2>
+
+## セットリスト
+
 
 DOZING GREEN(Acoustic Ver.)
 絶縁体
@@ -98,7 +102,9 @@ OBS
 Sustain
 激闇
 
-<h2>TOUR21 DESPERATE</h2>
+
+## TOUR21 DESPERATE
+
 2021年9月3日(金) 【神奈川県】CLUB CITTA’ -「a knot」only-
 2021年9月4日(土) 【神奈川県】CLUB CITTA’ -「a knot」only-
 2021年9月10日(金) 【宮城県】SENDAI GIGS
@@ -116,7 +122,9 @@ Sustain
 2021年11月1日(月) 【愛知県】Zepp Nagoya
 2021年11月2日(火) 【愛知県】Zepp Nagoya
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 来週はsukekiyo
 
 思い起こせば去年2月のツアーは大体チケットを取っていたけど、初日以外は譲ってほぼ行かなかった。

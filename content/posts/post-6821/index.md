@@ -16,7 +16,9 @@ Youtubeでの音声は<a href="http://youtu.be/2RkmxMZ3m-o">こちら</a>。読�
 
 ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
-<h2>しんぺー参戦全日程</h2>
+
+## しんぺー参戦全日程
+
 
 全部で18公演に参戦（参列）いたしました。
 2月18日　DIR EN GREY FINEM LAUDA  CLUB CTITTA
@@ -70,13 +72,17 @@ sukekiyoハロウィン殺しよりも近かった。。。はらの血管やら
 <a href="https://www.warawareotoko.com/2014/12/16/dir-en-grey-tour14-15-by-the-grace-of-god-zepp-tokyo-1216/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2014/12/16/dir-en-grey-tour14-15-by-the-grace-of-god-zepp-tokyo-1216/" target="_blank">【LIVEレポ】DIR EN GREY TOUR14-15 BY THE GRACE OF GOD @Zepp Tokyo 12/16 | Gadget Zombie Parasite</a><a href="http://b.hatena.ne.jp/entry/https://www.warawareotoko.com/2014/12/16/dir-en-grey-tour14-15-by-the-grace-of-god-zepp-tokyo-1216/" target="_blank">![](images/)</a><br style="clear:both;" /><br>
 
 
-<h2>2015年はどしましょ</h2>
+
+## 2015年はどしましょ
+
 
 今年すっげーLIVEいったなーとか思ったけど、そうでもなかった。
 来年もこれくらいのペースでいければ多分わりと金銭的に無理がないのではと思っております。1ヶ月2回くらいのペースかな。平日プラス休日とかって日程だとそれが叶いやすそう。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 個人的には今年はかなり成長した年だった。今までにないことをたくさん体験できたし。ただ、どれも目が出てないので来年はそれらをもっともっと身のあるようにできる年にしたい！！
 
 具体的にはアプリリリース、LINEスタンプリリース、Youtubeもがんばる！！

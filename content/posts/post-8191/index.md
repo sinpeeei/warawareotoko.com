@@ -9,7 +9,9 @@ title: Bluetoothイヤホン買ったんだけどマジでおすすめ！
 ---
 
 通勤時に満員電車で近くの人にイヤホンのケーブルがひかかっちゃったことありませんか？しかも、その人降りようとしてそのままケーブルが持ってかれそうになったり。。。そんなわずらわしさから解放されたいがためにBluetoothイヤホンを買いました。<!--more-->
-<h2>Bluetoothイヤホンはマジでおすすめ！</h2>
+
+## Bluetoothイヤホンはマジでおすすめ！
+
 <table style="border: none;" border="0" cellpadding="5">
 <tbody>
 <tr>
@@ -60,7 +62,9 @@ title: Bluetoothイヤホン買ったんだけどマジでおすすめ！
  	<li>バッテリーが長持ちなので、充電も頻繁にしなくていい！</li>
  	<li>よほどじゃないと音質は気にならないくらいにはいいよ！</li>
 </ul>
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener">しんぺー</a> はこう思った。
+
 トイレに行くくらいの距離なら全然音声も途切れないのでイヤホンつけたままでも問題なし！
 
 かなり便利です！

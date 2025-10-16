@@ -15,7 +15,9 @@ Amazonから安いタブレットが出るらしいです。これは即買い�
 じゃあ、なんで<strong>Kindleも使ってるのかというとその理由は3つあります。</strong>
 
 
-<h2>Kindleを使うメリット</h2>
+
+## Kindleを使うメリット
+
 
 どくが使っているKindleは最下位モデルのノーマルKindleです。
 
@@ -23,7 +25,9 @@ Amazonから安いタブレットが出るらしいです。これは即買い�
 
 でも、これがいいんです。
 
-<h3>いいところその１</h3>
+
+### いいところその１
+
 
 余計な機能がないから<strong>読書に集中できる</strong>
 
@@ -34,7 +38,9 @@ iPadみたいに高性能だと、すぎにTwitterみたりfacebookみたり、�
 道具としての心理を追求している感じだします。
 
 
-<h3>いいところその2</h3>
+
+### いいところその2
+
 
 <strong>めちゃくちゃ軽い</strong>
 
@@ -47,9 +53,13 @@ iPadみたいに高性能だと、すぎにTwitterみたりfacebookみたり、�
 だからこそ読書しやすいのです。
 
 
-<h3>いいところその３</h3>
 
-<h3>バッテリーのもちが神がかってる。</h3>
+### いいところその３
+
+
+
+### バッテリーのもちが神がかってる。
+
 
 3週間くらい放置してて、久しぶりにみたらなんと全然電源入りました。バッテリーのもちが過ごすぎる。。。
 
@@ -58,7 +68,9 @@ iPadみたいに高性能だと、すぎにTwitterみたりfacebookみたり、�
 iPhoneを１日２回充電する身としては、これは驚愕です。
 
 
-<h3>不満は２つ</h3>
+
+### 不満は２つ
+
 
 不満は2つ。
 
@@ -74,7 +86,9 @@ iPhoneからはできない！！
 
 
 
-<h2>Fireに期待すること</h2>
+
+## Fireに期待すること
+
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00Y3TMKKM/warawareotoko-22/ref=nosim/" target="_blank" >![](images/518LQqLceeL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00Y3TMKKM/warawareotoko-22/ref=nosim/" target="_blank" >Fire タブレット 8GB、ブラック</a></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> Amazon 2015-09-30</div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 1</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=Fire%20%83%5E%83u%83%8C%83b%83g%208GB%81A%83u%83%89%83b%83N&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" target="_blank" >Amazon</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table>
 
@@ -96,7 +110,9 @@ iPhoneからはできない！！
 今なら予約受け付け中です。これを気にプライム会員になって4000円OFFで購入すれば実質会費が無料くらいになるので、おすすめです。
 
 
-<h2>まとめ</h2>
+
+## まとめ
+
 
 <strong>・Amazonプライム会員なる→Fireを予約する。このコンボがおすすめです。
 </strong>
@@ -105,7 +121,9 @@ iPhoneからはできない！！
 
 <strong>・わたくし買います！！</strong>
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00Y3TMKKM/warawareotoko-22/ref=nosim/" target="_blank" >![](images/518LQqLceeL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00Y3TMKKM/warawareotoko-22/ref=nosim/" target="_blank" >Fire タブレット 8GB、ブラック</a></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> Amazon 2015-09-30</div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 1</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=Fire%20%83%5E%83u%83%8C%83b%83g%208GB%81A%83u%83%89%83b%83N&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" target="_blank" >Amazon</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table>
 

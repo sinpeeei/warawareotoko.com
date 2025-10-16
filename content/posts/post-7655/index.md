@@ -8,15 +8,21 @@ tags:
 title: 【sukekiyo】『PERSUASIO』各仕様まとめと「鳳凰の間」「盲目の獣」
 ---
 
-時代の流れでしょうか、LIVE DVDではなく、LIVE Blu-rayの発売です。今までDVDで揃えてきたのでもしかしたら、これ全部買い換えなくちゃいけないのかなとか心配になっています。今日はそんなsukekiyoの最新映像作品「PERSUIASIO」についてのお話です。<!--more--><h2>【解説】sukekiyo　LIVEBlu-ray「PERSUASIO」各仕様</h2>
+時代の流れでしょうか、LIVE DVDではなく、LIVE Blu-rayの発売です。今までDVDで揃えてきたのでもしかしたら、これ全部買い換えなくちゃいけないのかなとか心配になっています。今日はそんなsukekiyoの最新映像作品「PERSUIASIO」についてのお話です。<!--more-->
+## 【解説】sukekiyo LIVEBlu-ray「PERSUASIO」各仕様
 
-<h3>PERSUASIOの意味</h3>
+
+
+### PERSUASIOの意味
+
 ラテン語で「確信」を意味する。読み方はペルスアーシオー。
 
 VITIUMの講演で、sukekiyoで活動していくことへの何らかの「確信」を得たに違いないと思われます。
 
 
-<h3>PERSUIASIO仕様別特典一覧</h3>
+
+### PERSUIASIO仕様別特典一覧
+
 
 <a href="images/IPERSUASIO_sukekiyo.png">![](images/IPERSUASIO_sukekiyo.png)</a>
 
@@ -24,7 +30,9 @@ VITIUMの講演で、sukekiyoで活動していくことへの何らかの「確
 
 
 
-<h2>【検証】がま口はiPhone用のケースではないか</h2>
+
+## 【検証】がま口はiPhone用のケースではないか
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>本日、京さんに『PERSUASIO』通販限定豪華盤特典「がま口バッグ」サンプルをチェック頂きました。表情はご想像にお任せしますが、大変“ご満悦”のご様子でした。乞うご期待ください。(S) <a href="http://t.co/xEcO6RDI5e">http://t.co/xEcO6RDI5e</a> <a href="http://t.co/u3xtRZYQhX">pic.twitter.com/u3xtRZYQhX</a></p>&mdash; sukekiyo (@sukekiyo_band) <a href="https://twitter.com/sukekiyo_band/status/591211785824313344">2015, 4月 23</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -56,7 +64,9 @@ Size : 縦90mm×横170mm
 参考:<a href="https://www.warawareotoko.com/2014/09/13/post-6300/">バンギャ死活問題。iPhone6とiPhone6Plusの大きさ比較検証。ポケットには入るのかしら？</a>
 
 
-<h2>「鳳凰の間」「盲目の獣」</h2>
+
+## 「鳳凰の間」「盲目の獣」
+
 
 予想通りというかなんというか。おそらくシングル等の音源リリースなしの単発LIVEと思われます。
 
@@ -70,7 +80,9 @@ Size : 縦90mm×横170mm
 
 チケット代はsukekiyo価格の5400円
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 
 がま口さん・・・オーバーザイズパーカーの時もそうですが、本人が身に付けたいものを製作しましたっという感じらしいけど、パーカー着てがま口下げてお出かけとか・・・

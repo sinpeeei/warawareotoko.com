@@ -18,7 +18,9 @@ title: sukekiyo御用達の京都新福菜館のラーメンを通販で喰ら�
 
 <a href="https://www.warawareotoko.com/2014/05/07/post-5329/" target="_blank" rel="noopener">![](images/)</a><a style="color: #0070c5;" href="https://www.warawareotoko.com/2014/05/07/post-5329/" target="_blank" rel="noopener">sukekiyo後始末！「別れを惜しむフリは貴方の為」メンバーが訪れたお店 | Gadget Zombie Parasite</a><a href="http://b.hatena.ne.jp/entry/https://www.warawareotoko.com/2014/05/07/post-5329/" target="_blank" rel="noopener">![](images/)</a><br style="clear: both;" />
 ここのラーメンって通販でも購入でいるって知ってましたかい？？
-<h2>新福菜館のラーメンは楽天で買える</h2>
+
+## 新福菜館のラーメンは楽天で買える
+
 楽天といわず、Amazonでも買えます。
 <table style="border: none;" border="0" cellpadding="5">
 <tbody>
@@ -61,7 +63,9 @@ title: sukekiyo御用達の京都新福菜館のラーメンを通販で喰ら�
 
 
 ポチッとな
-<h2>新福菜館のラーメンを食べてみる</h2>
+
+## 新福菜館のラーメンを食べてみる
+
 ということで、届きました。さっそく食べてみようと思います。
 
 ![](images/fee4da4bd3b6f3f57527118a3074fa84.jpg)
@@ -83,7 +87,9 @@ title: sukekiyo御用達の京都新福菜館のラーメンを通販で喰ら�
 ![](images/9962921212540e31f5fdc7045468764b.jpg)
 
 ということでお店の味がどんなだったか忘れましたが、おいしかったです！
-<h2>今回メンバーが訪れたラーメン屋</h2>
+
+## 今回メンバーが訪れたラーメン屋
+
 今回は新福菜館はいってないのかな？YUCHI氏のブログの更新はこちら
 <div class="kwout" style="text-align: center;">
 
@@ -107,7 +113,9 @@ title: sukekiyo御用達の京都新福菜館のラーメンを通販で喰ら�
 ぼくはちょっと苦手だw家系が好きです。
 
 きっと歩いて来て、帰りも歩いて帰ったんだろうなw
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener">しんぺー</a> はこう思った。
+
 最近ラーメンが食べたくて食べたくて仕様がなかったんですが、これでちょっと気が紛れました。
 
 たぶん、お店の味ほどの美味しさはなかったと思います。お店の味忘れちゃったけど、滞在中に2回いくくらいだからたぶん相当美味しかったはず。

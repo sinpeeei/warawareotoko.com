@@ -35,10 +35,14 @@ title: 西新宿のラーメン屋「肉そば家フクロウ」行ってきた�
 <strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/soba/">そば（蕎麦）</a> | <a href="https://tabelog.com/tokyo/A1304/A130401/R7444/rstLst/">西新宿五丁目駅</a>、<a href="https://tabelog.com/tokyo/A1304/A130401/R6754/rstLst/">都庁前駅</a>、<a href="https://tabelog.com/tokyo/A1304/A130401/R7443/rstLst/">西新宿駅</a></p>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 来週も新たなお店を開拓したく思います！ガツンとしたラーメン屋にいきたいな〜
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。
 
 そして、また明日。

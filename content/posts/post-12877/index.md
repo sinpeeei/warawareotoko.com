@@ -16,9 +16,13 @@ title: 【ライブレポ】DIR EN GREY TOUR19「This Way to Self-Destruction」
 
 <!--more--> 
 
-<h2>This Way to Self-Destruction</h2>
+
+## This Way to Self-Destruction
+
 ![](images/IMG_0238.jpg)
-<h3>メンバー衣装と演出</h3>
+
+### メンバー衣装と演出
+
 Toshiyaは前回の装いとは若干異なり、マントというよりも全体的に布なお召し物と、女優の様なハットでした。2曲目くらいで後ろに投げ捨てていました。多分過去にも着ていた衣装だと思います。ハリーポッター感があります。
 
 薫はいつも通りのメイド服ちっくな、ロングなジャケットというかもうドレス。
@@ -39,7 +43,9 @@ ShinyaはおそらくツアーTシャツ。
 
 やはり前回同様すごく恐怖を覚えました。その恐怖とは映像や曲からではなく、なんとなく会場の雰囲気に恐怖しました。オーディエンスの気迫があからさまにホールの雰囲気ではなく、なんというか殺意すら感じるような鬼気迫る気迫を感じました。
 
-<h3>セトリ</h3>
+
+### セトリ
+
 絶縁体
 人間を被る
 Downfall
@@ -64,9 +70,13 @@ NEW AGE CULTURE
 アンコでToshiyaが多分曲順間違えた？followers飛ばして次の準備とおもってマイクスタンドセットしてたけど前奏始まって、「あ、ちげー」と思ったのか、さっとマイクを後ろに置き直してました。
 
 ちなみにですが、followersの後に凱歌を久しぶりにやったんですが久しぶりすぎて戸惑いましたw
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あと凱歌久しぶりすぎて何て歌うんでしたっけ？って思ったし、なんなら途中までずっとvinushkaかとおもってて人間を辞める準備してましたわ<br><br>そして今ツイート入力してて気がついたけどそれさらに別の曲だったわ</p>&mdash; しんぺー (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/1181913613377789952?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あと凱歌久しぶりすぎて何て歌うんでしたっけ？って思ったし、なんなら途中までずっとvinushkaかとおもってて人間を辞める準備してましたわ
 
-<h3>ライブの感想</h3>
+そして今ツイート入力してて気がついたけどそれさらに別の曲だったわ</p>&mdash; しんぺー (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/1181913613377789952?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### ライブの感想
+
 とにかく凄まじいライでした。楽しいとも違う、圧倒的にすごいライブでした。その理由は、ただ１つ。新曲「The World of Mercy」の世界観のせいでしょう。映像とあいまって圧倒的な何か。
 
 あの曲から今日感じたものは、前回の市原とは違うものでした。
@@ -85,7 +95,9 @@ MVの中の女の子は自ら死を選び、それをきっかけに男の子は
 
 余談だけど、環境活動家のグレタさんが思い返された。方法論や色んなことを差し引いても、あの人の怒りはきっと彼女にとっては正義であり、そしてその踏みにじられた正義を取り戻し尊厳を守るために戦ってるのかなと思いました。
 
-<h2>大宮ソニックシティ</h2>
+
+## 大宮ソニックシティ
+
 音響はなんか市原の方がよかった？？とか思っちゃいましたがどうでしょうか。当然綺麗で大きなホールですが、二階席は高くて、実際には階段で3階〜4階くらいまであがらされました。
 
 また、上がった分終わったあとに降りるのですが階段はそんなに広くなくて、ちょっと出るのに時間がかかりました。
@@ -93,11 +105,15 @@ MVの中の女の子は自ら死を選び、それをきっかけに男の子は
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12926.821169618079!2d139.619688!3d35.9052329!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1f5fecd47f68d7f1!2z5aSn5a6u44K944OL44OD44Kv44K344OG44Kj!5e0!3m2!1sja!2sjp!4v1570637372186!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 
-<h3>周辺の様子</h3>
+
+### 周辺の様子
+
 大宮なので周辺は発展してて、時間を潰すところなんか無限にあります。
 ライブ終わりでもご飯食べるところなんかいくらでもあるし。何なら周辺にホテルもある。
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 The World of Mercyがアルバムの1ピースだってことがようやく理解できました。
 

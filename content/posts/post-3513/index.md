@@ -18,7 +18,9 @@ title: 上司や嫌いな人にフォローされたくないFacebookアカウ�
 
 そんな時はこの方法をぜひ試してみてください。
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>ダミーアカウントを作ってフォローされる前にフォローしちゃう</b></div></h2>
+
+## ダミーアカウントを作ってフォローされる前にフォローしちゃう
+
 
 これです。同名でアカウントを作っちゃって、見つかる前に友達申請しちゃう。
 
@@ -32,16 +34,22 @@ title: 上司や嫌いな人にフォローされたくないFacebookアカウ�
 
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>注意事項</b></div></h2>
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>スパムに疑われないようにしましょう</b></div></h3>
+## 注意事項
+
+
+
+### スパムに疑われないようにしましょう
+
 
 自分のアカウントを3つ以上つくるのはやめましょう。
 
 なぜならFacebook側にスパムだと疑われ、最悪アカウントを凍結される恐れがあるためです。
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>それぞれのアカウントの設定に注意</b></div></h3>
+
+### それぞれのアカウントの設定に注意
+
 
 ダミーの方とプライベートの方とで使う写真は違うものにしましょう。
 
@@ -50,7 +58,9 @@ title: 上司や嫌いな人にフォローされたくないFacebookアカウ�
 様は2種類のアカウントが同一人物であるというように見せないこと、これが重要な様です。
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 
 2つのアカウント運用を実施して久しいですが、これはぜひとも実施すべきです。
 

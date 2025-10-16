@@ -8,7 +8,9 @@ tags:
 title: 【意識高い】コーヒー界のAppleと言われるブルーボトルコーヒーに行ってきたった【別にフツーでしたよ】
 ---
 
-タイトルで言いたいこと全部終わってます！我ながら素晴らしいタイトルです！そう、何を隠そう、コーヒー界のAppleと騒がれ数ヶ月前に上陸したばっかりのブルーボトルコーヒーにやっと行ってきたのです！そして、別に普通でした！という感想を持ちましたのでご紹介します。<!--more--><h2>ブルーボトルコーヒーとは？</h2>
+タイトルで言いたいこと全部終わってます！我ながら素晴らしいタイトルです！そう、何を隠そう、コーヒー界のAppleと騒がれ数ヶ月前に上陸したばっかりのブルーボトルコーヒーにやっと行ってきたのです！そして、別に普通でした！という感想を持ちましたのでご紹介します。<!--more-->
+## ブルーボトルコーヒーとは？
+
 
 <div class="kwout" style="text-align: center;">![](images/yjb_bor_rou_sha.jpg)<map id="map_byzbgyjb" name="map_byzbgyjb"><area coords="266,230,297,256" href="https://www.twitter.com/bluebottlejapan" alt="" shape="rect" /><area coords="298,230,322,256" href="https://www.facebook.com/bluebottlecoffee" alt="" shape="rect" /><area coords="323,230,353,256" href="http://instagram.com/bluebottlejapan" alt="" shape="rect" /></map><p style="margin-top: 10px; text-align: center;"><a href="https://bluebottlecoffee.jp/">ブルーボトルコーヒー</a> via <a href="http://kwout.com/quote/byzbgyjb">kwout</a></p></div>
 
@@ -29,7 +31,9 @@ title: 【意識高い】コーヒー界のAppleと言われるブルーボト�
 急がずにゆっくりというのがスタイルみたいです。スターバックスなんかは、シアトル系といって、忙しいビジネスマンが朝立ち寄ってパッと買ってそのままオフィスに出勤！みたいな感じで、スピード重視ですが、こちらは<strong>エンジニアとかクリエイティブな仕事をする人たちがふと休憩するために立ち寄る</strong>みたいな感じなのかなと思いました。
 
 
-<h2>コーヒーはぶっちゃけうまいの？</h2>
+
+## コーヒーはぶっちゃけうまいの？
+
 
 ![](images/IIMG_7321.jpg)
 
@@ -45,7 +49,9 @@ title: 【意識高い】コーヒー界のAppleと言われるブルーボト�
 
 その他のメニューはだいたい500円以上でスタバよりかは割高かなという感じ
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 いやーやっと行けました！今回ぼくが行ったのは青山店なんですが。。。
 実はその真隣りに小さなコーヒー屋さんがありまして・・・

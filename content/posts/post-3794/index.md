@@ -16,8 +16,9 @@ title: ゼメキス家に新たな動き。悪意ちゃんを旅につれて行�
 &nbsp;
 &nbsp;
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>ペニュ様の夢を叶えたい企画</b></div>
-<div class="kwout" style="text-align: center;"></h2>
+
+## ペニュ様の夢を叶えたい企画
+
 &nbsp;
 &nbsp;
 <a href="http://thezemeckises.com/penyu_theworld/">![](images/yjb_bor_rou_sha_w300.jpg)</a>
@@ -38,7 +39,9 @@ title: ゼメキス家に新たな動き。悪意ちゃんを旅につれて行�
 <p style="text-align: left;">引用元：<a href="http://thezemeckises.com/penyu_theworld/">The Zemeckises</a></p>
 
 
-<h3><div style="padding: 8px; border-color: #000000; border-width: 0px 0px 1px 5px; border-style: solid; background-color: #f8f8f8; text-align: left;"><b>企画への参加の仕方</b></div></h3>
+
+### 企画への参加の仕方
+
 
 <ol>
 	<li style="text-align: left;">悪意フードタオルを買わなきゃだめ。それについてるペニュの特性切り抜きを使用します。</li>
@@ -52,7 +55,9 @@ title: ゼメキス家に新たな動き。悪意ちゃんを旅につれて行�
 <p style="text-align: left;">あれか、知っとこか！土曜の早朝か！世界の朝ご飯やっちゃうか！</p>
 
 
-<h2><div style="padding: 8px; border-color: #000000; border-width: 0px 0px 1px 5px; border-style: solid; background-color: #f8f8f8; text-align: left; background-position: initial initial; background-repeat: initial initial;"><b>12月25日からゼメキス家のキャラたちの展示会が開催されます。</b></div></h2>
+
+## 12月25日からゼメキス家のキャラたちの展示会が開催されます。
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>UPLINK GALLERY | ゼメキス家の世界 - 2013/12/25(水)～2014/01/06(月) ※2013/12/31(火)と2014/01/01(水・祝)は休館日 <a href="http://t.co/MiApC0YknU">http://t.co/MiApC0YknU</a> <a href="http://t.co/CDAvJCNHLk">pic.twitter.com/CDAvJCNHLk</a></p>&mdash; UPLINK (@uplink_jp) <a href="https://twitter.com/uplink_jp/statuses/413898829839495168">2013, 12月 20</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -63,7 +68,9 @@ title: ゼメキス家に新たな動き。悪意ちゃんを旅につれて行�
 <small><a style="color: #0000ff; text-align: left;" href="https://maps.google.co.jp/maps/ms?msid=216014677468469539449.0004bc58e6b4f9a355f41&amp;msa=0&amp;ie=UTF8&amp;ll=35.660923,139.697669&amp;spn=0.003751,0.005836&amp;t=m&amp;vpsrc=1&amp;iwloc=0004bc58e6b6640695763&amp;source=embed">大きな地図で見る</a></small></p>
 
 
-<h3><div style="padding: 8px; border-color: #000000; border-width: 0px 0px 1px 5px; border-style: solid; background-color: #f8f8f8; text-align: left; background-position: initial initial; background-repeat: initial initial;"><b>しんぺーはこう思った</b></div></h3>
+
+### しんぺーはこう思った
+
 <p style="text-align: left;">入場無料で夜22:00までやってるから、来週仕事終わりにいこーっと！</p>
 <p style="text-align: left;">こりゃー楽しみだな。</p>
 <p style="text-align: left;">京が描いた各キャラとかが見れるのかしらね</p>

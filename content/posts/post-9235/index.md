@@ -14,7 +14,9 @@ title: 【インストレポ】DIR EN GREY詩踏みサイン会＠タワーレ�
 そして、いよいよ今日からはサイン会として8月7日の兵庫まで開催される運びとなっております。
 
 
-<h2>高鳴る緊張。タワレコ渋谷に現れたのはToshiya</h2>
+
+## 高鳴る緊張。タワレコ渋谷に現れたのはToshiya
+
 
 ぼくはスタート前まで緊張で体に異常をきたしておりました。
 
@@ -29,13 +31,17 @@ title: 【インストレポ】DIR EN GREY詩踏みサイン会＠タワーレ�
 そして、ついにメンバーご登場。サイン会初日の本日現れたメンバーはToshiyaでした。
 
 服装は以下の通り。
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">暑い中、拙いトークとサイン会に来てくれてありがとうございました！<br><br>Toshiya<a href="https://twitter.com/hashtag/%E8%A9%A9%E8%B8%8F%E3%81%BF?src=hash">#詩踏み</a><a href="https://twitter.com/hashtag/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2?src=hash">#インストア</a><a href="https://twitter.com/hashtag/%E3%82%BF%E3%83%AF%E3%83%AC%E3%82%B3%E6%B8%8B%E8%B0%B7?src=hash">#タワレコ渋谷</a><a href="https://twitter.com/hashtag/DIRENGREY?src=hash">#DIRENGREY</a> <a href="https://t.co/HzLmZxbAhT">pic.twitter.com/HzLmZxbAhT</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/758266735367589888">2016年7月27日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">暑い中、拙いトークとサイン会に来てくれてありがとうございました！
+
+Toshiya<a href="https://twitter.com/hashtag/%E8%A9%A9%E8%B8%8F%E3%81%BF?src=hash">#詩踏み</a><a href="https://twitter.com/hashtag/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2?src=hash">#インストア</a><a href="https://twitter.com/hashtag/%E3%82%BF%E3%83%AF%E3%83%AC%E3%82%B3%E6%B8%8B%E8%B0%B7?src=hash">#タワレコ渋谷</a><a href="https://twitter.com/hashtag/DIRENGREY?src=hash">#DIRENGREY</a> <a href="https://t.co/HzLmZxbAhT">pic.twitter.com/HzLmZxbAhT</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/758266735367589888">2016年7月27日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 見えにくいので補足ですが、帽子の縁にはリング？みたいなものがついておりました。また、シューズはベージュ色で先が尖っているようなものでした。ちなみにシャツはDIRT
 
 
-<h2>少しだけトークがありました。</h2>
+
+## 少しだけトークがありました。
+
 
 マネージャーの井上さんを司会にほんの少しだけトークの時間がありました。
 
@@ -84,7 +90,9 @@ Toshiya「本日はお日柄もよく、皆さん集まっていただいてあ�
 
 「とてもたくさんの方がいるので、ここにいる（ステージ上にいる)時間をなるべく短くするためにトークは禁止でお願いします。話しかけられても、聞こえないという設定にしてありますので」いつもよりテンション高い気がする井上氏。三連休以降の井上さんは大丈夫なんだろうか・・・ちゃんと休んでます？テンションが異常ですぜ！
 
-<h2>Toshiyaの爽やかすぎるご尊顔</h2>
+
+## Toshiyaの爽やかすぎるご尊顔
+
 
 で、その後サインを書いていただいたわけなんですが、、、、、なんていうか、、、、こちら生きているのが恥ずかしくなるくらいの爽やかな笑顔で一人一人の眼を見てご挨拶されておりました。
 
@@ -95,7 +103,9 @@ Toshiya「本日はお日柄もよく、皆さん集まっていただいてあ�
 
 ![](images/IIMG_3063.jpg)
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 いやー
 
@@ -109,4 +119,6 @@ Toshiya「本日はお日柄もよく、皆さん集まっていただいてあ�
 ![](images/IIMG_3064.jpg)
 
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。

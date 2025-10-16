@@ -25,7 +25,9 @@ title: DIR EN GREY LIVE DVD&Blu-ray「DUM SPIRO SPERO AT NIPPON BUDOKAN」つい
 ってことで事前情報というかキャンペーン的な動きが東京オンリーだったので、地方勢のために書いておきます。
 
 
-<h2>新宿YUNIKA VISON</h2>
+
+## 新宿YUNIKA VISON
+
 
 これ、初めて知ったけど新宿のヤマダ電機の所の街頭ビジョンのことなのね。
 
@@ -51,7 +53,9 @@ title: DIR EN GREY LIVE DVD&Blu-ray「DUM SPIRO SPERO AT NIPPON BUDOKAN」つい
 ![](images/DIR-EN-GREY_DUM-SPIRO-SPERO_yunika6.jpg)
 
 
-<h3>YUNIKA撮影時の注意事項</h3>
+
+### YUNIKA撮影時の注意事項
+
 
 ぼくは重大なミスをおかしました。YUNIKAビジョンは3面スクリーンで、それぞれ映し出す映像がことなります。というか横長の画像は3面を使って映し出されるため、1面しか見えない要は恥じっこだと向こう側が見えないことになります。
 
@@ -61,9 +65,13 @@ title: DIR EN GREY LIVE DVD&Blu-ray「DUM SPIRO SPERO AT NIPPON BUDOKAN」つい
 ![](images/DIR-EN-GREY_DUM-SPIRO-SPERO_yunika7.png)
 
 
-<h2>タワレコのDIR EN GREYパネル展も行ってきたぜ</h2>
 
-<h3>まずは渋谷タワレコ</h3>
+## タワレコのDIR EN GREYパネル展も行ってきたぜ
+
+
+
+### まずは渋谷タワレコ
+
 
 解りにくかったー3階の壁の上でした。エスカレーター上ったら、そのまま壁にそっていけば左手にあります。
 
@@ -90,7 +98,9 @@ title: DIR EN GREY LIVE DVD&Blu-ray「DUM SPIRO SPERO AT NIPPON BUDOKAN」つい
 ![](images/e2c705886253d4b17481a4ad77290d49.jpg)
 
 
-<h3>次に新宿タワレコ</h3>
+
+### 次に新宿タワレコ
+
 
 こっちはインストイベントやるときの仕切り付近にありました。
 割とでかでかと看板があったので解りやすい
@@ -115,7 +125,9 @@ title: DIR EN GREY LIVE DVD&Blu-ray「DUM SPIRO SPERO AT NIPPON BUDOKAN」つい
 ![](images/c0d85c6dead96c587f62536dc4a6a29d.jpg)
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 はい、ざっと画像だけですけどこんな所です。
 
 思えば、全部東京のみでの展開だったんですね。関西のタワレコでもやってるかと思いました。

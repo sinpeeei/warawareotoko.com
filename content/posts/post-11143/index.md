@@ -16,7 +16,9 @@ title: 【ライブレポ】DIR EN GREY TOUR16-17 FROM DEPRESSION TO ________ [m
 が、フタを開けてみるとLIVE終わりには何の告知もなし。本当にしばらく予定なしの充電期間のようです。
 
 代わりに動きがあったのはsukekiyoのLIVE日程と虎の穴くらいで、みなさんほんとにしばらくお休みみたいです。
-<h2>セトリとLIVEレポ</h2>
+
+## セトリとLIVEレポ
+
 ![](images/IMG_0133.jpg)
 
 セットや衣装は大体今まで通りでした。
@@ -89,7 +91,9 @@ Sustain the Untruth
 
 EN.2
 Un deux
-<h2>次回予定告知なし！！！</h2>
+
+## 次回予定告知なし！！！
+
 そう、ツアーは本当になしwww
 
 正月のベストアルバムくらいでDIR EN GREYとしては充電期間に入る模様
@@ -140,7 +144,9 @@ Un deux
 </div>
 <div class="booklink-footer" style="clear: left;"></div>
 </div>
-<h2>mode ofツアー参戦履歴</h2>
+
+## mode ofツアー参戦履歴
+
 全15回、思ったよりも短いツアーで関東公演のみとかだと下手すると1日だけとかになりそうだったのもあってか今年は遠征頑張ったみたいです。
 初めて沖縄にいったり、人生で数回目くらいの新幹線で大阪行ったり。楽しかったです。
 
@@ -169,7 +175,9 @@ Un deux
 2017/10/3 TOUR16-17 FROM DEPRESSION TO ________ [mode of Withering to death.]@新木場スタジオコースト
 2017/10/4 TOUR16-17 FROM DEPRESSION TO ________ [mode of Withering to death.]@新木場スタジオコースト
 2017/10/12 TOUR16-17 FROM DEPRESSION TO ________ [mode of Withering to death.]@Zepp Tokyo
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 ツアーが終わりましたが、色々と入金の締め切りや申し込みはあるので忘れない様にしないと！！
 過去ツアーとかいいつつ懐かしさよりも、何か他のものがあった気がする。
 また、新しいDIR EN GREYにあえるその日まで！貯金します！

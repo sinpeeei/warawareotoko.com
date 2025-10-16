@@ -14,7 +14,9 @@ DIR EN GREYのギター薫のトークイベント「虎ノ穴」　前回は薫
 
 さて、帰宅して一眠りしてたらAndrogynosの発表に間に合わない時間になっちゃったので自宅待機でございますので、昨日のレポをまとめたいと思います。
 
-前回のイベントの時の様なテーマが決まっていて質問形式で進行するというよりも、限りなくフリトークに近い形で進んいきました。ここでしか聞けないような超絶レア話や酔っ払ったおっさんが曖昧な知識でなんとなく語りあう居酒屋トークみたいな感じでした！！！ということで早速いってみましょう。<!--more--><h2>イベントレポ：前半</h2>
+前回のイベントの時の様なテーマが決まっていて質問形式で進行するというよりも、限りなくフリトークに近い形で進んいきました。ここでしか聞けないような超絶レア話や酔っ払ったおっさんが曖昧な知識でなんとなく語りあう居酒屋トークみたいな感じでした！！！ということで早速いってみましょう。<!--more-->
+## イベントレポ：前半
+
 
 ジョーさんのみが最初登場し、上手に着座
 挨拶もそこそこに薫を呼び込む。すると会場全体から黄色い悲鳴
@@ -31,7 +33,9 @@ DIR EN GREYのギター薫のトークイベント「虎ノ穴」　前回は薫
 
 そこからラジオやってたあたりが最初にゴジラ上陸の地でぶっ潰されたという話
 
-<h3>バイトの話、バンドのお金の話、リーダーの話</h3>
+
+### バイトの話、バンドのお金の話、リーダーの話
+
 
 ジョー「バイトは何を？」
 
@@ -60,7 +64,9 @@ DIR EN GREYになるまでバイト続けてたけど、バイトが禁止だっ
 
 薫「真面目な話するとToshiya。ダメな人は京。」表現者として責任をもたせたりしたくない。京にはバランス考えさせたくない「DieとShinyaはどっちもマイペースだからダメ。そもそもShinyaは会話できない」
 
-<h3>曲作りの話</h3>
+
+### 曲作りの話
+
 
 ジョー「ふだん曲作りの時酒は飲むの？」
 
@@ -107,7 +113,9 @@ DIR EN GREYになるまでバイト続けてたけど、バイトが禁止だっ
 この辺りで前半終了で一旦休憩に。休憩中はクリム&ゾン(ピックちゃん)の短編アニメが三本流れました。
 
 
-<h2>イベントレポ：後半</h2>
+
+## イベントレポ：後半
+
 
 ジョーさんが現れて、みんなが席につくまでちょっとおしゃべり。と思ったら薫が唐突に現れてジョーさんと場所を交代。上手でも下手でも顔が見えるようにとのはからい。
 
@@ -172,7 +180,9 @@ DIR EN GREYになるまでバイト続けてたけど、バイトが禁止だっ
 
 薫「全てが全ての人に届くわけではない、このイベントもニコ生でやってたらってのとここだけで少人数でやってたらってのが違うように。でも自分は閉鎖的な方が好き。」
 
-<h3>アンケートコーナー</h3>
+
+### アンケートコーナー
+
 
 ![](images/IIMG_6101.jpg)
 （ぼくはandrogynosについて質問書きましたが当然スルー）
@@ -242,13 +252,17 @@ DIR EN GREYになるまでバイト続けてたけど、バイトが禁止だっ
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01N5S7FCC/warawareotoko-22/" target="_blank" rel="noopener noreferrer">![](images/51Ov5rw74PL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01N5S7FCC/warawareotoko-22/" target="_blank" rel="noopener noreferrer">ドント・ブリーズ [Blu-ray]</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow noopener noreferrer" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">ジェーン・レヴィ ソニー・ピクチャーズエンタテインメント 2017-03-22    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="margin:5px 0"><a href="http://www.amazon.co.jp/gp/search?keywords=%E3%83%89%E3%83%B3%E3%83%88%E3%83%BB%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=warawareotoko-22" target="_blank" rel="noopener noreferrer">Amazon</a></div><div class="shoplinkrakuten" style="margin:5px 0"><a href="https://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25BB%25E3%2583%2596%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer">楽天市場</a></div><div class="shoplinkyahoo" style="margin:5px 0"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2589%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25BB%25E3%2583%2596%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA&vcptn=kaereba" target="_blank" rel="noopener noreferrer">Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
-<h2>物販</h2>
+
+## 物販
+
 
 缶バッチは、全6種セットで1,000円だと思ってたらそんなことなくて、2個セットで1,000円３パターンって感じでした。スケジュール帳はみてないけど、中身すっごいらしいですよ。ほぼ写真集みたいな感じらしい。そして買うつもりのないステッカーを思わず買っちゃった。薫の唇がうつってたから。
 
 あとブルゾンは肌触りがすっごいいい！もう少しあったかくなったら重宝しそう。ただサイズがめっちゃ大きい。開場中に現れたジョー横溝氏が羽織ってたけどMサイズをそれで大体フィットしてるくらいでした。本人はLを買うと言ってましたけど、170前後の男性でもLはでかいと思う。
 
-<h2>店内システム</h2>
+
+## 店内システム
+
 
 次回参戦の方のために書いておきますが、ステージがある居酒屋って感じ。奥には座敷的なのもあるけど、基本はステージに向かって丸椅子が並べてある感じ。壁際にはテーブルがある席もある。トイレは男女兼用で、男性用便器と個室が同じ空間にあるからめちゃくちゃ気まずいし、女性多いイベントだと男はトイレいきずらいと思う。もうなるべく先にトイレいって水分とらないで我慢してた方がいいと思う。
 
@@ -274,7 +288,9 @@ DIR EN GREYになるまでバイト続けてたけど、バイトが禁止だっ
 コースターとバッジとステッカー。
 ![](images/IIMG_6117.jpg)
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 生まれて始めて始発の新宿駅で電車を待ちました。けっこう人乗るんだなw
 
@@ -285,7 +301,9 @@ DIR EN GREYになるまでバイト続けてたけど、バイトが禁止だっ
 
 だれか中身ちょっと見せて
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。
 そして、また明日。
 
 <script language="javascript" src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3041033&pid=883659442"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=883659442" target="_blank" rel="nofollow noopener noreferrer">![](images/gifbanner?sid=3041033&pid=883659442)</a></noscript>

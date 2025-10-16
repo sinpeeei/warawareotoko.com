@@ -9,7 +9,9 @@ tags:
 title: 【ライブレポ】sukekiyo 二〇一六年公演「漆黒の儀」2016_3_19@横浜F.A.D
 ---
 
-日常で消耗する自分をここで補充していて、見終わった後には清々しさが残るそんなLIVEでした。<!--more--><h2>FAD横浜</h2>
+日常で消耗する自分をここで補充していて、見終わった後には清々しさが残るそんなLIVEでした。<!--more-->
+## FAD横浜
+
 
 ![](images/slproImg_201603201214330.jpg)
 
@@ -21,7 +23,9 @@ title: 【ライブレポ】sukekiyo 二〇一六年公演「漆黒の儀」2016
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3250.5384871145284!2d139.64285431525207!3d35.44146098025094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60185ce4770877e1%3A0x4f28ee376f884381!2z77ym77yO77yh77yO77yk5qiq5rWc!5e0!3m2!1sja!2sjp!4v1458430707357" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<h2>セトリ</h2>
+
+## セトリ
+
 
 今回はコンセプチュアルな前回のツアーなどとは異なり、ツアー形式ですが単発の公演。会場が狭いということもあったと思いますが、特に演出やセットはなく全体的にシンプルな感じでしたが、曲数が少し多かった印象です。
 
@@ -59,7 +63,9 @@ destrudo
 
 16. 斑人間
 
-<h2>動画撮影</h2>
+
+## 動画撮影
+
 
 事前にアナウンスがあった通り動画撮影可能な時間がありました。
 
@@ -78,7 +84,9 @@ destrudo
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">明日行く人へのアドバイス<br>壁近くが一段高くなってるのでそこに乗ってください。それとアナウンスされてから携帯の電源いれるのだとiPhone6plus使ってる僕は乗り遅れました。あと各自いまから腕立てするなりして鍛えてください。10分以上腕上げるのはシンドイです。</p>&mdash; しんぺー@漆黒の儀 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/711152207459004416">2016年3月19日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 久しぶりのsukekiyo
 

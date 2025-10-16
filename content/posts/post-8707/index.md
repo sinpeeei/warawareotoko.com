@@ -13,7 +13,9 @@ title: TL監視 twitterで特定のツイートが多くツイートされると
 
 
 <!--more-->
-<h2>「Yahoo!リアルタイム検索」とは</h2>
+
+## 「Yahoo!リアルタイム検索」とは
+
 
 twitterなどのSNSで多く言及されている話題を通知してくれるアプリです。ランキング形式で今話題のツイートを見ることができます。大抵、とうらぶ関係かKPOPかジャニーズか炎上ネタです。
 
@@ -39,7 +41,9 @@ twitterなどのSNSで多く言及されている話題を通知してくれる�
 
 ![](images/slproImg_201512040824592.jpg)
 
-<h2>特定のワードが一定数つぶやかれると通知してくれる機能</h2>
+
+## 特定のワードが一定数つぶやかれると通知してくれる機能
+
 
 そして、本題です。このアプリでとても便利なのが通知に特定ワードを設定できる点です。
 
@@ -51,7 +55,9 @@ twitterなどのSNSで多く言及されている話題を通知してくれる�
 
 これでオフィシャルから以外の情報もしっかりとキャッチあっぷできます。
 
-<h3>ただし誤報もあり</h3>
+
+### ただし誤報もあり
+
 
 ただ、通知がくるトリガーがツイート数なのでたまに誤報もあります。
 
@@ -59,7 +65,9 @@ twitterなどのSNSで多く言及されている話題を通知してくれる�
 
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/app/riarutaimu-jian-suo-twitter/id552858779?mt=8&uo=4&at=11ld5P" target="_blank" >![](images/60x60bb.jpg)</a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/app/riarutaimu-jian-suo-twitter/id552858779?mt=8&uo=4&at=11ld5P" target="_blank" >リアルタイム検索 ~ Twitter検索の決定版</a></div><div class="pochi_price" style="display:inline;">無料</div><div class="pochi_time" style="font-size:x-small;display:inline;">(2015.12.04時点)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/developer/yahoo-japan-corp./id288091005?mt=8&uo=4&at=11ld5P" target="_blank" >Yahoo Japan Corp.</a></div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 入れて設定しておくだけで安心のアプリです。自分の好きなこと以外でも世の中の話題をお知らせしてくれるのでなかなか便利です。
 

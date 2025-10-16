@@ -14,7 +14,9 @@ title: 【ライブレポ】DIR EN GREY 25th Anniversary TOUR22 FROM DEPRESSION 
 ついに始まりましたDIR EN GREY25周年ツアー「FROM DEPRESSION TO ________ 」
 そういえば書いてなかったけど、紛れもないmode of DIR EN GREYといった内容のライブでした。
 
-<h2>セトリ</h2>
+
+## セトリ
+
 <ol>
 <li>羅刹国</li>
 <li>Ash</li>
@@ -46,10 +48,14 @@ EN.
 ただ、それでいて全くもって楽しいとしか言いようのないライブでした。
 
 楽曲バトルの上位から半分くらいはやってるっぽい
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">DIR EN GREY結成25周年特別企画<br>「DIR EN GREY楽曲バトル！」<br><br>本日の生配信をもって、楽曲バトルが終了となりました。<br>たくさんの投票とツイート、誠にありがとうございました！<a href="https://twitter.com/hashtag/DIRENGREY%E6%A5%BD%E6%9B%B2%E3%83%90%E3%83%88%E3%83%AB?src=hash&amp;ref_src=twsrc%5Etfw">#DIRENGREY楽曲バトル</a> <a href="https://t.co/hFCRW7nqMm">pic.twitter.com/hFCRW7nqMm</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/1562432353724538880?ref_src=twsrc%5Etfw">August 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">DIR EN GREY結成25周年特別企画<br>「DIR EN GREY楽曲バトル！」
+
+本日の生配信をもって、楽曲バトルが終了となりました。<br>たくさんの投票とツイート、誠にありがとうございました！<a href="https://twitter.com/hashtag/DIRENGREY%E6%A5%BD%E6%9B%B2%E3%83%90%E3%83%88%E3%83%AB?src=hash&amp;ref_src=twsrc%5Etfw">#DIRENGREY楽曲バトル</a> <a href="https://t.co/hFCRW7nqMm">pic.twitter.com/hFCRW7nqMm</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/1562432353724538880?ref_src=twsrc%5Etfw">August 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>メンバー衣装</h2>
+
+## メンバー衣装
+
 京は顔面白塗りでなにかしらの線が目から額にかけて入っていたように思います。
 金髪を逆立てて、緑色のロングのワンピースシルエットの服に赤いタイが見えていた気がします。
 遠目には、ハロウィンだからドクロメイクなのかな？と思っていましたが、どうも違うっぽい。
@@ -70,7 +76,9 @@ Dieはこれはもうほんとにけしからん。ど頭からずっとハミ�
 しっかりと引き締まった「仕上げてきた体」がすばらしかった。そういえば、何度かベースをダンベルの様に持ち上げていたが、筋トレだったのだろうかアレ。なお、アンコールで見たToshiyaは右腕に刺青を入れてる！？って思ってたら、どうやら血管の陰影だったらしい。筋肉の凹凸で遠目からは刺青に見えるくらいでした。
 
 
-<h2>感想</h2>
+
+## 感想
+
 これが普段の声援有りのライブだったら、そこだけが心残り。ただ、凄まじく良いライブだった。
 
 個人的な、あまりに個人的な感想になるけど
@@ -111,7 +119,9 @@ DIR EN GREYのライブに通うこと。それは、自分がそういう自分
 
 本当に良いライブでした。
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 楽しかった。頭振りました。
 ひたすらに楽しかった。余韻なんてものは与えられずずっと怒涛の楽しいが押し寄せてきた。
 

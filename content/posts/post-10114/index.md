@@ -12,7 +12,9 @@ title: ニンテンドースイッチの見守り機能で思い出した子ど�
 
 中でも1番やりいのは風来のシレンとマザー2ね。ぶっちゃけニンテンドーDSでも出来るし、スーファミを持ってるからそのままテレビに繋げれば出来るわけなんだけど。
 
-でも、たぶん買いますわ！<!--more--><h2>ニンテンドースイッチとは？</h2>
+でも、たぶん買いますわ！<!--more-->
+## ニンテンドースイッチとは？
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KLCG8VPaHjM" frameborder="0" allowfullscreen></iframe>
 
@@ -21,7 +23,9 @@ title: ニンテンドースイッチの見守り機能で思い出した子ど�
 ![](images/0d3595f1b70676c3a205f55a265bad66.png)
 
 
-<h2>Nintendo みまもり Switch</h2>
+
+## Nintendo みまもり Switch
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AVS9Dqgpo3g" frameborder="0" allowfullscreen></iframe>
 
@@ -43,7 +47,9 @@ title: ニンテンドースイッチの見守り機能で思い出した子ど�
 きっと現代の子どもたちそうなるんだろうなぁとふと思ったのでした。
 
 
-<h2>で、なんでニンテンドースイッチが欲しいか</h2>
+
+## で、なんでニンテンドースイッチが欲しいか
+
 
 冒頭にも書きましたが多分実装されるであろう過去のゲームをプレイできるアーカイブ機能でプレイしたいゲームがあるからです。それは風来のシレンとマザー2です。
 
@@ -59,12 +65,16 @@ title: ニンテンドースイッチの見守り機能で思い出した子ど�
 
 参考：<a href="https://www.nintendo.co.jp/hardware/switch/index.html">https://www.nintendo.co.jp/hardware/switch/index.html</a>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 と、ここまで書いてきて、こっち買うのもいいけどPSVR買うのでもいいんじゃないかとふと思った。いずれ出るであろうラストオブアス2はもしかしたらVR対応かもしれないし。。。
 
 
 んー迷う。
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。
 そして、また明日。

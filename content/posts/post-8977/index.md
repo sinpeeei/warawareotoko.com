@@ -13,7 +13,9 @@ title: DIR EN GREYの薫とShinyaのブロマガの値段の妥当性とコヨ�
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">たけーーーーわ！！！！</p>&mdash; しんぺー@漆黒の儀 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/704608192781643776">2016年3月1日</a></blockquote>
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><!--more--><h2>我々の年間DIR EN GREY支出額</h2>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><!--more-->
+## 我々の年間DIR EN GREY支出額
+
 
 もちろんチケットとかグッズとかDVDとかは抜きにして定額で支払ってる金額についてです。
 
@@ -29,7 +31,9 @@ title: DIR EN GREYの薫とShinyaのブロマガの値段の妥当性とコヨ�
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h2>そもそもコヨミとは？ブロマガの月額の妥当性について</h2>
+
+## そもそもコヨミとは？ブロマガの月額の妥当性について
+
 
 <a hrel="http://www.co-yomi.com/">![](images/562d13fe75d1ceddb7c5794d8d2d27a8.png)</a>
 
@@ -61,7 +65,9 @@ title: DIR EN GREYの薫とShinyaのブロマガの値段の妥当性とコヨ�
 
 だから初っ端の2人は高いんです！しょーがないんです！
 
-<h2>現状から考えらえること</h2>
+
+## 現状から考えらえること
+
 
 おそらくですが
 
@@ -81,7 +87,9 @@ a knotを入れて年間62,600円です。
 
 一番無駄に支払ってるのって携帯代なんじゃね？って
 
-<h2>全人類の固定費であるスマホ代を安くして会費に充当したい</h2>
+
+## 全人類の固定費であるスマホ代を安くして会費に充当したい
+
 
 今多くの人はキャリアに縛られてスマホの支払いをしていると思います。特に一括払いをしていないぼくのような人は月に7,000円以上支払ってるんじゃないですか？ぼくも最低1万円程度は支払っています。
 
@@ -99,7 +107,9 @@ MVNOにして月々の携帯料金を安くして、その分を課金額に充�
 
 <a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=884008922" target="_blank" rel="noopener noreferrer">![](images/gifbanner?sid=3041033&pid=884008922)au端末もドコモ端末もそのまま使える！【mineo（マイネオ）】</a>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 だから別に高くないよ！って記事にしようとしたんだけど。ごめんやっぱ高いわ！とりあえず捻出する方法として思いつくのは今の所MVNOくらいです！
 

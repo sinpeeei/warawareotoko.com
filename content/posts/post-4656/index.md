@@ -12,7 +12,9 @@ title: 「The Last of Us」追加ダウンロードコンテンツ「LEFT BEHIND
 といっても少し前からいくつかあげたりしていたのですが、本格的にゲーム実況を今後上げていこうと思います。
 かなりライバルがいる業界ではありますが、動画をあげるという事じたいに面白みを覚えてきておりますので、継続してあげていきたいと思います。
 
-<h2>THE LAST OF US「LEFT BEHIND」</h2>
+
+## THE LAST OF US「LEFT BEHIND」
+
 
 今回プレイしてみたのは「THE LAST OF US」の追加ダウンロードエピソードの「LEFT BEHIND」です。
 プレイヤーはエリーとなって、怪我を負って動けないジョエルのために薬を探しにいきます。そして、その過程でハンターや感染者たちと戦いつつ、回想シーンとして過去の話が入ってくるという流れでストーリーが進んでいきます。
@@ -31,7 +33,9 @@ title: 「The Last of Us」追加ダウンロードコンテンツ「LEFT BEHIND
 <iframe width="560" height="315" src="//www.youtube.com/embed/3DU78-XsueI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 ゲーム実況はかなりムズイです。何より家族がいるといきなり部屋に入ってきたりするから、一昔前のテープでラジオの音直撮りしている状態です。
 ちゃんとsound flowerとLadiocastの設定をせねば•••

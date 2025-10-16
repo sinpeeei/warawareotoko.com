@@ -78,7 +78,9 @@ NIGHTMAREのボーカル"YOMI"の弟（という設定）。
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00KIIEVI6/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">![](images/61GWRsQ3RVL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00KIIEVI6/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">SENDIE KAMOTSU (MINI AL+DVD)</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">仙台貨物 avex trax 2014-07-30    </div><div class="kaerebalink-link1" style="margin-top:10px;"></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 きっと、何を今更とかって思われてそうですけど、だってそんくらい衝撃だったからw
 まさか本人だったとは思わなかった。むしろナイトメアって全く聞いたことないからどういうキャラかも知らないけれど、こういうことしてファンはどう思ってるんだろうか。
 

@@ -19,7 +19,9 @@ title: 高額だけど買ってよかったアプリレビューその２「FINA
 
 これは発売と同時にソッコーで買いましたから！グラフィックは多少現在のiphone用に最適化されてますが慣れるので大丈夫です！
 <div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>ファイナルファンタジー5の魅力</b></div>
-<h2><span style="color: #0000ff;">FINAL FANTASY V 1.0.2（￥1,800）</span></h2>
+
+## <span style="color: #0000ff;">FINAL FANTASY V 1.0.2（￥1,800）</span>
+
 
 <iframe src="https://banners.itunes.apple.com/banner.html?partnerId=&aId=11ld5P&id=609589784&c=jp&l=ja-JP&bt=catalog&t=catalog_white&w=180&h=150" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:180px;height:150px;border:0px"></iframe>
 

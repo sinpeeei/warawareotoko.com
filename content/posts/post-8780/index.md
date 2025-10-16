@@ -9,7 +9,9 @@ title: 車の月の維持費が高いので、タイムズのカーシェアリ�
 ---
 
 2011年に初めて購入した車を手放しました。そっからカーシェアを使うようにしてるんですけど、これがなかなかいい感じなのでオススメですって話です。<!--more-->
-<h2>車を手放した理由</h2>
+
+## 車を手放した理由
+
 金銭的な理由です。だって車って買うにも、乗るにも、置いておくにも、捨てるにも全部お金がかかるんですもん。それで若者の車離れとか言ってるんだからそりゃ乗らなくなるわなって思います。
 
 ざっと計算してみますとこんな感じ
@@ -23,12 +25,16 @@ title: 車の月の維持費が高いので、タイムズのカーシェアリ�
 さらにさらに、オイル交換・タイヤ交換・バッテリー交換などと消耗品のメンテナンス費用もかかってくるので一体いくら加算されるかわかりません。
 
 こんなんなので貯金もできませんし、手放そう！と思ったわけです。
-<h2>でも車は使いたい。そんな人はカーシェアを使うと費用が抑えられて便利です。</h2>
+
+## でも車は使いたい。そんな人はカーシェアを使うと費用が抑えられて便利です。
+
 でも、車が必要な時は少なからずあるので代替え手段としてカーシェアを使ってみました。
 
 利用も簡単な上に、費用も安いと聞いたのですが、まさにその通りでした。
 使い方の説明です。
-<h3>登録方法</h3>
+
+### 登録方法
+
 <strong>利用するにはまず会員登録が必要です。</strong>
 方法はクイック入会、インターネット入会、カーシェア説明会、無人入会機の4つあります。（参考：<a href="http://plus.timescar.jp/regist.html">タイムズカーシェア個人入会方法</a>）
 
@@ -41,7 +47,9 @@ title: 車の月の維持費が高いので、タイムズのカーシェアリ�
 必要なものは、運転免許証・クレジットカード・メールアドレスなどです。
 
 （参考：<a href="http://plus.timescar.jp/registmachine.html">タイムズカーシェア無人入会機説明ページ</a>）
-<h3>利用方法</h3>
+
+### 利用方法
+
 ぼくはいつもアプリを使って予約をしています。
 <div class="pochireba" style="text-align: left; font-size: small; padding: 20px 0; /zoom: 1; overflow: hidden;">
 
@@ -70,7 +78,9 @@ title: 車の月の維持費が高いので、タイムズのカーシェアリ�
 こちらの画面からプランや開始時間返却時間を変更できます。また他の車種への変更もできます。
 
 ![](images/IIMG_0396.png)
-<h3>実際にかかった費用</h3>
+
+### 実際にかかった費用
+
 では利用してみて一ヶ月あたりどれくらいの料金がかかってるのかを見てみましょう。
 
 12月分¥13,236（168km、15時間30分）
@@ -80,7 +90,9 @@ title: 車の月の維持費が高いので、タイムズのカーシェアリ�
 8月分¥16,068
 
 だいたい2万円以内に収まっています。この感じだと年間20万くらいで済みそうです。マイカーを持っていて年間100万円程度消費されることを考えると非常にリーズナブルです。
-<h3>改善してほしいところ</h3>
+
+### 改善してほしいところ
+
 ただし、これだけ便利なカーシェアですが改善してほしいところが一つあります。
 
 それは最近予約が取りづらくなってきていることです。
@@ -90,7 +102,9 @@ title: 車の月の維持費が高いので、タイムズのカーシェアリ�
 使いたい時に使えないことがあるのがストレスです。
 
 <iframe src="http://ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=3041033&amp;pid=883922752" width="200" height="200" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><script language="javascript" src="http://ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3041033&pid=883922752"></script><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&amp;pid=883922752" target="_blank">![](images/gifbanner?sid=3041033&amp;pid=883922752)</a></iframe>
-<h2>でもマイカーもいいよね・・・</h2>
+
+## でもマイカーもいいよね・・・
+
 そう、これだけ便利でもやっぱりマイカーもいいなあという気持ちが捨てきれません。
 使いたい時に使え、自分が好きなようにカスタマイズできて、倉庫代わりにも使える。
 
@@ -99,7 +113,9 @@ title: 車の月の維持費が高いので、タイムズのカーシェアリ�
 <a href="http://www.amazon.co.jp/mn/search/ref=as_li_ss_tl?_encoding=UTF8&amp;camp=247&amp;creative=7399&amp;linkCode=ur2&amp;rh=i%3Aautomotive%2Cn%3A3132447051%2Ck%3A%E4%B8%AD%E5%8F%A4%E8%BB%8A%2Cn%3A3132447051&amp;tag=warawareotoko-22" target="_blank" rel="noopener">ちなみにAmazonで車購入できるって知ってましたか？</a>![](images/ir?t=warawareotoko-22&amp;l=ur2&amp;o=9)
 
 <iframe src="http://ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=3041033&amp;pid=883922752" width="200" height="200" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><script language="javascript" src="http://ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3041033&pid=883922752"></script><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&amp;pid=883922752" target="_blank">![](images/gifbanner?sid=3041033&amp;pid=883922752)</a></iframe>
-<h2>まとめ</h2>
+
+## まとめ
+
 費用を抑えたければカーシェア
 夢とロマンが欲しければマイカー
 

@@ -44,7 +44,9 @@ title: 恵比寿激ウマハンバーガー「ブラッカウズ」がおすす�
 <strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/hamburger/">ハンバーガー</a> | <a href="http://tabelog.com/tokyo/A1303/A130303/R5661/rstLst/">代官山駅</a>、<a href="http://tabelog.com/tokyo/A1303/A130302/R1528/rstLst/">恵比寿駅</a>、<a href="http://tabelog.com/tokyo/A1317/A131701/R7118/rstLst/">中目黒駅</a></p>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 美味しい！けど一つだけ気に入らないところ！それはケチャップとマスタードの提供の仕方ね。小分け袋に入ってるの。でもぼくはこういう奴の方が好き。
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0076TUF0I/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">![](images/41S4O9bGnaL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0076TUF0I/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">ハインツ トマトケチャップ逆さボトル 460g×4本</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> ハインツ日本     </div><div class="kaerebalink-link1" style="margin-top:10px;"></div></div><div class="booklink-footer" style="clear: left"></div></div>

@@ -18,13 +18,17 @@ title: 【ライブレポ】sukekiyo cali≠gari主催「シリーズ街 “東�
 出演順はsukekiyo→D’ERLANGER→cali≠gari
 会場に入るとおなじみの中森明菜の二人静が流れていました。もうこの時点で1発目はsukekiyoかという感じでした。
 
-<h2>sukekiyo いつものLIVEが凝縮された演出</h2>
+
+## sukekiyo いつものLIVEが凝縮された演出
+
 
 実はsukekiyoは本日出演バンドの中で1番若い。そんなsukekiyoでしたが、先輩バンドのイベントといえどもなんのその。全くいつも通りの演出でした。
 
 それでは、まずはセトリから
 
-<h3>セットリスト</h3>
+
+### セットリスト
+
 
 elizabeth addict
 zephyr
@@ -35,7 +39,9 @@ leather field
 dunes
 in all weathers
 
-<h3>ステージセットと演出</h3>
+
+### ステージセットと演出
+
 
 ステージのバックには「別れを悲しむ振りは貴方の為」で使用されていた女性の緊縛掛軸5枚
 
@@ -60,7 +66,9 @@ https://twitter.com/sukekiyo_band/status/684211028649902080
 
 未亡人かぁ•••なんかなぁ•••
 
-<h2>D'ERLANGER</h2>
+
+## D'ERLANGER
+
 
 D'ERLANGERは初めて見ました。ほぼ聴いたことないので新鮮でした。割とロックロックしたバンドで照明がとにかく明るかった。sukekiyoの闇に慣れた目には眩しすぎて直視することができませんでした。
 
@@ -74,7 +82,9 @@ LAZY SLEAZY with 桜井青
 Dance naked, Under the moonlight.
 CRAZY4YOU
 
-<h2>cali≠gari</h2>
+
+## cali≠gari
+
 
 ぼくにとって人生2回目のcali≠gari
 前回は数年前の日比谷野外音楽堂での「真梅雨の野外～再起Do？～」
@@ -95,7 +105,9 @@ CRAZY4YOU
 
 
 
-<h2>アンコールとセッション</h2>
+
+## アンコールとセッション
+
 
 cali≠gariのアンコールはアルバム「12」でも実際に収録に参加したD'ERLANGERドラムスTetsuを招いてのセッションで「颯爽たる未来圏」を演奏。
 
@@ -103,7 +115,9 @@ cali≠gariのアンコールはアルバム「12」でも実際に収録に参�
 
 ぼく、この曲のタイトルしらなかったけど、ムックがカバーしてたので聴いたらなんとなくわかりました。
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 いやー新年1発目のLIVEはとてもいいLIVEでした！
 

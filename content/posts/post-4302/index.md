@@ -14,7 +14,9 @@ title: 「The Last of Us~残されたもの~」をプレイするためにPS3を
 どうでもいいけどティザームービーのエリーがなで肩すぎやしねーかとひやひやしております。
 <p style="text-align: center;">![](images/28593981243f9957c8526216efd2e83c.png)</p>
 
-<h2>プレイステーション3をネットにつなぐ方法</h2>
+
+## プレイステーション3をネットにつなぐ方法
+
 普通に有線すればいいんですけど、ぼくはAirmac expressを使っていてなおかつポートを一個使用しちゃっていたので、有線することができませんでした。
 
 しかも、プレステを設置している部屋からAiemacさんの所まで離れています。
@@ -29,7 +31,9 @@ title: 「The Last of Us~残されたもの~」をプレイするためにPS3を
 </div>
 <div class="booklink-footer" style="clear: left;"></div>
 </div>
-<h3>PS3をネットにつなごう（失敗編）</h3>
+
+### PS3をネットにつなごう（失敗編）
+
 最初は、こんなものを使って無線でつなごうとか思ったりしました。
 <div class="kaerebalink-box" style="text-align: left; padding-bottom: 20px; font-size: small; /zoom: 1; overflow: hidden;">
 <div class="kaerebalink-image" style="float: left; margin: 0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B008MRUINC/warawareotoko-22/ref=nosim/" target="_blank" rel="nofollow">![](images/31INdaF9byL._SL160_.jpg)</a></div>
@@ -46,8 +50,12 @@ title: 「The Last of Us~残されたもの~」をプレイするためにPS3を
 ドライバをダウンロードして設定しなくちゃいけないんですが、ググっても2つくらいしか解決している人がいなくて、しかもMacで設定できないっぽい。。。
 
 ということで4000円くらいしたんですが結局使えませんでした。
-<h3>PS3をネットにつなごう（成功編）</h3>
-<h4>ネットに繋がってるPCとブリッジを組んで有線させる。</h4>
+
+### PS3をネットにつなごう（成功編）
+
+
+#### ネットに繋がってるPCとブリッジを組んで有線させる。
+
 これね、ぼく詳しくないんでよく解らないんですけど。
 ネットに無線で繋がってるPCとPS３を有線接続してブリッジ接続ってやつをすることで、PC経由でネットに接続ができちゃうっちゅーことらしいです。
 
@@ -70,7 +78,9 @@ title: 「The Last of Us~残されたもの~」をプレイするためにPS3を
 それと速度が遅すぎて、不安定な所がありましたね。
 
 あまりおすすめできる方法とは言えません。
-<h3>PS3をネットにつなごう（大成功編）</h3>
+
+### PS3をネットにつなごう（大成功編）
+
 もう、四の五の言わずにだまって優先しちゃいましょう。
 それが一番です。
 
@@ -104,7 +114,9 @@ title: 「The Last of Us~残されたもの~」をプレイするためにPS3を
 こんな感じでつなげました。
 <p style="text-align: center;">![](images/14bb58b727258fbc932df89db61ad7a1.jpg)</p>
 
-<h4>PS3とLANまでの距離が遠い人はこんなのも買いましょう。</h4>
+
+#### PS3とLANまでの距離が遠い人はこんなのも買いましょう。
+
 これね。なげーwwめっちゃなげーよww
 <div class="kaerebalink-box" style="text-align: left; padding-bottom: 20px; font-size: small; /zoom: 1; overflow: hidden;">
 <div class="kaerebalink-image" style="float: left; margin: 0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B001BY5BLC/warawareotoko-22/ref=nosim/" target="_blank" rel="nofollow">![](images/3196lC--scL._SL160_.jpg)</a></div>
@@ -121,7 +133,9 @@ title: 「The Last of Us~残されたもの~」をプレイするためにPS3を
 <p style="text-align: center;">![](images/1111f2f8f4633e45a0a92b555d97120e.jpg)
 ![](images/b062ad8e95319cd83aa3f5bb6869f0301.jpg)</p>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 有線が最高です。
 有線させなきゃなんにもならんですわ。
 

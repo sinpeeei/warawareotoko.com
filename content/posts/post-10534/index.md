@@ -9,7 +9,9 @@ tags:
 title: 激安ジンバル ZHIYUN「Smooth-Q」レビュー！軽くて手軽でいい！
 ---
 
-注文から数週間ZHIYUNから発売した激安高性能ジンバル「Smooth-Q」がようやく到着しました！これがあればでぶれしない綺麗な動画が撮影できるのです！ということで本日は「Smooth-Q」のインプレッションです。<!--more--><h2>ジンバルとは？</h2>
+注文から数週間ZHIYUNから発売した激安高性能ジンバル「Smooth-Q」がようやく到着しました！これがあればでぶれしない綺麗な動画が撮影できるのです！ということで本日は「Smooth-Q」のインプレッションです。<!--more-->
+## ジンバルとは？
+
 
 カメラの振動を軽減してくれる電動スタビライザーのことです。この「Smooth-Q」は3つの軸で振動を補正しています。
 
@@ -24,7 +26,9 @@ title: 激安ジンバル ZHIYUN「Smooth-Q」レビュー！軽くて手軽で�
 ただ、3軸制御のジンバルなんかだとどうしても3万円は超えてしまっていてなかなか手が出しづらかったのですが、今回ZHIYUNという中国メーカーより今までの最安機の半額でエントリーモデルが発売されました。それが「Smooth-Q」です。
 
 
-<h2>開封してみた</h2>
+
+## 開封してみた
+
 
 国際便なので外箱は割ときたなかったですが、中身は綺麗でした。ご覧の通りZHIYUNとは中国のメーカーです。中国のメーカーと聞いて警戒する人もいるかもしれませんが、実はこのメーカー、ジンバルでは有名なメーカーなのです。
 
@@ -45,7 +49,9 @@ title: 激安ジンバル ZHIYUN「Smooth-Q」レビュー！軽くて手軽で�
 スマホ取り付け部分です。硬めになっており、上下にスマホを挟み込む構造になっています。
 ![](images/IIMG_6654.jpg)
 
-<h2>セッティング</h2>
+
+## セッティング
+
 
 装着時に少し調整が必要なのがめんどくさいです。スマホを装填した時に水平になるように調整します。そのあとでスイッチを入れてジンバル側に水平に物理的な調整をしてもらいます。
 
@@ -76,7 +82,9 @@ title: 激安ジンバル ZHIYUN「Smooth-Q」レビュー！軽くて手軽で�
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/app/%E6%99%BA%E4%BA%91camera/id1123311040?mt=8&uo=4&at=11ld5P" target="_blank" >![](images/512x512bb.jpg)</a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/app/%E6%99%BA%E4%BA%91camera/id1123311040?mt=8&uo=4&at=11ld5P" target="_blank" >智云Camera</a>&nbsp;(無料)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/developer/%E6%A1%82%E6%9E%97%E6%99%BA%E7%A5%9E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1068407352?uo=4&at=11ld5P" target="_blank" >桂林智神信息技术有限公司</a>&nbsp;<a href="https://itunes.apple.com/jp/app/%E6%99%BA%E4%BA%91camera/id1123311040?mt=8&uo=4&at=11ld5P" target="_blank" style="width:100px;color:#ffffff;background:#298CDA;font-size:10px;font-weight:bold;text-align:center;display:inline;text-decoration:none;border:0px;padding:5px;border-radius:10px;background:-moz-linear-gradient(rgba(85,182,237,0.5), rgba(41,140,218,1));background:-webkit-gradient(linear, 100% 0%, 100% 100%, from(rgba(85,182,237,0.5)), to(rgba(41,140,218,1)));white-space: nowrap;">iTunes で見る</a></div><div class="pochi_time" style="font-size:x-small;display:inline;">(2017.04.09時点)</div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 試しに動画を撮って見ましたが、手ぶれがなくなったぶん、動画の画質が綺麗に見える気がします。とにく花見なんかで桜をとったりするときに重宝します。
 

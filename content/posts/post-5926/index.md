@@ -9,7 +9,9 @@ title: 復活のPIERROTフィルムギグ詳細決定！ぼくが初めて行っ
 ---
 
 ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
-オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。<!--more--><!--more--><h2>PIERROTのフィルムギグの追加情報やっとでたぜ</h2>
+オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。<!--more--><!--more-->
+## PIERROTのフィルムギグの追加情報やっとでたぜ
+
 
 <blockquote>
 1997年9月21日　新宿　日清パワーステーション CELLULOID HUMANISM -GATE-
@@ -66,7 +68,9 @@ PIERROT FILM GIG 2014　-Dictators' history-
 まさかの舞台挨拶とか、、、ね、、、ないかな、、、
 
 
-<h3>PIERROT復活のLIVE当日にAlvino主催のイベントやるってよwww</h3>
+
+### PIERROT復活のLIVE当日にAlvino主催のイベントやるってよwww
+
 
 <blockquote>
 Creative Gear主催イベントライブ緊急発表!!
@@ -103,7 +107,9 @@ PIERROTのLIVEのスタート時間が金曜日が18:30、土曜日が16:00か�
 
 何を考えてるのやら、というかどうなることやら
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 なんだろう。わくわく感より心配な気持ちしかしない。
 そして消費税くらいの期待感
 

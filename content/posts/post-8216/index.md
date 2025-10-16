@@ -8,7 +8,9 @@ tags:
 title: huluをテレビで視聴する方法
 ---
 
-huluの利点としてマルチデバイスで視聴できるというのがあります。PCやスマホ、タブレットで視聴している人が多いかと思います。しかし、どうしても普段つかっているテレビとりは小さい画面になってしまっていると思います。それをどうにかしてテレビで見たいという人も多いと思いますので、その方法をご紹介します。<!--more--><h2>huluをテレビに移す方法：hulu内蔵テレビ</h2>
+huluの利点としてマルチデバイスで視聴できるというのがあります。PCやスマホ、タブレットで視聴している人が多いかと思います。しかし、どうしても普段つかっているテレビとりは小さい画面になってしまっていると思います。それをどうにかしてテレビで見たいという人も多いと思いますので、その方法をご紹介します。<!--more-->
+## huluをテレビに移す方法：hulu内蔵テレビ
+
 
 huluのサイトによると対応機種は次の通り
 <ul>
@@ -25,7 +27,9 @@ huluのサイトによると対応機種は次の通り
 
 
 
-<h2>huluをテレビに移す方法：ゲーム機</h2>
+
+## huluをテレビに移す方法：ゲーム機
+
 
 <ul>
 	<li>プレイステーション4</li>
@@ -42,7 +46,9 @@ huluのサイトによると対応機種は次の通り
 すでに登録してあれば、ログインしてアカウントにアクセスして視聴することができます。
 
 
-<h2>huluをテレビに移す方法：PCやスマホをミラーリング</h2>
+
+## huluをテレビに移す方法：PCやスマホをミラーリング
+
 
 これが実はもっとも手っ取り早い方法なのかなと思います。スマホの画面をテレビにそのまま出力する方法です。
 
@@ -59,7 +65,9 @@ Appleの場合はこれを使います。iPhone側から出力するのに必要
 <table  border="0" cellpadding="5" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00XP5KLLK/warawareotoko-22/ref=nosim/" target="_blank" >![](images/21gMmAcWm9L._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00XP5KLLK/warawareotoko-22/ref=nosim/" target="_blank" >Apple Lightning - Digital AVアダプタ MD826AM/A</a></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> Apple Computer </div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 64</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=Apple%20Lightning%20-%20Digital%20AV%83A%83_%83v%83%5E%20&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" target="_blank" >Amazon</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Lightning%2520-%2520Digital%2520AV%25E3%2582%25A2%25E3%2583%2580%25E3%2583%2597%25E3%2582%25BF%2520%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DApple%2520Lightning%2520-%2520Digital%2520AV%25E3%2582%25A2%25E3%2583%2580%25E3%2583%2597%25E3%2582%25BF%2520" target="_blank" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3DApple%2520Lightning%2520-%2520Digital%2520AV%25E3%2582%25A2%25E3%2583%2580%25E3%2583%2597%25E3%2582%25BF%2520" target="_blank" >ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table>
 
 
-<h2>huluをテレビに移す方法：AppleTV</h2>
+
+## huluをテレビに移す方法：AppleTV
+
 
 AppleTVを使えばiPhoneの画面をテレビに飛ばすこともできますし、単体でhuluを見ることもできます。
 
@@ -77,7 +85,9 @@ AppleTVを使えばiPhoneの画面をテレビに飛ばすこともできます�
 ちなみに、9月のアップルの新製品発表会で新しいタイプが発表される噂がありますので、最新のものを購入した方がいいかもしれません。
 
 
-<h2>huluをテレビに移す方法：クロームキャスト</h2>
+
+## huluをテレビに移す方法：クロームキャスト
+
 
 クロームキャストの設定はかんたん。テレビに接続して設定するだけ。ただし一つネックなのが本体への電力供給です。テレビにUSBがついていればいいのですが、もしない場合は電源を考えなければいけません。
 
@@ -96,7 +106,9 @@ AppleTVを使えばiPhoneの画面をテレビに飛ばすこともできます�
 
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 
 秋にはnetflixも日本に上陸しますので、ますますストリーミングサービスが充実することになるでしょう。それと同時に視聴環境もそれにあわせて進化していくことを期待しております。さらに期待しているのは料金がさがったらいいよね〜みたな

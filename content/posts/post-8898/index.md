@@ -14,7 +14,9 @@ title: ARCHE日本武道館公演とその後のツアーから考察するDIR E
 
 
 <!--more-->
-<h2>「TOUR16-17 FROM DEPRESSION TO ___ 」の先にある未来</h2>
+
+## 「TOUR16-17 FROM DEPRESSION TO ___ 」の先にある未来
+
 
 今回発表された「TOUR16-17 FROM DEPRESSION TO ___ 」は、全7弾まであると薫がラジオで語っていた。それすなわち、「鬼葬」「VULGAR」「DUM SPIRO SPERO」の他に「MACABRE」「Withering to death.」「THE MARROW OF A BONE」「UROBOROS」が控えていると思って間違いない。
 
@@ -28,7 +30,9 @@ title: ARCHE日本武道館公演とその後のツアーから考察するDIR E
 
 まず１つがDUM SPIRO SPEROより前のDIR EN GREYの制作の仕方とDUM SPIRO SPEROとそれより後の作品の制作の仕方がそれぞれ異なっているためである。
 
-<h3>UROBOROS以前〜DUM SPIRO SPERO</h3>
+
+### UROBOROS以前〜DUM SPIRO SPERO
+
 
 DUM SPIRO SPERO制作時のインタビューで薫が話していたが、DUMより前の制作については薫がみんなの意見をまとめるという姿勢をとってきた。しかしDUMに関しては薫の意見も多いに織り交ぜて制作したとのこと。
 
@@ -36,13 +40,17 @@ DUM SPIRO SPERO制作時のインタビューで薫が話していたが、DUM�
 
 その反動がSustain the untruthやARCHEにつながったのではないだろうか。
 
-<h3>Sustain the untruth、ARCHE</h3>
+
+### Sustain the untruth、ARCHE
+
 
 おそらく複雑を好む薫派とシンプル____というよりも、もっと体感で乗れる様な曲を欲したメンバーの間で対立構造があったのではないかと思われる。そしてその発露として次作であるSustain the untruthやARCHEがあり、またDieのDECAYSというDIR EN GREYとは全く異なったバンドがあるのではなかろうか。
 
 すなわち、ARCHEはDIR EN GREYにとっては新しい表現手法であり、ある種実験だったのではないだろうか。
 
-<h2>次はARCHEの反動がくる</h2>
+
+## 次はARCHEの反動がくる
+
 
 しかしながら、彼らの今までの流れからするとこのままバンドがシンプルな方向に進んでいくのも何か違う気がする。
 
@@ -54,7 +62,9 @@ DUM SPIRO SPERO制作時のインタビューで薫が話していたが、DUM�
 
 具体的に言うと、来年ARCHE大阪城ホール公演くるんじゃないでしょうか
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 と、まぁ全てはぼくの妄想です。
 

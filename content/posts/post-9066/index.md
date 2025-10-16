@@ -16,7 +16,9 @@ title: 【ライブレポ】sukekiyo 二〇一六年公演「桜肌、夢諦め�
 ↓
 
 公開しました！<!--more-->
-<h2>「桜肌、夢諦め跡と優越の詩」のあらすじとその解釈</h2>
+
+## 「桜肌、夢諦め跡と優越の詩」のあらすじとその解釈
+
 <blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="6">
 <div style="padding: 8px;">
 <div style="background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 50.0% 0; text-align: center; width: 100%;"></div>
@@ -68,7 +70,9 @@ title: 【ライブレポ】sukekiyo 二〇一六年公演「桜肌、夢諦め�
 
 </div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-<h2>セトリと新曲の印象</h2>
+
+## セトリと新曲の印象
+
 1. hemimetabolism
 2. elisabeth addict
 3. mama
@@ -89,7 +93,9 @@ animaの印象は、この表現伝わるかわからないけど歌謡曲の様
 遊郭に売られた無垢な少女が発狂していく姿が見える。
 
 <iframe src="https://www.youtube.com/embed/AjmFCzoMnrw?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 これBlu-rayで前編後編つなげてみたいです。その際には補足映像も付け加えて2枚組、1枚バックステージ映像の特典付きで10,000円以内でお願いできないでしょうか。
 
 それにしても、本当にどっと疲れた、、、

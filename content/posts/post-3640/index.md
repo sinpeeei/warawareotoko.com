@@ -16,7 +16,9 @@ title: 劇場版 魔法少女まどかマギカ[新編]叛逆の物語見てき�
 
 まさにこうなった・・・
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>まどかマギカって何って人</b></div></h2>
+
+## まどかマギカって何って人
+
 
 魔法少女まどかマギカとは
 
@@ -35,7 +37,9 @@ title: 劇場版 魔法少女まどかマギカ[新編]叛逆の物語見てき�
 そして見続けることでいつのまにかヤバくらい引き込まれて感情移入しまくりになってしまう。。。
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 
 何もいえねっ
 ネタばれになってしまう。なんも言えない。

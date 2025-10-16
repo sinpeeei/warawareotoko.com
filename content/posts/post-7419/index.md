@@ -63,7 +63,9 @@ title: 部署異動の不安を払拭する方法なんてないから結局前�
 
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 何が言いたいかというと、不思議のダンジョン仕様になるなよということです。
 

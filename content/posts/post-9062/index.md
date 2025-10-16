@@ -8,7 +8,9 @@ tags:
 title: 単純に思う。AbemaTVがやばすぎる！新世代のTV体験はこれだ！
 ---
 
-サイバーエージェントがテレ朝と組んでスタートしたAbemaTVをご存知でしょうか。ぼくの好きなでんぴ組.incのメンバー最上もがが冠番組を始めるということなので、アプリをダウンロードして見たのですがこれヤバすぎと思ったので本日はAbemaTVについてご紹介します。<!--more--><h2>AbemaTVとは？</h2>
+サイバーエージェントがテレ朝と組んでスタートしたAbemaTVをご存知でしょうか。ぼくの好きなでんぴ組.incのメンバー最上もがが冠番組を始めるということなので、アプリをダウンロードして見たのですがこれヤバすぎと思ったので本日はAbemaTVについてご紹介します。<!--more-->
+## AbemaTVとは？
+
 
 4月11日にアメブロを運営しているサイバーエージェントとテレ朝が開局したネットテレビのことです。
 
@@ -16,7 +18,9 @@ title: 単純に思う。AbemaTVがやばすぎる！新世代のTV体験はこ�
 
 ちなみにアメーバティービーではありません。アベマティービーです。
 
-<h3>AbemaTVの見かた</h3>
+
+### AbemaTVの見かた
+
 
 PCの場合はこちら
 
@@ -32,7 +36,9 @@ PCだとこんな感じで見えます。
 ちなみにアプリでなくてもブラウザで見ることもできます。
 
 
-<h3>配信番組はこんなの</h3>
+
+### 配信番組はこんなの
+
 
 テレビだと東京ではだいたい7チャンネルくらいしかありませんが、AbemaTVは22チャンネルあります。
 
@@ -59,7 +65,9 @@ EDGE SPORT HD
 麻雀
 AbemaFRESH!
 
-<h2>どうしてヤバいと思ったか</h2>
+
+## どうしてヤバいと思ったか
+
 
 まずはそのUIが使いやすい！というところ。それ以外は次の通り
 
@@ -79,14 +87,18 @@ AbemaFRESH!
 それとこの中で視聴者取り合いになっても、他局ではないから利用者増えれば増えるほどメリットになるし、、、
 とにかくすごい
 
-<h3>気になるところ</h3>
+
+### 気になるところ
+
 
 それは通信料です。
 映像のストリーミングなんて2、3時間も見ていたら1日で7G制限超えてもおかしくありません。
 
 ちなみに1時間の番組をLTEで視聴した場合300MBから500MBくらいでした。
 
-<h3>動画配信サービスが間違いなくきてる</h3>
+
+### 動画配信サービスが間違いなくきてる
+
 
 実はこれ以外にも動画配信サービスあります。
 
@@ -97,7 +109,9 @@ AbemaFRESH!
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/app/line-live-wu-liao-shi-tingapuri/id1059626535?mt=8&uo=4&at=11ld5P" target="_blank" >![](images/512x512bb.jpg)</a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/app/line-live-wu-liao-shi-tingapuri/id1059626535?mt=8&uo=4&at=11ld5P" target="_blank" >LINE LIVE - 無料視聴アプリ（ラインライブ）</a></div><div class="pochi_price" style="display:inline;">無料</div><div class="pochi_time" style="font-size:x-small;display:inline;">(2016.04.23時点)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/developer/line-corporation/id359067226?uo=4&at=11ld5P" target="_blank" >LINE Corporation</a></div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 何でもかんでも若者のナントカ離れとレッテル貼って、自分たちの努力不足を消費者のせいにする風潮
 

@@ -16,7 +16,9 @@ PIERROTとDIR EN GREYの謎のプロジェクト「ANDROGYNOS」についての�
 
 そして、明かされたプロジェクトの一端
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">2017.2.12(sun)<br><br>14:00 新宿アルタビジョン</p>&mdash; ANDROGYNOS (@androgynosJP) <a href="https://twitter.com/androgynosJP/status/830068818261135363">2017年2月10日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">2017.2.12(sun)
+
+14:00 新宿アルタビジョン</p>&mdash; ANDROGYNOS (@androgynosJP) <a href="https://twitter.com/androgynosJP/status/830068818261135363">2017年2月10日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 横浜アリーナにて2days
@@ -53,7 +55,9 @@ LIVEの概要に関してはまだ詳細は不明です。
 
 過去情報はここから（2017年1月21日時点）色々と予想が外れてるw
 
-<h2>androgynosとは</h2>
+
+## androgynosとは
+
 
 （こ、ここからは冷静に。。以下は発表前情報をリアルタイムで投稿してたものです。そのうち修正します。）
 
@@ -113,18 +117,24 @@ LIVE映像も当然発売されるかと思います。ただ、PIERROTは今や
 あと超絶蛇足ですが、これをきっかけにPIERROTがサンクレ移籍になったりしてねw
 
 
-<h2>LIVEはいつなのか各バンドのスケジュール確認して予想してみた</h2>
+
+## LIVEはいつなのか各バンドのスケジュール確認して予想してみた
+
 LIVEやるにしても、じゃいつ頃なのよ。ってことでそれぞれのバンドのスケジュール調べてみました。
 
 どうしよリキッドルームとかそれくらいの規模だったら・・・超プレミアチケットになる、、、絶対に入れない、、、こわい。。。。
-<h3>Angelo</h3>
+
+### Angelo
+
 キリト、Kohta、Takeoの所属するバンドです。
 今のところ発表ないみたいですが、キリトはブログできっちり情報更新しています。
 
 →<a href="http://ameblo.jp/kiritoofficial/entry-12233824193.html">日刊思考回路（キリトフィシャルブログ）</a>
 
 暴れる＝LIVEやるのは確実ですな。
-<h3>LM.C</h3>
+
+### LM.C
+
 Aijiのバンドです。おそらく今回のイベントの一番のキーマンでしょう。ファンクラブ向けに何かしらメッセージを発信しているかもしれませんので、誰かこっそり教えてください。
 
 PIERROT解散も再結成も超ざっくりいうとこの人とキリトの確執だったりもすると思うんですよ。当然この人を口説いたのはDIR EN GREYリーダーの薫のはずです。後述しますが薫とは飲み友達。
@@ -134,18 +144,24 @@ PIERROT解散も再結成も超ざっくりいうとこの人とキリトの確�
 で、LM.Cのスケジュールですが2月〜5月までびーっしりLIVE入ってます。ツアー中です。
 
 もうこの時点で、6月まではLIVEなさそうですね。
-<h3>ALvino</h3>
+
+### ALvino
+
 ギター潤のバンドです。4月5月と全国ツアー中です！！！
 
 やっぱり6月以降だな。
 
 ということで<strong>上半期はなさそう！！！となると7月〜10月くらい？？</strong>
 
-<h3>各会場の状況も見てみた</h3>
+
+### 各会場の状況も見てみた
+
 日本武道館、さいたまスーパーアリーナ、幕張メッセ
 
 上半期までのスケジュールしかでていません。その中には入っていません。
-<h3>DIR EN GREY</h3>
+
+### DIR EN GREY
+
 そんで主催（と思われる）DIR EN GREYです。ツアーが1月、2月そして4月と入っています。
 現在20周年を記念した過去のアルバムをベースにしたツアーをおよそ2ヶ月やって1~２ヶ月間あけてまたやるーっていうのを繰り返し中です。今年4本やると最新のアルバムに追いつくという形になります。（THE MARROW OF A BONEとUROBOROSが発表済み、Withering to death.とMACABREが未発表）
 
@@ -163,7 +179,9 @@ PIERROT解散も再結成も超ざっくりいうとこの人とキリトの確�
 <strong>で、結論</strong>
 
 <strong>上半期はない！10月以降に開催されるはず！</strong>
-<h2>DIR EN GREYとPIERROTの関係は？</h2>
+
+## DIR EN GREYとPIERROTの関係は？
+
 上にも書きましたがデビューが同じ時期、ベースのToshiyaがPIERROTでローディ的なことをやったことがあったりとか。
 
 また薫とaijiは飲み友達だったりして、最近ですと一昨年のBooXmasにてTTTというバンドでセッションしたりもしてます。
@@ -177,13 +195,17 @@ PIERROT解散も再結成も超ざっくりいうとこの人とキリトの確�
 
 
 
-<h2>小ネタ</h2>
+
+## 小ネタ
+
 
 どうやらかの聖地「神宮橋」に「あの丘」が現れたようだ・・・
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d222.45295499632496!2d139.70237532954323!3d35.66963372958896!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cbab4f63c91%3A0xf99e35f62fb7c86a!2z5p2x5Lqs6YO95riL6LC35Yy656We5a6u5YmNIOODoeOCruODieOBruS4mA!5e0!3m2!1sja!2sjp!4v1484926549515" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 そうか、ぼくはこの時のために産まれたんだね。
 

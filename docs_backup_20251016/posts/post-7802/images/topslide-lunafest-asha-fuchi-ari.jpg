@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="ja" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<meta charset="UTF-8">
+<meta name="Robots" content="index, follow"><meta name="description" content="BUCK∞TICKのオフィシャルウェブサイト。リリース・ライブなどの最新情報を随時更新中！ファンクラブ[FISH TANK]、モバイルサイト[LOVE&MEDIA PORTABLE]のご案内もしています。"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, shrink-to-fit=no" />
+<meta name="format-detection" content="telephone=no">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="BUCK∞TICK OFFICIAL SITE">
+<meta property="og:title" content="BUCK∞TICK OFFICIAL SITE">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:url" content="https://buck-tick.com/">
+<meta property="og:image" content="https://buck-tick.com/ogp_img.png">
+<meta property="fb:app_id" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="BUCK∞TICK OFFICIAL SITE">
+<meta name="twitter:title" content="BUCK∞TICK OFFICIAL SITE">
+<meta name="twitter:description" content="BUCK∞TICKのオフィシャルウェブサイト。リリース・ライブなどの最新情報を随時更新中！ファンクラブ[FISH TANK]、モバイルサイト[LOVE&amp;MEDIA PORTABLE]のご案内もしています。">
+<meta name="twitter:url" content="https://buck-tick.com/">
+<meta name="twitter:image" content="https://buck-tick.com/ogp_img.png">
+
+<title>BUCK∞TICK OFFICIAL SITE</title>
+
+
+
+<meta name="theme-color" content="#000">
+<link rel="canonical" href="https://buck-tick.com/">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://sp.buck-tick.com/" />
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="https://cmn-assets.plusmember.jp/webfont/assets/font/fontawesome_all2308/css/all.min2308.css">
+<link rel="stylesheet" href="https://use.typekit.net/ldu6cyv.css">
+<link href="https://fonts.googleapis.com/earlyaccess/notosansjapanese.css" rel="stylesheet" />
+<link rel="stylesheet" href="/static/original/common/css/slick.css" >
+<link rel="stylesheet" href="/static/original/common/css/slick-theme.css" >
+<link rel="stylesheet" href="/static/original/official/css/official-service.css?=20250727">
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="/static/original/common/js/slick.min.js"></script>
+<script src="/static/original/official/js/official-service.js"></script>
+
+
+
+
+            <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+  ga('create', 'UA-120973294-1', 'auto', {'allowLinker': true});
+    ga('require', 'linker');
+  ga('linker:autoLink', ['secure.plusmember.jp','fc.buck-tick.com' ]);
+
+
+  var browsingapp = 'false';
+  ga('set', 'dimension5', browsingapp);
+	
+
+
+  var member =  '0';
+  ga('set', 'dimension1', member);
+
+  var member_hit = '0';
+  ga('set', 'dimension6', member_hit);
+
+  ga('send', 'pageview');
+</script>
+
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8VVFKNDKGL"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+                    gtag('config', 'G-8VVFKNDKGL');
+                gtag('set', 'linker', {
+            'accept_incoming': true,
+            'domains': ['secure.plusmember.jp','fc.buck-tick.com']
+        });
+
+                    var browsingapp = 'false';
+            gtag('set', 'dimension5', browsingapp);
+        
+                    var member =  '0';
+            gtag('set', 'dimension1', member);
+            var member_hit = '0';
+            gtag('set', 'dimension6', member_hit);
+            </script>
+
+</head>
+
+<body   class="page--home" style="" onContextmenu="return true">
+<noscript>
+<div class="noteBox">
+<p class="note">JavaScriptが無効になっています</p>
+<p>本サービスをお楽しみいただくには、JavaScript を有効にする必要があります。</p>
+</div>
+</noscript>
+
+<div id="wrapper">
+	<div class="loading">
+</div>
+	<header id="header">
+		<h1 class="logo"><a href="https://buck-tick.com/"><img src="/static/bucktick/common/ph_logo.png" alt="BUCK-TICK"></a></h1>
+		<nav class="g-nav">
+			<ul class="menu">
+				<li class="nav__home"><a href="https://buck-tick.com/">HOME</a></li>
+				<li class="nav__news"><a href="https://buck-tick.com/news/">NEWS</a></li>
+				<li class="nav__schedule"><a href="https://buck-tick.com/schedule/">SCHEDULE</a></li>
+				<li class="nav__live"><a href="https://buck-tick.com/live/">LIVE</a></li>
+				<li class="nav__media"><a href="https://buck-tick.com/media/?range=future_event_end_time&sort=asc">MEDIA</a></li>
+				<li class="nav__disco"><a href="https://buck-tick.com/discography/">DISCOGRAPHY</a></li>
+				<li class="nav__profile"><a href="https://buck-tick.com/feature/profile">PROFILE</a></li>
+				<li class=""><a href="https://buck-tick.com/feature/specialsite_archives">ARCHIVES</a></li>
+				<li class="nav__fc"><a href="https://fc.buck-tick.com/?lang=ja" target="_blank">FAN CLUB</a></li>
+				<li class="nav__fc"><a href="https://sp.buck-tick.com/" target="_blank">MOBILE</a></li>
+				<li class="nav__shop"><a href="https://store.plusmember.jp/buck_tick/" target="_blank">SHOP</a></li>
+			</ul>
+		</nav>
+	<ul class="nav--sns">
+	<li><a href="https://www.facebook.com/bucktick.official/" target="_blank"><span class="fa fa-facebook"></span></a></li>
+	<li><a href="https://twitter.com/BUCKTICK_INFO" target="_blank"><span class="fa fa-twitter"></span></a></li>
+	<li><a href="https://line.me/R/ti/p/%40buck_tick" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" viewBox="0 0 315 300"><path d="M280.344,206.351 C280.344,206.351 280.354,206.351 280.354,206.351 C247.419,244.375 173.764,290.686 157.006,297.764 C140.251,304.844 142.724,293.258 143.409,289.286 C143.809,286.909 145.648,275.795 145.648,275.795 C146.179,271.773 146.725,265.543 145.139,261.573 C143.374,257.197 136.418,254.902 131.307,253.804 C55.860,243.805 0.004,190.897 0.004,127.748 C0.004,57.307 70.443,-0.006 157.006,-0.006 C243.579,-0.006 314.004,57.307 314.004,127.748 C314.004,155.946 303.108,181.342 280.344,206.351 ZM95.547,153.146 C95.547,153.146 72.581,153.146 72.581,153.146 C72.581,153.146 72.581,98.841 72.581,98.841 C72.581,94.296 68.894,90.583 64.352,90.583 C59.819,90.583 56.127,94.296 56.127,98.841 C56.127,98.841 56.127,161.398 56.127,161.398 C56.127,165.960 59.819,169.660 64.352,169.660 C64.352,169.660 95.547,169.660 95.547,169.660 C100.092,169.660 103.777,165.960 103.777,161.398 C103.777,156.851 100.092,153.146 95.547,153.146 ZM127.810,98.841 C127.810,94.296 124.120,90.583 119.583,90.583 C115.046,90.583 111.356,94.296 111.356,98.841 C111.356,98.841 111.356,161.398 111.356,161.398 C111.356,165.960 115.046,169.660 119.583,169.660 C124.120,169.660 127.810,165.960 127.810,161.398 C127.810,161.398 127.810,98.841 127.810,98.841 ZM202.908,98.841 C202.908,94.296 199.219,90.583 194.676,90.583 C190.137,90.583 186.442,94.296 186.442,98.841 C186.442,98.841 186.442,137.559 186.442,137.559 C186.442,137.559 154.466,93.894 154.466,93.894 C152.926,91.818 150.460,90.583 147.892,90.583 C147.007,90.583 146.127,90.730 145.282,91.010 C141.916,92.142 139.650,95.287 139.650,98.841 C139.650,98.841 139.650,161.398 139.650,161.398 C139.650,165.960 143.345,169.660 147.885,169.660 C152.427,169.660 156.114,165.960 156.114,161.398 C156.114,161.398 156.114,122.705 156.114,122.705 C156.114,122.705 188.090,166.354 188.090,166.354 C189.637,168.431 192.094,169.660 194.667,169.660 C195.546,169.660 196.434,169.521 197.279,169.236 C200.650,168.114 202.908,164.966 202.908,161.398 C202.908,161.398 202.908,98.841 202.908,98.841 ZM253.385,138.381 C257.927,138.381 261.617,134.674 261.617,130.129 C261.617,125.569 257.927,121.872 253.385,121.872 C253.385,121.872 230.426,121.872 230.426,121.872 C230.426,121.872 230.426,107.103 230.426,107.103 C230.426,107.103 253.385,107.103 253.385,107.103 C257.927,107.103 261.617,103.398 261.617,98.841 C261.617,94.296 257.927,90.583 253.385,90.583 C253.385,90.583 222.187,90.583 222.187,90.583 C217.650,90.583 213.955,94.296 213.955,98.841 C213.955,98.850 213.955,98.858 213.955,98.878 C213.955,98.878 213.955,130.109 213.955,130.109 C213.955,130.114 213.955,130.129 213.955,130.129 C213.955,130.139 213.955,130.139 213.955,130.149 C213.955,130.149 213.955,161.398 213.955,161.398 C213.955,165.960 217.655,169.660 222.187,169.660 C222.187,169.660 253.385,169.660 253.385,169.660 C257.915,169.660 261.617,165.960 261.617,161.398 C261.617,156.851 257.915,153.146 253.385,153.146 C253.385,153.146 230.426,153.146 230.426,153.146 C230.426,153.146 230.426,138.381 230.426,138.381 C230.426,138.381 253.385,138.381 253.385,138.381 Z"></path></svg></a></li>
+	<li><a href="https://www.youtube.com/channel/UCshX7abyGGG2WqCuYC5En7w" target="_blank"><span class="fa fa-youtube-play"></span></a></li><li><a href="https://www.instagram.com/bucktickofficial/" target="_blank"><span class="fa fa-instagram"></span></a></li>
+	</ul>
+	<div class="block-lang">	
+		<form action="" method="get">
+	<ul class="nav--language">
+			<li class="current">
+		<label><input type="submit" value="ja" name="lang">JP</label>
+		</li>
+			<li>
+		<label><input type="submit" value="en" name="lang">EN</label>
+		</li>
+		</ul>
+	</form>
+	</div>
+	</header>
+
+<script src="/static/original/common/js/swiper-bundle.min.js"></script>
+<script src="/static/original/common/js/fv_carousel.js"></script>
+<link rel="stylesheet" href="/static/original/common/js/swiper-bundle.min.css">
+<script>
+$(window).load(function () {
+	$('body').addClass('loaded');
+	$('.loading').fadeOut();
+	$(window).on('scroll', function () {
+		scroll = $(window).scrollTop();
+		$('.keyvisual').css('background-position-y', '50' - scroll / 10 + '%');
+		if (scroll > 0) {
+			$('.keyvisual').css('opacity', 1 / (scroll / 100));
+		}
+		});
+	});
+</script>
+<section class="section--keyvisual keyvisual" id="keyvisual-carousel">
+
+<div class="block--keyvisual-carousel">
+
+
+			<ul class="swiper-wrapper">
+					<li class="swiper-slide">
+			<a href="#" target="_self" class="disabled">
+			<img src="/static/bucktick/fansite/cmn/cover.png" style="background-image:url(/static/bucktick/contents/banner/90ecb76832b892a8a7768c2ce62510bb.jpeg);" alt="BUCK-TICK"/>
+			</a>
+			</li>
+				</ul>
+	
+</div></section>
+
+
+
+<div id="contents">
+<div class="section--banner">
+    
+        
+			<ul class="bnr--list clearfix">
+		
+					<li>
+			<a href="https://buck-tick.com/feature/ss_naisho?_normalbrowse_=1" target="_blank">
+			<p class="tit">LIVE</p>
+			<img src="/static/bucktick/contents/banner/eda2f2bd4842503efca6462f54fb9626.jpeg" alt="全国ツアー「BUCK∞TICK TOUR 2025 -ナイショの薔薇の下-」開催"/>
+			<p class="txt">全国ツアー「BUCK∞TICK TOUR 2025 -ナイショの薔薇の下-」開催</p>
+			</a>
+			</li>
+					<li>
+			<a href="/live/detail/12697/" target="_self">
+			<p class="tit">LIVE</p>
+			<img src="/static/bucktick/contents/banner/a1ad880a55e7b873393f35a721850f5d.jpeg" alt="Yagami Toll ～63rd Birthday Live～ IT&#039;S A NOW！2025"/>
+			<p class="txt">Yagami Toll ～63rd Birthday Live～ IT&#039;S A NOW！2025</p>
+			</a>
+			</li>
+					<li>
+			<a href="/discography/detail/320/" target="_self">
+			<p class="tit">RELEASE</p>
+			<img src="/static/bucktick/contents/banner/e0aabceaba9032b624b775732e58296c.jpeg" alt="LIVE Blu-ray&amp;DVD「ナイショの薔薇の下 2024」2025年9月24日発売"/>
+			<p class="txt">LIVE Blu-ray&amp;DVD「ナイショの薔薇の下 2024」2025年9月24日発売</p>
+			</a>
+			</li>
+					<li>
+			<a href="https://www.jvcmusic.co.jp/linguasounda/subrosa/" target="_blank">
+			<p class="tit">RELEASE</p>
+			<img src="/static/bucktick/contents/banner/7a62528a3470e1903245759e0549bed4.jpeg" alt="NEW ALBUM「スブロサ SUBROSA」発売中"/>
+			<p class="txt">NEW ALBUM「スブロサ SUBROSA」発売中</p>
+			</a>
+			</li>
+					<li>
+			<a href="/discography/detail/313/" target="_self">
+			<p class="tit">RELEASE</p>
+			<img src="/static/bucktick/contents/banner/612841329ce78055bc9c45d2f63bd778.jpeg" alt="Blu-ray＆DVD「劇場版BUCK-TICK バクチク現象 - New World - 」発売中"/>
+			<p class="txt">Blu-ray＆DVD「劇場版BUCK-TICK バクチク現象 - New World - 」発売中</p>
+			</a>
+			</li>
+					<li>
+			<a href="https://buck-tick.com/feature/specialsite_point_program?_normalbrowse_=1" target="_self">
+			<p class="tit">POINT PROGRAM</p>
+			<img src="/static/bucktick/contents/banner/75d0c9b336938154f232100ba93bc60e.jpeg" alt="FISH TANK / LOVE &amp; MEDIA PORTABLE ポイントプログラム"/>
+			<p class="txt">FISH TANK / LOVE &amp; MEDIA PORTABLE ポイントプログラム</p>
+			</a>
+			</li>
+					<li>
+			<a href="https://buck-tick.com/feature/specialsite_service" target="_blank">
+			<p class="tit">FAN CLUB</p>
+			<img src="/static/bucktick/contents/banner/fb413850637965053b7a3c5b8e98d3a8.jpeg" alt="FISH TANK / LOVE &amp; MEDIA PORTABLE"/>
+			<p class="txt">FISH TANK / LOVE &amp; MEDIA PORTABLE</p>
+			</a>
+			</li>
+					<li>
+			<a href="/discography/detail/309/" target="_self">
+			<p class="tit">RELEASE</p>
+			<img src="/static/bucktick/contents/banner/6af5c4efa4911927cf1f3fd4a53aa0f1.jpeg" alt="NEW SINGLE「雷神 風神 - レゾナンス」 2024年11月20日発売"/>
+			<p class="txt">NEW SINGLE「雷神 風神 - レゾナンス」 2024年11月20日発売</p>
+			</a>
+			</li>
+					<li>
+			<a href="https://buck-tick.lnk.to/izora_finalo" target="_blank">
+			<p class="tit">RELEASE</p>
+			<img src="/static/bucktick/contents/banner/3ce1bd827a6d55613c0d83260e8e7422.jpeg" alt="2023年9月18日 群馬公演のライブ音源を配信リリース"/>
+			<p class="txt">2023年9月18日 群馬公演のライブ音源を配信リリース</p>
+			</a>
+			</li>
+				</ul>
+	
+    
+    </div>
+<section class="section--announce">
+    <div class="inner">
+<a href="https://buck-tick.com/feature/specialsite_service?_normalbrowse_=1"><img src="/static/bucktick/common/banner_fc_fs_new.jpg" alt="BUCK-TICKオフィシャルファンクラブ オフィシャルモバイルサイト"></a>
+    </div>
+</section>
+
+<!-- NEWS -->
+<section class="section--news">
+    <div class="inner">
+        <h2 class="section-tit">NEWS</h2>
+        <ul class="list--information vertical clearfix">
+                        <li class="new" >
+                <a href="https://buck-tick.com/news/detail/12747">
+                    <p class="date">2025.07.25</p>
+                    <p class="category">OTHER</p>
+                    <p class="tit">
+                        Amplifierより、今井寿フォトTシャツ第6弾＆60th Birthday記念 BE@RBRICK発売！                    </p>
+                </a>
+            </li>
+                        <li class="new" >
+                <a href="https://buck-tick.com/news/detail/12746">
+                    <p class="date">2025.07.24</p>
+                    <p class="category">OTHER</p>
+                    <p class="tit">
+                        109シネマズ高崎にて「劇場版BUCK-TICK バクチク現象 - New World -」上映                    </p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://buck-tick.com/news/detail/12744">
+                    <p class="date">2025.07.16</p>
+                    <p class="category">SHOP</p>
+                    <p class="tit">
+                        BUCK∞TICK OFFICIAL WEB SHOP通信販売情報                    </p>
+                </a>
+            </li>
+                    </ul>
+        <p class="list__more">
+            <a href="https://buck-tick.com/news/">MORE</a>
+        </p>
+    </div>
+</section>
+<!-- /.section--news -->
+<!-- MEDIA -->
+<section class="section--media">
+    <div class="inner">
+        <h2 class="section-tit">MEDIA</h2>
+        <ul class="list--information vertical clearfix">
+                        <li>
+                <a href="https://buck-tick.com/media/detail/12701">
+                    <p class="date">2025.06.30</p>
+                    <p class="category">MAGAZINE</p>
+                    <p class="tit">
+                        6/30発売「ROCK AND READ 119」掲載                    </p>
+                    
+                    
+                </a>
+                </li>
+                            <li>
+                <a href="https://buck-tick.com/media/detail/12722">
+                    <p class="date">2025.07.04</p>
+                    <p class="category">MAGAZINE</p>
+                    <p class="tit">
+                        7/4発売「音楽と人 2025年8月号」掲載                    </p>
+                    
+                    
+                </a>
+                </li>
+                            <li>
+                <a href="https://buck-tick.com/media/detail/12745">
+                    <p class="date">2025.07.17</p>
+                    <p class="category">OTHER</p>
+                    <p class="tit">
+                        WEB掲載情報：「BUCK-TICK TOUR 2025 スブロサ SUBROSA 追加公演」ライブレポート                    </p>
+                    
+                    
+                </a>
+                </li>
+                        </ul>
+        <p class="list__more">
+            <a href="https://buck-tick.com/media/?range=future_event_end_time&sort=asc">MORE</a>
+        </p>
+    </div>
+</section><!-- /.section--media -->
+<!-- LIVE -->
+<section class="section--live">
+<div class="inner">
+    <h2 class="section-tit">LIVE</h2>
+    <ul class="list--information vertical">
+                <li>
+            <a href="https://buck-tick.com/live/detail/12686">
+                <p class="category">2025</p>
+                <div class="live--detail">
+                                        <p class="tit">
+                        BRAHMAN 30th Anniversary「尽未来祭 2025」                    </p>
+                    <p class="date">
+                        <span>開催日：</span>
+                        2025.11.24
+                                                                                            </p>
+                                    </div>
+            </a>
+            </li>
+                    <li>
+            <a href="https://buck-tick.com/live/detail/12714">
+                <p class="category">2025</p>
+                <div class="live--detail">
+                                        <p class="tit">
+                        サントリー オールフリー presents 氣志團万博2025 ～関東爆音パビリオン～ powered by Epson                    </p>
+                    <p class="date">
+                        <span>開催日：</span>
+                        2025.11.15
+                                                                        -&nbsp;2025.11.16
+                                                                    </p>
+                                    </div>
+            </a>
+            </li>
+                    <li>
+            <a href="https://buck-tick.com/live/detail/12719">
+                <p class="category">2025</p>
+                <div class="live--detail">
+                                        <p class="tit">
+                        10th ANNIVERSARY「LUNATIC FEST. 2025」                    </p>
+                    <p class="date">
+                        <span>開催日：</span>
+                        2025.11.09
+                                                                                            </p>
+                                    </div>
+            </a>
+            </li>
+                </ul>
+    <p class="list__more"><a href="https://buck-tick.com/live/">MORE</a></p>
+</div>
+</section><!-- /.section--live -->
+
+<!-- MUSIC VIDEO -->
+<section class="section--video">
+        <h2 class="section-tit">VIDEO</h2>
+        <ul class="list--video">
+                        <li>
+                <a href="https://www.youtube.com/watch?v=6hBm8Wf3Wbc">
+                    <div class="cover" style="background-image:url(http://img.youtube.com/vi/6hBm8Wf3Wbc/maxresdefault.jpg);">
+                    </div>
+                    <p class="tit">
+                        「BUCK-TICK TOUR 2025 スブロサ SUBROSA」トレーラー2
+                    </p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://www.youtube.com/watch?v=pD-YcFvai1Q">
+                    <div class="cover" style="background-image:url(http://img.youtube.com/vi/pD-YcFvai1Q/maxresdefault.jpg);">
+                    </div>
+                    <p class="tit">
+                        「BUCK-TICK TOUR 2025 スブロサ SUBROSA」トレーラー
+                    </p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://www.youtube.com/watch?v=7w0ugQ6NuzU">
+                    <div class="cover" style="background-image:url(http://img.youtube.com/vi/7w0ugQ6NuzU/maxresdefault.jpg);">
+                    </div>
+                    <p class="tit">
+                        『劇場版BUCK-TICK バクチク現象 - New World - I』Teaser
+                    </p>
+                </a>
+            </li>
+                    </ul>
+        <p class="list__more"><a href="https://buck-tick.com/video/">MORE</a></p>
+</section><!-- /.section--video -->
+
+<!--　FISH TANK -->
+<section class="section--fcnews">
+    <div class="inner">
+        <h2 class="section-tit"><img src="/static/bucktick/fanclub/fc_logo.png" alt="FISH TANK"></h2>
+        <ul class="list--information vertical clearfix">
+                        <li>
+                <a href="https://fc.buck-tick.com/news/detail/12738">
+                    <p class="date">2025.07.09</p>
+                    <p class="category">FISH TANK</p>
+                    <p class="tit">
+                        「BUCK∞TICK TOUR 2025 -ナイショの薔薇の下-」 W会員チケット先行予約
+                    </p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://fc.buck-tick.com/news/detail/12721">
+                    <p class="date">2025.07.04</p>
+                    <p class="category">FISH TANK</p>
+                    <p class="tit">
+                        会報116号発送のお知らせ
+                    </p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://fc.buck-tick.com/news/detail/12717">
+                    <p class="date">2025.07.02</p>
+                    <p class="category">FISH TANK</p>
+                    <p class="tit">
+                        【FISH TANK】新規入会・お友達紹介キャンペーン特典デザイン決定！
+                    </p>
+                </a>
+            </li>
+                    </ul>
+        <p class="list__more"><a href="https://fc.buck-tick.com/news/list/73/46/">MORE</a></p>
+    </div>
+</section>
+<!--　FISH TANK -->
+
+<!-- fansite -->
+<section class="section--fansite">
+    <div class="inner">
+        <h2 class="section-tit">BUCK∞TICK OFFICIAL MOBILE SITE
+            <img src="/static/bucktick/fansite/top/ph_logo.png" alt="FISH TANK">
+            <span>MEMBER'S ONLY</span>
+        </h2>
+                <div class="block--menu">
+        <ul>
+            <li>
+				<a href="https://sp.buck-tick.com/blogs/list/15/16">
+					<p class="tit">PHOTOLOG</p>
+					<p class="txt">星野英彦ブログ</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://sp.buck-tick.com/blogs/list/1/2">
+					<p class="tit">BLOG</p>
+					<p class="txt">樋口 豊ブログ</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://sp.buck-tick.com/wallpaper/">
+					<p class="tit">WALLPAPER</p>
+					<p class="txt">壁紙</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://sp.buck-tick.com/feature/stamp_top?_normalbrowse_=1">
+					<p class="tit">STAMP</p>
+					<p class="txt">スタンプ</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://sp.buck-tick.com/lyrics">
+					<p class="tit">LYRICS</p>
+					<p class="txt">歌詞検索</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://sp.buck-tick.com/feature/fanmail">
+					<p class="tit">FAN MAIL</p>
+					<p class="txt">ファンメール</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://sp.buck-tick.com/feature/introduction_fs">
+					<p class="tit">BIRTHDAY MAIL</p>
+					<p class="txt">バースデーメール</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://sp.buck-tick.com/feature/game_top">
+					<p class="tit">GAME</p>
+					<p class="txt">ゲーム</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://sp.buck-tick.com/feature/introduction_fs">
+					<p class="tit">MYPAGE</p>
+					<p class="txt">マイページ</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://sp.buck-tick.com/movie/list/2/1/">
+					<p class="tit">MOVIE</p>
+					<p class="txt">動画</p>
+				</a>
+			</li>
+            <li>
+				<a href="https://buck-tick.com/feature/specialsite_point_program">
+					<p class="tit">POINT PROGRAM</p>
+					<p class="txt">ポイントプログラム</p>
+				</a>
+			</li>
+		</ul>
+        </div>
+        
+    </div>
+</section><!-- /.section--fansite -->
+<!-- app -->
+<section class="section--app">
+    <div class="inner">
+        <div class="block--txt">
+            <div class="txt">
+                <h2 class="tit">BUCK∞TICK APP</h2>
+                <p>
+                    BUCK∞TICKオフィシャルモバイルサイト「LOVE ＆ MEDIA PORTABLE」/
+                    オフィシャルファンクラブ「FISH TANK」の公式アプリです。
+                </p>
+                <div class="btn">
+                    <a href="https://itunes.apple.com/jp/app/bucktick/id1434366016?mt=8">
+                        <img src="/static/bucktick/official/btn_appstore.png">
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=com.buck_tick.sp">
+                        <img src="/static/bucktick/official/btn_google.png">
+                    </a>
+                </div>
+            </div>
+            <div class="block--mock">
+                <img src="/static/bucktick/official/ph_mock01.png">
+                <img src="/static/bucktick/official/ph_mock02.png">
+            </div>
+        </div>
+    </div>
+</section>
+</div><!-- /#contents -->
+
+	<footer id="footer">
+		<div class="block--sub-banner">
+        
+			<ul class="bnr--list clearfix">
+		
+					<li>
+			<a href="http://blog.buck-tick.com/" target="_blank">
+			<p class="tit">ブログ</p>
+			<img src="/static/bucktick/contents/banner/d4e5b79b4eb97b6fa435cb0c7c8bb11c.jpeg" alt="ブログ"/>
+			<p class="txt">ブログ</p>
+			</a>
+			</li>
+					<li>
+			<a href="https://www.jvcmusic.co.jp/linguasounda/" target="_blank">
+			<p class="tit">Lingua Sounda</p>
+			<img src="/static/bucktick/contents/banner/abfa41fe4f99ba350fa6b64bc318c020.jpeg" alt="Lingua Sounda"/>
+			<p class="txt">Lingua Sounda</p>
+			</a>
+			</li>
+					<li>
+			<a href="https://www.jvcmusic.co.jp/linguasounda/b-t35th/" target="_blank">
+			<p class="tit">Debut 35th Anniversary SITE</p>
+			<img src="/static/bucktick/contents/banner/e7bac33a1075adbb84f637be0fa321de.jpeg" alt="BUCK-TICK Debut 35th Anniversary SITE"/>
+			<p class="txt">BUCK-TICK Debut 35th Anniversary SITE</p>
+			</a>
+			</li>
+					<li>
+			<a href="https://sakurai-atsushi.com/" target="_blank">
+			<p class="tit">櫻井敦司オフィシャルサイト</p>
+			<img src="/static/bucktick/contents/banner/f8567fee1de477cade416230789c203d.jpeg" alt="櫻井敦司オフィシャルサイト"/>
+			<p class="txt">櫻井敦司オフィシャルサイト</p>
+			</a>
+			</li>
+				</ul>
+	
+    </div>
+		<div class="inner">
+			<ul class="nav--support">
+				<li><a href="https://buck-tick.com/feature/link">LINK</a></li>
+				<li><a href="https://buck-tick.com/feature/site-policy">SITE POLICY</a></li>
+				<li><a href="https://buck-tick.com/feature/sns-policy">SNS POLICY</a></li>
+				<li><a href="https://buck-tick.com/feature/contact">CONTACT</a></li>
+			</ul>
+			<div class="footer_lang">
+				<form action="" method="get">
+	<ul class="nav--language">
+			<li class="current">
+		<label><input type="submit" value="ja" name="lang">JP</label>
+		</li>
+			<li>
+		<label><input type="submit" value="en" name="lang">EN</label>
+		</li>
+		</ul>
+	</form>
+			</div>
+			<ul class="nav--sns">
+				<li><a href="https://www.facebook.com/bucktick.official/" target="_blank"><span class="fa fa-facebook"></span></a></li>
+				<li><a href="https://twitter.com/BUCKTICK_INFO" target="_blank"><span class="fa fa-twitter"></span></a></li>
+				<li><a href="https://line.me/R/ti/p/%40buck_tick" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" viewBox="0 0 315 300"><path d="M280.344,206.351 C280.344,206.351 280.354,206.351 280.354,206.351 C247.419,244.375 173.764,290.686 157.006,297.764 C140.251,304.844 142.724,293.258 143.409,289.286 C143.809,286.909 145.648,275.795 145.648,275.795 C146.179,271.773 146.725,265.543 145.139,261.573 C143.374,257.197 136.418,254.902 131.307,253.804 C55.860,243.805 0.004,190.897 0.004,127.748 C0.004,57.307 70.443,-0.006 157.006,-0.006 C243.579,-0.006 314.004,57.307 314.004,127.748 C314.004,155.946 303.108,181.342 280.344,206.351 ZM95.547,153.146 C95.547,153.146 72.581,153.146 72.581,153.146 C72.581,153.146 72.581,98.841 72.581,98.841 C72.581,94.296 68.894,90.583 64.352,90.583 C59.819,90.583 56.127,94.296 56.127,98.841 C56.127,98.841 56.127,161.398 56.127,161.398 C56.127,165.960 59.819,169.660 64.352,169.660 C64.352,169.660 95.547,169.660 95.547,169.660 C100.092,169.660 103.777,165.960 103.777,161.398 C103.777,156.851 100.092,153.146 95.547,153.146 ZM127.810,98.841 C127.810,94.296 124.120,90.583 119.583,90.583 C115.046,90.583 111.356,94.296 111.356,98.841 C111.356,98.841 111.356,161.398 111.356,161.398 C111.356,165.960 115.046,169.660 119.583,169.660 C124.120,169.660 127.810,165.960 127.810,161.398 C127.810,161.398 127.810,98.841 127.810,98.841 ZM202.908,98.841 C202.908,94.296 199.219,90.583 194.676,90.583 C190.137,90.583 186.442,94.296 186.442,98.841 C186.442,98.841 186.442,137.559 186.442,137.559 C186.442,137.559 154.466,93.894 154.466,93.894 C152.926,91.818 150.460,90.583 147.892,90.583 C147.007,90.583 146.127,90.730 145.282,91.010 C141.916,92.142 139.650,95.287 139.650,98.841 C139.650,98.841 139.650,161.398 139.650,161.398 C139.650,165.960 143.345,169.660 147.885,169.660 C152.427,169.660 156.114,165.960 156.114,161.398 C156.114,161.398 156.114,122.705 156.114,122.705 C156.114,122.705 188.090,166.354 188.090,166.354 C189.637,168.431 192.094,169.660 194.667,169.660 C195.546,169.660 196.434,169.521 197.279,169.236 C200.650,168.114 202.908,164.966 202.908,161.398 C202.908,161.398 202.908,98.841 202.908,98.841 ZM253.385,138.381 C257.927,138.381 261.617,134.674 261.617,130.129 C261.617,125.569 257.927,121.872 253.385,121.872 C253.385,121.872 230.426,121.872 230.426,121.872 C230.426,121.872 230.426,107.103 230.426,107.103 C230.426,107.103 253.385,107.103 253.385,107.103 C257.927,107.103 261.617,103.398 261.617,98.841 C261.617,94.296 257.927,90.583 253.385,90.583 C253.385,90.583 222.187,90.583 222.187,90.583 C217.650,90.583 213.955,94.296 213.955,98.841 C213.955,98.850 213.955,98.858 213.955,98.878 C213.955,98.878 213.955,130.109 213.955,130.109 C213.955,130.114 213.955,130.129 213.955,130.129 C213.955,130.139 213.955,130.139 213.955,130.149 C213.955,130.149 213.955,161.398 213.955,161.398 C213.955,165.960 217.655,169.660 222.187,169.660 C222.187,169.660 253.385,169.660 253.385,169.660 C257.915,169.660 261.617,165.960 261.617,161.398 C261.617,156.851 257.915,153.146 253.385,153.146 C253.385,153.146 230.426,153.146 230.426,153.146 C230.426,153.146 230.426,138.381 230.426,138.381 C230.426,138.381 253.385,138.381 253.385,138.381 Z"></path></svg></a></li>
+				<li><a href="https://www.youtube.com/channel/UCshX7abyGGG2WqCuYC5En7w" target="_blank"><span class="fa fa-youtube-play"></span></a></li><li><a href="https://www.instagram.com/bucktickofficial/" target="_blank"><span class="fa fa-instagram"></span></a></li>
+			</ul>
+			<p class="charity"><a href="https://buck-tick.com/charity/">義援金活動について<svg x="0px" y="0px" viewBox="0 0 28.6 32" class="arrow">
+<polygon points="25.8,14.8 16.3,24.3 16.3,0 12.3,0 12.3,24.3 2.8,14.8 0,17.7 11.5,29.1 14.3,32 28.6,17.7 "/>
+</svg></a></p>
+
+			<p class="copyright"><small>&copy;&nbsp;BANKER L.T.D</small></p>
+		</div>
+	</footer>
+
+</div><!-- /#wrapper -->
+</body>
+</html>

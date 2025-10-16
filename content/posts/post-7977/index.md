@@ -12,7 +12,9 @@ title: 【ライブレポ】DIR EN GREY LUNATIC FEST 2015_6_27@幕張メッセ
 
 いってきました。こちらの記事は当日は現地レポとして更新しておりましたが、落ち着きましたのでLIVEレポとして書き直しました。
 
-それではぼくの主観的なものになりますが、よかったらどうぞ！！<!--more--><h2>いいか幕張メッセは幕張駅にはないからな！もう一度言う。幕張メッセは海浜幕張駅だからな！！</h2>
+それではぼくの主観的なものになりますが、よかったらどうぞ！！<!--more-->
+## いいか幕張メッセは幕張駅にはないからな！もう一度言う。幕張メッセは海浜幕張駅だからな！！
+
 
 
 自宅出発。
@@ -97,7 +99,9 @@ title: 【ライブレポ】DIR EN GREY LUNATIC FEST 2015_6_27@幕張メッセ
 ![](images/IIMG_7366.jpg)
 
 
-<h2>ルナフェスとは入るのにも並び、飲食ブースでも並び、物販でも並び、ステージエリアに行くのにも並ぶ。これはもはやディズニーランドです。</h2>
+
+## ルナフェスとは入るのにも並び、飲食ブースでも並び、物販でも並び、ステージエリアに行くのにも並ぶ。これはもはやディズニーランドです。
+
 
 いやー少しは予想してたし、Twitterで画像見てたからわかってたけどさ。まさかここまでとはwww尋常じゃない列w
 
@@ -146,10 +150,14 @@ title: 【ライブレポ】DIR EN GREY LUNATIC FEST 2015_6_27@幕張メッセ
 
 
 
-<h2>各バンドの感想とセトリだあああ！！</h2>
+
+## 各バンドの感想とセトリだあああ！！
+
 セトリは拾い物
 
-<h3>LUNACY</h3>
+
+### LUNACY
+
 CHESS
 メカニカルダンス
 SHADE
@@ -160,7 +168,9 @@ SHADE
 
 
 
-<h3>9mm</h3>
+
+### 9mm
+
 Discommunication
 ハートに火をつけて
 Cold Edge    →Jの飛び入り
@@ -171,7 +181,9 @@ Punishment
 ごめんなさい。エデンエリアで物販みたりなんやかんやしておりました。
 
 
-<h3>テレフォンズ</h3>
+
+### テレフォンズ
+
 #Monkey Discooooooo
 HABANERO
 Baby,Baby,Baby
@@ -182,7 +194,9 @@ Love & DISCO
 9mmからの流れでパンピーの方々が熱い時間だったと思われます。ビール飲み終わってたので途中出て外のビールを求めにいっておりました。
 
 
-<h3>ヤンキース</h3>
+
+### ヤンキース
+
 セトリ不明
 PATA乱入
 
@@ -191,7 +205,9 @@ PATA乱入
 なのに、なのに！間に合わず見れませんでしたーーーーー！！！
 
 
-<h3>コールドレイン</h3>
+
+### コールドレイン
+
 THE REVELATION
 NO ESCAPE
 Six Feet Under
@@ -202,7 +218,9 @@ THE WAR IS ON
 
 
 
-<h3>レディースルーム</h3>
+
+### レディースルーム
+
 Anarchy in THE UK
 酒と泪と男と女←隆一乱入
 
@@ -214,7 +232,9 @@ Anarchy in THE UK
 
 
 
-<h3>シャムシェイド</h3>
+
+### シャムシェイド
+
 RAIN
 D.Z.I.
 1/3の純情な感情→真矢乱入
@@ -231,7 +251,9 @@ Don't Tell Lies
 あと今時の若者はDREAMS知らないのね？いい曲よ！スポーツニュースかなんかのタイアップだった希ガスる。
 
 
-<h3>Fear, and Loathing in Las Vegas</h3>
+
+### Fear, and Loathing in Las Vegas
+
 Rave-up
 Jump Around
 Starburst
@@ -253,7 +275,9 @@ Just Awake
 
 
 
-<h3>DIR EN GREY</h3>
+
+### DIR EN GREY
+
 
 and zero
 SUSTAIN THE UNTRUTH
@@ -296,7 +320,9 @@ DIRのMVはどれもやばいものが多いのですが、ぼくはみていて
 
 [itemlink post_id="12004"]
 
-<h4>SUGIZO乱入</h4>
+
+#### SUGIZO乱入
+
 
 DIR EN GREYのLIVEはMCがありません。その代わりに京がお経のような声や獣のようなうめきをあげ、独特の世界観のさらに深いところにオーディエンスをいざなうのです。
 
@@ -309,7 +335,9 @@ DIR EN GREYのLIVEはMCがありません。その代わりに京がお経のよ
 
 
 
-<h4>DIR EN GREY終わりで倒れる人多数。救急車も出動</h4>
+
+#### DIR EN GREY終わりで倒れる人多数。救急車も出動
+
 
 その後のXとLUNA SEA目当てで場所取りで入ってた方々（特に覚悟なくいらっしゃった方）、さらに興味本位の方々が死地と知らず迷い込んだ方々がソッコー離脱していったのが散見されました。
 
@@ -317,7 +345,9 @@ DIR EN GREYのLIVEはMCがありません。その代わりに京がお経のよ
 
 終わったあとに車椅子で運ばれる方を何人か見かけました。。。
 
-<h4>中継とニコ生</h4>
+
+#### 中継とニコ生
+
 ニコ生の方やその他でも実況やらなんやらがあったようです。
 
 ニコ生のToshiチャンネルでは京が生出演して天使だと話題に
@@ -328,7 +358,9 @@ DIAURAのメンバーも会場きてたっぽいし
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h3>dead end</h3>
+
+### dead end
+
 I Want Your Love
 Psychomania
 serafine（with:RYUICHI & SUGIZO）
@@ -338,7 +370,9 @@ Devil
 またしても、休憩に行ってしまっており見れず。
 
 
-<h3>X</h3>
+
+### X
+
 1.JADE
 2.RUSTY NAIL
 -MC-
@@ -369,7 +403,9 @@ Devil
 くらいに当たり前で誰も疑う余地のない物語、それがXなんだと思いました。
 
 
-<h3>LUNA SEA</h3>
+
+### LUNA SEA
+
 LOVELESS
 Dejavu
 Rouge
@@ -386,13 +422,17 @@ ROSIER
 すんません。もうこのころは帰路についておりました。
 
 
-<h3>無敵バンド？</h3>
+
+### 無敵バンド？
+
 
 DIRのToshibaとDieも参加してたらしいなああ見ればよかった
 
 
 
-<h2>その他の写真</h2>
+
+## その他の写真
+
 
 
 <a href="images/wpid-20150627094139.jpg">![](images/wpid-20150627094139.jpg)</a>
@@ -413,7 +453,9 @@ DIRのToshibaとDieも参加してたらしいなああ見ればよかった
 奇跡的に本日の最後の一杯をいただきました！食べやすくて美味しかった〜
 <a href="images/wpid-20150627094158.jpg">![](images/wpid-20150627094158.jpg)</a>
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 
 いやーマジで疲れた。それでもすごくいいLIVEでした。

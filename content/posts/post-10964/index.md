@@ -9,7 +9,9 @@ tags:
 title: 普段着ライブTシャツのぼくがオシャレれだと思うクリエーターを紹介
 ---
 
-自分にはオシャレさがまったくない。いつもライブＴシャツ着てるしズボンも１つか２つしかもってない。靴もブーツともう一足しかないし、ベルトなんて一本しかない。服装とかにステータス振りをしなくなってからだいぶ経つ。あと表現するものもオシャレさとか清潔感とかなくて、どこかクセがある。そんなぼくが憧れるおしゃれだなぁぁぁああ！！！と思うクリエーターを本日はご紹介いたします。<!--more--><h2>料理系Youtuberの中でもひときわオシャレ「Peaceful Cuisine」</h2>
+自分にはオシャレさがまったくない。いつもライブＴシャツ着てるしズボンも１つか２つしかもってない。靴もブーツともう一足しかないし、ベルトなんて一本しかない。服装とかにステータス振りをしなくなってからだいぶ経つ。あと表現するものもオシャレさとか清潔感とかなくて、どこかクセがある。そんなぼくが憧れるおしゃれだなぁぁぁああ！！！と思うクリエーターを本日はご紹介いたします。<!--more-->
+## 料理系Youtuberの中でもひときわオシャレ「Peaceful Cuisine」
+
 
 ビーガンってご存知でしょうか？単なるベジタリアンではなく、衣食住において極力動物性の使用を避ける完全なるベジタリアンのことです。
 
@@ -44,7 +46,9 @@ http://veganic.co.jp/veganism/
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4768308880/warawareotoko-22/" target="_blank" >![](images/51jKvhXOjuL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4768308880/warawareotoko-22/" target="_blank" >高嶋綾也 PEACEFUL CUISINE ベジタリアン・レシピブック</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">高嶋 綾也 玄光社 2017-09-11    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="margin:5px 0"><a href="http://www.amazon.co.jp/gp/search?keywords=peaceful&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=warawareotoko-22" target="_blank" >Amazon</a></div><div class="shoplinkrakuten" style="margin:5px 0"><a href="https://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fpeaceful%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場</a></div><div class="shoplinkyahoo" style="margin:5px 0"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3Dpeaceful&vcptn=kaereba" target="_blank" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
-<h2>monograph</h2>
+
+## monograph
+
 
 ブロガーの堀口英剛さんのブログ
 
@@ -72,7 +76,9 @@ monograph関連ですが「DRESSCODE」というブログもオシャレでし�
 <a href="http://www.fukulow.info/">http://www.fukulow.info/</a>
 
 
-<h2>そもそも服装に気を使わなくなったのはなぜか</h2>
+
+## そもそも服装に気を使わなくなったのはなぜか
+
 
 で、ですね、ぼくがなんでオシャレじゃないかというとですね。優劣がでるからですわ。
 
@@ -98,7 +104,9 @@ VS
 
 あと、ライブTシャツは自分の所属を自ずと表明してくれる機能もあるので、そこも気に入ってます。
 
-<h3>最近のDIR EN  GREYのツアーTシャツ普段着で着れない問題</h3>
+
+### 最近のDIR EN GREYのツアーTシャツ普段着で着れない問題
+
 
 しかしながら、最近のDIR EN GREYのライブTシャツには容認できない部分がある。それはデザイナーを入れて、本格的にアパレル化してしまったため、売れる商品への注力がすごいのである。つまり女性向けのTシャツが増えてしまい、男が普段着で着られる様な一般的なTシャツがないのた。ドルマンTシャツってやんだよ！きれねーよ！そんなの！そりゃグッズ買う人の10％くらいしか男っていないだろうけどさ！
 
@@ -108,7 +116,9 @@ VS
 どうしましょう。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 
 って、なんやかんや言ってきましたが、結論です。

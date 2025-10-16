@@ -15,7 +15,9 @@ title: 【DIR EN GREY】Dieモバイルオープン！コンテンツ一覧。
 
 実は虜(DIR EN GREYファン)の中では数ヶ月前から、そのサイトの存在がつぶやかれておりました。そのサイトが先日突如オープンしました。
 
-<h2>Dieモバイルでできること</h2>
+
+## Dieモバイルでできること
+
 
 <ul>
 	<li>NEWS</li>
@@ -42,7 +44,9 @@ Dieの飼っている猫のイラストと一言
 </ul>
 
 
-<h2>Dieの今後</h2>
+
+## Dieの今後
+
 
 近年色々なバンドのサポートとして活躍してますが、その動きがより活発になることが予想されます。それ以外でも個人名義で音源出したり、LIVEやったりするのでしょうか。その場合、歌は誰が歌うの？Die自身？？
 
@@ -50,7 +54,9 @@ Dieの飼っている猫のイラストと一言
 
 ということで、今後の展開としては2通りあるのではないでしょうか。
 
-<h3>ギターだけ弾いて、あらゆるジャンルの人と絡んでいくパターン</h3>
+
+### ギターだけ弾いて、あらゆるジャンルの人と絡んでいくパターン
+
 
 一昨年sukekiyoの初お披露目で、ぼくは初めてSUGIZO氏見たんですが、ギターを中心にダンスやサックスなど様々なジャンルのアーティストとコラボレーションしてました。
 
@@ -59,7 +65,9 @@ Dieの飼っている猫のイラストと一言
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F8V4aE5jLCw" frameborder="0" allowfullscreen></iframe>
 
 
-<h3>ギター完結型</h3>
+
+### ギター完結型
+
 
 ギターのみ。もしくはギターとドラムのみで楽曲やLIVEを成立させるパターンです。例えば雅-MIYAVI-とか雅-MIYAVI-とか雅-MIYAVI-とか
 
@@ -70,7 +78,9 @@ Dieの飼っている猫のイラストと一言
 <iframe width="420" height="315" src="https://www.youtube.com/embed/uunPriLNr30" frameborder="0" allowfullscreen></iframe>
 
 
-<h3>新しいバンドを組む</h3>
+
+### 新しいバンドを組む
+
 
 これは割とありそう。しかも完全Dieプロデュースの女性ボーカルで、とか。
 少しトリッキーな感じで来る気がします。または先輩バンドや他のバンドのボーカルとで普通に新しいバンドやるとか。。
@@ -81,7 +91,9 @@ Dieの飼っている猫のイラストと一言
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 
 <blockquote class="twitter-tweet" lang="ja"><p>待て待て待て待て待て待て待て待て。&#10;京オンライン300円&#10;Dieオンライン300円&#10;--------------------&#10;Shinyaオンライン300円&#10;Toshiyaオンライン300円&#10;&#10;1200円で年間な14400円！！</p>&mdash; しんぺー@新木場 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/592535239114694657">2015, 4月 27</a></blockquote>

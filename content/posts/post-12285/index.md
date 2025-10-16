@@ -22,7 +22,9 @@ GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで
 
 <!--more--> 
 
-<h2>現在のテレビ周辺環境</h2>
+
+## 現在のテレビ周辺環境
+
 ![](images/hdmi_kirikae2.png)
 
 ぐちゃぐちゃのテレビ周辺の配線状況を整理するとこんな感じです。
@@ -30,14 +32,18 @@ GoogleとAmazonが喧嘩してようつべが見れなくなり、Google Homeで
 
 そのうち掃除機関係だけは別のところに移した方がいいかもです。今回はここにさらにもう一つガジェットを追加する感じですw
 
-<h2>ChromecastとFire TV stickの併用したい</h2>
+
+## ChromecastとFire TV stickの併用したい
+
 そもそも、ChromecastとFire TV Stickとは同じようなガジェットです。
 
 どちらでもYoutubeが見れますし（昔はGoogleとAmazonが喧嘩してFire TVでYoutube見れなくなった）、Netflixも見れます。
 
 それぞれの違う点も説明します。
 
-<h3>Chromecastとは</h3>
+
+### Chromecastとは
+
 [itemlink post_id="12292"]
 Google製のガジェットです。かんたんに言うと、<strong>同じWiFiにつながっているスマホやPCで見ているYoutubeやNetflixなどをテレビに写せるガジェット</strong>です。
 
@@ -51,13 +57,17 @@ Google製のガジェットです。かんたんに言うと、<strong>同じWiF
 
 「OK Google！DIR EN GREYのRanunculusの動画を流して」も大丈夫
 
-<h3>Fire TV Stickとは</h3>
+
+### Fire TV Stickとは
+
 [itemlink post_id="12293"]
 Amazon製のガジェットです。単体でテレビリモコンで操作ができます。動画もこれだけで見ることができます。
 
 <strong>Amazonのプライムビデオも見ることができます。</strong>ただし、Amazon Echoでの音声操作はできません。
 
-<h3>HDMI入力が足りないのでHDMIの切替が必要</h3>
+
+### HDMI入力が足りないのでHDMIの切替が必要
+
 Chromecastは音声操作ができる。
 
 AmazonのFire TV Stickはプライムビデオが見れる。
@@ -75,7 +85,9 @@ AmazonのFire TV Stickはプライムビデオが見れる。
 
 でも、ちゃんとやりたいように併用もできたので満足です。
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 昔買ったけど使ってないガジェットで利用できるものはどんどん利用していきたいと思います。今回使っていない2つのガジェットを有効利用することができました！うれしい！
 

@@ -14,7 +14,9 @@ title: PIERROTアルタ前発表まとめ！一生ピエラーだぜ！
 <a href="https://www.warawareotoko.com/2014/04/09/post-4772/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2014/04/09/post-4772/" target="_blank">PIERROT•••再始動か解散LIVEか | Gadget Zombie Parasite</a>![](images/)<br style="clear:both;" /><br>
 
 
-<h2>発表時間までの荒ぶるタイムライン</h2>
+
+## 発表時間までの荒ぶるタイムライン
+
 
 午前中にタイムラインを検索すると11時よりも前にアルタ前に集結している人たちもいるとのこと。さすがピエラーや！
 
@@ -50,7 +52,9 @@ title: PIERROTアルタ前発表まとめ！一生ピエラーだぜ！
 そして、ついに時間に！
 
 
-<h2>PIERROT　DICTATORS CIRCUS FINAL@さいたまスーパーアリーナ</h2>
+
+## PIERROT DICTATORS CIRCUS FINAL@さいたまスーパーアリーナ
+
 
 HELLOのMVが終わりキリトがマイクスタンドを蹴倒し、時の経過を暗示する映像が流れます。
 
@@ -91,7 +95,9 @@ DICTATORS CIRCUS FINAL
 ![](images/slooProImg_20140412182355.jpg)
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 今日たどりつくまでにPIERROTをランダムで聴いてました。。。
 

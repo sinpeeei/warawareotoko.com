@@ -11,11 +11,15 @@ title: 防音室というものが気になったので調べてみた
 
 ぼくの好きなゲーム実況者の「<a href="https://www.youtube.com/user/ketsugeketsuge">けつ毛中級兵</a>」氏が最近「防音室を借りた」という発言を動画内で繰り返している。これってどういうことだろうって思ってたんだけど、偶然とあるV系バンドの麺（メンバー）が防音室を自作（爆）したというTweetみてこれか！と思って調べましたので、えーっとご紹介します。<!--more-->ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
-<h2>防音室とは？</h2>
+
+## 防音室とは？
+
 オーディオ鑑賞や楽器の演奏をしても外部に音が漏れない構造になった謝恩設備のある部屋。
 
 しかも、音が内部で綺麗に聞こえる構造になってたりして、音楽を楽しむための工夫がいろいろされているらしいです。
-<h2>防音室をいちから自作する驚愕V系バンドメンバーAzlinaのしぐば氏</h2>
+
+## 防音室をいちから自作する驚愕V系バンドメンバーAzlinaのしぐば氏
+
 おお、インディーズなのに自宅でそんなことできるのかーしかもボーカルだから声ださなきゃいけないのに、そういう部屋に住んでるのかなーとか思ったら。
 <blockquote class="twitter-tweet" lang="ja">
 <p dir="ltr" lang="ja">今朝まで自宅でレコーディングしてた、、、 おれんち家にスタジオあるから(笑) <a href="http://t.co/2Dy53dGbwE">pic.twitter.com/2Dy53dGbwE</a></p>
@@ -66,7 +70,9 @@ Azlina
 ってか今のインディーズのバンドってこんなしっかりしてるんだ。MVもクオリティたけーな。
 
 オフィシャルサイト：http://band.livoon.com/Azlina1/
-<h2>防音室の値段</h2>
+
+## 防音室の値段
+
 部屋の構造からしっかりとしたものを「工事」しようとすると100万円以上かかります。しかもドラムとかだともう見積もり額はお問い合わせください状態で、そもそも遮音が難しいみたいなので、床を浮かせる構造にするとか、地下室でやってくださいレベルのようです。あと当たり前ですが広さによって施工費用が変わります。
 
 参考：<a href="http://www.budscene.co.jp/html/price.html">http://www.budscene.co.jp/html/price.html</a>
@@ -110,7 +116,9 @@ Azlina
 <iframe src="https://www.youtube.com/embed/sUhu_QWYvzQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 参考：<a href="http://www.danbocchi.com/">だんぼっち</a>
-<h2>防音室はレンタルもできる</h2>
+
+## 防音室はレンタルもできる
+
 工事からやってる<a href="http://jp.yamaha.com/products/soundproofing/">YAMAHA</a>さんですが簡易版のレンタルもしているみたいです。
 音楽を環境面からサポートしてるんですね。すげー
 
@@ -118,7 +126,9 @@ Azlina
 <iframe src="https://www.youtube.com/embed/BRy1sKInXBA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 参考：<a href="http://rental.yamahamusicjapan.co.jp/rental/c/c30/">http://rental.yamahamusicjapan.co.jp/rental/c/c30/</a>
-<h2>防音室を使うとこうなる</h2>
+
+## 防音室を使うとこうなる
+
 管理人に怯えながら声を抑えるけつ毛中級兵氏
 <iframe src="https://www.youtube.com/embed/V_IkTMxCYlk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -126,7 +136,9 @@ Azlina
 <iframe src="https://www.youtube.com/embed/CpkQnCYs-gI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 うるせーーーwww
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener">しんぺー</a> はこう思った。
+
 いやーすごいですねw
 これを使うことで近所迷惑にもならずに色々と大きな音がだせるようになるんですね。しかも割と高くはない。。さらに賃貸物件でも導入できそう。
 

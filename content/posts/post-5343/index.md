@@ -15,7 +15,9 @@ title: 今週のsukekiyoまとめ!5月4日〜5月11日(2014)タワレコイン�
 さてツアーが終わってもsukekiyoの活動は休まることを知りません。
 昨日と今日とファン感謝的なイベントがありましたのでまとめます！
 
-<h2>「IMMORTALIS」京公式オンラインストア限定初回仕様限定盤購入者特典の全曲解説生放送</h2>
+
+## 「IMMORTALIS」京公式オンラインストア限定初回仕様限定盤購入者特典の全曲解説生放送
+
 
 Kyo onlineでTシャツ付きのアルバムを購入した方のみが聴ける生放送がありました。
 
@@ -46,7 +48,9 @@ UTA：TKさん、自分もいろいろと話してみたいな。
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>「IMMORTALIS」タワレコ予約者先着トークセッション</h2>
+
+## 「IMMORTALIS」タワレコ予約者先着トークセッション
+
 
 行ってきましたよ！
 
@@ -78,7 +82,9 @@ UTA：TKさん、自分もいろいろと話してみたいな。
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 インストの記憶があまりなく。。。ただ、ただ、、はにかむ京さんがかわいくて。。。
 

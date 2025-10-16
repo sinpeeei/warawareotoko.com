@@ -12,7 +12,9 @@ title: 【DIR EN GREY】今ツアーのセトリの傾向。2daysの後ろの日
 今日も「私のカワイイトラとウマ」にようこそ。
 
 
-<h2>今回のツアーのセトリはこんな感じみたいです。</h2>
+
+## 今回のツアーのセトリはこんな感じみたいです。
+
 
 本編で必ず決まった位置で演奏するのが、
 「Behind a vacant image」「VINUSHKA」「and Zero」「てふてふ」「DOZING GREEN」「朔-saku-」「Un deux」
@@ -28,20 +30,28 @@ title: 【DIR EN GREY】今ツアーのセトリの傾向。2daysの後ろの日
 
 以下セトリ詳細
 
-<h3>CLUB CITTA'</h3>
+
+### CLUB CITTA'
+
 
 ![](images/Idir_never_free_from_awakening_setlist001.png)
 
-<h3>Zepp Nagoya</h3>
+
+### Zepp Nagoya
+
 
 ![](images/Idir_never_free_from_awakening_setlist002.png)
 
-<h3>KBSホール</h3>
+
+### KBSホール
+
 
 ![](images/Idir_never_free_from_awakening_setlist003.png)
 
 
-<h2>なんばHatchセトリ予想</h2>
+
+## なんばHatchセトリ予想
+
 
 おそらく京都セトリと同じ並びになるのではないでしょうか。
 そして2日目の方で鼓動。。。
@@ -52,9 +62,13 @@ title: 【DIR EN GREY】今ツアーのセトリの傾向。2daysの後ろの日
 ![](images/Idir_never_free_from_awakening_setlist004.png)
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 鼓動が聞きたいです！！！！
 
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。

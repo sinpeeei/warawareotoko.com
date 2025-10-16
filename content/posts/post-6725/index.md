@@ -22,12 +22,16 @@ title: sukekiyoまとめ「The Unified Field」-双卵の眼-参加バンド紹�
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 それでは双卵の眼参加バンドをご紹介
 
-<h2>「The Unified Field」-双卵の眼-ツアースケジュール</h2>
+
+## 「The Unified Field」-双卵の眼-ツアースケジュール
+
 
 [table id=8 /]
 
 
-<h2>LM.C</h2>
+
+## LM.C
+
 
 PIERROTの（元PIERROTとは敢えて書かない）上手ギターアイジが専門の後輩と結成したユニットです。
 
@@ -53,7 +57,9 @@ http://youtu.be/_4V7TMw3fgg?list=UUUEaEhl0guunVj-Tq8W7jTw
 
 
 
-<h2>HEAD PHONES PRESIDENT</h2>
+
+## HEAD PHONES PRESIDENT
+
 
 
 <a href="http://headphonespresident.com/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="http://headphonespresident.com/" target="_blank">HEAD PHONES PRESIDENT Official Site</a><a href="http://b.hatena.ne.jp/entry/http://headphonespresident.com/" target="_blank">![](images/)</a><br style="clear:both;" /><br>
@@ -74,7 +80,9 @@ http://youtu.be/_4V7TMw3fgg?list=UUUEaEhl0guunVj-Tq8W7jTw
 <a href="http://ja.wikipedia.org/wiki/%E3%83%98%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%83%88" target="_blank">![](images/%E3%83%98%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%83%88)</a><a style="color:#0070C5;" href="http://ja.wikipedia.org/wiki/%E3%83%98%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%83%88" target="_blank">ヘッド・フォン・プレジデント - Wikipedia</a><a href="http://b.hatena.ne.jp/entry/http://ja.wikipedia.org/wiki/%E3%83%98%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%83%88" target="_blank">![](images/%E3%83%98%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%83%88)</a><br style="clear:both;" /><br>
 
 
-<h2>acid android</h2>
+
+## acid android
+
 
 <a href="http://www.tracksondrugs.com/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="http://www.tracksondrugs.com/" target="_blank">tracks on drugs records | acid android</a><a href="http://b.hatena.ne.jp/entry/http://www.tracksondrugs.com/" target="_blank">![](images/)</a><br style="clear:both;" /><br>
 
@@ -87,7 +95,9 @@ http://youtu.be/_4V7TMw3fgg?list=UUUEaEhl0guunVj-Tq8W7jTw
 <iframe width="560" height="315" src="//www.youtube.com/embed/uGot6Ro8nc4?list=UU1m7pWlndQ7Yzf1ZO4xyNdQ" frameborder="0" allowfullscreen></iframe>
 
 
-<h2>THE NOVEMBERS</h2>
+
+## THE NOVEMBERS
+
 
 <a href="http://the-novembers.com/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="http://the-novembers.com/" target="_blank">THE NOVEMBERS</a><a href="http://b.hatena.ne.jp/entry/http://the-novembers.com/" target="_blank">![](images/)</a><br style="clear:both;" /><br>
 
@@ -110,7 +120,9 @@ http://youtu.be/_4V7TMw3fgg?list=UUUEaEhl0guunVj-Tq8W7jTw
 
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 本日、双卵の眼kyo online先行の結果発表でした。ぼくは今の所LM.Cに参列予定です。
 
 日程的にちょっと参列できるか微妙ですが。。。

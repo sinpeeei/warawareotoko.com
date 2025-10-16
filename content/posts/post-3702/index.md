@@ -16,38 +16,13 @@ title: 流行語大賞も決まったことですしDIR EN GREYの流行語を�
 
 さて、毎年これマジで流行った？って候補がいくつも入ってて、大賞に選出されるわけですけど今年はどんなもんだったか。
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>今年の流行語はこれ</b></div></h2>
 
-<h3>流行語年間大賞「今でしょ！」</h3>
-
-<h3>流行語年間大賞「おもてなし」</h3>
-
-<h3>流行語年間大賞「じぇじぇじぇ」</h3>
-
-<h3>流行語年間大賞「倍返し」</h3>
-
-
-で、その他はアベノミクス、ご当地キャラ、特定秘密保護法、PM2.5、ブラック企業、ヘイトススピーチ
-
-引用元（http://singo.jiyu.co.jp）
-
-
-ってことでまぁまぁ例年に比べれば納得のいくものでした。
-
-じぇじぇじぇとかは働いている人は出勤時間も濾過ぶりだから知らない人の方が多いのではとか思ったり、使ってるの聞いたことねーよって思ったり。
-
-おもてなしとかも使ってるのテレビの中の人だけだろって思ったり。
-
-
-ま、そんな所ですかね。
+## 今年の流行語はこれ
 
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>じゃあ我ら虜＝DIR EN GREYファンの流行語は何なのよ！</b></div></h2>
+### じゃあ我ら虜＝DIR EN GREYファンの流行語は何なのよ！
 
-ってことで勝手に、本当に勝手に個人的に選出しました。
-
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>扁桃炎</b></div></h3>
 
 というかTABLA RASA
 
@@ -62,7 +37,9 @@ LIVE後に虚脱してしばらく動けなくなって、渋谷の街で茫然�
 すげーLIVEだった。。。
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>やぐる</b></div></h3>
+
+### やぐる
+
 
 というか要は京のソロです。個展なんかも開いちゃって。やかん・ダイ・学にも突如現れて伝説の言葉「やぐる」を残しました。
 
@@ -70,7 +47,9 @@ LIVE後に虚脱してしばらく動けなくなって、渋谷の街で茫然�
 
 <div class="kwout" style="text-align: center;">![](images/az8_bor_rou_sha_w300.jpg)<map id="map_u2g25az8" name="map_u2g25az8"><area coords="33,25,78,32" href="https://www.warawareotoko.com/2013/06/16/%e4%ba%ac%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e8%80%83%e5%af%9f/" alt="" shape="rect" /><area coords="102,25,127,32" href="https://www.warawareotoko.com/author/warawareotoko/" alt="" shape="rect" /><area coords="10,122,181,129" href="https://www.warawareotoko.com/2013/06/09/dir-en-grey%E3%80%8C%E4%BA%AC%E3%80%8D%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%80%83%E5%AF%9F%EF%BC%9A%E3%81%9D%E3%81%AE1/" alt="" shape="rect" /><area coords="181,122,181,129" href="https://www.warawareotoko.com/2013/06/09/dir-en-grey%E3%80%8C%E4%BA%AC%E3%80%8D%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%80%83%E5%AF%9F%EF%BC%9A%E3%81%9D%E3%81%AE1/" alt="" shape="rect" /><area coords="10,141,181,148" href="https://www.warawareotoko.com/2013/06/09/dir-en-grey%e3%80%8c%e4%ba%ac%e3%80%8d%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e8%80%83%e5%af%9f%ef%bc%9a%e3%81%9d%e3%81%ae2/" alt="" shape="rect" /><area coords="10,160,183,167" href="https://www.warawareotoko.com/2013/06/09/dir-en-grey%e3%80%8c%e4%ba%ac%e3%80%8d%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e8%80%83%e5%af%9f%ef%bc%9a%e3%81%9d%e3%81%ae%ef%bc%93/" alt="" shape="rect" /><area coords="10,179,183,186" href="https://www.warawareotoko.com/2013/06/10/dir-en-grey%e3%80%8c%e4%ba%ac%e3%80%8d%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e8%80%83%e5%af%9f%ef%bc%9a%e3%81%9d%e3%81%ae%ef%bc%94/" alt="" shape="rect" /><area coords="10,197,183,204" href="https://www.warawareotoko.com/2013/06/10/dir-en-grey%e3%80%8c%e4%ba%ac%e3%80%8d%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e8%80%83%e5%af%9f%ef%bc%9a%e3%81%9d%e3%81%ae%ef%bc%95/" alt="" shape="rect" /></map><p style="margin-top: 10px; text-align: center;"><a href="https://www.warawareotoko.com/2013/06/16/%E4%BA%AC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%80%83%E5%AF%9F/">京マーケティングについての考察 | Gadget Zombie Parasite</a></p></div>
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>sukekiyo</b></div></h3>
+
+### sukekiyo
+
 
 ってことで今年ラストを飾るのは間違いなくこのワードです。
 sukekiyo関連の記事を書いた瞬間から当ブログのアクセス数が急増
@@ -79,7 +58,9 @@ sukekiyo関連の記事を書いた瞬間から当ブログのアクセス数が
 <div class="kwout" style="text-align: center;">![](images/pmv_bor_rou_sha_w300.jpg)<p style="margin-top: 10px; text-align: center;">sukekiyo=DIR EN GREY？突如現れた無名の新人バンド | Gadget Zombie Parasite</p></div>
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 
 さて今年もDIR EN GREYに支えられ生かされる日々でした。彼らなくして虜なし。
 

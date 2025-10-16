@@ -8,7 +8,9 @@ tags:
 title: 【整理】DIR EN GREY各メンバーのソロ活動状況
 ---
 
-いよいよ本学的に5人がDIR EN GREY以外での活動を明確化し始めましたので、ここらで一旦整理したいと思います。<!--more--><h2>京</h2>
+いよいよ本学的に5人がDIR EN GREY以外での活動を明確化し始めましたので、ここらで一旦整理したいと思います。<!--more-->
+## 京
+
 　<strong>sukekiyo</strong>
   「宙吊り娘と掃き溜めの詩」ツアー発表
 　　11/21(土) 大阪府・御堂会館
@@ -29,7 +31,9 @@ title: 【整理】DIR EN GREY各メンバーのソロ活動状況
 
 link：<a href="http://kyo-official.jp/">http://kyo-official.jp/</a>
 
-<h2>Die</h2>
+
+## Die
+
 　<strong>DECAYS</strong>
 　　MV「Secret mode」リリース
 　　
@@ -42,7 +46,9 @@ link：<a href="http://kyo-official.jp/">http://kyo-official.jp/</a>
 
 link:<a href="http://decays.jp/">http://decays.jp/</a>
 
-<h2>Toshiya</h2>
+
+## Toshiya
+
 　cameran
 　オリジナルブランドサイトオープン DIRT 100% Natural Dirty
 
@@ -51,7 +57,9 @@ link:<a href="http://decays.jp/">http://decays.jp/</a>
 
 link:<a href="http://dirt-jp.com/">http://dirt-jp.com/</a>
 
-<h2>Shinya</h2>
+
+## Shinya
+
 　サポートドラマーとしてKAMIJOの公演に参加
 　　”World Tour 2015 -20th ANNIVERSARY BEST- JAPAN”
 　　　7/24(金) 仙台Macana
@@ -69,13 +77,17 @@ link:<a href="http://dirt-jp.com/">http://dirt-jp.com/</a>
 
 
 
-<h2>薫</h2>
+
+## 薫
+
 　音楽と人に連載していた「薫の独弦」の書籍未発表
 　ファッションブランド「MOSES」の2015 A/W COLLECTIONにてプロデュースアイテム発売決定
 
 link:http://store-moses-horns.com/?pid=91656144
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 いやー集金が5倍になったと思うとしんどーwただToshiyaの服はフリーサイズで身長180超えのToshiyaが着てあんな感じなので、公称171cmのぼくには似合わなさそうだなと思い手を出しておりません。
 

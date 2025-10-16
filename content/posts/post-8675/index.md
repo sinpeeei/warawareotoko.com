@@ -8,7 +8,9 @@ tags:
 title: 人はどんどん欲張りになっていく。Amazon Prime Nowさっそく使ってみた
 ---
 
-Amazonがプライム会員向けに新しく始めたAmazon Prime Nowを早速使ってみましたのでご紹介いたします。<!--more--><h2>Amazon Prime Nowとは</h2>
+Amazonがプライム会員向けに新しく始めたAmazon Prime Nowを早速使ってみましたのでご紹介いたします。<!--more-->
+## Amazon Prime Nowとは
+
 
 最近のAmazonは本当にやりすぎwwwAmazonプライムビデオに続きミュージック、そしてこのPrime Nowがスタートしました。
 
@@ -26,7 +28,9 @@ Amazonがプライム会員向けに新しく始めたAmazon Prime Nowを早速�
 つまりエリア内の配送拠点に在庫として保持されている物だと思われます。
 
 
-<h2>実際に使ってみた</h2>
+
+## 実際に使ってみた
+
 
 コーヒーミルとKindle Fire用のメモリカードを注文しました。ちなみにキャンペーン中で2000円クーポンが使えました。
 
@@ -47,7 +51,9 @@ Amazonがプライム会員向けに新しく始めたAmazon Prime Nowを早速�
 すげーまじで届いた！！なにこれすごい！！1時間とは言わないまでもかなりのスピードだった。。。これはすごい！！しかもジュース1本とかからラインナップに並んでてマジですごい
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 月1回以上はAmazonで買い物するなら、もはやプライム会員に入らないメリットが見当たらない。。。
 
@@ -55,4 +61,6 @@ Amazonがプライム会員向けに新しく始めたAmazon Prime Nowを早速�
 
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?t=warawareotoko-22&o=9&p=12&l=ur1&category=prime&banner=1JDEH56FFMMBANKKEJR2&f=ifr" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。

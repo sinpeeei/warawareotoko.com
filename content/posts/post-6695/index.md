@@ -69,7 +69,9 @@ title: DIR EN GREY「ARCHE」完全生産限定盤及び初回生産限定盤ご
 </blockquote>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 思うんですよね、なんか<a href="https://www.warawareotoko.com/2014/12/06/post-6676/">広告の運用</a>とか特設サイトとか
 どうもちょっと、うーむって感じです。
 

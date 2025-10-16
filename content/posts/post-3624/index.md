@@ -15,7 +15,9 @@ title: 虜特定班の情報まとめました。sukekiyo=DIR EN GREYは8割方�
 &nbsp;
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>sukekiyoとDIR EN GREYのドメインのIPアドレスが一緒？</b></div></h2>
+
+## sukekiyoとDIR EN GREYのドメインのIPアドレスが一緒？
+
 
 こちらフォローしてる方がTweetされておりました。ぼく未確認です。すいません。
 
@@ -23,8 +25,9 @@ title: 虜特定班の情報まとめました。sukekiyo=DIR EN GREYは8割方�
 
 このサイトにsukekiyoのURLを入れますと、DIR EN GREYのサイトと同じIPアドレスを表示するとのこと。
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>IPアドレスとは•••
-</b></div></h3>
+
+### IPアドレスとは•••
+
 
 パソコンに割り当てられてる住所的なものとお考えください。
 
@@ -54,8 +57,9 @@ title: 虜特定班の情報まとめました。sukekiyo=DIR EN GREYは8割方�
 
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>sukekiyoのアー写撮影場所特定される
-</b></div></h2>
+
+## sukekiyoのアー写撮影場所特定される
+
 
 
 栃木県の大谷採石跡という場所らしいです。
@@ -77,8 +81,9 @@ title: 虜特定班の情報まとめました。sukekiyo=DIR EN GREYは8割方�
 <a href="images/87db8aa9965589334bb1871fc287ca24.png">![](images/87db8aa9965589334bb1871fc287ca24.png)</a>
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った。
-</b></div></h2>
+
+## しんぺーはこう思った。
+
 
 
 sukekiyoがDIR EN GREYなのかまだ、まだ確証なし！わかんない！！←

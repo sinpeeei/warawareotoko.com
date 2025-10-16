@@ -14,9 +14,13 @@ Wikipediaによると、こういうゲームで過去最高に売れたみた�
 
 &nbsp;
 &nbsp;
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>とにかくおシャンティ</b></div></h2>
 
-<h3><span style="color: #0000ff;">FINAL FANTASY TACTICS 獅子戦争 1.2.0（￥1,400）</span></h3>
+## とにかくおシャンティ
+
+
+
+### <span style="color: #0000ff;">FINAL FANTASY TACTICS 獅子戦争 1.2.0（￥1,400）</span>
+
 
 <iframe src="https://banners.itunes.apple.com/banner.html?partnerId=&aId=11ld5P&id=446761242&c=jp&l=ja-JP&bt=catalog&t=catalog_white&w=300&h=50" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:300px;height:50px;border:0px"></iframe>
 
@@ -35,7 +39,9 @@ Wikipediaによると、こういうゲームで過去最高に売れたみた�
 
 しかし、注目すべきはそこじゃない
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>一番おシャンティなのはストーリー</b></div></h2>
+
+## 一番おシャンティなのはストーリー
+
 もっとも注目すべきなのはストーリー
 
 この物語は「無」の力を手に入れようとした魔導師と戦う話でもなければ、帝国という悪と魔道の力を巡って争うわけでもない
@@ -50,7 +56,9 @@ Wikipediaによると、こういうゲームで過去最高に売れたみた�
 
 そんなストーリーなんです。
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>秀逸な戦闘システム</b></div></h2>
+
+## 秀逸な戦闘システム
+
 ジョブがとにかく多彩。FF5のジョブは大体でてきます。
 さらにどのFFシリーズにも出てこないようなジョブもでてきて、それだけでわくわくします。
 
@@ -59,7 +67,9 @@ Wikipediaによると、こういうゲームで過去最高に売れたみた�
 
 そういったことを考慮して戦闘をくみ上げる必要があります。ここがまった楽しいんだこれが！
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 完全移植なので、結構長いです。多分FF5よりも時間かかるかもしれません。
 
 でも、それに耐えうるストーリーで飽きがきません。

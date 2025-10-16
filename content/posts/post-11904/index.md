@@ -11,7 +11,9 @@ title: 2018年7月の行った！見た！買った！
 クッソ暑かった。暑ずきてなのかふらふらすることも数回ありました。そんな平成最後の7月でした。さて先月の振り返りと今月の決意を表明していきたいと思います。
 
 <!--more-->
-<h2>新規開拓店舗</h2>
+
+## 新規開拓店舗
+
 近場でちゃんとした家系を見つけたー！！暑いので異様にしょっぱいものが食べたくなる日々でした。
 <blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/BlKCqfSHOFk/?utm_source=ig_embed" data-instgrm-version="9">
 <div style="padding: 8px;">
@@ -37,7 +39,9 @@ title: 2018年7月の行った！見た！買った！
 <script async defer src="//www.instagram.com/embed.js"></script>
 
 東京駅周辺で毎日ランチしてます。訪問店舗が100軒超えてるのでそろそろまとめたいなーと思っております。
-<h2>面白いYoutube動画</h2>
+
+## 面白いYoutube動画
+
 この人は面白い。ほんと面白い。登録者のノビがすごい！だって面白いから！
 <iframe src="https://www.youtube.com/embed/5nfqU54IY0I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -46,15 +50,21 @@ title: 2018年7月の行った！見た！買った！
 
 これは人気ユーチューバーのすしらーめんりくの動画。前から登録してましたが、内容があまりにバカすぎるのでご紹介します。
 <iframe src="https://www.youtube.com/embed/iZNV1pphm2A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h3>今月のけっつん中級兵</h3>
+
+### 今月のけっつん中級兵
+
 色んなユーチューバーがやってるZOZOお任せ定期便の動画。やはり着るものではなく、着る人になんか色々依存すんだなぁと思った。服に着られてる感がすごい(笑)
 <iframe src="https://www.youtube.com/embed/F0j5NvSdJpA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h2>買ってよかったもの</h2>
+
+## 買ってよかったもの
+
 7月も特に何も買ってないはずなのに！気がつけばクレジットカードの請求がぁぁぁ！！！あれか！珍しくZOZOで服買ったからか！UNIQLOで服買ったからか！
 
 ちなまにAmazonでお茶漬けの素をまとめ買いしたんですが、めちゃくちゃ便利。小腹が空いたときや食欲のない朝とかに助かる！
 [itemlink post_id="11902"]
-<h3>今月の仮想通貨</h3>
+
+### 今月の仮想通貨
+
 もう本当に仮想通貨なんて死語になっていますが、それでもしぶとく持ってます。
 
 ただ、全く値動きしないので面白くありません。ということで、勉強を兼ねてBitcoin FXというのを始めました。
@@ -66,23 +76,31 @@ title: 2018年7月の行った！見た！買った！
 <a href="images/20180806125056.jpg">![](images/20180806125056.jpg)</a>
 
 好きな時に好きなことやって、好きなだけ寝て好きなLIVEに好きなだけいけるような貯金がほしいな！
-<h2>7月の振り返りと8月にやりたいこと</h2>
+
+## 7月の振り返りと8月にやりたいこと
+
 6月に決めたやりたいことは次の３つ。どれもちゃんとやれてない。
 <ul>
  	<li>3Dで何かつくる</li>
  	<li>LINEスタンプ売り上げ2000円目指す</li>
  	<li>ブログ更新する</li>
 </ul>
-<h3>3Dで何かつくる</h3>
+
+### 3Dで何かつくる
+
 blenderという3Dモデリングソフトを使って、<a href="https://twitter.com/FeelzenVr?s=17">zen</a>さんという方の<a href="https://youtu.be/7oNfgOOcKm8">「ワニでもわかるゼロからのblender」</a>を見ながらやってますが、けっこううまくいかない。難航中
-<h3>LINEスタンプ売り上げ2000円目指す</h3>
+
+### LINEスタンプ売り上げ2000円目指す
+
 結果<strong>486円</strong>
 
 色々と出しましたが、売れているのは一個だけ
 <a href="https://store.line.me/stickershop/product/3311288/ja">圧が強いメンヘラ</a>スタンプのみ
 
 でも、これは売れるだろうなと思ったので継続してメンヘラシリーズを製作中。
-<h3>制約と誓約</h3>
+
+### 制約と誓約
+
 <strong>運動してない！</strong>まったくしてない！
 
 <strong>コーヒーを飲まない</strong>というのを継続してるくらいで他もうなんもやってない！
@@ -93,7 +111,9 @@ blenderという3Dモデリングソフトを使って、<a href="https://twitte
 
 さて8月の誓いですが、本気を出します！！運動も！！節約も！！そしてブログも！！
 とりあえず3Dモデリングでキャラデザインをするのは8月に完成させます。
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 8月にはいっても台風がきても全く気温が下がらない！
 気づかずに体調が悪くなっていることが多くなってきました。
 

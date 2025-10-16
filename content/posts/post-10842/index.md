@@ -23,7 +23,9 @@ title: 【ライブレポ】ANDROGYNOS-a view of the Acro-@横浜アリーナ
 そう、最初からそんなもんなかったんです。
 
 ぼくらはもともと一つだったんです。元に戻っただけです。どっちのバンドのファンも日常社会からしたらちょっとしたキチガイで、お互いを理解するのはお互いしかいないのです。
-ということでANDROGYNOS2日目「-a view of Acro-」のLIVEレポです。<!--more--><h2>PIERROT</h2>
+ということでANDROGYNOS2日目「-a view of Acro-」のLIVEレポです。<!--more-->
+## PIERROT
+
 
 今日はPIERROTが先行
 
@@ -49,7 +51,9 @@ PIERROTといえば、バンドのアイコンにもなっているこのメイ�
 ピエラーとしてはとにかく楽しい2日間でした。また、きっと出会えることを信じて。いや、たぶんあるでしょう。
 
 
-<h3>セトリ</h3>
+
+### セトリ
+
 
 01.MAD SKY-鋼鉄の救世主-
 02.Adolf
@@ -67,7 +71,9 @@ PIERROTといえば、バンドのアイコンにもなっているこのメイ�
 14.蜘蛛の意図
 
 
-<h2>DIR EN GREY</h2>
+
+## DIR EN GREY
+
 
 PIERROTが終わると30分の休憩とアナウンスがありました。
 この間にステージの転換が行われていました。
@@ -102,7 +108,9 @@ PIERROTが終わると30分の休憩とアナウンスがありました。
 とても素晴らしいLIVEでした。
 
 
-<h3>セトリ</h3>
+
+### セトリ
+
 01.Un deux
 02.OBSCURE
 03.詩踏み
@@ -122,25 +130,49 @@ PIERROTが終わると30分の休憩とアナウンスがありました。
 15.残
 
 
-<h2>ANDROGYNOS</h2>
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">「ANDROGYNOS」にご来場いただきました皆様に心より御礼申し上げます。<br>「ANDROGYNOS」でのPIERROT・DIR EN GREYの両バンドのライブが今後良い思い出として皆様の胸に刻まれ続けますことを切に願っております。<br><br>ANDROGYNOS <a href="https://t.co/4vRIdTfDU2">pic.twitter.com/4vRIdTfDU2</a></p>&mdash; ANDROGYNOS (@androgynosJP) <a href="https://twitter.com/androgynosJP/status/883990868570513409">2017年7月9日</a></blockquote>
+## ANDROGYNOS
+
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">「ANDROGYNOS」にご来場いただきました皆様に心より御礼申し上げます。<br>「ANDROGYNOS」でのPIERROT・DIR EN GREYの両バンドのライブが今後良い思い出として皆様の胸に刻まれ続けますことを切に願っております。
+
+ANDROGYNOS <a href="https://t.co/4vRIdTfDU2">pic.twitter.com/4vRIdTfDU2</a></p>&mdash; ANDROGYNOS (@androgynosJP) <a href="https://twitter.com/androgynosJP/status/883990868570513409">2017年7月9日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">終わっちゃったね。<br><br>1日目も全力やったけど、<br>昨日のアレからのアレはきっと昨日しか出来ないやつやね。<br><br>PIERROT、DIR EN GREYの10人<br>今日からまた新たな未来が始まるから。<br>みんなよろしく。<br><br>想いは繋がる、<br>みんなも今日から未来に向かって。<br><br>あざした！<br><br>薫 <a href="https://t.co/ubxf1wp6R1">pic.twitter.com/ubxf1wp6R1</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/883875384197996545">2017年7月9日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">終わっちゃったね。
+
+1日目も全力やったけど、<br>昨日のアレからのアレはきっと昨日しか出来ないやつやね。
+
+PIERROT、DIR EN GREYの10人<br>今日からまた新たな未来が始まるから。<br>みんなよろしく。
+
+想いは繋がる、<br>みんなも今日から未来に向かって。
+
+あざした！
+
+薫 <a href="https://t.co/ubxf1wp6R1">pic.twitter.com/ubxf1wp6R1</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/883875384197996545">2017年7月9日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ANDROGYNOS 2日目…終わってしまいました。PIERROTのメンバーさん、ピエラーの皆さん、そしてDIR EN GREYを応援してくれる皆、今回来れた人も残念ながら来れなかった人も、本当にありがとう。<br><br>Toshiya<a href="https://t.co/4ykDn9PhAs">https://t.co/4ykDn9PhAs</a> <a href="https://t.co/aUBpL5zEcQ">pic.twitter.com/aUBpL5zEcQ</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/883693901223149568">2017年7月8日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ANDROGYNOS 2日目…終わってしまいました。PIERROTのメンバーさん、ピエラーの皆さん、そしてDIR EN GREYを応援してくれる皆、今回来れた人も残念ながら来れなかった人も、本当にありがとう。
+
+Toshiya<a href="https://t.co/4ykDn9PhAs">https://t.co/4ykDn9PhAs</a> <a href="https://t.co/aUBpL5zEcQ">pic.twitter.com/aUBpL5zEcQ</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/883693901223149568">2017年7月8日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BWSaKKwl6oU/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">『ANDROGYNOS』 横浜アリーナ2日目お疲れ様でした！ 次はMACABREで逢いましょう。 ピエ...ラーのみなさんもまたどこかで！ #androgynos#DIRENGREY#pierrot#横浜アリーナ</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Shinya/DIR EN GREY/SERAPHさん(@shinya_official)がシェアした投稿 - <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-07-08T13:41:50+00:00">2017  7月 8 6:41午前 PDT</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ANDROGYNOSで出逢えた全ての人達に<br><br>破滅的幸福を。<br><br>おやすみ<br><br>京 <a href="https://t.co/AB0gRvhb4S">pic.twitter.com/AB0gRvhb4S</a></p>&mdash; 京 (@kyo_official) <a href="https://twitter.com/kyo_official/status/883698463799558144">2017年7月8日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ANDROGYNOSで出逢えた全ての人達に
+
+破滅的幸福を。
+
+おやすみ
+
+京 <a href="https://t.co/AB0gRvhb4S">pic.twitter.com/AB0gRvhb4S</a></p>&mdash; 京 (@kyo_official) <a href="https://twitter.com/kyo_official/status/883698463799558144">2017年7月8日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 さて、首がもげそうなくらい痛いです。内臓も痛いです。
 声もうまく出ません。耳も良く聞こえません。

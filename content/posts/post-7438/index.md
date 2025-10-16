@@ -9,7 +9,9 @@ tags:
 title: 【歓喜】Xファイル復活らしいのでその魅力をお話ししましょう
 ---
 
-Xファイルを知っているか？海外ドラマのはしりとも言える長編SFドラマである。放送されていたのはなんと10年以上前。しかし、当時シリーズも9まで続き、さらには何度も映画化されるほどにファンが多く、かくいうぼくもDVDで全巻持っている根っからのXファイルファンの一人。本日はXフィアルのあらすじとHuluで数シーズン配信されてるから見てみな〜というお話しです。<!--more--><h2>Xファイルとは</h2>
+Xファイルを知っているか？海外ドラマのはしりとも言える長編SFドラマである。放送されていたのはなんと10年以上前。しかし、当時シリーズも9まで続き、さらには何度も映画化されるほどにファンが多く、かくいうぼくもDVDで全巻持っている根っからのXファイルファンの一人。本日はXフィアルのあらすじとHuluで数シーズン配信されてるから見てみな〜というお話しです。<!--more-->
+## Xファイルとは
+
 
 XファイルとはFBIに保管される科学では解明できない不可解な事件の記録のことである。そして、この物語はこのXファイル科に所属する捜査官モルダーと、そこに配属された新人捜査官のスカリーが怪事件に挑み、さらに政府の陰謀を暴こうとする記録である。
 
@@ -29,14 +31,18 @@ XファイルとはFBIに保管される科学では解明できない不可解�
 SFサスペンスと聞いて引く必要はありません。しっかりとコメディタッチも入っています。
 
 
-<h2>そんなXファイルが復活</h2>
+
+## そんなXファイルが復活
+
 
 Xファイルはかなり長い間放送されていました。どれくらい長いかというと、主人公モルダー役のデビット・ドゥカブニーが撮影スタッフと対立するようになって降板するくらい長く放送していましたw　しかも、物語ではモルダーは失踪したという扱いにしてモルダーの代わりに、ターミネーター2で悪い方のターミネーターを演じたロバート・パトリック。
 モルダーと違って、伝統的なお堅い警官というイメージ。しかし、だからこそ自分の目で見たもののみを信じ、目の前で起きた不可解な現象にも対処するようになり、モルダーとはまた違った姿勢でXファイルの捜査に当たる姿がこれまたかっこいい。というか渋い。
 
 で、話が少しずれたけど、今年の夏から撮影がスタートするらしいんですよ！奥さん！
 
-<h2>今からXファイルを見るならば</h2>
+
+## 今からXファイルを見るならば
+
 
 Xファイルは全部でシーズン9まであります。
 <table  border="0" cellpadding="5" style="border:none"><tr><td style="border:none;text-align:left"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003CVC5R0/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">X-ファイル シーズン1 (SEASONSコンパクト・ボックス) [DVD]</a></td></tr><tr><td style="border:none"><table  border="0" cellpadding="0" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003CVC5R0/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">![](images/51iOFG4-IkL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-detail" style="margin-bottom:5px;">デイビッド・ドゥカブニー 20世紀フォックス・ホーム・エンターテイメント・ジャパン 2010-05-28</div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 827</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=X%83t%83%40%83C%83%8B&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank">Amazon</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FX%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank">楽天市場</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DX%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB" rel="nofollow"  target="_blank">Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3DX%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB" rel="nofollow"  target="_blank">ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table></td></tr></table>
@@ -64,7 +70,9 @@ Huluだとこの記事公開時でシーズン3まで見ることができます
 <iframe frameborder="0" allowtransparency="true" height="200" width="200" marginheight="0" scrolling="no" src="http://ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=3041033&pid=883308944" marginwidth="0"><script language="javascript" src="http://ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3041033&pid=883308944"></script><noscript><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=883308944" target="_blank" >![](images/gifbanner?sid=3041033&pid=883308944)</a></noscript></iframe>
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 やはり初期のスカリーには初々しさがありますね。
 しかしながら、他のドラマと違って完全な新人って立ち位置ではないわけですが。

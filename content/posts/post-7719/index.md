@@ -12,7 +12,9 @@ title: '【LUNATIC FEST.】LUNA SEA主催の #ルナフェス とは？日程は
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
 
-<h2>ルナフェスとは？</h2>
+
+## ルナフェスとは？
+
 
 
 
@@ -26,7 +28,9 @@ title: '【LUNATIC FEST.】LUNA SEA主催の #ルナフェス とは？日程は
 参考：<a href="http://lunaticfest.com">LUNATIC FEST. official saite</a>
 
 
-<h2>ルナフェス参戦バンド</h2>
+
+## ルナフェス参戦バンド
+
 
 ![](images/ea5fb786da08120bf44a1259e0a2ab8e.png)
 
@@ -55,7 +59,9 @@ title: '【LUNATIC FEST.】LUNA SEA主催の #ルナフェス とは？日程は
 
 
 
-<h2>ルナフェスのチケット代は？</h2>
+
+## ルナフェスのチケット代は？
+
 
 
 一般的なフェスと同等の価格の15,500円です。
@@ -74,7 +80,9 @@ title: '【LUNATIC FEST.】LUNA SEA主催の #ルナフェス とは？日程は
 
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 参戦バンドの予想に関してはDIR EN GREYを抜かせばシャムシェイドがあたりました。やはりLUNA SEAの直下の後輩ですので、出ないわけにはいかないでしょう。各バンドがそれぞれカバーなんかする展開も期待できるかもしれません。
 

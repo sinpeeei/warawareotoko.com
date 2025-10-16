@@ -9,7 +9,9 @@ title: 京ソロコラボの「イノサン Rouge」読んだことないから�
 ---
 
 今日発表がありましたが、京ソロで漫画の「イノサン」とコラボTシャツが発売するそうです。正直その漫画聞いたことも見たこともなかったので、とりあえずkindleで1巻買ってみました。が、読む前に少しwikipediaで調べて見ました。ネタバレいやだからあらすじまで踏み込まずに概要だけでやめましたがw<!--more-->
-<h2>イノサン Rougeとは</h2>
+
+## イノサン Rougeとは
+
 <blockquote>坂本眞一による日本の漫画作品。「イノサン」とはフランス語のInnocentで、英語の「イノセント」に相当する。『週刊ヤングジャンプ』（集英社）2013年9号より連載2015年20号まで連載された。基本的に巻末に掲載されていた。
 続編『イノサン Rouge（ルージュ）』の連載が同じ集英社の『グランドジャンプ』2015年12号より開始された。</blockquote>
 なるほど、連載年数が割と短い気がします。なおかつ巻末掲載ということはあれだ、ジャンプでいうところの幕張とかマサルさん的な立ち位置ってことですね。要は一部の玄人向けってことですね。知らんけど
@@ -21,7 +23,9 @@ title: 京ソロコラボの「イノサン Rouge」読んだことないから�
 平成版のベルばらみたいな劇画っぽさもある感じの絵
 
 とりあえずこれから1巻ずつ読んでいきたいと思います。面白かったらTシャツ買おう。
-<h2>京ソロのコラボTシャツ</h2>
+
+## 京ソロのコラボTシャツ
+
 <blockquote class="twitter-tweet" data-lang="ja">
 <p dir="ltr" lang="ja">京×坂本眞一による漫画『イノサン Rouge ルージュ』とのコラボレーションとして公式グッズ発売決定！(S)<a href="https://t.co/5F9zmIorAH">https://t.co/5F9zmIorAH</a><a href="https://t.co/rerU9QbN8B">https://t.co/rerU9QbN8B</a> <a href="https://t.co/WLOfHq8zn6">pic.twitter.com/WLOfHq8zn6</a></p>
 — 京 (@kyo_official) <a href="https://twitter.com/kyo_official/status/826628314030759936">2017年2月1日</a></blockquote>
@@ -48,7 +52,9 @@ title: 京ソロコラボの「イノサン Rouge」読んだことないから�
 京</p>
 — 京 (@kyo_official) <a href="https://twitter.com/kyo_official/status/826459604385046528">2017年1月31日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 確か以前、なんかのインタビューかアンケートかで「東京喰種」面白いって言ってた気がするからそっちともコラボしてほしいなぁ。
 
 めちゃくちゃ個人的なこというとハンターハンターとか。。。

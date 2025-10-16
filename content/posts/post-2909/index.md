@@ -25,7 +25,9 @@ title: 読み終わった本は電子書籍化しておくのがおすすめ！
 
 そこで今回は<a href="http://www.bookscan.co.jp">このサイト</a>にお願いすることにしました。
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>BOOKSCANはこんなサービス</b></div></h2>
+
+## BOOKSCANはこんなサービス
+
 
 <div class="kwout" style="text-align: center;">![](images/wdc_bor_rou_sha.jpg)
 <map id="map_98vurwdc" name="map_98vurwdc"> <area alt="" coords="41,2,115,13" shape="rect" href="http://www.bookscan.co.jp/" /> <area alt="" coords="282,2,314,11" shape="rect" href="http://www.bookscan.co.jp/" /> <area alt="" coords="322,2,375,11" shape="rect" href="http://www.bookscan.co.jp/service.php" /> <area alt="" coords="383,2,408,11" shape="rect" href="http://www.bookscan.co.jp/price.php" /> <area alt="" coords="417,2,449,11" shape="rect" href="http://www.bookscan.co.jp/payment.php" /> <area alt="" coords="457,2,496,11" shape="rect" href="https://system.bookscan.co.jp/join.php" /> <area alt="" coords="504,2,550,11" shape="rect" href="https://system.bookscan.co.jp/mypage.php" /></map>
@@ -76,9 +78,13 @@ Amazon、楽天で買った本を直接送って電子書籍化してくれる�
 
 本棚の中がダイブすっきりしました。
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid;"><b>電子書籍化のメリット</b></div></h3>
+## しんぺーはこう思った
+
+
+
+### 電子書籍化のメリット
+
 それは、スペースが空くことと本棚を持ちだせることだと思います。
 
 引っ越しや掃除の時もあらかじめ本がなければ、時間と体力の短縮にも繋がりますしね！
@@ -87,7 +93,9 @@ Amazon、楽天で買った本を直接送って電子書籍化してくれる�
 重い本だと外に持ち出すのも一苦労です。でも電子書籍にしてiPadとかに入れれば通勤やカフェでのノマドなんかも捗ります。
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid;"><b>電子書籍化のデメリット</b></div></h3>
+
+### 電子書籍化のデメリット
+
 ありますか？電子書籍化について苦言を呈する人は大抵、紙の手触りが〜とかページをめくる〜とか言いますけど、そもそも紙の前は竹簡だったわけですしwその前は亀の甲らだたり石盤だったわけで、さらにその前は洞穴の壁だったわけですよw
 
 必要なのは媒体ではなくデータです。

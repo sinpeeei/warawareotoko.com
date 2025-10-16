@@ -12,7 +12,9 @@ title: sukekiyoのaftermath撮影現場の「大谷採石跡」いってきた�
 
 ![](images/sukekiyo_dir-en-grey.jpg)当ブログ開設以来初めての現地取材に行って参りましたw　現場はsukekiyoのaftermath撮影現場と言われている栃木県大谷採石跡に行って参りました！！<!--more-->
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>大谷採石跡ってどんな場所？</b></div></h2>
+
+## 大谷採石跡ってどんな場所？
+
 
 例のアー写について詳しくはこちらをご覧くださいまし
 <a href="https://www.warawareotoko.com/2013/11/21/post-3624/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2013/11/21/post-3624/" target="_blank">sukekiyo=DIR EN GREYは8割方確定か？虜特定班の情報まとめました | Gadget Zombie Parasite</a>![](images/)<br style="clear:both;" /><br>
@@ -21,7 +23,9 @@ title: sukekiyoのaftermath撮影現場の「大谷採石跡」いってきた�
 どんな場所かというと大谷石という軽石凝灰岩という柔らかくて加工しやすい石を採掘していた場所みたいです。
 そのためか、結構墓石やら庭野置物を作るお店やらの石屋さんが目につきました。結構昔に採石場としての役目を終えているみたいです。
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>大谷採石跡はこんなとこだった！</b></div></h2>
+
+## 大谷採石跡はこんなとこだった！
+
 
 手前の駐車場はダミーです。入り口近くにも駐車場ありますのでそっちの方が近いです。
 ただぼくは満車でしたので、手前に止めました。
@@ -87,7 +91,9 @@ title: sukekiyoのaftermath撮影現場の「大谷採石跡」いってきた�
 <a href="images/DSC01098.jpg">![](images/DSC01098.jpg)</a>
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 
 いやーすげー圧巻でした。
 東京からおよそ3時間。まぁまぁ遠かったけど小旅行という感じ楽しかったです！

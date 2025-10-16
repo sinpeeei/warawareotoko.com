@@ -9,7 +9,9 @@ title: 【レビュー】M1 MacBook Air「円安だし買うなら今このタ�
 ---
 
 M1 MacBook Airを購入しました。
-<h2>なぜ「今」MacBook Airを購入したのか？</h2>
+
+## なぜ「今」MacBook Airを購入したのか？
+
 <div class="st-list-check">
 <div class="yellowbox">
 <ul>
@@ -27,7 +29,9 @@ M1 MacBook Airを購入しました。
 価格改定について覚えているのは、過去にアプリが一斉に値上がりしたことがありました。
 
 半導体不足も世界的に深刻なので、数ヶ月後に新型が出ると噂されていますが、それを待たずに購入にいたりました。
-<h2>購入したMacのスペック</h2>
+
+## 購入したMacのスペック
+
 ![](images/8b28547e5ff9741558d85b1283f4b6ec.png)
 
 今回購入したのは13インチM1 MacBook Air シルバーです。
@@ -46,7 +50,9 @@ Thunderbolt / USB 4ポート x 2
 <span class="hutoaka">115,280円（税込）</span>
 
 動画編集とかも十分できるスペックだと聞きましたので、そのまま最低スペックで購入しました。
-<h2>【レビュー】本当にM1 MacBook Airは凄いのか？</h2>
+
+## 【レビュー】本当にM1 MacBook Airは凄いのか？
+
 <p style="text-align: center;"><span class="huto">結論</span></p>
 
 <div class="maruck">
@@ -75,7 +81,9 @@ USB-Cが２つだけしかついてないので、USBハブを新しく買いま
 ただ、本体自体は安いし、良い買い物ができたのではないかと思います。
 
 今後長期で使ってみた感想も、書いていきたいと思います。
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 新しいものはワクワクします。
 
 Mac miniを買った時は壊れるまで使うって思ってましたが、起動ディスク消してしまって起動できなくなったけど、価値があるうちに下取りに出し、新しいものを買うというのも手かなと思いました。

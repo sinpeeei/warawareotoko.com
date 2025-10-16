@@ -11,7 +11,9 @@ title: 【ライブレポ】DIR EN GREY TOUR16-17 FROM DEPRESSION TO ________ [m
   OF A BONE]2017_4_22@新木場スタジオコースト
 ---
 
-２ヶ月ぶりのDIR EN GREYにいってきました。やっぱりLIVEにいかないと日常生活によくないですね。<!--more--><h2>セトリ</h2>
+２ヶ月ぶりのDIR EN GREYにいってきました。やっぱりLIVEにいかないと日常生活によくないですね。<!--more-->
+## セトリ
+
 LIE BURIED WITH A VEGEANCE
 THE FATAL BELIEVER
 THE PLEDGE
@@ -35,7 +37,9 @@ CLEVER SLEAZOID
 Sustain the Untruth
 
 
-<h2>メンバー衣装と演出</h2>
+
+## メンバー衣装と演出
+
 
 京は黒いファーみたなフサフサのジャケット？に黒いロングスカート
 相変わらずの黒髪ツーブロックで白いカラコンにつり目のメイク
@@ -61,7 +65,9 @@ Toshiyaは割と見えた。本編では爽やかジャケットに白シャツ�
 次回のMACABRAは割と凝ったことしそうな気配。生卵復活希望
 
 <!--
-<h2>今日のドマイナー盤</h2>
+
+## 今日のドマイナー盤
+
 
 この表現が適切か知りませんが、今日も来ておりましたジグラッド！
 外でビラまいてた某夢の国のネズミの耳をつけた巨大な二人組を覚えていませんか？
@@ -70,10 +76,14 @@ Toshiyaは割と見えた。本編では爽やかジャケットに白シャツ�
 
 いつも思うけど割と自分らと比べると大御所のLIVEにビラくばりにきて意味あるんだろうか・・・ターゲットとするファンの年齢層ぜんぜん違うでしょうに
 -->
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
 
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">新木場1日目、激アツだったけど…皆、大丈夫だった？ありがとう。<br><br>Toshiya<a href="https://twitter.com/hashtag/DIRENGREY?src=hash">#DIRENGREY</a> <a href="https://twitter.com/hashtag/modeofMARROW?src=hash">#modeofMARROW</a><a href="https://t.co/M83LFfk8PS">https://t.co/M83LFfk8PS</a> <a href="https://t.co/ow9ejnhUHX">pic.twitter.com/ow9ejnhUHX</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/855423651235090437">2017年4月21日</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">新木場1日目、激アツだったけど…皆、大丈夫だった？ありがとう。
+
+Toshiya<a href="https://twitter.com/hashtag/DIRENGREY?src=hash">#DIRENGREY</a> <a href="https://twitter.com/hashtag/modeofMARROW?src=hash">#modeofMARROW</a><a href="https://t.co/M83LFfk8PS">https://t.co/M83LFfk8PS</a> <a href="https://t.co/ow9ejnhUHX">pic.twitter.com/ow9ejnhUHX</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/855423651235090437">2017年4月21日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Toshiyaも言ってますが相当熱かったです。京前のキルゾーンだったからだと思ってましたが、きつかった。。。久しぶりだったせいか。。。それにしてもあんなに前にいくとスピーカーの位置のせいなのかいつもよりもボーカルが小さく聞こえた。明日行かれる方熱中症などお気をつけて〜

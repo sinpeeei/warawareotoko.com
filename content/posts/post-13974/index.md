@@ -16,7 +16,9 @@ title: 新型Nintendo Switchが発表されたけど、Switch2台目セットに
 
 ということで本日はNintendo Switch2台目用セットについて紹介です。
 
-<h2>My Nintendo Switch2台目用セットとは？</h2>
+
+## My Nintendo Switch2台目用セットとは？
+
 My Nintendo Storeで購入できる色々ついていないNintendo Switchのセットです。
 
 同梱されているのは、本体とコントローラーセットのみです。コントローラーは好きな色の組み合わせが選択できます。
@@ -29,7 +31,9 @@ My Nintendo Storeで購入できる色々ついていないNintendo Switchのセ
 
 <a href="https://store-jp.nintendo.com/customize/switch-2nd/">マイニンテンドーストア</a>
 
-<h3>価格比較</h3>
+
+### 価格比較
+
 
 新型Nintendo Switch 37,980円（税込）
 Nintendo Switch 32,978円（税込）
@@ -38,7 +42,9 @@ Nintendo Switch lite 21,978円(税込)
 
 liteとの価格差はドック含むその他の同梱品の有無によるものと思います。liteが1番安い。
 
-<h3>2台目用セットとSwitch liteどっちを買えばいいのか</h3>
+
+### 2台目用セットとSwitch liteどっちを買えばいいのか
+
 テレビに繋げて遊びたい人はSwitch
 持ち運んだり個人的に遊びたい人はSwitch lite
 
@@ -49,7 +55,9 @@ liteとの価格差はドック含むその他の同梱品の有無によるも�
 
 ぼくはリングフィットとかやるのでliteは選択肢から外れました。
 
-<h2>ゲームデータの移行と共有</h2>
+
+## ゲームデータの移行と共有
+
 ダウロードしたゲームデータ自体は同一アカウントを使用していれば、再ダウンロード可能。
 
 ただし、同時にプレイできるということではなく、いつも遊ぶ本体として登録した方が優先されます。片方でプレイしてるともう片方ではプレイできません。
@@ -60,7 +68,9 @@ liteとの価格差はドック含むその他の同梱品の有無によるも�
 
 <a href="https://www.nintendo.co.jp/support/switch/secondary/transfer.html">ユーザーの引っ越しとセーブデータの引っ越し｜Nintendo Switch サポート情報｜Nintendo</a>
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 正規の価格で購入できるから2台目用セットをマイニンテンドーストアで購入するという選択肢は割とありなんじゃないかと思います。
 
 すぐに売り切れちゃいますが、この存在自体がそこまでメジャーではなさそうなので、在庫復活してすぐにら申し込めば楽に手に入れることができます。

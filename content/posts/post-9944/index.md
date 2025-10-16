@@ -9,7 +9,9 @@ tags:
 title: 【ライブレポ】sukekiyo 二〇一六年公演「ハロウィン殺しの儀」@SHIBUYA WWW X
 ---
 
-今日がぼくにとっての今年のLIVE納めでした。本年ラストになったLIVEはsukekiyoのハロウィン殺し。あらゆる大人の事情で（VJS）10月開催が延期して12月になったんじゃねーのかとか勘ぐりまくってるんですけど・・・だから最後にXの曲をカバーしたんじゃ・・・<!--more--><h2>セトリとステージとメンバー</h2>
+今日がぼくにとっての今年のLIVE納めでした。本年ラストになったLIVEはsukekiyoのハロウィン殺し。あらゆる大人の事情で（VJS）10月開催が延期して12月になったんじゃねーのかとか勘ぐりまくってるんですけど・・・だから最後にXの曲をカバーしたんじゃ・・・<!--more-->
+## セトリとステージとメンバー
+
 
 destrudo
 aftermath
@@ -39,7 +41,9 @@ anima
 京は全身マダラニンゲンっぽかったです。
 
 ジャケットの下はボウタイシャツで、アンコは白いシャツでした。未確認ですが拘束カットソーだったかもしれません。
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">◉マダラニンゲン 2nd collection「濡羽色」新作のご紹介◉<br><br>ボウタイシャツ (Graphic by Trevor Brown) <br>拘束カットソー<a href="https://t.co/hVpTTCkl7b">https://t.co/hVpTTCkl7b</a> <a href="https://t.co/CrOfaXa4fj">pic.twitter.com/CrOfaXa4fj</a></p>&mdash; マダラニンゲン (@_madaraningen) <a href="https://twitter.com/_madaraningen/status/811224818632667138">2016年12月20日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">◉マダラニンゲン 2nd collection「濡羽色」新作のご紹介◉
+
+ボウタイシャツ (Graphic by Trevor Brown) <br>拘束カットソー<a href="https://t.co/hVpTTCkl7b">https://t.co/hVpTTCkl7b</a> <a href="https://t.co/CrOfaXa4fj">pic.twitter.com/CrOfaXa4fj</a></p>&mdash; マダラニンゲン (@_madaraningen) <a href="https://twitter.com/_madaraningen/status/811224818632667138">2016年12月20日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ジャケットはこれかも
@@ -49,7 +53,11 @@ anima
 
 髪型は前髪ガッタガタで触覚あり。まるでcali≠gariでした。そういえばピアスもマダラニンゲンっぽかったです。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">◉2nd collection「濡羽色」新作のご紹介◉<br><br>ゼメキス家 家紋ピアス<br>ゼメキス家 家紋チョーカー<br><br>本コレクションはアクセサリーも充実しております。<br>皆様、どうぞ続報にご期待くださいませ。<a href="https://t.co/hVpTTCBWvL">https://t.co/hVpTTCBWvL</a> <a href="https://t.co/tNl4E5ge7l">pic.twitter.com/tNl4E5ge7l</a></p>&mdash; マダラニンゲン (@_madaraningen) <a href="https://twitter.com/_madaraningen/status/809946333381541888">2016年12月17日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">◉2nd collection「濡羽色」新作のご紹介◉
+
+ゼメキス家 家紋ピアス<br>ゼメキス家 家紋チョーカー
+
+本コレクションはアクセサリーも充実しております。<br>皆様、どうぞ続報にご期待くださいませ。<a href="https://t.co/hVpTTCBWvL">https://t.co/hVpTTCBWvL</a> <a href="https://t.co/tNl4E5ge7l">pic.twitter.com/tNl4E5ge7l</a></p>&mdash; マダラニンゲン (@_madaraningen) <a href="https://twitter.com/_madaraningen/status/809946333381541888">2016年12月17日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 もう全身マダラニンゲンかい。
@@ -68,7 +76,9 @@ Yuchiは途中からタンクトップになり、上にだけ袖？みたいな
 ステージは細かくは見えませんでしたが、緊縛垂れ幕の5つ中の3つが垂れ下がっていました。
 
 
-<h2>LIVEの感想</h2>
+
+## LIVEの感想
+
 
 全体的にバンドとして今までで一番カタマリ感があった印象でした。京のバンドsukekiyoというのではなく、sukekiyoというバンド！！という感じ
 
@@ -81,12 +91,16 @@ Yuchiは途中からタンクトップになり、上にだけ袖？みたいな
 
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 sukekiyoはなんとなく春があう感じがします。といってもまだ暖かくない桜が咲き始めたくらいの春。
 
 新曲やアルバムの告知がるかと思ったらなかったのが残念。ただし、3月くらいになんかあるらしいのでとりあえずそれを期待したく思います！
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。
 
 そして、また明日；。

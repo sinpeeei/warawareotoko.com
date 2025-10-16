@@ -10,7 +10,9 @@ tags:
 title: 【ライブレポ】DIR EN GREY TOUR16-17 FROM DEPRESSION TO ________ [mode of MACABRE]2017_7_31@ZeppTokyo
 ---
 
-急遽発表されて先着順だった追加公演のチケットが取れてましたので、ぼくにとってのマカブラツアー2回目にしてラストに行ってきました。そして今日が夏休み最終日でした。LIVE以外特に外出しておりません。昨日、TTTがBarBooで食事してた多摩ダイナーに車で行ってみたんですが車で行くような場所じゃなかった。駐車場なんかないし、道がめちゃくちゃ入り組んでて狭くて電車じゃないといけませんわあれ。薫が遅れてきてマネージャーのトールさんは車置きに行ってるから先に来たみたいなこと言ってたのもうなづけるわ。さて、それでは追加公演のZeppTokyoでのLIVEレポです。<!--more--><h2>Zepp Tokyo周辺情報~お台場の現状~</h2>
+急遽発表されて先着順だった追加公演のチケットが取れてましたので、ぼくにとってのマカブラツアー2回目にしてラストに行ってきました。そして今日が夏休み最終日でした。LIVE以外特に外出しておりません。昨日、TTTがBarBooで食事してた多摩ダイナーに車で行ってみたんですが車で行くような場所じゃなかった。駐車場なんかないし、道がめちゃくちゃ入り組んでて狭くて電車じゃないといけませんわあれ。薫が遅れてきてマネージャーのトールさんは車置きに行ってるから先に来たみたいなこと言ってたのもうなづけるわ。さて、それでは追加公演のZeppTokyoでのLIVEレポです。<!--more-->
+## Zepp Tokyo周辺情報~お台場の現状~
+
 
 なんだか久しぶりに来た気がしてたら、それもそのはず。前回DIR EN GREYがZepp TokyoでLIVEをやったのが昨年の[mode of VULGAR]の追加公演でした。その時はスタバで時間をつぶしていた記憶があります。ご飯はサンドイッチかなんかをコンビニで買いました。
 
@@ -25,7 +27,9 @@ title: 【ライブレポ】DIR EN GREY TOUR16-17 FROM DEPRESSION TO ________ [m
 いやーほんとにびっくりしました。これなら新木場の方がよっぽどマシ！ってかぼくは個人的に新木場が一番好きだけど！次回は是非Zepp Tokyo Divercityの方でお願いします。
 
 
-<h2>ステージセットとメンバー衣装</h2>
+
+## ステージセットとメンバー衣装
+
 
 <a href="https://www.warawareotoko.com/2017/07/26/post-10872/">前回の中野</a>が2階席でけっこう遠かったのですが今回は500番台で下手前方でがっつり直視できました。
 
@@ -60,11 +64,15 @@ Toshiyaってあんなに身長高いんだね！何あの腕の長さ！！長�
 かっこよすぎた
 
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">追加公演のZepp Tokyo、凄い熱量でした…ありがとう、東京。<br><br>Toshiya<a href="https://twitter.com/hashtag/DIRENGREY?src=hash">#DIRENGREY</a><a href="https://twitter.com/hashtag/modeofMACABRE?src=hash">#modeofMACABRE</a><a href="https://t.co/bTyGTfHrgW">https://t.co/bTyGTfHrgW</a> <a href="https://t.co/UXVP3ebzeU">pic.twitter.com/UXVP3ebzeU</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/892021923508387840">2017年7月31日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">追加公演のZepp Tokyo、凄い熱量でした…ありがとう、東京。
+
+Toshiya<a href="https://twitter.com/hashtag/DIRENGREY?src=hash">#DIRENGREY</a><a href="https://twitter.com/hashtag/modeofMACABRE?src=hash">#modeofMACABRE</a><a href="https://t.co/bTyGTfHrgW">https://t.co/bTyGTfHrgW</a> <a href="https://t.co/UXVP3ebzeU">pic.twitter.com/UXVP3ebzeU</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/892021923508387840">2017年7月31日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>セトリ</h2>
+
+## セトリ
+
 
 冒頭の映像は中野もあれだったっけ？？今日の方がなんだかしっかりと見れたきがする。
 のに、内容が全く頭に残っていない。。
@@ -119,7 +127,9 @@ ain'tが終わると紗幕が降りてきて、MACABRE終わりまでそのま�
 
 ![](images/IIMG_9012.jpg)
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 ぼくの夏はこれで終わりました。
 

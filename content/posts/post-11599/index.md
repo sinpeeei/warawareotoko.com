@@ -11,11 +11,15 @@ title: DIRTの109地下通路広告の費用調べてみた【DIR EN GREY】
 
 先日ようやくDIRTのポップアップショップにいってきました。109なんて人生で1回くらいしか入ったことがない気がするので緊張したわ。でも、そこにはガングロでピカチューのカッコしたヤマンバギャルみたいな、思い描いたギャルは1人もいなかった。明るいフロアにマウジーの店独特のあの香水の香りがする(ここだけイメージ通り)だけだった。
 
-<h2>「DIRT」とは？</h2>
+
+## 「DIRT」とは？
+
 
 DIR EN GREYのベースのイケメン筋肉マンのToshiyaがプロデュースするアパレルブランドです。
 
-<blockquote class="twitter-video" data-lang="ja"><p lang="ja" dir="ltr">【INFORMATION】<br>2018 最新Collection<br><br>SHIBUYA109 5階POP UP SHOPではLong Ver.を公開中。<br>Long Ver.はPOP UP SHOPでしか見ることが出来ませんので是非足をお運びください。<br>■SHIBUYA109<br>東京都渋谷区道玄坂2-29-1 5F<br>営業時間：10:00～21:00<br>期間：3/10(土)〜4/1(日)<a href="https://twitter.com/hashtag/DIRT?src=hash&amp;ref_src=twsrc%5Etfw">#DIRT</a> <a href="https://t.co/TXojler3Pt">pic.twitter.com/TXojler3Pt</a></p>&mdash; DIRT_official (@dirt_jp) <a href="https://twitter.com/dirt_jp/status/975642682398658560?ref_src=twsrc%5Etfw">2018年3月19日</a></blockquote>
+<blockquote class="twitter-video" data-lang="ja"><p lang="ja" dir="ltr">【INFORMATION】<br>2018 最新Collection
+
+SHIBUYA109 5階POP UP SHOPではLong Ver.を公開中。<br>Long Ver.はPOP UP SHOPでしか見ることが出来ませんので是非足をお運びください。<br>■SHIBUYA109<br>東京都渋谷区道玄坂2-29-1 5F<br>営業時間：10:00～21:00<br>期間：3/10(土)〜4/1(日)<a href="https://twitter.com/hashtag/DIRT?src=hash&amp;ref_src=twsrc%5Etfw">#DIRT</a> <a href="https://t.co/TXojler3Pt">pic.twitter.com/TXojler3Pt</a></p>&mdash; DIRT_official (@dirt_jp) <a href="https://twitter.com/dirt_jp/status/975642682398658560?ref_src=twsrc%5Etfw">2018年3月19日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 「<a href="http://dirt-jp.com/natural/">DIRT 100% Natural Dirty</a>」と「<a href="http://dirt-jp.com/dissolutive/">DIRT 100% Dissolutive Dirty</a>」の2種類のブランドがあります。
@@ -24,7 +28,9 @@ DIR EN GREYのベースのイケメン筋肉マンのToshiyaがプロデュー�
 前者の「DIRT 100% Natural Dirty」は洋服だけでなくアクセサリーや香水など様々な商品が出されています。カッコイイ系です。
 
 
-<h3>109のポップアップショップ</h3>
+
+### 109のポップアップショップ
+
 
 そんなDIRTが期間限定で渋谷の109に出店しています。
 5階に入っております。店内の展示スペースはToshiyaが私物を持ってきてレイアウトをしているようです。
@@ -33,7 +39,9 @@ DIR EN GREYのベースのイケメン筋肉マンのToshiyaがプロデュー�
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h3>DIRT店内</h3>
+
+### DIRT店内
+
 
 店内には過去の商品から新商品までずらっと販売されています。
 
@@ -41,7 +49,9 @@ DIR EN GREYのベースのイケメン筋肉マンのToshiyaがプロデュー�
 
 
 
-<h2>DIRTの地下広告について</h2>
+
+## DIRTの地下広告について
+
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">【INFORMATION】<br>本日3/19(月)〜4/1(日)まで渋谷駅B1F 道玄坂方面地下通路にDIRT 100% Natural Dirty柱広告が登場!!<br>ド迫力の柱看板を是非その目でご確認ください。<br>写真撮影&amp;拡散お願いします。<br>※公共の場の為、ご通行の方の迷惑にならないようにご配慮ください。 <a href="https://t.co/kAmjdFAt8V">pic.twitter.com/kAmjdFAt8V</a></p>&mdash; DIRT_official (@dirt_jp) <a href="https://twitter.com/dirt_jp/status/975592151072391168?ref_src=twsrc%5Etfw">2018年3月19日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -65,7 +75,9 @@ DIR EN GREYのベースのイケメン筋肉マンのToshiyaがプロデュー�
 <a href="images/20180330083929.jpg">![](images/20180330083929.jpg)</a>
 
 
-<h3>109地下通路の広告費用調べてみたら</h3>
+
+### 109地下通路の広告費用調べてみたら
+
 
 で、気になったので調べて見ました。
 
@@ -78,7 +90,9 @@ DIR EN GREYのベースのイケメン筋肉マンのToshiyaがプロデュー�
 結構金かけてんなー(笑)
 あの事務所の本気度が伺えます。
 
-<h3>元は取れてるんでしょうか。。。</h3>
+
+### 元は取れてるんでしょうか。。。
+
 
 今回7万円以上お買いものをすると3/31のToshiyaバースデーのイベントに参加ができます。おそらく定員は120名。3分程度Toshiyaと密室で色々(多分おしゃべり)できるので、仮に枠が定員に達していれば最低でも840万は売り上げている計算になります。
 
@@ -92,7 +106,9 @@ DIR EN GREYのベースのイケメン筋肉マンのToshiyaがプロデュー�
 
 べんべん
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 最近DIR EN GREYはグッズ販売、とくにアパレル関係にはかなりの力を注いでいます。DIR EN GREY関連だけでもToshiyaのDIRT、京のDUMMYとマダラニンゲン、DIR EN GREYのDeadly Clarisとブランドが乱立しています。
 

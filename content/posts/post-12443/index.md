@@ -13,7 +13,9 @@ title: 【ライブレポ】sukekiyo二〇一九年公演「異形の間 弐」2
 
 <!--more-->
  
-<h2>えんそく</h2>
+
+## えんそく
+
 思い返すとちゃんとした（？）バンドはここだけでしたっっっwおかしいな、前回のかまってちゃん枠だと思ってたんだけども。実は1番楽しみにしていました。
 感想ですが、なんとなくPIERROTを思い出しました。曲調はパンク系統なんじゃね？とか思ったり。メタルとかそっち方面じゃない。とりあえずいろんな曲調やっててなんかPIERROTっぽかった。振り付けのせいか？
 
@@ -33,7 +35,9 @@ Society finch for teen
 
 <a href="https://twitter.com/ensokuchan/status/1097450548041703424">引用：https://twitter.com/ensokuchan/status/1097450548041703424</a>
 
-<h2>鳥肌実</h2>
+
+## 鳥肌実
+
 さて、お待ちかねの鳥肌実
 
 ヘイトスイーチや差別発言いん厳しいご時世、さらにはこの会場にも笑えない関係者の方や外国からいらっしゃってる方もいるかもという中で、そろそろビジネスモデルが危ういのではという情勢でご登場。
@@ -42,7 +46,9 @@ Society finch for teen
 
 アニメと昔のゲームキャラしかごり押しで、独りよがりも甚だしいよな。改めてみてて恥ずかしくなったわ。まったく文化の波及具合わかってない感すごいし、どうせ開会式も絶対さむいだろうなと思った。
 
-<h2>minus(-)</h2>
+
+## minus(-)
+
 この会場はドラムが響くのか？どのバンドもドラムの音をそっごい感じた。そして人によって全く違う音でした。minusは胃にくるような音でした。音で人を殺せるのでは？というくらいパワフル。つよい
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">sukekiyoのみなさん、イベントにお誘いいただきありがとうございました！  今年一発目のライブいかがだったでしょうか？  感想やご意見お待ちしています&#x1f60a;次回、またお会いできる日を楽しみにしております！  ちなみに本日藤井さんの爪の色は胡粉ネイル「艶紅」でございました。それでは〜！ <a href="https://t.co/jR8wTqStHD">pic.twitter.com/jR8wTqStHD</a></p>&mdash; minus(-) (@minus0502) <a href="https://twitter.com/minus0502/status/1097506319873892352?ref_src=twsrc%5Etfw">2019年2月18日</a></blockquote>
@@ -50,16 +56,22 @@ Society finch for teen
 
 あと始まりの際のMCにて藤井さんが各バンドについてコメントしてましたが、「sukekiyoのファンは未亡人でいいのかな？反応がないからわかんない」って言ってたけど、鳥居ちゃんよりやっぱり未亡人がいいよな〜w
 
-<h2>SUGIZO</h2>
+
+## SUGIZO
+
 京がでてきて絶彩のギグとかはなし
 
 んー・・・
 
-<h2>sukekiyo</h2>
+
+## sukekiyo
+
 全ての疲れが吹っ飛んだ。演奏時間や曲数はこのバンドには関係ないことに改めて気がついた。
 2019年もしっかりsukekiyoします。
 
-<h3>物販</h3>
+
+### 物販
+
 朝10時に整理券配布。
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">300人以上ならんでるだろこれ <a href="https://t.co/eEQU8hKW9O">pic.twitter.com/eEQU8hKW9O</a></p>&mdash; しんぺー (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/1097299435946618880?ref_src=twsrc%5Etfw">2019年2月18日</a></blockquote>
@@ -77,7 +89,9 @@ Society finch for teen
 
 なお、会場に入場してからのサンプルブースにflexus新商品のルームミスト？のanimaがおいてありましたので試してみました。ココナッツ風味でコパトーンを思わせる感じの香りでした。あまい。あと服につくと黄色くなっちゃうかもらしいので、肌や服ではない空間にふわっとやるやつっぽい。
 
-<h3>セトリ</h3>
+
+### セトリ
+
 黝いヒステリア
 vandal
 死霊のアリアナ
@@ -88,7 +102,9 @@ vandal
 嬲り
 anima
 
-<h3>演出、衣装</h3>
+
+### 演出、衣装
+
 ブザーとともに前回公演と同様に白黒活劇風の京宝のお送りでした。
 
 紗幕なしでバックルクリーンに諸々投影
@@ -98,25 +114,35 @@ utaは書道家のような姿でした。未架さんは左袖が白く、そ�
 京は金髪の髪の毛を分けて後ろに流してました。もしかしたら髪の毛を縛ってたかも。見えず。
 そして無精髭を生やしていました。なんておいうかV6の森田剛という印象でした。ワイルド。最初グレーの相当重苦しそうな可愛いコートを着ていましたが脱ぐとしたは暗めのシャツにサスペンダー、黒スキニー。ちなみにシャツは後ろの右肩甲骨あたりから肌が露出するエロ仕様。
 
-<h3>感想</h3>
+
+### 感想
+
 Animaで泣きそうになった。色々と考えたけどこのライブ空間こそ隔絶された空間であって瞬間だけど、そのあとの自分の今までの全てとこれからにつながってるんだと実感した。本当にこのバンドは演奏時間とか関係なく引き込まれる。
 
 最初、京の声が小さい気がして機材トラブルか体調わるいのかとか思いましたが全然そんなことなかった。
 
 とにかく素晴らしかった。今日はわりとヘドバンのみだったけど明日がどうなるのかが怖い。今まで溜め込まれたものが一気に開放されて死人でてもおかしくないのでは？
 
-<h2>音源と公演情報</h2>
+
+## 音源と公演情報
+
 鋭意製作中とのことで新しい音源、そしてそれに伴う公演情報が発表されました。
 
 鋭意製作中と書いてあった割にTwitterの方でさらっと日程がでてました。
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">sukekiyo最新音源映像集『INFINITUM』が発表されることが決定致しました。(S)<br><br>『INFINITUM』【公式通販限定盤】<br>2019.5.24 release<br>2Blu-spec CD2＋Blu-ray<br>￥7,500 (tax out)<br><br>＜公式通販受付方法＞<br>2019年2月19日(火)12:00～<a href="https://t.co/lGxamPvV10">https://t.co/lGxamPvV10</a><a href="https://t.co/AJ4abL9YjU">https://t.co/AJ4abL9YjU</a> <a href="https://t.co/YxJ01R8LAB">pic.twitter.com/YxJ01R8LAB</a></p>&mdash; sukekiyo (@sukekiyo_band) <a href="https://twitter.com/sukekiyo_band/status/1097481446317527040?ref_src=twsrc%5Etfw">2019年2月18日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">sukekiyo最新音源映像集『INFINITUM』が発表されることが決定致しました。(S)
+
+『INFINITUM』【公式通販限定盤】<br>2019.5.24 release<br>2Blu-spec CD2＋Blu-ray<br>￥7,500 (tax out)
+
+＜公式通販受付方法＞<br>2019年2月19日(火)12:00～<a href="https://t.co/lGxamPvV10">https://t.co/lGxamPvV10</a><a href="https://t.co/AJ4abL9YjU">https://t.co/AJ4abL9YjU</a> <a href="https://t.co/YxJ01R8LAB">pic.twitter.com/YxJ01R8LAB</a></p>&mdash; sukekiyo (@sukekiyo_band) <a href="https://twitter.com/sukekiyo_band/status/1097481446317527040?ref_src=twsrc%5Etfw">2019年2月18日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 5月24日発売です。INFINITUMは無限に、永久にの意と思われます。
 
 FORTYはどういう意味だろうか？普通に40？？確か京が区切りにしてた年齢が40だった気がする。それを永遠にってこと？？
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">◉最新情報◉<br>sukekiyo TOUR2019「FORTY」の開催が決定致しました。 (S)<br><br>◆sukekiyo online先行◆<br>2/19(火)12:00～3/3(日)23:59<a href="https://t.co/txOFkND0li">https://t.co/txOFkND0li</a> <a href="https://t.co/fRq8TuPIO6">pic.twitter.com/fRq8TuPIO6</a></p>&mdash; sukekiyo (@sukekiyo_band) <a href="https://twitter.com/sukekiyo_band/status/1097485085849210880?ref_src=twsrc%5Etfw">2019年2月18日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">◉最新情報◉<br>sukekiyo TOUR2019「FORTY」の開催が決定致しました。 (S)
+
+◆sukekiyo online先行◆<br>2/19(火)12:00～3/3(日)23:59<a href="https://t.co/txOFkND0li">https://t.co/txOFkND0li</a> <a href="https://t.co/fRq8TuPIO6">pic.twitter.com/fRq8TuPIO6</a></p>&mdash; sukekiyo (@sukekiyo_band) <a href="https://twitter.com/sukekiyo_band/status/1097485085849210880?ref_src=twsrc%5Etfw">2019年2月18日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 会場は次のとおり
@@ -128,7 +154,9 @@ FORTYはどういう意味だろうか？普通に40？？確か京が区切り�
 
 サンプラザはもう取り壊さないんですかね？
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 さて、明日の純黒ノ羅生門」-開放の儀-に備えて寝よう。
 
 死ぬかもしれないんだから。いや、案外動くなって言われてから割とあんまり動いてないから、みんな逆に動けない可能性の方が高いと思うんだけどもね。

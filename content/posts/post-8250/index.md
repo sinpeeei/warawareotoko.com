@@ -8,7 +8,9 @@ tags:
 title: こんなチーズバーガーもポテトも食べたことない！自由が丘バーガーがオシャレで美味しかった
 ---
 
-昨日、自由が丘にいく用事があったのでせっかくなので近場のハンバーガー屋を検索してたまたま目に止まったお店で昼を食べることにしました。そしたら美味しかったのでご紹介いたします。<!--more--><h2>自由が丘バーガー</h2>
+昨日、自由が丘にいく用事があったのでせっかくなので近場のハンバーガー屋を検索してたまたま目に止まったお店で昼を食べることにしました。そしたら美味しかったのでご紹介いたします。<!--more-->
+## 自由が丘バーガー
+
 
 いってきたのはこちら自由が丘にありますハンバーガー屋さん「自由が丘バーガー」です。
 
@@ -68,7 +70,9 @@ title: こんなチーズバーガーもポテトも食べたことない！自�
 <strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/hamburger/">ハンバーガー</a> | <a href="http://tabelog.com/tokyo/A1317/A131703/R4885/rstLst/">自由が丘駅</a>、<a href="http://tabelog.com/tokyo/A1317/A131711/R1991/rstLst/">奥沢駅</a>、<a href="http://tabelog.com/tokyo/A1317/A131711/R9533/rstLst/">緑が丘駅</a></p>
 
 
-<h2>おまけ：パティスリー・パリ セヴェイユ （patisserie Paris S'eveille）</h2>
+
+## おまけ：パティスリー・パリ セヴェイユ （patisserie Paris S'eveille）
+
 
 
 実は自由が丘に行った理由が、このお店のケーキを買うことでした〜
@@ -85,7 +89,9 @@ title: こんなチーズバーガーもポテトも食べたことない！自�
 <strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/cake/">ケーキ</a> | <a href="http://tabelog.com/tokyo/A1317/A131703/R4885/rstLst/">自由が丘駅</a>、<a href="http://tabelog.com/tokyo/A1317/A131715/R3507/rstLst/">九品仏駅</a>、<a href="http://tabelog.com/tokyo/A1317/A131711/R1991/rstLst/">奥沢駅</a></p>
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 自由が丘って、オシャレな感じと古い感じが同居してて、いきかう人々みな鼻に付くw
 そして、高低差があって道が狭いからちょっと危険だなーと思う。

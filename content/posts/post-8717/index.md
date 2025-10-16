@@ -8,7 +8,9 @@ tags:
 title: レトロフリーク買わずに5000円くらいでスーファミソフトをプレイできる方法
 ---
 
-最近話題のレトロフリークをご存知でしょうか。持っているファミコンソフトやスーパーファミコンソフトを手軽にプレイできるゲーム機です。ただ値段が2万円以上しますので中々手を出しずらいかなと思います。ということで本日はそんなにお金をかけずにスーパーファミコンソフトをプレイする方法をご紹介します。<!--more--><h2>レトロフリークとは？</h2>
+最近話題のレトロフリークをご存知でしょうか。持っているファミコンソフトやスーパーファミコンソフトを手軽にプレイできるゲーム機です。ただ値段が2万円以上しますので中々手を出しずらいかなと思います。ということで本日はそんなにお金をかけずにスーパーファミコンソフトをプレイする方法をご紹介します。<!--more-->
+## レトロフリークとは？
+
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00ZZ70KMG/warawareotoko-22/ref=nosim/" target="_blank" >![](images/51qYcuLcJCL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-detail" style="margin-bottom:5px;"> サイバーガジェット 2015-10-31</div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 369</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=%83%8C%83g%83%8D%83t%83%8A%81%5B%83N&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" target="_blank" >Amazonで購入</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AC%25E3%2583%2588%25E3%2583%25AD%25E3%2583%2595%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25AF%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場で購入</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25AC%25E3%2583%2588%25E3%2583%25AD%25E3%2583%2595%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25AF" target="_blank" >Yahooショッピングで購入![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3D%25E3%2583%25AC%25E3%2583%2588%25E3%2583%25AD%25E3%2583%2595%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25AF" target="_blank" >ヤフオク!で購入![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table>
 
@@ -20,7 +22,9 @@ title: レトロフリーク買わずに5000円くらいでスーファミソフ
 参考：<a href="http://www.cybergadget.co.jp/retrofreak/">レトロフリーク</a>
 
 
-<h2>レトロフリークを使わずに数千円でスーパーファミコンソフトをプレイする方法</h2>
+
+## レトロフリークを使わずに数千円でスーパーファミコンソフトをプレイする方法
+
 
 問題になるのは今のテレビは、ほとんどがHDMI端子であるということ。一方スーパーファミコンはアナログの三色端子です。そのままでは、テレビに出力することができません。そこで必要になってくるのがこちらです。
 
@@ -31,7 +35,9 @@ title: レトロフリーク買わずに5000円くらいでスーファミソフ
 
 次に必要なものです。
 
-<h3>スーパーファミコン本体</h3>
+
+### スーパーファミコン本体
+
 
 持っていなければ。Amazonマーケットプレイスだと数百円で購入できます。ただし諸々のケーブルが入っていない場合がほとんどです。
 
@@ -54,7 +60,9 @@ title: レトロフリーク買わずに5000円くらいでスーファミソフ
 ソフトの方は逆に送料の方が高いくらいです。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 ってかWii Uを持っていればこんな、ダウンロード購入してエミュレーターでプレイできるらしいですね。。。
 

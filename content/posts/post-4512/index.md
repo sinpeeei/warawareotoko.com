@@ -14,13 +14,17 @@ IFTTTをご存知ですか？色んな動作を完全自動で色んなところ
 ![](images/IMG_1540.png)
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/app/ifttt/id660944635?mt=8&uo=4&at=11ld5P" target="_blank" >![](images/mzl.ndccpcnx.png)</a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/app/ifttt/id660944635?mt=8&uo=4&at=11ld5P" target="_blank" >IFTTT</a></div><div class="pochi_price" style="display:inline;">無料</div><div class="pochi_time" style="font-size:x-small;display:inline;">(2014.03.04時点)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/artist/ifttt/id660944638?uo=4&at=11ld5P" target="_blank" >IFTTT</a></div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
 
-<h2>IFTTTとは</h2>
+
+## IFTTTとは
+
 
 ![](images/IMG_1541.png)
 
 例えばinstagramで写真を撮ったら自動でDropboxに送ったり、foursquareでチェックインしたら自動でFacebookに送ったり、Facebookに投稿した内容をevernoteに自動で送ったりとか。とにかく設定だけしておけば、自動でやってくれるというアプリです。この設定をレシピといいます。
 
-<h3>IFTTTの使い方</h3>
+
+### IFTTTの使い方
+
 
 まずは登録。アプリをダウンロードしたら、そのまま登録しましょう。英語のアプリですが難しいことはありません。
 
@@ -60,7 +64,9 @@ tweetしたら、evernoteに送ってバックアップをとるという設定�
 色々と工夫してみるのも楽しいかと思います。それと自分の作ったレシピは共有できますので、いいのができたら共有を。自分で作るのが難しい場合は、人のを探して色々とためしてみるのもいいかもしれませn。
 その場合は、メガネアイコンをタップしください。
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 ![](images/995a1f463c8489bbebc585c7ff1b6a81.jpg)
 

@@ -15,7 +15,9 @@ title: sukekiyo初めて雑誌に掲載されたってよ「ROCKIN'ON JAPAN」�
 
 ![](images/slooProImg_20140130084825.jpg)
 
-<h2>sukekiyo情報は別冊に収録。なので立ち読みは多分不可</h2>
+
+## sukekiyo情報は別冊に収録。なので立ち読みは多分不可
+
 
 紐でくくられてるので立ち読みはできないかな
 ちなみにカウントダウンジャパンでのセトリは以下の通り
@@ -27,7 +29,9 @@ title: sukekiyo初めて雑誌に掲載されたってよ「ROCKIN'ON JAPAN」�
 <li>in all weathers</li>
 </ol>
 
-<h3>タイトルの意味をぐぐってみた。</h3>
+
+### タイトルの意味をぐぐってみた。
+
 直訳です。
 
 elisabeth addict
@@ -50,7 +54,9 @@ in all weathers
 
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 今だから解る「aftermath」というタイトルの意味
 思ったんですがsustain the untruthのPVとか、Toshiyaのガスマスクとか、そんなあたりから考えるとsukekiyoの「aftermath」もやっぱり震災のことを言ってるような気がしてきた•••

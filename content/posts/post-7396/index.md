@@ -28,11 +28,15 @@ title: '続LUNATIC FEST. 参戦希望バンド調べてみた「あの麺はい�
 
 全バンド•••いってみたいと思います。おそらくですが、スケジュールを調べるというよりもあの人は今的なまとめ記事になると思います。長くなると思いますので•••　それでは•••いってみましょう。
 
-<h2>DIR EN GREY、sukekiyo、cali≠gari、PIERROT</h2>
+
+## DIR EN GREY、sukekiyo、cali≠gari、PIERROT
+
 
 <a href="https://www.warawareotoko.com/2015/03/16/post-7393/">こちら</a>を参照ください。
 
-<h2>ムック</h2>
+
+## ムック
+
 
 今出ているスケジュールですとムックの日（6/9）とロットンの日（6/10）が最後みたい
 
@@ -40,7 +44,9 @@ title: '続LUNATIC FEST. 参戦希望バンド調べてみた「あの麺はい�
 
 それにしても、この人たち昨年LIVEしまくりだったみたいなのに、今年もすげー勢いでLIVEしまくってるのね。アルバムのレコーディングいつしたの。。
 
-<h2>X</h2>
+
+## X
+
 
 <a href="http://www.sanspo.com/geino/news/20150316/oth15031619570030-n1.html" target="_blank">![](images/oth15031619570030-n1.html)</a><a style="color: #0070c5;" href="http://www.sanspo.com/geino/news/20150316/oth15031619570030-n1.html" target="_blank">ＹＯＳＨＩＫＩ、１９年ぶりツアー終了後に手術「腱が半分切れている」 - 芸能社会 - SANSPO.COM（サンスポ）</a><a href="http://b.hatena.ne.jp/entry/http://www.sanspo.com/geino/news/20150316/oth15031619570030-n1.html" target="_blank">![](images/oth15031619570030-n1.html)</a>
 
@@ -52,7 +58,9 @@ title: '続LUNATIC FEST. 参戦希望バンド調べてみた「あの麺はい�
 
 マジかよ
 
-<h2>ラクリマ</h2>
+
+## ラクリマ
+
 
 La'cryma Christi（ラクリマクリスティ）
  かつてかつて、MALICE MIZER、FANATIC◇CRISIS、SHAZNAと共に「ヴィジュアル四天王」なんて呼ばれていました。
@@ -80,7 +88,9 @@ La'cryma Christi（ラクリマクリスティ）
 
 LUNATIC FEST出演は5分って感じでしょうか
 
-<h2>ディシェード</h2>
+
+## ディシェード
+
 
 D-SHADE知ってますか？80年代生まれならきっとビビッとくるはず。
  いいよね！知らない人は<a href="http://ja.wikipedia.org/wiki/D-SHADE">wiki</a>
@@ -110,7 +120,9 @@ D-SHADE知ってますか？80年代生まれならきっとビビッとくる�
 
 で結論としてはLUNATIC FESTへの出演は難しそうですね。
 
-<h2>SIAM SHADE</h2>
+
+## SIAM SHADE
+
 
 えーっと今年の10月にさいたまスーパーアリーナでLIVEやるそうですwww熱いぜこりゃ！（<a href="http://siamshade.jp/">http://siamshade.jp/</a>）
 
@@ -120,7 +132,9 @@ D-SHADE知ってますか？80年代生まれならきっとビビッとくる�
 
 何よりインディーズ時代からLUNA SEAの弟分でしたので。
 
-<h2>La'Mule</h2>
+
+## La'Mule
+
 
 若い人は絶対知らないと思う。La'Mule（ラムール）
 
@@ -134,7 +148,9 @@ https://youtu.be/u1ujMq7eZAw
 
 こちらは完全に出演ないでしょう。LUNA SEAとも関係がなさそうだし。。
 
-<h2>LAREINE</h2>
+
+## LAREINE
+
 
 ラレーヌ。こちらは活動停止してしまっております。色々な出来事が重なってしまった結果のようですね。
 
@@ -145,7 +161,9 @@ https://youtu.be/u1ujMq7eZAw
 今年のスケジュールも今まで見た中では、一番先まで決まっているみたいです。
  8月までお忙しいようです。ただ6月後半は何もなさそうなので、出演の可能性はありそうです。
 
-<h2>FANATIC CRISIS</h2>
+
+## FANATIC CRISIS
+
 
 ビジュアル系四天王の一角
  メンバーの現在は・・・
@@ -183,7 +201,9 @@ https://www.youtube.com/watch?list=UUF4PMH6LZcmB7wsaeiwLPig&amp;feature=player_e
 うわー、どうですかね。このバンドは、、、石月努のバンドででそうな気がしなくもない。。。
 
 うーむ
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 さて、長くなりましたのでこの辺で一旦切ります。次回につづく•••
 
 と言ったところで本日は以上になります。おやすみなさい。

@@ -11,7 +11,9 @@ title: 【DIR EN GREY】「THE UNSTOPPABLE LIFE」全セトリ
 ツアー終了して数日が経ちます。メンバーはすでに今ツアー海外公演最初の地であるBELARUS MINSKにおります。そんな中今回のツアーのセトリから各曲の演奏回数を見直してみました。<!--more-->ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
-<h2>THE UNSTOPPABLE LIFE全セットリスト</h2>
+
+## THE UNSTOPPABLE LIFE全セットリスト
+
 
 今回の国内ツアーは全部で15箇所でした。
 各会場のセトリはこちら。（※間違ってたらご指摘ください。）
@@ -78,7 +80,9 @@ title: 【DIR EN GREY】「THE UNSTOPPABLE LIFE」全セトリ
 2014年1月のSUSTAIN THE UNTRUTHぶりでしたwww
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 もうシングルいちいち出さずにミニアルバム→フルアルバムくらいのスパンがいいですな〜
 

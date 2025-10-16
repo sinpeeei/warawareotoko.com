@@ -19,7 +19,9 @@ title: 【閉店】DIR EN GREYギタリストDie氏御用達「飾りじゃな�
 <a href="https://www.warawareotoko.com/2014/03/22/post-4661/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2014/03/22/post-4661/" target="_blank">上手の住人としてDIR EN GREY Die御用達の「飾りじゃないのよカレーは」行ってきたった！ | Gadget Zombie Parasite</a><a href="http://b.hatena.ne.jp/entry/https://www.warawareotoko.com/2014/03/22/post-4661/" target="_blank">![](images/)</a><br style="clear:both;" /><br>
 
 
-<h2>「飾りじゃないのよカレーは」店長のその後</h2>
+
+## 「飾りじゃないのよカレーは」店長のその後
+
 
 お店のアカウントがこちら
 https://twitter.com/kazakaremita
@@ -55,7 +57,9 @@ https://twitter.com/kazakaremita
 です！行ったことのない方はぜひこの機会に！！！！
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 ぼくは、辛いの得意ではないのでいつも２辛です。
 ぜったい一番辛いの食べたら具合悪くなるわw

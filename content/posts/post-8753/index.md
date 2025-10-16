@@ -16,7 +16,9 @@ PIERROTの愛児とDIR EN GREYの薫
 そのバンドのキーマンである2人が同じステージに立つ、しかも同じバンドとして。これはぼくにとってsukekiyoで京とキリトがコラボしたことと同じくらい衝撃的な事件。絶対にこの目でそれを目にしなければならなかった。そして今日それが叶った。
 
 <!--more-->
-<h2>Boo Xmasとは</h2>
+
+## Boo Xmasとは
+
 MTVなどでVJ（VideoJocky、DJのビデオ版）として活躍するBoo氏が主催する音楽イベント。2009年に始まり、もはやクリスマス時期の恒例行事となっている。参加するアーティストはBooの友人関係やこれは紹介したいとBooが強く思うバンドたちで、ジャンルも幅広い。
 
 ぼくも2011年に参戦した。その時のラインナップはJUNK4ELEMENTS / MAN WITH A MISSION / 雅-MIYAVI / Pay money To my Pain / Plastic tree / sads
@@ -28,7 +30,9 @@ MTVなどでVJ（VideoJocky、DJのビデオ版）として活躍するBoo氏が
 そして今回の参加ラインナップは、シド / T T T / Nobuaki Kaneko
 
 今回はTTTを目当てで参戦しましたので、そのレポートです。体調の関係で大変失礼でしたが、TTT見た後にすぐに退出しました。。。すんません。
-<h2>TTTとは</h2>
+
+## TTTとは
+
 TTTとはBooの呼びかけのもと集まった寅年の飲み友達。トラトラトラの略でTTT
 
 メンバーは
@@ -62,7 +66,9 @@ Dr: DUTTCH (UZMK)
 この動画を見るとKOJIさんだけは初対面の人もいるのかな？
 
 <iframe src="https://www.youtube.com/embed/pNlHPadaCWU?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h2>LIVEの様子</h2>
+
+## LIVEの様子
+
 ![](images/IIMG_0161.jpg)
 
 この会場、ぼくは2回か3回しか来たことがないのですが結構変わった構造です。
@@ -120,7 +126,9 @@ DIR EN GREYドラムのやもさんことShinyaも来てたみたいでインス
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 ということで本日は体調不良につきTTT終わって退出しました。
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 TTTよかったー！！！愛児、薫がMCで絡んでた。感慨なんか湧かずにただただ楽しかった！喧嘩する時は敵の高校なんだけど地元のゲーセンでは仲が良い野郎達って感じでもう本当にありがとうございました。
 
 これまた、継続的に動くバンドなんでしょうか？？

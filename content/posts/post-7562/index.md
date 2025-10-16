@@ -19,7 +19,9 @@ title: 【LUNATIC FEST.】参戦アーティスト発表かと思ったらバン
 <a href="https://www.warawareotoko.com/2015/03/22/post-7421/">【LUNATIC FEST.】ステージ構成発表される！ #ルナフェス</a>
 
 
-<h2>参戦アーティスト・・・発表！？</h2>
+
+## 参戦アーティスト・・・発表！？
+
 
 さて、4月10日の夕方に新しい情報が出ました。一時的にアクセスしずらい状態になっていたみたいです。
 
@@ -40,7 +42,9 @@ title: 【LUNATIC FEST.】参戦アーティスト発表かと思ったらバン
 参考：<a href="https://www.warawareotoko.com/2015/03/18/post-7396/">続#LUNATICFEST 参戦希望バンド調べてみた「あの麺はいま」</a>
 
 
-<h2>ルナフェス会場図面アップデートされる！</h2>
+
+## ルナフェス会場図面アップデートされる！
+
 
 ![](images/6c2adca4e1e5b11ebb66478caf47f11b.jpg)
 
@@ -55,7 +59,9 @@ title: 【LUNATIC FEST.】参戦アーティスト発表かと思ったらバン
 
 ルナティックフェスト公式は<a href="http://lunaticfest.com/">こちら</a>
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 ネクストアクションは4月30日！！どんだけ焦らすねん！！！
 アーティストラインナップが発表されます！！

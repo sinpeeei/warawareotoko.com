@@ -38,7 +38,9 @@ LIVE終わりの京とYUCHI氏。なんか、、おかあさんと引きこも�
 通販か年明けのLIVEで売ってくれないかな。。。
 
 
-<h2>sukekiyoニューアルバム情報</h2>
+
+## sukekiyoニューアルバム情報
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>2月4日発売最新ミニアルバム『VITIUM』＜通販盤＞の特典CD収録曲決定！ヴォーカルコラボ4曲に加え、2014年5月6日京都劇場公演よりLIVE音源10曲の計14曲を収録致します。(S) <a href="http://t.co/YpIEMPKpDS">http://t.co/YpIEMPKpDS</a> <a href="http://t.co/eWpMY8qYaU">http://t.co/eWpMY8qYaU</a></p>&mdash; sukekiyo (@sukekiyo_band) <a href="https://twitter.com/sukekiyo_band/status/549538268912443392">2014, 12月 29</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -102,7 +104,9 @@ vandal
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4840103119/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">![](images/51PJ2XJVT5L._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4840103119/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">自虐、斂葬腐乱シネマ</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">京 メディアファクトリー 2001-08    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="display:inline;margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=%8E%A9%8Bs%81A%9D%CA%91%92%95%85%97%90%83V%83l%83%7D&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div><div class="shoplinkrakuten" style="display:inline;margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%2587%25AA%25E8%2599%2590%25E3%2580%2581%25E6%2596%2582%25E8%2591%25AC%25E8%2585%2590%25E4%25B9%25B1%25E3%2582%25B7%25E3%2583%258D%25E3%2583%259E%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div><div class="shoplinkyahoo" style="display:inline;margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3D%25E8%2587%25AA%25E8%2599%2590%25E3%2580%2581%25E6%2596%2582%25E8%2591%25AC%25E8%2585%2590%25E4%25B9%25B1%25E3%2582%25B7%25E3%2583%258D%25E3%2583%259E" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="display:inline;margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3D%25E8%2587%25AA%25E8%2599%2590%25E3%2580%2581%25E6%2596%2582%25E8%2591%25AC%25E8%2585%2590%25E4%25B9%25B1%25E3%2582%25B7%25E3%2583%258D%25E3%2583%259E" rel="nofollow"  target="_blank" title="ヤフオク!" >ヤフオク!![](images/gifbanner?sid=3041033&pid=882528283)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 さて来年もDIR EN GREYとsukekiyoを中心に記事更新していきます！！
 
 今年はできる日はなるべく更新！やる気がないときはお休み〜としてきましたが来年は、なるべく定期更新をしようと思います。（なるべく）

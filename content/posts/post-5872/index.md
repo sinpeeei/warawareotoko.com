@@ -13,7 +13,9 @@ title: 攻殻機動隊 ARISE boader3:「Ghost Tear」今回も発端はウィル
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。<!--more--><!--more-->
 攻殻機動隊ファンとして、色々な感情がありつつもやっぱり見てきました。攻殻機動隊ARISE。
 
-<h2>今回のあらすじ</h2>
+
+## 今回のあらすじ
+
 
 はい、そんな攻殻機動隊ですが劇場公開はなんともう終わってます！
 
@@ -21,7 +23,9 @@ title: 攻殻機動隊 ARISE boader3:「Ghost Tear」今回も発端はウィル
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00GU51IYG/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">![](images/51DDzNydKoL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00GU51IYG/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">攻殻機動隊ARISE (GHOST IN THE SHELL ARISE) 3 [Blu-ray]</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">坂本真綾 バンダイビジュアル 2014-07-25    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="display:inline;margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=%8DU%8Ak%8B%40%93%AE%91%E0ARISE&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div><div class="shoplinkyahoo" style="display:inline;margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3D%25E6%2594%25BB%25E6%25AE%25BB%25E6%25A9%259F%25E5%258B%2595%25E9%259A%258AARISE" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="display:inline;margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3D%25E6%2594%25BB%25E6%25AE%25BB%25E6%25A9%259F%25E5%258B%2595%25E9%259A%258AARISE" rel="nofollow"  target="_blank" title="ヤフオク!" >ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
-<h2>【ネタバレなし】あらすじ</h2>
+
+## 【ネタバレなし】あらすじ
+
 
 今回は、前回からの続き
 軍から独立して自らの舞台を持った素子であったが、任務の依頼は公安9課の荒巻からが主で、思う様な組織運用ができていなかった。それに対し荒巻は、正式なバックアップが欲しければ構成員を9人集めろとせまる。
@@ -46,7 +50,9 @@ title: 攻殻機動隊 ARISE boader3:「Ghost Tear」今回も発端はウィル
 
 
 
-<h2>【ネタバレ】以下ネタバレです。</h2>
+
+## 【ネタバレ】以下ネタバレです。
+
 
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00F5Q5XHO/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">![](images/51vZ%2BNiyWyL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00F5Q5XHO/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">ノートン セキュリティ(Windows/Mac/Android/iOS対応) [ダウンロード]</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> シマンテック 2013-09-20    </div><div class="kaerebalink-link1" style="margin-top:10px;"></div></div><div class="booklink-footer" style="clear: left"></div></div>
@@ -60,7 +66,9 @@ title: 攻殻機動隊 ARISE boader3:「Ghost Tear」今回も発端はウィル
 
 でも結局はウィルスなんですよね。
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 とりあえず、攻殻機動隊のこれじゃない感がようやく慣れてきたところです。
 今までで一番解りやすかったってか、理解できたわ。
 

@@ -21,7 +21,9 @@ title: LINEクリエーターズスタンプ「チョコちゃん」リリース
 そしてようやくリリース。本日はラインクリエーターズスタンプを作るのにぼくが用意した物や反省点などをご紹介したく思います。興味あるけど、迷ってる方の役に立ったら嬉しいです。
 
 
-<h2>LINEクリエーターズスタンプとは</h2>
+
+## LINEクリエーターズスタンプとは
+
 
 LINEのスタンプショップでコイン100枚で販売されている公式スタンプとは異なり、個人が作成・販売できるスタンプです。値段はコイン50枚です。
 
@@ -29,7 +31,9 @@ LINEのスタンプショップでコイン100枚で販売されている公式�
 
 今現在で８万ほどのスタンプがショップに並んでおります。おそらく未だに数万個のスタンプが申請待ちとなっているでしょう。それくらい作る側にも人気なサービスになっているわけです。
 
-<h3>販売することのメリット</h3>
+
+### 販売することのメリット
+
 
 2つあると思います。
 <strong>・自分のオリジナルのスタンプが使えるようになる</strong>
@@ -40,7 +44,9 @@ LINEのスタンプショップでコイン100枚で販売されている公式�
 ということで、苦労の割には見返りはあまりありません。
 
 
-<h2>スタンプ制作のためにぼくが揃えたもの</h2>
+
+## スタンプ制作のためにぼくが揃えたもの
+
 
 ペンタブを買いました。おそらくこれが一番ランクが低いものだと思います。
 これで十分です。使っていれば、すぐに慣れると思います。
@@ -59,7 +65,9 @@ LINEのスタンプショップでコイン100枚で販売されている公式�
 <iframe frameborder="0" allowtransparency="true" height="120" width="120" marginheight="0" scrolling="no" src="http://ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=3041033&pid=883413530" marginwidth="0"><script language="javascript" src="http://ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3041033&pid=883413530"></script><noscript><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=883413530" target="_blank" >![](images/gifbanner?sid=3041033&pid=883413530)</a></noscript></iframe>
 
 
-<h2>スタンプの描き方のルール</h2>
+
+## スタンプの描き方のルール
+
 
 詳しくはこちら
 <a href="https://creator.line.me/ja/guideline/">https://creator.line.me/ja/guideline/</a>
@@ -73,7 +81,9 @@ Illustratorのこういう仕様についてあまり理解できておらず、
 ただガイドラインに従って描いていれば問題はないはずです。
 
 
-<h2>そして出来上がったスタンプがこちら</h2>
+
+## そして出来上がったスタンプがこちら
+
 
 いやーお恥ずかしいw　絵描くのはわりと得意な方なんですがイラストとかオリジナルキャラを描くのとかむずいわーw　ということで何の考えもなしにチョコレートをモチーフにしたキャラクターを描きました。40個も描くのめっちゃ大変でした。購入はこちらからできます。
 <a href="https://store.line.me/stickershop/product/1079934/ja">LINEクリエーターズスタンプ「チョコちゃん」</a>
@@ -87,7 +97,9 @@ Illustratorのこういう仕様についてあまり理解できておらず、
 ![](images/41a8cfa2b844be30a60f35156c7eeaa9.png)
 
 
-<h2>反省点</h2>
+
+## 反省点
+
 
 えーっと、同じスタンプが2つあるwww　かぶっちゃってるわwww
 
@@ -98,7 +110,9 @@ Illustratorのこういう仕様についてあまり理解できておらず、
 ![](images/IIMG_6767.jpg)
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 一つ通るとモチベーションが一気にあがりますな！！これからもちょっとずつ描いていこうかな〜よかったらDLしてみてくださいw
 

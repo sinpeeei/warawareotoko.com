@@ -22,7 +22,9 @@ DIR EN GREYは、コロナ禍でのライブを完全に克服した。コロナ
 
 そして、この答えを体現できるライブだったと思います。
 
-<h2>セトリ</h2>
+
+## セトリ
+
 <ol>
 <li>Schadenfreude</li>
 <li>Celebrate Empty Howls</li>
@@ -47,7 +49,9 @@ EN.
 <li>人間を被る</li>
 </oi>
 
-<h2>衣装と演出</h2>
+
+## 衣装と演出
+
 京は黒スキニー黒シャツ
 金髪にメイクは塗りこぼした赤リップ
 
@@ -60,7 +64,9 @@ Toshiya王子スタイルだけど、スキニーのパンツ？だったかと�
 そしてDieは遠目にバービー人形の様だった。白いフワッとした装いで、スカートの様なシルエットだった。優美な雰囲気。遠目には女性そのもの。
 
 
-<h2>感想</h2>
+
+## 感想
+
 改めて、最高のライブだった。
 コロナ禍初期、DIR EN GREYにとって無観客であろうが関係ないということを証明するようなライブをそういえばしてた。
 
@@ -100,7 +106,9 @@ Toshiya王子スタイルだけど、スキニーのパンツ？だったかと�
 
 しかし、思わず歓声が上がってしまうほどのサプライズが用意されていた。
 
-<h2> DIR EN GREY 25th Anniversary TOUR22 FROM DEPRESSION TO ________</h2>
+
+## DIR EN GREY 25th Anniversary TOUR22 FROM DEPRESSION TO ________
+
 https://youtu.be/wU1dskMf0Lc
 
 DIR EN GREY 25th Anniversary
@@ -129,7 +137,9 @@ DIR EN GREY 25th Anniversary
 ・Exclusive Ticket ￥19,800(諸経費込)
 ・一般スタンディング ￥9,800(諸経費込)
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 そろそろ次のステージに。
 
 声出しあり。マスクしててもいいから。

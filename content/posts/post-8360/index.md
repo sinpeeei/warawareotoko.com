@@ -11,7 +11,9 @@ title: 【ライブレポ】DIR EN GREY TOUR15 NEVER FREE FROM THE AWAKENING -�
   CITTA’
 ---
 
-DIR EN GREYの2015年秋のツアー初日に行ってきました。LIVEらしいLIVEでセトリも素晴らしいものでした。今回ぼくは参戦は1日のみですが、武道館へと続く素晴らしいツアーになるんじゃないかと感じました。本日はそのLIVEレポです。<!--more--><h2>TOUR15 NEVER FREE FROM THE AWAKENING@CLUB CITTA’ -｢a knot｣only- 9/10</h2>
+DIR EN GREYの2015年秋のツアー初日に行ってきました。LIVEらしいLIVEでセトリも素晴らしいものでした。今回ぼくは参戦は1日のみですが、武道館へと続く素晴らしいツアーになるんじゃないかと感じました。本日はそのLIVEレポです。<!--more-->
+## TOUR15 NEVER FREE FROM THE AWAKENING@CLUB CITTA’ -｢a knot｣only- 9/10
+
 
 今回のツアーは、春のツアー「THE UNSTOPPABLE LIFE」同様、アルバム「ARCHE」の流れを組むものです。思い返せば、あの頃は、冬が終わりやっと暖かくなったくらいでしたね。いやそうだっったっけ？もはやそれすら覚えてないくらい前のように感じます。
 
@@ -27,7 +29,9 @@ DIR EN GREYの2015年秋のツアー初日に行ってきました。LIVEらし�
 
 
 
-<h3>今回のツアー日程</h3>
+
+### 今回のツアー日程
+
 
 ![](images/IIMG_8731.jpg)
 
@@ -65,7 +69,9 @@ DIR EN GREYの2015年秋のツアー初日に行ってきました。LIVEらし�
 
 
 
-<h3>物販</h3>
+
+### 物販
+
 
 注目は、限定Tシャツのデザインとスマホケースの作り、あとは通称<strong>「うにペン」</strong>ことフローティングボールペンです。
 
@@ -100,7 +106,9 @@ Tシャツは普段使いできるくらいのいい感じのデザインです�
 
 
 
-<h3>会場内のセット</h3>
+
+### 会場内のセット
+
 
 入場してステージ入る前に「<a href="http://www.amazon.co.jp/gp/product/B00SRVC3QI/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00SRVC3QI&linkCode=as2&tag=warawareotoko-22">Average Sorrow</a>![](images/ir?t=warawareotoko-22&l=as2&o=9&a=B00SRVC3QI)」に出てきたシーンの写真が飾られていました。
 
@@ -119,7 +127,9 @@ Tシャツは普段使いできるくらいのいい感じのデザインです�
 
 
 
-<h3>メンバーの衣装</h3>
+
+### メンバーの衣装
+
 
 Dieは<strong>スギゾーを思わせる赤銅色の髪</strong>
 メイクはバッチリで目のした真っ黒でした。いつものフードではなく、薄手の軽装でした。
@@ -142,7 +152,9 @@ Toshiyaはスナフキン帽子をかぶって登場。いつの間にかとっ�
 なお、本編途中メンバーがはけた時には、頬から下の黒は拭き取られ、さらにアンコールの時は完全スッピンになっていました。
 
 
-<h3>セットリスト</h3>
+
+### セットリスト
+
 
 Behind　a Vacantimage
 Sustain the untruth
@@ -179,7 +191,9 @@ Un deux
 
 
 
-<h3>こぼれ話</h3>
+
+### こぼれ話
+
 
 
 なぜか20分以上押しました。ひたすら待っている時間が辛かったです。何があったんでしょうかね？台風関係での交通機関の乱れを考慮でもしたのかな？
@@ -210,7 +224,9 @@ Un deux
 
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener noreferrer">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener noreferrer">しんぺー</a> はこう思った。
+
 
 さて、ツアーはまだ始まったばかりです。今日からDIRと虜の新たなツアーがスタートします。皆様おケガをなさらずに体調管理をしっかりとして、首に湿布をしっかりと貼って、これからに備えましょう！！
 

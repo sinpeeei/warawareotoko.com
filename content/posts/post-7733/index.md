@@ -11,7 +11,9 @@ title: '【LUNATIC FEST.】第１弾アーティストの出演日決まる #ル
 
 先日発表されましたLUNATIC FEST.参戦アーティストラインナップですが、本日正午のその出演日が発表されました。
 
-（ちなみにルナフェス公式サイトはこちら:<a href="http://lunaticfest.com/">http://lunaticfest.com/</a>）<!--more--><h2>第１弾各アーティストの出演日</h2>
+（ちなみにルナフェス公式サイトはこちら:<a href="http://lunaticfest.com/">http://lunaticfest.com/</a>）<!--more-->
+## 第１弾各アーティストの出演日
+
 
 6月27日（土）
 LUNA SEA
@@ -31,7 +33,9 @@ ROTTENGRAFFTY
 
 
 
-<h2>チケット購入は各プレイガイドより</h2>
+
+## チケット購入は各プレイガイドより
+
 
 チケット代は15000円とドリンク代の500円で合計<strong>15,500円</strong>
 
@@ -51,7 +55,9 @@ http://www.lunasea.jp/app-def/S-102/wp/slave
 
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 本日は休みのせいか正午発表でした。そのためかわりかしアクセスしやすい状態でした。
 

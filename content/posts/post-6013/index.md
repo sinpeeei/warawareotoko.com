@@ -14,7 +14,9 @@ title: 【物販状況報告】８月５日DIR EN GREY TOUR 2014 PSYCHONECT -mod
 
 ![](images/6dfe0df0b5699efd4860affeaa25253c.jpg)
 
-<h2>持って行くものリスト（最低限）</h2>
+
+## 持って行くものリスト（最低限）
+
 さて、念のため本日の持っていくものリストを掲載しておきます。
 
 <ul>
@@ -44,7 +46,9 @@ title: 【物販状況報告】８月５日DIR EN GREY TOUR 2014 PSYCHONECT -mod
 
 
 
-<h2>物販状況</h2>
+
+## 物販状況
+
 
 https://twitter.com/s_s_p_y/status/496516297794936832
 
@@ -109,7 +113,9 @@ https://twitter.com/s_s_p_y/status/496533544957521920
 
 ![](images/IMG_3820.jpg)
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 ちょっと本気で倒れるかなって思いました。
 そんくらい暑いです。
 

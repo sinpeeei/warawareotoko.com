@@ -13,7 +13,9 @@ title: アメリカのyoutubeクリエーターCasey Neistatが国内ユーチ�
 Casey Neistatをご存知でしょうか？アメリカのYoutubeクリエーターです。
 
 去年から見るようになったんですが、今では毎日欠かさず見ていて習慣化しています。とにかく映像がおしゃれでかっこよくて、しかもその映像がコンパクトに数分に収められているので、とても見やすいコンテンツです。ということで本日はこのCasey Neistatをおすすめする記事でございます。<!--more-->
-<h2>Casey Neistatとは？</h2>
+
+## Casey Neistatとは？
+
 ![](images/IIMG_4274.jpg)
 
 ケイシーナイスタットと読みます。ネイスタットではありません。
@@ -34,7 +36,9 @@ Caseyの職業は映像監督でbeme（ビーム）というアプリを運営�
 
 ハロウィン時期に友達のユーチューバーと共同で作ったアラジン動画です。ブーステッドボードに布を付けてアラジンの空飛ぶ絨毯風に見せてるやつです。
 <iframe src="https://www.youtube.com/embed/lqlrru1V69E?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h3>Casey Neistatの動画の魅力</h3>
+
+### Casey Neistatの動画の魅力
+
 <iframe src="https://www.youtube.com/embed/_FE_AcJbJGQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <strong>・おしゃれで見ていてかっこいい</strong>
@@ -76,13 +80,17 @@ Caseyの職業は映像監督でbeme（ビーム）というアプリを運営�
 →彼の動画加工はグラフィックを使ったり合成したりというものではありません。そのかわりペーパークラフトや手書きの文字を使って映像を作ります。
 
 <iframe src="https://www.youtube.com/embed/L13644A5z2w?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h2>こんな人におすすめ</h2>
+
+## こんな人におすすめ
+
 <ol>
  	<li>日本のユーチューバーの商品紹介に飽き飽きしてる</li>
  	<li>ニューヨークとかアメリカの街並みやカルチャーを見てみたい</li>
  	<li>寝る前のちょっとした時間に見られる動画を探している</li>
 </ol>
-<h2>しんぺーはこう思った</h2>
+
+## しんぺーはこう思った
+
 ぼくが、彼の動画を最初に見たのはApple Watchの動画です。
 
 一番安いApple Watchであるスポーツタイプ（5万円くらい）を買ってきて、それをゴールドのスプレーでApple Watch Edition（150万円くらい）に見えるように加工するってやつです。

@@ -15,11 +15,6 @@ title: 海外ドラマ紹介：NY市警を知りたければこれを見ろ「BL
 どうも、社会人6年目異動8回笑われ男です。
 一週間ブログ100本投稿36本目です。今回は海外ドラマの紹介です。
 
-<script type="text/javascript">// <![CDATA[
-google_ad_client = "ca-pub-5375836130573295"; /* ads by google */ google_ad_slot = "3126708966"; google_ad_width = 468; google_ad_height = 60;
-// ]]></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">// <![CDATA[
-
-// ]]></script>
 おじいちゃん＝元NY市警本部長、お父さん＝現NY市警本部長、長男＝NY市警刑事、おねえちゃん＝検事、末っ子＝新米警官で巡査
 こんな感じの構成でみんなNY市民の安全と正義のために戦っている レイガン家のお話です。
 彼らには本当は次男がいました。しかし、ナゾの殉職を遂げてます。

@@ -12,7 +12,9 @@ title: 【DIR EN GREYまとめ】年末年始のスケジュールまとめ
 
 
 <!--more-->
-<h2>DIR EN GREY</h2>
+
+## DIR EN GREY
+
 
 年内のLIVEは今の所、国内国外発表ありません。
 
@@ -38,7 +40,9 @@ TOUR16 FINEM LAUDA
 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
-<h2>その他、時系列でならべてみた</h2>
+
+## その他、時系列でならべてみた
+
 
 12月15日　火
 
@@ -104,7 +108,9 @@ Shinya live:Tokyo Chaos 2015
 
 以上、抜け・間違いありましたらご指摘ください。
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">年末年始の虜的スケジュールリスト作ってたらとしまささんだけ真っ白。。。いや、、きっと今は洋服の製作期間なんだそうに違いない。このままだと「安心してください。空いてますよ」みたいな感じになっちゃうからきっと1月年明けにまた新作のリリースがあるに違いないそうに違いない。こ</p>&mdash; しんぺー@はきだめの「し」んぺー (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/675868932876603392">2015, 12月 13</a></blockquote>
 

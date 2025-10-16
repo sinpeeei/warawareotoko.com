@@ -16,7 +16,9 @@ title: sukekiyoミニアルバム「vitium」発売決定　そしてツアー�
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><!--more--><!--more-->ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
-<h2>sukekiyo 1st mini album 『vitium』2015年2月4日発売決定</h2>
+
+## sukekiyo 1st mini album 『vitium』2015年2月4日発売決定
+
 
 <blockquote>
 
@@ -28,7 +30,9 @@ title: sukekiyoミニアルバム「vitium」発売決定　そしてツアー�
 
 これまたラテン語だ。
 
-<h3>気になるお値段は•••</h3>
+
+### 気になるお値段は•••
+
 
 
 ・京公式オンラインストア
@@ -60,7 +64,9 @@ CD
 Blue-specでBlu-ray付きだからこの値段なのか•••
 
 
-<h2>sukekiyo 二〇一五年公演「The Unified Field」</h2>
+
+## sukekiyo 二〇一五年公演「The Unified Field」
+
 
 
 2015年2月9日(月) 東京都・渋谷区総合文化センター大和田 さくらホール
@@ -75,7 +81,9 @@ Blue-specでBlu-ray付きだからこの値段なのか•••
 
 言わずもがな、16日と17日は生誕祭ですね。チケットの争奪戦が予想されます。
 
-<h3>ちなみに渋谷区総合文化センター大和田 さくらホールってこんなところみたい</h3>
+
+### ちなみに渋谷区総合文化センター大和田 さくらホールってこんなところみたい
+
 
 ![](images/guide_sakura.html)さくらホール｜渋谷区文化総合センター大和田<a href="http://b.hatena.ne.jp/entry/http://www.shibu-cul.jp/guide_sakura.html" target="_blank">![](images/guide_sakura.html)</a><br style="clear:both;" /><br>
 
@@ -88,7 +96,9 @@ Blue-specでBlu-ray付きだからこの値段なのか•••
 近くには東経大のサブウェイとかエクセルシオールとかあります。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 今回の収録曲の製作時期はいつだったんだろう？今まさに作ってるところのなのかしら？
 それともIMMORTALISで収録しきれなかった分をレコーディングして販売ってことなのか？
 

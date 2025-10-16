@@ -12,7 +12,9 @@ title: 【おったまげた】こずえ鈴は今アメリカで人気youtuber�
 こずえ鈴をこ存じだろうか？数年ぶりにこの名前を聞いたという人もいると思う。若い人は「誰？」って感じかもしれない。今日たまたまネットで見かけて驚いたので、ご紹介いたします。<!--more-->ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
-<h2>こずえ鈴とは？</h2>
+
+## こずえ鈴とは？
+
 
 この人です。
 <div class="kwout" style="text-align: center;">![](images/hrw_bor_rou_sha.jpg)<p style="margin-top: 10px; text-align: center;">こずえ鈴 ～タレント名鑑～ ― スポニチ Sponichi Annex 芸能 via <a href="http://kwout.com/quote/hi2xehrw">kwout</a></p></div>
@@ -64,7 +66,9 @@ title: 【おったまげた】こずえ鈴は今アメリカで人気youtuber�
 これ説明なしに見てたら絶対分からなかった・・・
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 なんでこんなことを発見したかというと、実はずっとお気に入りだったアメリカのユーチューバーの女の子について調べてたらたまたま見つけてしまったからなのです。
 

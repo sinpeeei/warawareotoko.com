@@ -9,7 +9,9 @@ title: ニューモデル「theta SC」と「theta S」のスペック比較
 ---
 
 噂されてたRICOH thetaのニューモデルが遂に発売されました〜！数日前にRICOHのtheta S 360°を購入したぼく涙目〜！ということで本日はtheta sとニューモデルのtheta scの比較です。<!--more-->
-<h2>RICOH theta scは高性能で安いらしい</h2>
+
+## RICOH theta scは高性能で安いらしい
+
 そうらしいですよ！ぼくが数日前に購入したtheta sとほぼ同等の性能があるにも関わらず、値段が1万円近く安いらしいです。
 <div class="kaerebalink-box" style="text-align: left; padding-bottom: 20px; font-size: small; /zoom: 1; overflow: hidden;">
 <div class="kaerebalink-image" style="float: left; margin: 0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01M3O1FTK/warawareotoko-22/ref=nosim/" target="_blank">![](images/31hg77yFT0L._SL160_.jpg)</a></div>
@@ -112,7 +114,9 @@ theta sは夜空の星の動きをタイムラプス撮影したい！みたい�
 <div class="booklink-footer" style="clear: left;"></div>
 </div>
 どちらを選ぶかは、何に使いたいかによります！
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 正直発表を知った時は動揺しました。
 この前買ったばっかだよ•••と。でも、まぁこれくらいのスペック差なら許容範囲•••強がりではありません！
 

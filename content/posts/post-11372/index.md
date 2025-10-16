@@ -11,7 +11,9 @@ title: 【ライブレポ】PARTY ZOO 2017 DAY2 2017_11_23@Zepp Tokyo【sukekiyo
 
 久しぶりのsukekiyoのLIVEが観れるってのと、活動休止前のムックを同時に観れるチャンスということでPARTY ZOO行ってきました。本日はそのLIVEレポです。<!--more-->![](images/IIMG_0792.jpg)
 
-<h2>A9（アリスナイン）</h2>
+
+## A9（アリスナイン）
+
 
 完全初見でした。ビジュアルだけはずっと知ってたけど、一応予習という感じでYoutubeで少し見てったけど。確か全員少女漫画かって感じの美形というイメージで曲はキラキラで、ネオビジュアル系で、虜くらいの年代の人からすると若手も若手っていう印象だと思う。でも、もう若手じゃなくて中堅くらいになるのでしょうか。
 
@@ -21,7 +23,9 @@ title: 【ライブレポ】PARTY ZOO 2017 DAY2 2017_11_23@Zepp Tokyo【sukekiyo
 
 あと、虎様って一番好みの顔してた記憶があったんだが、別人のように。。
 
-<h3>セトリ</h3>
+
+### セトリ
+
 
 the beautiful name
 RAINBOWS
@@ -46,7 +50,9 @@ Amazonミュージックで聴く
 1月17日発売「F＋IX＝YOU」
 
 
-<h3>ところでA9ファンの年齢層って</h3>
+
+### ところでA9ファンの年齢層って
+
 
 わたしが発明しましたファンの年齢をざっくりと算出する超絶適当式がございます。
 
@@ -65,7 +71,9 @@ Amazonミュージックで聴く
 参考：<a href="https://www.warawareotoko.com/2016/09/05/post-9265/">ヴィジュアルジャパンサミット参戦バンドのファンの年齢層を調べてみた
 </a>
 
-<h2>baroque</h2>
+
+## baroque
+
 
 続いてbaroque。どうやら各バンド転換含めて1時間が持ち時間ぽいです。開演からきっかり1時間でスタート
 
@@ -84,7 +92,9 @@ Amazonミュージックで聴く
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/427010435X/warawareotoko-22/" target="_blank" >![](images/417d6feC1IL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/427010435X/warawareotoko-22/" target="_blank" >鬱病ロッカー (RHブックス・プラス)</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">兒玉 怜 武田ランダムハウスジャパン 2012-11-10    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="margin:5px 0"><a href="http://www.amazon.co.jp/gp/search?keywords=%E9%AC%B1%E7%97%85%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=warawareotoko-22" target="_blank" >Amazon</a></div><div class="shoplinkrakuten" style="margin:5px 0"><a href="https://hb.afl.rakuten.co.jp/hgc/121ed5e1.954a9ce3.121ed5e2.9fc704ba/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%25AC%25B1%25E7%2597%2585%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場</a></div><div class="shoplinkyahoo" style="margin:5px 0"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%25AC%25B1%25E7%2597%2585%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC&vcptn=kaereba" target="_blank" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
-<h3>セトリ</h3>
+
+### セトリ
+
 
 どれもこれも浮遊感とも違うフワフワ感とそれでいてキラキラしていて、夜空を漂う感じの曲が多かった。ぼくが抱いていた尖った、勢いのある印象とは全く違って、すっかり大人の雰囲気でした。
 
@@ -100,7 +110,9 @@ GIRL
 itunesでいくつか聴けます。
 <a href="https://geo.itunes.apple.com/jp/artist/baroque/578780239?app=itunes&at=11ld5P" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/ja-jp/itunes-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
 
-<h2>Ken with Naughty stars</h2>
+
+## Ken with Naughty stars
+
 
 次ムックきて、sukekiyoきて、最後にこのバンドで来るかと思ってました。だからムック終わったらトイレ行こうとか思ってたんですよ。そしたら違ってた！最後までトイレ我慢したわ。
 
@@ -131,14 +143,18 @@ Ken「匠くんはまだ出会って、そんなに経ってないけどきい�
 
 面白かったwww
 
-<h3>セトリ</h3>
+
+### セトリ
+
 
 二億四千万の瞳（郷ひろみ）
 LOVE FLIES（L'Arc〜en〜Ciel）
 Clocks（Coldplay）
 You Keep Me Hangin'On（The Supremes）
 
-<h2>ムック</h2>
+
+## ムック
+
 
 続いてムック。久しぶりにムックみた。何年ぶりだろう。多分2009年とか2010年とかに武道館で見たのが最後だった気がする。
 
@@ -146,7 +162,9 @@ You Keep Me Hangin'On（The Supremes）
 ってか、以前見た時よりもアクロバティック感ましてましたw
 逹瑯はあんまり飛び跳ねてなかったけど、両サイドの2人が得物ぶん回しまくってた。
 
-<h3>セトリ</h3>
+
+### セトリ
+
 
 正直「蘭鋳」以外全部知りませんでした。割と古めの曲しか知らないので、次回の武道館までに予習をする必要がありそう。
 
@@ -174,18 +192,24 @@ Tonight(with Ken)
 本当にわかる曲が蘭鋳しかなかった！今のムックってこんな感じなのね！
 
 
-<h2>sukekiyo</h2>
+
+## sukekiyo
+
 
 いつも通り。もう本当にそれに尽きる。
 真っ暗で、ひたすら点滅していて詳細まで見えませんでした。おそらくsukekiyo初見の人にとっては、全く分からないステージだったのではないでしょうか。
 
-<h3>メンバー衣装</h3>
+
+### メンバー衣装
+
 
 DUMMY推し
 
 京はおそらくこの画像のままの姿でした。髪の毛は遠目にはくすんだピンクか紫っぽく見えました。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">♯1 Collection DMY 2017<br>Dummy Dark Pleasure Feelz Top<br>Dummy Drag me out choker<br><br>Model by <a href="https://twitter.com/kyo_official?ref_src=twsrc%5Etfw">@kyo_official</a> <a href="https://t.co/uKnY6tIrfM">pic.twitter.com/uKnY6tIrfM</a></p>&mdash; DUMMY (@dummycollection) <a href="https://twitter.com/dummycollection/status/933678259388104705?ref_src=twsrc%5Etfw">2017年11月23日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">♯1 Collection DMY 2017<br>Dummy Dark Pleasure Feelz Top<br>Dummy Drag me out choker
+
+Model by <a href="https://twitter.com/kyo_official?ref_src=twsrc%5Etfw">@kyo_official</a> <a href="https://t.co/uKnY6tIrfM">pic.twitter.com/uKnY6tIrfM</a></p>&mdash; DUMMY (@dummycollection) <a href="https://twitter.com/dummycollection/status/933678259388104705?ref_src=twsrc%5Etfw">2017年11月23日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Yuchiはバンダナ？におそらくこれもDUMMYのシャツを着ていました。
@@ -200,11 +224,17 @@ leather fieldで始まり、幕が開くとすでに京が踊っていて、怪�
 
 意識が吸い込まれて飛びそうになるのが何回かありました。
 
-<h3>ステージ演出</h3>
+
+### ステージ演出
+
 
 ステージ上にはブラウン管テレビが4台。おそらくこのツイートのもの？？
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">打ち合わせ前にふらっと。<br><br>わかりにくかったから3枚まとめて上げ直す。<br>YUCHIが写ってるからこれも上げとく☆<br><br>京 <a href="https://t.co/jcbHTfs8Sh">pic.twitter.com/jcbHTfs8Sh</a></p>&mdash; 京 (@kyo_official) <a href="https://twitter.com/kyo_official/status/930368418603196417?ref_src=twsrc%5Etfw">2017年11月14日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">打ち合わせ前にふらっと。
+
+わかりにくかったから3枚まとめて上げ直す。<br>YUCHIが写ってるからこれも上げとく☆
+
+京 <a href="https://t.co/jcbHTfs8Sh">pic.twitter.com/jcbHTfs8Sh</a></p>&mdash; 京 (@kyo_official) <a href="https://twitter.com/kyo_official/status/930368418603196417?ref_src=twsrc%5Etfw">2017年11月14日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 1つか2つには後ろ姿ので演奏する京の顔が写ってたっぽいです。それ以外はまた別のものが写っていました。
@@ -215,7 +245,9 @@ leather fieldで始まり、幕が開くとすでに京が踊っていて、怪�
 最後はいつも通りの「おやすみ」
 animaが流れる中、誰1人声をあげることなく拍手で終了
 
-<h3>セトリ</h3>
+
+### セトリ
+
 
 leather field
 死霊のアリアナ
@@ -227,7 +259,9 @@ mama
 anima
 嬲り
 
-<h3>グッズ</h3>
+
+### グッズ
+
 
 そういえばsukekiyoの次のツアー「嬲り地獄」で販売されるであろうDUMMYグッズの先行販売ありました。こんな感じ
 
@@ -243,7 +277,9 @@ Dummy Stick to breeze Stickers 1500円
 Dummy Pull my fingers out Midi Rings 2500円
 
 
-<h2>PARTY ZOO セッション</h2>
+
+## PARTY ZOO セッション
+
 
 セッションのMCはバロック怜とムック逹瑯
 逹瑯「（客席に向かって）みんな大丈夫？地獄をみたいな気分になってんじゃないの？この後ちゃんとパーティする気になってる？」
@@ -266,7 +302,9 @@ sukekiyoメンバーは相変わらず後ろの方に行こう行こうとして
 
 
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 すごい楽しかったです。それにしても、これによくsukekiyo呼んだよなw
 最後の京と逹瑯の絡み（絡んでないけど）は最高だった。
@@ -287,7 +325,9 @@ sukekiyoのガーベラのやりすぎ感。もはやアルバムに入ってい
 
 シークレットのアーティストも最初誰か全く分からなかったしググっても出てこなかったけど、なるほど彼らですかって感じです。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">他人のふんどしで最高のアルバムに仕上がりました！<br>そんな中ディスク1の最後に収録されてるアーティストだけは自分達から是非参加させてくれと言ってきてくれました。<br>絶対入ってて欲しかったバンドなので最高に嬉しかったー。<br><br>ムックの20年を最高のアーティスト達の演奏で楽しんでちょうだい♪</p>&mdash; 逹瑯 24歳 男性 (@mucc_tatsuro) <a href="https://twitter.com/mucc_tatsuro/status/934079732915716096?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">他人のふんどしで最高のアルバムに仕上がりました！<br>そんな中ディスク1の最後に収録されてるアーティストだけは自分達から是非参加させてくれと言ってきてくれました。<br>絶対入ってて欲しかったバンドなので最高に嬉しかったー。
+
+ムックの20年を最高のアーティスト達の演奏で楽しんでちょうだい♪</p>&mdash; 逹瑯 24歳 男性 (@mucc_tatsuro) <a href="https://twitter.com/mucc_tatsuro/status/934079732915716096?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 これはマジでおすすめです。

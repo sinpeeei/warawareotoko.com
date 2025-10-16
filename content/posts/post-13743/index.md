@@ -13,7 +13,9 @@ DIR EN GREY爆音上映会の二日目Zepp Nambaのレポートです。ぼく�
 
 [st-card id=13731 ]
 
-<h2>本編とMVで改めて感じたこと</h2>
+
+## 本編とMVで改めて感じたこと
+
 全世界的に苦しい状況にあると思います。
 
 多くの人が苦しみ、そして自ら命を絶つ場面もこれからさらに増えていくんだろうなと。
@@ -59,14 +61,18 @@ DIR EN GREY爆音上映会の二日目Zepp Nambaのレポートです。ぼく�
 来年もぼくはぼくであるために、ぼくの好きなことを続けていきたいと思いました。
 
 
-<h3>MVについて新たに感じたこと</h3>
+
+### MVについて新たに感じたこと
+
 The World of Mercyと人間を被ると何の曲か思い出せないけど、その辺の世界観って全部繋がってる気がしてきた。
 
 全部人間の頭が割れて怪物になってる描写があるけど、あらゆる厄災は自分の中で起きてることというような意味合いなのかなと思った。
 
 つまり、全て自分ごとであり、内側と外側で起きることの差はない。遠くであろうが画面越しであろうが、災いは等しく起こっているものであるみたいな。
 
-<h2>メンバートークイベントのレポート</h2>
+
+## メンバートークイベントのレポート
+
 本日は下手から藤枝マネ、京、薫、高林マネ
 
 京は緑色の短髪にサングラス、ピンクで色々プリント？されたジャケットだかパーカーにグレー？のパンツ、靴下もピンク
@@ -310,13 +316,17 @@ The World of Mercyと人間を被ると何の曲か思い出せないけど、�
 <font color=“#fcc032”>京「おおきに」</font>
 
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 なんとなく薫がくるかな〜と思って、薫名指しの質問を入れておきましたが読まれませんでした。
 あと、京がくるとは、なんとなくの予想外！
 
 また、会場が勝手にハッチだと思っていましたが微妙に違うところでした。確かこの会場って、近隣のビルが揺れてしまうからということでジャンプが禁止されているとか聞いたことがあります。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">そういえばと思って調べてみたらやっぱり、Zep Nambaはジャンプ禁止だった<br><br>“揺れる”クボタのビル　原因は隣接ライブハウスのジャンプ - 産経ニュース <a href="https://t.co/iCNGOcLsOz">https://t.co/iCNGOcLsOz</a> <a href="https://twitter.com/Sankei_news?ref_src=twsrc%5Etfw">@Sankei_news</a>より</p>&mdash; しんぺー (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/1340321116099735558?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">そういえばと思って調べてみたらやっぱり、Zep Nambaはジャンプ禁止だった
+
+“揺れる”クボタのビル　原因は隣接ライブハウスのジャンプ - 産経ニュース <a href="https://t.co/iCNGOcLsOz">https://t.co/iCNGOcLsOz</a> <a href="https://twitter.com/Sankei_news?ref_src=twsrc%5Etfw">@Sankei_news</a>より</p>&mdash; しんぺー (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/1340321116099735558?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 多分今後もDIR EN GREYはあそこではライブできないんだろうなと思いました。あと、音響に関してもしかして名古屋の方がよかったのでは？と思う節がありました。
 

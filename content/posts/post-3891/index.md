@@ -24,7 +24,9 @@ title: 京の新バンド「sukekiyo」始動
 
 それでは前置きが長くなりましたが、sukekiyoの最新情報をお届けいたします！
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>sukekiyo情報まずはおさらい</b></div></h2>
+
+## sukekiyo情報まずはおさらい
+
 
 <a href="https://www.warawareotoko.com/2013/11/17/post-3591/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2013/11/17/post-3591/" target="_blank">sukekiyo=DIR EN GREY？突如現れた無名の新人バンド | Gadget Zombie Parasite</a>![](images/)<br style="clear:both;" /><br>
 
@@ -34,7 +36,9 @@ title: 京の新バンド「sukekiyo」始動
 <a href="https://www.warawareotoko.com/2013/12/30/post-3871/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2013/12/30/post-3871/" target="_blank">sukekiyo後始末！虜特定班からの気になるメンバー情報 | Gadget Zombie Parasite</a>![](images/)<br style="clear:both;" /><br>
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>sukekiyoついに始動。元旦より世界111カ国に向けてMVを配信</b></div></h3>
+
+### sukekiyoついに始動。元旦より世界111カ国に向けてMVを配信
+
 
 MVはこちら
 <p style="text-align: center;">![](images/sukekiyo_aftermath.png)</p>
@@ -61,7 +65,9 @@ SHINJI <a href="http://www.horipro.co.jp/talent/PM008/" target="_blank">http://w
 あ、間違えた。UTAさんのブログはないみたいです。
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 
 今年もDIR EN GREY、sukekiyo、kyoから目が離せないぜ！
 

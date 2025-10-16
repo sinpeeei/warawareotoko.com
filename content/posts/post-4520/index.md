@@ -13,7 +13,9 @@ title: Dieプロデュースヘビ柄レザーブレスレット届いてた！
 ![](images/3c1e6e0cfd1512e808c3fc02361ca628.jpg)
 
 
-<h2>Dieプロデュース「LEATHER BRACELET」のスペック</h2>
+
+## Dieプロデュース「LEATHER BRACELET」のスペック
+
 ■COLOR
 DIAMOND PYTHON / RED
 ■SIZE
@@ -21,7 +23,9 @@ L：幅10mm,全長435mm
 M：幅10mm,全長390mm
 価格：各￥7,800(tax in)
 
-<h2>Dieプロ開封の儀</h2>
+
+## Dieプロ開封の儀
+
 
 あけると中はDieをイメージさせる赤い包み紙
 ![](images/29c925c56564f33cb341298d7f2ce74e.jpg)
@@ -37,7 +41,9 @@ Dieをイメージさせるヘビ柄です。ヘビ柄というかマジもん�
 ![](images/057107edf6847d2369025cf98068794a.jpg)
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 これライブにはつけていけないや。とれたらヤバいもん。
 

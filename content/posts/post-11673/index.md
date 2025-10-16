@@ -15,7 +15,9 @@ title: 【ライブレポ】sukekiyo二〇一八年公演「逆襲の嬲り地�
 
 さすが漆黒の儀。真っ黒
 ![](images/IMG_3191-1.jpg)
-<h2>メンバー衣装</h2>
+
+## メンバー衣装
+
 UTA、YuchiはどちらもDUMMYの白いTシャツ、未架は黒い人殺しTシャツ、匠はよく見えなかったけど濃いめのメイクにドレッドっぽい髪の毛を束ねていました。
 
 白いTシャツはこれでしょうか
@@ -50,7 +52,9 @@ Yuchiはこちら
 京は金髪を少し斜めに流して、カラコンにメイク。最初は赤いジャケットを羽織っていました。
 
 入場時にメモリアルチケットが配布されましたが、雰囲気だけでいうとみんなそれと同じような衣装を着ていました。全員スポーティ
-<h2>セトリと演出</h2>
+
+## セトリと演出
+
 <ol>
  	<li>kisses</li>
  	<li>黝いヒステリア</li>
@@ -87,7 +91,9 @@ mamaとzephyrを混ぜた様な、今後のLIVEで欠かせない曲になりそ
 <a href="https://www.amazon.co.jp/%E3%83%80%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%81%E3%83%BB%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3-DVD-BOX-%E3%83%88%E3%83%A0%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%AA%E3%83%BC/dp/B00F3YUJCM/ref=as_li_ss_il?ie=UTF8&amp;qid=1526332383&amp;sr=8-1&amp;keywords=%E3%83%80%E3%83%93%E3%83%B3%E3%83%81%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3&amp;linkCode=li3&amp;tag=warawareotoko-22&amp;linkId=f454e1573d25592988a1b049c20f9e0d" target="_blank" rel="noopener">![](images/q?_encoding=UTF8&amp;ASIN=B00F3YUJCM&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=warawareotoko-22)</a>![](images/ir?t=warawareotoko-22&amp;l=li3&amp;o=9&amp;a=B00F3YUJCM)
 
 このバンドは改めてドラムとベースがしっかりとしたバンドであると思った。結成当初は京のバンドだったけど、いまやこの2人なしには成立しえない。
-<h2>逆襲とはおそらく、未架の逆襲</h2>
+
+## 逆襲とはおそらく、未架の逆襲
+
 今回も前回と同様に紗幕を使っての演出と、バックにはLEDのモニターを配置して奥行きのある映像を作って演出がされた。が、おそらく前回よりも映像のパワーアップしていた気がする。
 特に良かったのは(思い出せる範囲だと)たぶん三曲目？のぐにゃ結論。(←2曲目のヒステリアだったっぽい)の演出と新曲
 
@@ -108,7 +114,9 @@ mamaとzephyrを混ぜた様な、今後のLIVEで欠かせない曲になりそ
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 sukekiyoのLIVE中の映像もおそらく未架さんが手がけているんだと思うけど、前回のLIVE時に間に合わず今回それを補完して完成版だったということなのではないだろうか。逆襲とはつまり未架さんの逆襲だったのかなとか思った。とにかく映像化が待たれる！ということでこの2daysが終わっても未架さんの戦いは終わらない！なんなら、ここから新たな戦いが始まるwww 頑張ってください！！
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 とにかく、素晴らしいという言葉以外なかった。この日程が発表された当時は「まぁた、スタンディングかー」とか思ったけど、今日のLIVEはスタンディングでしたか出せない雰囲気だった。
 
 とはいえ、とはいえー！

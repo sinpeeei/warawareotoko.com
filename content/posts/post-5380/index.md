@@ -16,7 +16,9 @@ title: 【ライブレポ】sukekiyo 二〇一四年公演「別れを惜しむ�
 
 <!--more-->
 
-<h2>セトリ</h2>
+
+## セトリ
+
 
 <ol>
 <li>aftermath</li>
@@ -43,7 +45,9 @@ mamaいつやるの！？ねえmamaやらないつもり！？ってなってお
 さてさて細かい所から今宵のLIVEを振り返ります。
 
 
-<h2>地下に集いし喪服の集団</h2>
+
+## 地下に集いし喪服の集団
+
 
 本日のLIVEはここで執り行われました。
 
@@ -67,7 +71,9 @@ mamaいつやるの！？ねえmamaやらないつもり！？ってなってお
 すでに皆さん真っ黒くです。
 ![](images/ff75fc7639699a9bcb6bb23d8e6006a4.png)
 
-<h2>LIVEレポ</h2>
+
+## LIVEレポ
+
 
 地下で番号を待つ参列者たち。蒸し風呂状態でした。
 
@@ -112,7 +118,9 @@ YUCHI氏
 それにしてもこの人のドラムはなんかスキがないって感じがします。剣豪みたいなイメージ。
 
 
-<h3>京</h3>
+
+### 京
+
 とにかく感情が入りまくってるLIVEでした。今までの雰囲気を作っていくsukekiyoのLIVEというよりもDIRに近い感じでしょうか。
 
 なんか後半の後半、感情こもり過ぎてて悲し過ぎて歌えないって感じだった。とくに、zephyr
@@ -128,7 +136,9 @@ DIR EN GREYでの、例えばthe finalの時のような鋭利な悲しみ、そ
 “伝わらない悲しみ”という表情でスパイラルに入って深く落ちていった印象でした。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>Dirは痛み、怒り。sukekiyoは悲しみと哀しみと少しばかりの純真。</p>&mdash; しんぺー@sukekiyo漆黒の儀 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/statuses/468760308698206211">2014, 5月 20</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

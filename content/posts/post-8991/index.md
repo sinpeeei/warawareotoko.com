@@ -16,7 +16,9 @@ NoGod団長のInstagramでの投稿を見て、そこから派生して感じた
 
 	
 
-<h2>オマケなしで作品を購入するパターン</h2>
+
+## オマケなしで作品を購入するパターン
+
 
 ぼくは、でんぱ組というアイドルが一昨年の年末あたりからずっと好きなんですが、楽曲から入って好きになりました。W.W.Dって曲の歌詞を聴いて、いたく感銘を受け、いっきに好きになりました。
 
@@ -32,7 +34,9 @@ NoGod団長のInstagramでの投稿を見て、そこから派生して感じた
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01BW8CGC8/warawareotoko-22/ref=nosim/" target="_blank" >![](images/61LJZFWQfaL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-detail" style="margin-bottom:5px;">でんぱ組.inc トイズファクトリー 2016-04-27</div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 25</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=GOGO%20DEMPA&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" target="_blank" >Amazonで購入</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGOGO%2520DEMPA%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場で購入</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DGOGO%2520DEMPA" target="_blank" >Yahooショッピングで購入![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3DGOGO%2520DEMPA" target="_blank" >ヤフオク!で購入![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table>
 
-<h2>作品もほしいしオマケもほしいし全部ほしいパターン</h2>
+
+## 作品もほしいしオマケもほしいし全部ほしいパターン
+
 
 DIR EN GREYです。完全限定盤に握手券ついていれば買いますし、タワレコ予約限定でトークショーあるなら昼休みに走っていきますし、何が何でも手に入れて楽曲も聞くしオマケもいただくパターンでございます。
 
@@ -40,13 +44,17 @@ DIR EN GREYです。完全限定盤に握手券ついていれば買いますし
 
 オマケも作品も関係なくほしいパターンです。
 
-<h2>オマケなしで作品も買わないけど支援するパターン</h2>
+
+## オマケなしで作品も買わないけど支援するパターン
+
 
 それとは別で、作品を購入していないけれども単純に応援したいなと思う人もいます。
 
 それがハヤカワ五味です。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">朝食と中野飯だけ永遠に載せるInstagram垢つくりました。<br><br>タベカワ五味<a href="https://t.co/uMzKvs68vC">https://t.co/uMzKvs68vC</a> <a href="https://t.co/Xquq2NrUax">pic.twitter.com/Xquq2NrUax</a></p>&mdash; ハヤカワ五味 (@hayakawagomi) <a href="https://twitter.com/hayakawagomi/status/706105488623022081">2016, 3月 5</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">朝食と中野飯だけ永遠に載せるInstagram垢つくりました。
+
+タベカワ五味<a href="https://t.co/uMzKvs68vC">https://t.co/uMzKvs68vC</a> <a href="https://t.co/Xquq2NrUax">pic.twitter.com/Xquq2NrUax</a></p>&mdash; ハヤカワ五味 (@hayakawagomi) <a href="https://twitter.com/hayakawagomi/status/706105488623022081">2016, 3月 5</a></blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -68,7 +76,9 @@ DIR EN GREYです。完全限定盤に握手券ついていれば買いますし
 
 だから作品も買わないしオマケもないけど支援したいパターンです。
 
-<h2>結局どっちをオマケにするかは作り手側が決めること</h2>
+
+## 結局どっちをオマケにするかは作り手側が決めること
+
 
 冒頭の話に戻るけど、どれも好きなものへの支持表明の態度なわけで、どちらがオマケでもいいんじゃないかと思ってる。
 

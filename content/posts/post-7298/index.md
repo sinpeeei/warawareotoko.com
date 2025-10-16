@@ -16,11 +16,15 @@ title: 【販売休止】ハーゲンダッツ新作「ミニカップ 華もち
 朝からアイスなんて食べたから胃が痛かった・・・
 
 
-<h2>【悲報】ミニカップ 華もち売れすぎて販売停止</h2>
+
+## 【悲報】ミニカップ 華もち売れすぎて販売停止
+
 
 <div class="kwout" style="text-align: center;">![](images/pmv_bor_rou_sha.jpg)<p style="margin-top: 10px; text-align: center;">お知らせ・キャンペーン情報｜ハーゲンダッツ　Häagen-Dazs via <a href="http://kwout.com/quote/uuq48pmv">kwout</a></p></div>
 
-<h2>ミニカップ　華もち　きなこ黒みつ</h2>
+
+## ミニカップ 華もち きなこ黒みつ
+
 
 ![](images/d397b423807a2d7aba3d923fdc6e0f6a.jpg)
 
@@ -34,7 +38,9 @@ title: 【販売休止】ハーゲンダッツ新作「ミニカップ 華もち
 
 
 
-<h2>ミニカップ　華もち　みたらし胡桃</h2>
+
+## ミニカップ 華もち みたらし胡桃
+
 
 
 ![](images/131f28f099a838bddee1de62a5246ccb.jpg)
@@ -53,7 +59,9 @@ title: 【販売休止】ハーゲンダッツ新作「ミニカップ 華もち
 
 ![](images/ec9e9357f7b6fd4eea52f6a5cb2e1fe4.jpg)
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 夜に入ったコンビニでは、みたらしだけ山積みで残っておりました。
 

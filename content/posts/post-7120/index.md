@@ -14,7 +14,9 @@ title: 【sukekiyoまとめ】観覧ありのニコ生と調布グリーンホ�
 
 さて、まずはこちら
 
-<h2>追加公演「The Unified Field-VIITUM-」@調布グリーンホール</h2>
+
+## 追加公演「The Unified Field-VIITUM-」@調布グリーンホール
+
 
 今回のLIVEも今までの漆黒の儀と同じくドレスコードと決まりがあります。
 
@@ -69,7 +71,9 @@ title: 【sukekiyoまとめ】観覧ありのニコ生と調布グリーンホ�
 <div class="kwout" style="text-align: center;"><a href="https://www.chofu-culture-community.org/forms/info/info.aspx?info_id=864">![](images/yjb_bor.jpg)</a><p style="margin-top: 10px; text-align: center;"><a href="https://www.chofu-culture-community.org/forms/info/info.aspx?info_id=864">公益財団法人　調布市文化・コミュニティ振興財団 大ホール</a> via <a href="http://kwout.com/quote/7qsbgyjb">kwout</a></p></div>
 
 
-<h2>2月8日（日）niconico生放送（観覧あり）</h2>
+
+## 2月8日（日）niconico生放送（観覧あり）
+
 
 2月8日は一般流通盤のタワレコ予約者特典のインストアイベントが新宿であります。
 それが終わってからメンバー全員参加でMCが増田さんでニコ生で19:00スタートでの放送が決定しました。。
@@ -89,7 +93,9 @@ title: 【sukekiyoまとめ】観覧ありのニコ生と調布グリーンホ�
 <a href="http://live.nicovideo.jp/watch/lv209019499" target="_blank">![](images/lv209019499)</a><a style="color:#0070C5;" href="http://live.nicovideo.jp/watch/lv209019499" target="_blank">sukekiyo mini album『VITIUM』発売記念 メンバー全員出演スペシャル - 2015/02/08 17:00開始 - ニコニコ生放送</a><a href="http://b.hatena.ne.jp/entry/http://live.nicovideo.jp/watch/lv209019499" target="_blank">![](images/lv209019499)</a><br style="clear:both;" /><br>
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 2月はsukekiyo、4月はMV集とツアースタート
 
 ３月はチャージ期間ですね。。。果たして、、、本当に、、、、それで済むのだろうか、、、、

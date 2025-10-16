@@ -23,7 +23,9 @@ title: いいか昨日はsukekiyoのLIVEじゃなくてSUGIZOのLIVEだったん
 ただ今回sukekiyo目当てとは言え、せっかくの機会なのでそのまま残ってSUGIZOを見ることにしました。
 ※LIVEの途中で帰るのも、目当て見たから帰るのも個人の自由だと思います。
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>楽器の配置から嫌な予感しかしなかった</b></div></h2>
+
+## 楽器の配置から嫌な予感しかしなかった
+
 
 パーカッション的なのとDJブース的なのと中央の機材。。。これは今年のサマソニの小室哲哉を彷彿とさせて、なんか嫌な予感しかしなかった•••
 
@@ -43,7 +45,9 @@ title: いいか昨日はsukekiyoのLIVEじゃなくてSUGIZOのLIVEだったん
 しかし•••
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>これっていわゆるなんとかってやつですか？</b></div></h3>
+
+### これっていわゆるなんとかってやつですか？
+
 
 音楽好きだけどジャンルとかよくわかんねーや。
 でもこれあれですよね。オルタナってやつ？違う？違うか
@@ -57,7 +61,9 @@ title: いいか昨日はsukekiyoのLIVEじゃなくてSUGIZOのLIVEだったん
 そして•••
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>武田真治</b></div></h2>
+
+## 武田真治
+
 
 ここが今日のぼくのマックスです。ピークです。
 
@@ -68,7 +74,9 @@ title: いいか昨日はsukekiyoのLIVEじゃなくてSUGIZOのLIVEだったん
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EID1SK6/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">![](images/5100ZOUM4NL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EID1SK6/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">サイレントヒル:リベレーション [DVD]</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">アデレイド・クレメンス Happinet(SB)(D) 2013-12-03    </div><div class="kaerebalink-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EID1SK6/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">Amazon.co.jp で詳細を見る</a></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>武田真治の存在感は異常</b></div></h3>
+
+### 武田真治の存在感は異常
+
 
 スペック
 <ul>
@@ -91,7 +99,9 @@ SUGIZO氏への絡みかたが•••ねっとりギットリどくどくび�
 
 
 
-<h4><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>そのあとのTezyaさんもよかった</b></div></h4>
+
+#### そのあとのTezyaさんもよかった
+
 
 ほんと遠目に見たらキレイな女の人ですわ
 
@@ -104,7 +114,9 @@ SUGIZO氏への絡みかたが•••ねっとりギットリどくどくび�
 
 とにかくよかったよ。もう。
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 
 良いLIVE納めができました。
 とにかく武田真治だった！

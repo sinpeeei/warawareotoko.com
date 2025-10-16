@@ -13,7 +13,9 @@ title: sukekiyo公演で使われる京都MUSEと渋谷duo MUSIC EXCHANGEがど�
 
 ということで行けないので会場について調べてみることにします。DIRとかだとあまり使わない会場だと思いますので、名前だけ聞くとどこのことかよくわkりませんでした。
 
-<h2>京都MUSE</h2>
+
+## 京都MUSE
+
 
 〒600-8006 京都市下京区四条通柳馬場西入 ミューズ389京都
 阪急京都線烏丸駅13番出口より、左手3件目すぐ
@@ -28,7 +30,9 @@ title: sukekiyo公演で使われる京都MUSEと渋谷duo MUSIC EXCHANGEがど�
 内装はこんな感じです。
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sja!2sjp!4v1432651431457!6m8!1m7!1spl8vzHB3ZkxEJRBIA3rttQ!2m2!1d35.003969!2d135.763668!3f262.8324633431085!4f3.6730205278592223!5f0.4000000000000002" width="600" height="450" frameborder="0" style="border:0"></iframe>
 
-<h2>渋谷duo MUSIC EXCHANGE</h2>
+
+## 渋谷duo MUSIC EXCHANGE
+
 
 〒150-0043　東京都渋谷区道玄坂2-14-8 O-EASTビル 1F
 <a href="http://www.duomusicexchange.com/">http://www.duomusicexchange.com/</a>
@@ -41,7 +45,9 @@ title: sukekiyo公演で使われる京都MUSEと渋谷duo MUSIC EXCHANGEがど�
 ![](images/2fb03e64f2ba97358a77b65e8c9dab5f.png)
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 何気に鳳凰の間系は皆勤賞だったんですが、今回は苦渋の決断！
 

@@ -11,7 +11,9 @@ title: 今週のsukekiyoまとめ！8月4日〜8月8日
 ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite」へようこそ。<!--more--><!--more-->GAUZEツアーいかがお過ごしでしょうか？メンバーがGAUZEツアーで全国を回ってる間に、sukekiyoの方がにわかに動き始めましたので久しぶりのsukekiyoまとめです。
 
-<h2>sukekiyo海外ツアー「雨上がりの優詩」オフィシャルグッズ発表される</h2>
+
+## sukekiyo海外ツアー「雨上がりの優詩」オフィシャルグッズ発表される
+
 
 といっても<a href="http://sukekiyo-official.jp/index.html">オフィ</a>にのってるわけではありません。
 なんで載せないのかしら。
@@ -64,7 +66,9 @@ Tシャツのデザインが多い！これもかっこいい。海外ではTシ
 <div class="fb-post" data-href="https://www.facebook.com/NeoTokyoOfficial/photos/a.769356633111265.1073741831.104558676257734/769356756444586/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/NeoTokyoOfficial/photos/a.769356633111265.1073741831.104558676257734/769356756444586/?type=1">投稿</a> by <a href="https://www.facebook.com/NeoTokyoOfficial">Neo Tokyo</a>.</div></div>
 
 
-<h2>kyo onlineにて個人情報を登録すると後日お楽しみがあるらしい</h2>
+
+## kyo onlineにて個人情報を登録すると後日お楽しみがあるらしい
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>京 online会員の皆様へ。 TOPページの会員設定から住所等のお客様情報登録ができるようになりました。 8/11の17時ぐらいまでに情報を登録しておくと何かいいことがあるかも!? (wez)</p>&mdash; 京 (@kyo_official) <a href="https://twitter.com/kyo_official/statuses/497642491261104128">2014, 8月 8</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -79,7 +83,9 @@ kyo onlineの一番下にある、会員情報設定をタップ、ログイン�
 これで登録完了だと思います。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 いいことってなんだろな〜
 
 それと海外グッズほしいなぁ。。でも今下手にオークションとか高い金額で個人取引して、公式通販で販売しますとかだったら泣くしな。

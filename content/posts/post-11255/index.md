@@ -8,7 +8,9 @@ tags:
 title: 【レビュー】Google Homeは生活に音楽を思い出させてくれるガジェット
 ---
 
-グーグルホームミニというガジェットを購入しました。最近話題のスマートスピーカーというやつです。買ってみて意外にも日々の生活が少しいい感じになった気がするので、今日はそのご紹介です。<!--more--><h2>Google Homeとは？</h2>
+グーグルホームミニというガジェットを購入しました。最近話題のスマートスピーカーというやつです。買ってみて意外にも日々の生活が少しいい感じになった気がするので、今日はそのご紹介です。<!--more-->
+## Google Homeとは？
+
 
 ![](images/IIMG_0357.jpg)
 
@@ -16,7 +18,9 @@ Google HomeとはGoogleから発売されたスマートスピーカーです。
 
 ![](images/IIMG_0358.jpg)
 
-<h3>今のところ使っている機能</h3>
+
+### 今のところ使っている機能
+
 
 連携できるスマート家電を持っていません。
 
@@ -36,7 +40,9 @@ Google HomeとはGoogleから発売されたスマートスピーカーです。
 スマート家電どれも高価だからなかなか買えない。
 
 
-<h2>Google Homeは生活に音楽を思い出させてくれた</h2>
+
+## Google Homeは生活に音楽を思い出させてくれた
+
 
 <blockquote class="twitter-video" data-lang="ja"><p lang="ja" dir="ltr">ok google<br>DIR EN GREYのこの胸の中で絡みついた灼熱の闇を流して <a href="https://t.co/loRgKIsQhp">pic.twitter.com/loRgKIsQhp</a></p>&mdash; しんぺー (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/923202232564162566?ref_src=twsrc%5Etfw">2017年10月25日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -50,7 +56,9 @@ Google HomeとはGoogleから発売されたスマートスピーカーです。
 
 そういった曲たちを普段の生活の中に染み渡らせてくれる、Google Homeはそんな存在でした。
 
-<h3>音質はどうなのか</h3>
+
+### 音質はどうなのか
+
 
 Google Homeには今のところ2種類のモデルが発売されています。
 
@@ -60,7 +68,9 @@ Google HomeとGoogle Home miniです。違いはスピーカーの大きさと�
 
 ![](images/IIMG_0360.jpg)
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 実はぼく、Google Homeが先に出たのでこっちを買いましたが、本当に欲しいのはAmazonのスマートスピーカー「Amazon Echo」です。基本機能はGoogle Homeとかわりありませんが、EchoはAmazonでのお買い物もできちゃうのです。
 

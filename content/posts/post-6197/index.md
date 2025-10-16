@@ -21,7 +21,9 @@ title: 【ライブレポ】sukekiyo二〇一四年公演「鳳凰の間」2014_
 
 <a href="https://www.warawareotoko.com/2014/07/29/post-5985/" target="_blank" rel="noopener">![](images/)</a><a style="color: #0070c5;" href="https://www.warawareotoko.com/2014/07/29/post-5985/" target="_blank" rel="noopener">バンギャ的立ち位置が中途半端なピエラー出身の男子はぼくだけじゃないはず | Gadget Zombie Parasite</a><a href="http://b.hatena.ne.jp/entry/https://www.warawareotoko.com/2014/07/29/post-5985/" target="_blank" rel="noopener">![](images/)</a><br style="clear: both;" />
 そんなぼくも今回鹿鳴館に訪れる機会を与えられ晴れて童貞卒業です。本当にありがとうございました。
-<h2>sukekiyo鳳凰の間@鹿鳴館ライブレポ</h2>
+
+## sukekiyo鳳凰の間@鹿鳴館ライブレポ
+
 ![](images/IMG_4446.jpg)
 まずはメンバーの衣装
 京さんは、ハットに黒いノースリーブのジャケット？を素肌に着て首飾りをつけていました。金色の短髪は坊主に近く、アジャコングの様でした。
@@ -29,7 +31,9 @@ title: 【ライブレポ】sukekiyo二〇一四年公演「鳳凰の間」2014_
 匠氏は相変わらず、Yuchi氏もさら毛で、UTA氏もいつも通り。。。
 
 未架さんは、痩せていました。そしてメイクをされていて別人の様でした。
-<h3>各メンバーの様子を五月雨で</h3>
+
+### 各メンバーの様子を五月雨で
+
 <blockquote class="twitter-tweet" lang="ja">多分うたさんって京のお気に入り。ずーっっっっとみてた。ずーーーーーっと。。にらみまくって。ずーーーーーっと。
 
 — しんぺー@鳳凰の間 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/509670337911341057">2014, 9月 10</a></blockquote>
@@ -46,7 +50,9 @@ title: 【ライブレポ】sukekiyo二〇一四年公演「鳳凰の間」2014_
 たしか、恵比寿リキッドルームで「黙れ」とおっしゃったのはあなただったかと記憶しております。
 
 <a href="https://www.warawareotoko.com/2014/04/28/post-5216/" target="_blank" rel="noopener">![](images/)</a><a style="color: #0070c5;" href="https://www.warawareotoko.com/2014/04/28/post-5216/" target="_blank" rel="noopener">sukekiyo「鳳凰の間」＠恵比寿LIQUIDROOM | Gadget Zombie Parasite</a><a href="http://b.hatena.ne.jp/entry/https://www.warawareotoko.com/2014/04/28/post-5216/" target="_blank" rel="noopener">![](images/)</a><br style="clear: both;" />
-<h2>セトリ</h2>
+
+## セトリ
+
 SE destrudo
 1. aftermath
 2. elisabeth addict
@@ -71,7 +77,9 @@ SE
 
 そう、あまりに馴染み過ぎていたのですが新曲がありました。
 三味線の様な音色から始まり、演歌の様な感じでした。
-<h2>ライブの感想</h2>
+
+## ライブの感想
+
 新曲前までは、とにかくいつもと同じく眠かったです。新曲後は何か鬼気迫るものがありました。
 
 とにかく「怖い」と感じるほどの迫力でした。京がステージ端に立ち、その影が壁に映される光景は仏と逆の立場にいるソレのようでした。
@@ -85,14 +93,18 @@ SE
 DIR EN GREYとまた違う種類の感情を覚えるsukekiyoのライブです。そんなsukekiyoの青年館でのチケットが1枚余ってます。行きたい人！お声かけください！
 
 すいません、情報アフィリエイトみたいになっちゃった。◯沢翼ではありませんよ。
-<h3>補足事項</h3>
+
+### 補足事項
+
 クローク前にメンバーのポスターなんか貼ったら階段混むよ！
 
 ![](images/IMG_4448.jpg)
 
 あと、物販なんですけど写真集とか漆黒パーカーが売ってた。手に入れ損ねた人は是非この機会に購入するといいです。
 (<a href="https://www.warawareotoko.com/2014/01/16/post-4046/">漆黒パーカーのレビューはこちら</a>)
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 sukekiyo史上最高のライブだったとつぶやかれてる方がいましたが、そう言っても過言ではないくらいのライブでした。
 
 本当に「よかった」です。

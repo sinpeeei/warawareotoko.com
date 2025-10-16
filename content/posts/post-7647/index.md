@@ -8,7 +8,9 @@ tags:
 title: LINE WOWがサービスエリアを拡大！新宿でも宅配可能！
 ---
 
-なんとLINE WOWが対応エリアの拡大を発表しました。今までは渋谷のみのサービス提供でしたが、なんと新宿エリアにも対応！！<!--more--><h2>LINE WOWエリア拡大</h2>
+なんとLINE WOWが対応エリアの拡大を発表しました。今までは渋谷のみのサービス提供でしたが、なんと新宿エリアにも対応！！<!--more-->
+## LINE WOWエリア拡大
+
 
 対応エリアは下記の通り
 
@@ -25,7 +27,9 @@ title: LINE WOWがサービスエリアを拡大！新宿でも宅配可能！
 ![](images/3845f35a5c982a2c09957302780392e4.jpg)
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 
 いやーこれはすごい！どんどんLINE WOWの対応地域が増えてサービスも充実するといいな！

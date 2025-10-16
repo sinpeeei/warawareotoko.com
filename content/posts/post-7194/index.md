@@ -31,7 +31,9 @@ title: 自分の正義以外を悪にしないというお話
 <a href="http://s.ameblo.jp/yumeminemu/entry-11988745891.html" target="_blank">![](images/entry-11988745891.html)</a><a style="color:#0070C5;" href="http://s.ameblo.jp/yumeminemu/entry-11988745891.html" target="_blank">でんぱーりーナイトdeパーリー ｜でんぱ組.inc夢眠ねむオフィシャルブログ「夢眠ねむのユメミる世界日記」Powered by Ameba</a>![](images/entry-11988745891.html)<br><span style="color: #808080;font-size: 80%;">ナイト ...</span><br style="clear:both;" /><br> 
 
 
-<h2>しんぺーはこう思った。</h2> 
+
+## しんぺーはこう思った。
+ 
 
 いや、鳥肌立ちました。そうですね。その通りですね。って思った。 正義って自分本位だし、だからこそ自分の正義以外は悪にしないと 次こそはLIVEに行きたい！！ そして、本日はそんなでんぱ組のニューアルバム「WWDD」の発売日です！
 

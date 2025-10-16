@@ -11,7 +11,9 @@ title: 店内で高級肉をオークションで競り落として食べられ�
 ハロー。しんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。錦糸町のヒレ肉の宝山に行ってきました。
 ![](images/IMG_1074.jpg)
 
-<h2>肉の宝山ってどんなお店？</h2>
+
+## 肉の宝山ってどんなお店？
+
 
 メニューはこちら
 ![](images/IMG_1147.jpg)
@@ -24,7 +26,9 @@ title: 店内で高級肉をオークションで競り落として食べられ�
 <iframe class="vine-embed" src="https://vine.co/v/MZzYQEbiplv/embed/simple" width="480" height="480" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
 
 
-<h2>店内でオークション！競り落としたテーブルが食べられる！</h2>
+
+## 店内でオークション！競り落としたテーブルが食べられる！
+
 美味しい部位を場合によっては他店よりも安く食べられる！それがこのお店の魅力です！
 もちろんオークションなんで、場合によってはそんなに安くないかもしれませんw
 
@@ -35,7 +39,9 @@ title: 店内で高級肉をオークションで競り落として食べられ�
 <iframe class="vine-embed" src="https://vine.co/v/MZzjV16n3j7/embed/simple" width="480" height="480" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 こんなに美味しくてしかも安いお店なんてそうそうないですよw
 
 

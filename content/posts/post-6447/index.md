@@ -19,7 +19,9 @@ title: ななななんんだってー！PCでKindleが読めるようになっ�
 ということでさっそくKindleをPCで読む方法をご紹介します。
 
 
-<h2>Kindle Cloud Readerをインストール</h2>
+
+## Kindle Cloud Readerをインストール
+
 
 まずは<a href="https://read.amazon.co.jp/">ここ</a>にアクセスしてくれ。話はそれからだ。
 
@@ -52,7 +54,9 @@ Kindleの機能はちゃんと使える！
 
 ![](images/220bfd805b7ba442c3cb5744b97911cc.png)
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 ということで、探してたソリューションがまさにこれ！！
 
 Kindleだとみにくいんだなーほんと、ちなみにこんな感じ。

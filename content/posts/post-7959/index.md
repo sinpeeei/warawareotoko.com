@@ -15,7 +15,9 @@ title: ルナフェスの予習にLINE MUSICを使ってますよーというお
 
 <!--more-->
 
-<h2>LINE MUSICとは？</h2>
+
+## LINE MUSICとは？
+
 
 LINE MUSICとはLINEが提供する定額制の音楽ストリーミング配信サービスです。
 
@@ -29,7 +31,9 @@ LINE MUSICとはLINEが提供する定額制の音楽ストリーミング配信
 参考:<a href="https://music.line.me/landing">LINE MUSIC</a>
 
 
-<h2>ラインナップは揃ってる？</h2>
+
+## ラインナップは揃ってる？
+
 
 ルナフェス参加バンドのラインナップはこちら
 
@@ -59,7 +63,9 @@ LINE MUSICとはLINEが提供する定額制の音楽ストリーミング配信
 半分くらいですかね。ただ一曲しかないバンドもあるので、んー微妙ですね！
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 レンタルしにいってもない場合がありますし、YouTubeとかで探すのが手っ取り早いでしょう。
 ただ多くの曲をぱーっと聞いてみるのには、YouTubeよりこちらの方がいいかなと思います！

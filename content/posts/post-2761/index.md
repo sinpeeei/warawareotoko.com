@@ -53,7 +53,9 @@ Androidのアプリは玉石混淆なので、お金払ってみたけど実際�
 <ul>
 	<li>youtubeも表示してくれます</li>
 </ul>
-<h2><span style="color: #0000ff;">Midomi SoundHound ∞ 5.3（￥600）</span></h2>
+
+## <span style="color: #0000ff;">Midomi SoundHound ∞ 5.3（￥600）</span>
+
 
 <iframe src="https://banners.itunes.apple.com/banner.html?partnerId=&aId=11ld5P&id=284972998&c=jp&l=ja-JP&bt=catalog&t=catalog_white&w=180&h=150" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:180px;height:150px;border:0px"></iframe>
 

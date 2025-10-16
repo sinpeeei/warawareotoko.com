@@ -16,7 +16,9 @@ title: DIR EN GREY「DUM SPIRO SPERO」一寸先の闇から生まれたのは�
 日本のみならず世界中から虜が集結した2日間でした。お会いできたかた、できなかったかた、これからもどうぞよろしくお願いします。
 
 号泣と驚愕と歓喜、そんなLIVEでした。
-<h2>まずはセトリ</h2>
+
+## まずはセトリ
+
 いつも通りの拾い物。
 <ol>
  	<li>MACABRE</li>
@@ -88,12 +90,18 @@ UROBOROSのときの武道館のように最後、SUSTAINのPVでも流れるか
 「お前ら元気だなー」の京の声のあとで、ラストの朔
 
 そして今度こそ本当にメンバーがはけたあと、驚愕のお知らせが。。。
-<h2>驚愕のお知らせ3連発</h2>
-<h3>NEW ALBUM 11月発売</h3>
+
+## 驚愕のお知らせ3連発
+
+
+### NEW ALBUM 11月発売
+
 ![](images/DIR-EN-GREY-NEW-ALBUM.jpg)
 
 きっとメンバーは今日が終わっても絶賛レコーディング中なんでしょうね。お疲れさまです！
-<h3>SUMMER TOUR PSYCHONNECT-mode of "GAUZE"?-</h3>
+
+### SUMMER TOUR PSYCHONNECT-mode of "GAUZE"?-
+
 ![](images/mode-of-gauze.jpg)
 15年前アルバム、しかもそれでツアーを！
 ここまで原点回帰するバンドが過去いたのかっつー。昔から表現したいことが何一つ変わらなくて、だからこそ今の状態で過去を再現しようって、それはもう挑戦でしかない。
@@ -119,11 +127,15 @@ UROBOROSのときの武道館のように最後、SUSTAINのPVでも流れるか
 </div>
 <div class="booklink-footer" style="clear: left;"></div>
 </div>
-<h3>「DUM SPIRO SPERO　AT NIPPON BUDOUKAN」DVD&amp;Blu-ray7月発売決定</h3>
+
+### 「DUM SPIRO SPERO AT NIPPON BUDOUKAN」DVD&amp;Blu-ray7月発売決定
+
 ![](images/DUM-SPIRO-SPERO.jpg)
 
 詳細でてないですけど、一連の流れから監督は最近のドキュメンタリーの方だと思います。
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 THE FINALでは号泣した。救いのない詩。。。
 その意味、そしてこの公演の意味、このアルバムの意味。
 このバンドが表現する意味。

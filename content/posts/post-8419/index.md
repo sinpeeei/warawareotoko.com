@@ -8,11 +8,15 @@ tags:
 title: Amazonプライムビデオのラインナップが全然大したことなくて拍子抜け
 ---
 
-Amazonのプライム会員専用「プライムビデオ」がいよいよスタートしましたので、どんな感じか、huluやNetflixなどから乗り換えするべきかについて現時点の感想をご紹介<!--more--><h2>Amazonプライムビデオとは</h2>
+Amazonのプライム会員専用「プライムビデオ」がいよいよスタートしましたので、どんな感じか、huluやNetflixなどから乗り換えするべきかについて現時点の感想をご紹介<!--more-->
+## Amazonプライムビデオとは
+
 
 <strong>Amazonのプライム会員専用で無料で動画が見放題のサービスです。</strong>
 
-<h3>プライム会員とは</h3>
+
+### プライム会員とは
+
 
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?t=warawareotoko-22&o=9&p=294&l=ur1&category=prime&banner=1P5H17MJB4YQ4W7GVCG2&f=ifr" width="320" height="100" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
@@ -29,7 +33,9 @@ Kindleをほぼ半額で買えたり、ゲームなんかも発売日の朝に�
 まあ、簡単にニュアンスだけ伝えると「Amazonファンクラブ」みたいな感じです。好きなアーティストのファンクラブに入っている人ならわかると思いますが、チケット先行販売とか限定グッズ販売とかそういった感じのメリットがあります。
 
 
-<h3>プライムビデオのラインナップは？</h3>
+
+### プライムビデオのラインナップは？
+
 
 さて、そんなAmazonプライムビデオですがラインナップは現時点では正直クソです。
 
@@ -42,7 +48,9 @@ huluやNetflixに契約していれば、乗り換えなんかしないほうが
 まどマギ、キルラキル、ノイタミナありません。
 
 
-<h3>今後充実してくる兆し</h3>
+
+### 今後充実してくる兆し
+
 
 ただし、今後順次ラインナップを拡充していくんだろうなという兆しがあります。
 
@@ -59,7 +67,9 @@ huluやNetflixに契約していれば、乗り換えなんかしないほうが
 
 コンテンツが増えてきてから、登録を検討するのがいいかと思います。
 
-<h2>まとめ</h2>
+
+## まとめ
+
 
 ということでまとめです。
 
@@ -71,4 +81,6 @@ huluやNetflixに契約していれば、乗り換えなんかしないほうが
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?t=warawareotoko-22&o=9&p=12&l=ur1&category=prime&banner=1JDEH56FFMMBANKKEJR2&f=ifr" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。

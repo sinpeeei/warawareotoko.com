@@ -21,7 +21,9 @@ title: 【ライブレポ】DIR EN GREY「The Final days of STUDIO COAST Final D
 
 最後のコースト
 ![](images/IMG_5906.png)
-<h2>感想</h2>
+
+## 感想
+
 徹頭徹尾、全てがDIR EN GREYでした。
 いつものDIR EN GREYであり、コーストが終わろうが、その姿はこの場所で幾度となく目に焼き付けたままの姿でした。
 <blockquote class="twitter-tweet">
@@ -30,7 +32,9 @@ title: 【ライブレポ】DIR EN GREY「The Final days of STUDIO COAST Final D
 ⁡<a href="https://twitter.com/hashtag/DIRENGREY?src=hash&amp;ref_src=twsrc%5Etfw">#DIRENGREY</a><a href="https://twitter.com/hashtag/TheFinal?src=hash&amp;ref_src=twsrc%5Etfw">#TheFinal</a><a href="https://twitter.com/hashtag/StudioCoast?src=hash&amp;ref_src=twsrc%5Etfw">#StudioCoast</a><a href="https://twitter.com/hashtag/%E3%82%AB%E3%82%AA%E3%83%99%E3%83%AB%E3%82%AC%E3%83%88%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#カオベルガトー</a> <a href="https://t.co/6tFITd7bi9">pic.twitter.com/6tFITd7bi9</a></p>
 — 薫 (@kaorugeee) <a href="https://twitter.com/kaorugeee/status/1486190288486170626?ref_src=twsrc%5Etfw">January 26, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h2>セトリ</h2>
+
+## セトリ
+
 久しぶりにDIR EN GREYを、しかも久しぶりのスタンディングで、このセトリは完全にころしにきてる。
 
 GDS
@@ -55,7 +59,9 @@ C
 冷血なりせば
 SUSTAIN THE UNTRUTH
 激しさとこの胸の中で絡みついた灼熱の闇
-<h2>メンバー衣装</h2>
+
+## メンバー衣装
+
 まずはToshiya
 もうToshiyaの登場からToshiyaの記憶しかないくらいの過去1のインパクト
 <blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CZUETYUpSZ-/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
@@ -162,7 +168,9 @@ Toshiyaはうってかわってジャケット！オフィスカジュアルか�
 ShinyaもTシャツ
 
 DieもTシャツだけど袖を大きく切り落としてた。
-<h2>演出</h2>
+
+## 演出
+
 至ってシンプルでいつも通りではあるが、それでも最後のコーストのムービーは歴史を感じるとともに琴線に触れるものがあった。
 
 Thank you for the best place
@@ -223,7 +231,9 @@ Thank you for the best place
 
 </div></blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
-<h2>新情報</h2>
+
+## 新情報
+
 この日に情報解禁くるかと思ったけど、次の日が解禁でした。
 
 かねてより製作中とのことだったアルバムと、それを引っさげて？なのかわからないけどツアーが発表となりました。
@@ -264,7 +274,9 @@ Music Clip Collection Blu-ray &amp; DVD
 ▼詳しくはコチラ<a href="https://t.co/EcOFvY0BX9">https://t.co/EcOFvY0BX9</a><a href="https://twitter.com/hashtag/DIRENGREY?src=hash&amp;ref_src=twsrc%5Etfw">#DIRENGREY</a> <a href="https://t.co/I7aFURQr3a">pic.twitter.com/I7aFURQr3a</a></p>
 — DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/1486671792580087814?ref_src=twsrc%5Etfw">January 27, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 コーストがなくなったら、次はどこがホームになるのか。。。
 
 川崎か

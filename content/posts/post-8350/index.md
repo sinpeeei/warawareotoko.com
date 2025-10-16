@@ -9,7 +9,9 @@ tags:
 title: 【有吉反省会】DIR EN GREY Shinyaの反省は9_12。でも今週分見逃した人はhuluに出てるから見るといい！
 ---
 
-昨日放送の有吉反省会はご覧になりましたでしょうか。ぼくは録画しつつばっちりとリアルタイムでも見ました。我らがヤモエルは3,4回程度ちらっと映っていましたね。ということでがっつり出るのは来週ですが、そのちらっとでも見たい人はhuluにすでに動画あがっていたのでそっち見るといいですよ。<!--more--><h2>有吉反省会とは</h2>
+昨日放送の有吉反省会はご覧になりましたでしょうか。ぼくは録画しつつばっちりとリアルタイムでも見ました。我らがヤモエルは3,4回程度ちらっと映っていましたね。ということでがっつり出るのは来週ですが、そのちらっとでも見たい人はhuluにすでに動画あがっていたのでそっち見るといいですよ。<!--more-->
+## 有吉反省会とは
+
 
 さて、来週より秋のツアーが開始するDIR EN GREYですがなんと地上波のバラエティ番組に突如としてドラムのShinyaが出演ということで、虜（DIR EN GREYファンの呼称）に戦慄が走りました。
 
@@ -36,7 +38,9 @@ title: 【有吉反省会】DIR EN GREY Shinyaの反省は9_12。でも今週分
 ということで、Shinyaが反省人として出演するのは来週9/12ということらしいです。
 
 
-<h2>ちらっと映ったShinyaの様子</h2>
+
+## ちらっと映ったShinyaの様子
+
 
 で、本当にちらっとだけ映った様子ですがやっぱりみんなが拍手してるのに反応が一人だけおそいw
 
@@ -50,7 +54,9 @@ title: 【有吉反省会】DIR EN GREY Shinyaの反省は9_12。でも今週分
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>Shinyaは何を反省するの？</h2>
+
+## Shinyaは何を反省するの？
+
 
 一夜明けて早速ヤフーニュースに出てたみたいです。
 
@@ -79,7 +85,9 @@ title: 【有吉反省会】DIR EN GREY Shinyaの反省は9_12。でも今週分
 とにかく来週が楽しみです！
 
 
-<h2>見逃した方はhuluで過去分配信してます</h2>
+
+## 見逃した方はhuluで過去分配信してます
+
 
 なんとhuluで過去分の配信やってるんですね。ペニシリンとかが出てたのも配信してました。
 
@@ -98,7 +106,9 @@ title: 【有吉反省会】DIR EN GREY Shinyaの反省は9_12。でも今週分
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">DIR EN GREY Shinyaが出演した『有吉反省会』(9/12放送分)を見逃した方、日テレオンデマンドにて無料で観れますよ(=ﾟωﾟ)ﾉ&#10;<a href="http://t.co/3aDKtBFCnv">http://t.co/3aDKtBFCnv</a></p>&mdash; 渡部です。 (@watanabedeath) 2015, 9月 12</blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 来週はShinyaのみのがっつり反省なので、終始Shinyaがいじられっぱなしになるんでしょうねw
 

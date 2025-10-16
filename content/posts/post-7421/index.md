@@ -22,7 +22,9 @@ NEXT ACTION 3月20日と記載されていたLUNA SEA主催のLUNATIC FEST.の�
 ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
-<h2>LUNATIC FEST.（ルナフェス）関連記事一覧</h2>
+
+## LUNATIC FEST.（ルナフェス）関連記事一覧
+
 
 <a href="https://www.warawareotoko.com/2015/05/03/post-7719/">【LUNATIC FEST.】LUNA SEA主催の #ルナフェス とは？日程は？チケット代は？参加メンバーは？</a>
 
@@ -47,7 +49,9 @@ NEXT ACTION 3月20日と記載されていたLUNA SEA主催のLUNATIC FEST.の�
 
 
 
-<h2>LUNATIC FEST.会場図面公</h2>
+
+## LUNATIC FEST.会場図面公
+
 
 公開された情報がこちら
 
@@ -60,7 +64,9 @@ NEXT ACTION 3月20日と記載されていたLUNA SEA主催のLUNATIC FEST.の�
 あれ？こんな規模で足りるのか？
 全オバンギャが日本各地、いや全世界からここ幕張メッセに集結するのに、これで足りる？？
 
-<h2>どんなフェスになるか</h2>
+
+## どんなフェスになるか
+
 
 ここから読み取れるものとしては、<a href="http://ja.wikipedia.org/wiki/Hide_memorial_summit">hide memorial summit</a>の時と同じ感じになるのかなということです。
 同じ会場に3つのステージ、転換を早めるために順番に準備され演奏されると思われます。
@@ -73,7 +79,9 @@ NEXT ACTION 3月20日と記載されていたLUNA SEA主催のLUNATIC FEST.の�
 
 それこそ死人でるかも
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 期待が大きいだけに運営側には頑張ってもらいたいですね。
 

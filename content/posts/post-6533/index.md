@@ -20,7 +20,9 @@ title: sukekiyoとDIR EN GREY「COUNT DOWN JAPAN 14_15」に出るってよ
 
 単独公演でカウントダウンだかアップだかやってたのが懐かしい。DIR EN GREYで年越しできる日はまた来るのだろうか。
 
-<h2>DIR EN GREYがCOUNT DOWN JAPAN 2012/2013に出た時のこと</h2>
+
+## DIR EN GREYがCOUNT DOWN JAPAN 2012/2013に出た時のこと
+
 
 当時、DIR EN GREYが国内ロックファンの本格的な囲い込みに動き出したとかでかなり話題になっておりました。日本国内フェスへの初参戦だったかしら。
 
@@ -37,7 +39,9 @@ title: sukekiyoとDIR EN GREY「COUNT DOWN JAPAN 14_15」に出るってよ
 
 終わった後は理解不能と阿鼻叫喚のパンピーのタイムラインを眺めておりました。
 
-<h2>sukekiyoがCOUNT DOWN JAPAN 2013/2014に出た時のこと</h2>
+
+## sukekiyoがCOUNT DOWN JAPAN 2013/2014に出た時のこと
+
 
 数日前に謎だったsukekiyoの正体がわかり、幸運にもチケットをもった方々が参戦•••、いや参列されましたね。ぼくは行っていませんが。
 当日は事前告知なしだったから当然のごとくステージに見合わない程、人が少なく、静まり返ったLIVEだったとかなんとか。(でも多分今の方が静まり返ってるけど)
@@ -48,7 +52,9 @@ title: sukekiyoとDIR EN GREY「COUNT DOWN JAPAN 14_15」に出るってよ
 <a href="https://www.warawareotoko.com/2013/12/29/post-3842/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2013/12/29/post-3842/" target="_blank">sukekiyo直前情報。sukekiyo=kyo関連確定 | Gadget Zombie Parasite</a>![](images/)<br style="clear:both;" /><br>
 
 
-<h2>今年のCOUNT DOWN JAPANのチケット代は•••</h2>
+
+## 今年のCOUNT DOWN JAPANのチケット代は•••
+
 
 ![](images/180633e47f17b1888ce9ad4108211409.png)
 
@@ -74,7 +80,9 @@ dir en greyは12月29日、sukekiyoは30日
 [問合せ] ディスクガレージ 050-5533-0888(平日12:00～19:00)
 </blockquote>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 いや、今回は両日ともお預けにいたしますよぼくは。
 

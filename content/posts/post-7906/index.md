@@ -29,7 +29,9 @@ moonステージではオープニングアクトとヘッドライナーの他�
 てか飲食ブースとかもないし。。
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 
 無敵バンドはでるのかしら・・・

@@ -14,9 +14,13 @@ LINE@のページを作りました。LINEで更新情報を受け取るには�
 <a href="http://line.me/ti/p/%40gjl0117j">![](images/addfriends_ja.png)</a>
 
 
-<h2>今週のsukekiyo</h2>
 
-<h3>東京キネマ倶楽部での通販限定豪華版購入者特典のイベント</h3>
+## 今週のsukekiyo
+
+
+
+### 東京キネマ倶楽部での通販限定豪華版購入者特典のイベント
+
 
 詳細はこちらをご確認ください。
 ![](images/)【sukekiyo】通販限定豪華版購入者限定イベント＠東京キネマ倶楽部 | Gadget Zombie Parasite<a href="http://b.hatena.ne.jp/entry/https://www.warawareotoko.com/2015/02/08/post-7125/" target="_blank">![](images/)</a><br style="clear:both;" /><br>
@@ -28,7 +32,9 @@ LINE@のページを作りました。LINEで更新情報を受け取るには�
 ・ロッカーは会場のステージが見える位置にあります。上手の方に。
 ・退場の際は、エレベーターではなく階段を降りることになります。この時はじめてここがビルの５階？ということを知ります。
 
-<h3>新宿タワーレコードでのVITIUM発売記念のインストアイベント</h3>
+
+### 新宿タワーレコードでのVITIUM発売記念のインストアイベント
+
 
 メンバー全員参加で、司会は増田さんです。
 押しあり、運ばれる人ありのとても”アツい”インストでした。
@@ -43,7 +49,9 @@ LINE@のページを作りました。LINEで更新情報を受け取るには�
 それと最後UTAさんはけるときにしゃがんだら真っ赤なおパンティが見えましたとさ
 
 
-<h3>VITIUM発売記念ニコ生</h3>
+
+### VITIUM発売記念ニコ生
+
 
 京さんのかわ◯さ爆発でしたね！これまた増田さんが司会で、観覧ありの素晴らしい放送でした。
 
@@ -54,7 +62,9 @@ LINE@のページを作りました。LINEで更新情報を受け取るには�
 <blockquote class="twitter-tweet" lang="ja"><p>プレミアム会員限定内容&#10;・授業中の居眠りポーズでマイク肩にあたる&#10;・BL発言&#10;・楽屋でひたすら「唐揚げ博士の唐揚げ」CMが流れる&#10;・きょさん調べる（ジェスチャー付き）でてこない&#10;・運営側から説明&#10;・「あ、ボーイズラブの」それ以降めっさテンションあがって早口</p>&mdash; しんぺー@大和田ホール (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/564383317831593984">2015, 2月 8</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h3>The UIfied Field 2/9さくらホール</h3>
+
+### The UIfied Field 2/9さくらホール
+
 
 LIVEレポをどうぞ。
 
@@ -72,7 +82,9 @@ LIVEレポをどうぞ。
 http://youtu.be/6hXSSHqGjXY
 
 
-<h3>he UIfied Field 2/10さくらホール</h3>
+
+### he UIfied Field 2/10さくらホール
+
 
 こちらは参列しておりませんので、セトリのみ
 
@@ -93,7 +105,9 @@ http://youtu.be/6hXSSHqGjXY
 15. focus
 
 
-<h2>雑誌掲載情報</h2>
+
+## 雑誌掲載情報
+
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td style="border:none;text-align:left"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00S5TLS40/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">音楽と人 2015年 03月号</a></td></tr><tr><td style="border:none"><table  border="0" cellpadding="0" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00S5TLS40/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">![](images/6135cNTl4YL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-detail" style="margin-bottom:5px;"> 音楽と人 2015-02-05</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=%89%B9%8Ay%82%C6%90l&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%259F%25B3%25E6%25A5%25BD%25E3%2581%25A8%25E4%25BA%25BA%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3D%25E9%259F%25B3%25E6%25A5%25BD%25E3%2581%25A8%25E4%25BA%25BA" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3D%25E9%259F%25B3%25E6%25A5%25BD%25E3%2581%25A8%25E4%25BA%25BA" rel="nofollow"  target="_blank" title="ヤフオク!" >ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table></td></tr></table>
 
@@ -102,7 +116,9 @@ http://youtu.be/6hXSSHqGjXY
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td style="border:none;text-align:left"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00S5TN14U/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">BURRN! (バーン) 2015年 03月号</a></td></tr><tr><td style="border:none"><table  border="0" cellpadding="0" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00S5TN14U/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">![](images/61NJn3T1kKL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-detail" style="margin-bottom:5px;"> シンコーミュージック 2015-02-05</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=BURN&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBURN%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3DBURN" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3DBURN" rel="nofollow"  target="_blank" title="ヤフオク!" >ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table></td></tr></table>
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 京都公演の際には京都での京のサイン会もあります。。。
 

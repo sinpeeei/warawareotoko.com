@@ -12,33 +12,9 @@ title: Zemeckis「漆黒パーカー」来た着た
 
 ![](images/5455b1d7d9afd83ab1c945fdea5bee15.jpg)
 
-<h2>漆黒パーカーレビュー</h2>
 
-まず今回注文しましたのはDIR EN GREYボーカルの京氏のソロワークス「Zemeckis」より発売しております<b>「漆黒パーカー」</b>でございます。
+## 「漆黒パーカー」
 
-特徴としましては、大寒波絶賛到来中の日本列島にぴったりの厚手仕様というところでございます。
-
-こまかく見ていきましょう。
-
-<h3>右胸にプリント</h3>
-![](images/5455b1d7d9afd83ab1c945fdea5bee151.jpg)
-
-<h3>フードにプリント</h3>
-![](images/99187c6195511944f000f8ed6269b1c8.jpg)
-
-「The proof of my existence washes up to shore
-It gives off an awful smell as the sun devours in to the road of decay」
-
-ひっさしぶりに英語を読むので間違ってると思うけど・・・そしてぼくなりの意訳も含めて
-
-“わたしの存在の証明は押し流さる。それは、腐敗した道を貪る太陽のような酷い臭いを放つ”
-
-<h3>そしてバックは、ポストカードの絵と同じものがプリントされてます。</h3>
-![](images/be3fda19e8eb4366c7befe939b25dd70.jpg)
-
-
-
-<h2>漆黒パーカーの感想</h2>
 前回のDIR EN GREYファンクラブのパーカーと同じくらいの素材です。
 
 暖房のついた部屋だと暑くて脱ぐぐらいです。
@@ -52,7 +28,9 @@ It gives off an awful smell as the sun devours in to the road of decay」
 170cm 65kgの男だとMだとちょいでかいかなっと思います。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 失敗したわー単体で着るにはいいですよ。
 武道館にはこれだけでも十分って感じの厚さです•••

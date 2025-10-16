@@ -15,7 +15,9 @@ title: DIR EN GREY「ARCHE」まとめ（プロモ、メディア情報、そし
 <!--more-->ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank" rel="noopener noreferrer">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
-<h2>「ARCHE」感想</h2>
+
+## 「ARCHE」感想
+
 
 まずは感想です。これを聞いて懐かしいと思うことは一切なかった。
 どの曲も今までの、どれかの曲っぽいって感じはしなかったし、空気感も今までにない新しいものという感じがする。
@@ -32,11 +34,15 @@ title: DIR EN GREY「ARCHE」まとめ（プロモ、メディア情報、そし
 まだまだ、今どうのこうの断じる段階じゃないので、味わってから整理したいと思います。
 
 
-<h2>「ARCHE」プロモーション</h2>
+
+## 「ARCHE」プロモーション
+
 
 いつも通り大々的かつきめ細やかなプロモーション施策ううう！！
 
-<h3>各店舗プレゼントポラに隠された謎</h3>
+
+### 各店舗プレゼントポラに隠された謎
+
 フラゲの日に各地の虜たちからポラ報告がタイムラインを流れましたが、同時に不可解な左下の文字のことも話題となりました。
 
 ![](images/fd8f1fceb0375feff291c1a2f47ec5f0.jpg)
@@ -56,7 +62,9 @@ title: DIR EN GREY「ARCHE」まとめ（プロモ、メディア情報、そし
 [table id=6 /]
 
 
-<h3>店舗へのメンバー出現状況</h3>
+
+### 店舗へのメンバー出現状況
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>ラジオ収録後たまたま渋谷を通ったら…。 Die <a href="http://t.co/sGmVK2IdSb">pic.twitter.com/sGmVK2IdSb</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/542592077540782080">2014, 12月 10</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -65,7 +73,9 @@ title: DIR EN GREY「ARCHE」まとめ（プロモ、メディア情報、そし
 <blockquote class="twitter-tweet" lang="ja"><p>今日は薫が収録の帰りにSHIBUYA TSUTAYAさんに寄りました！&#10;2Fで展開されてるコーナーにありますので寄ってみてくださいね。高林 <a href="http://t.co/ZT21Z05hgI">pic.twitter.com/ZT21Z05hgI</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/543055274135670784">2014, 12月 11</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h3>アドトレーラー目撃情報</h3>
+
+### アドトレーラー目撃情報
+
 
 渋谷と新宿を中心に日中走ってるみたいです。
 発売日とその翌日20時前後に渋谷のスクランブル交差点付近に30分近くいましたが、一度も通りませんでした。
@@ -76,7 +86,9 @@ title: DIR EN GREY「ARCHE」まとめ（プロモ、メディア情報、そし
 
 
 
-<h3>各CM及びミュージックビデオ情報</h3>
+
+### 各CM及びミュージックビデオ情報
+
 
 まずは有名声優によるCMです！期間限定なのでそのうち見られなくなりまっせ！
 
@@ -97,7 +109,9 @@ title: DIR EN GREY「ARCHE」まとめ（プロモ、メディア情報、そし
 
 <blockquote class="twitter-tweet" lang="ja"><p>「朔」「鼓動」の続編で、大げさに言うと10年かけて作ったMV。&#10;私なりに楽曲の狂気と「痛み」「根源」を表現しました。&#10;通して主演は五十嵐優次郎君。&#10;今回彼に久しぶりに会い（あああこんなに立派に育って！）と思わず目が潤みました。&#10;<a href="http://t.co/fx4TcA7ZFk">http://t.co/fx4TcA7ZFk</a></p>&mdash; 近藤廣行＠ギ装置 (@VThiroyukikondo) <a href="https://twitter.com/VThiroyukikondo/status/542608241771823105">2014, 12月 10</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h2>メディア情報</h2>
+
+## メディア情報
+
 
 
 FM　FUJI「Slash&Burn」
@@ -107,7 +121,9 @@ FM AICHI「A-1 COUNTDOWN」
 などなど今週のメディア情報一切チェックしませんでした！追加情報が得られれば追記しまっす。
 
 
-<h3>雑誌掲載情報</h3>
+
+### 雑誌掲載情報
+
 
 アルバム発売前に発売したインタビューです。全曲紹介が掲載されていて、皆んなこの記事を元にセトリを予想しました。
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00P0OONIQ/warawareotoko-22/ref=nosim/" rel="nofollow noopener noreferrer" target="_blank">![](images/51uQJTpE1BL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00P0OONIQ/warawareotoko-22/ref=nosim/" rel="nofollow noopener noreferrer" target="_blank">CD & DLでーた 2014年 12月号 [雑誌]</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow noopener noreferrer" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> KADOKAWA/エンターブレイン 2014-11-14    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="display:inline;margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=CD%82%A0%82%F1%82%C7%83_%83E%83%93%83%8D%81%5B%83h&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow noopener noreferrer" target="_blank" title="アマゾン">Amazon</a></div><div class="shoplinkrakuten" style="display:inline;margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCD%25E3%2581%2582%25E3%2582%2593%25E3%2581%25A9%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2589%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow noopener noreferrer" target="_blank" title="楽天市場">楽天市場</a></div><div class="shoplinkyahoo" style="display:inline;margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3DCD%25E3%2581%2582%25E3%2582%2593%25E3%2581%25A9%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2589" rel="nofollow noopener noreferrer" target="_blank" title="Yahooショッピング">Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="display:inline;margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3DCD%25E3%2581%2582%25E3%2582%2593%25E3%2581%25A9%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2589" rel="nofollow noopener noreferrer" target="_blank" title="ヤフオク!">ヤフオク!![](images/gifbanner?sid=3041033&pid=882528283)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
@@ -123,9 +139,13 @@ Toshiyaの筋肉がやばい。10ページ。うちインタビューは5ペー�
 
 
 
-<h2>DIR EN GREY「ARCHE」まとめ</h2>
 
-<h3>各仕様解説</h3>
+## DIR EN GREY「ARCHE」まとめ
+
+
+
+### 各仕様解説
+
 ARCHE(完全生産限定盤)(Blu-ray Disc付)or(DVD付き）
 
 
@@ -181,12 +201,16 @@ ARCHE（通常版）
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00N81CGM8/warawareotoko-22/ref=nosim/" rel="nofollow noopener noreferrer" target="_blank">![](images/51yMiMCl6VL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00N81CGM8/warawareotoko-22/ref=nosim/" rel="nofollow noopener noreferrer" target="_blank">ARCHE</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow noopener noreferrer" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">DIR EN GREY SMD itaku (music) 2014-12-10    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="display:inline;margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=ARCHE&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow noopener noreferrer" target="_blank" title="アマゾン">Amazon</a></div><div class="shoplinkrakuten" style="display:inline;margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FARCHE%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow noopener noreferrer" target="_blank" title="楽天市場">楽天市場</a></div><div class="shoplinkyahoo" style="display:inline;margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3DARCHE" rel="nofollow noopener noreferrer" target="_blank" title="Yahooショッピング">Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="display:inline;margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3DARCHE" rel="nofollow noopener noreferrer" target="_blank" title="ヤフオク!">ヤフオク!![](images/gifbanner?sid=3041033&pid=882528283)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
 
-<h3>各曲歌詞と解釈</h3>
+
+### 各曲歌詞と解釈
+
 
 <a href="https://www.warawareotoko.com/2014/12/23/post-6784/" target="_blank" rel="noopener noreferrer">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2014/12/23/post-6784/" target="_blank" rel="noopener noreferrer">DIR EN GREY「ARCHE」全曲完全解説 #DIR_ARCHE | Gadget Zombie Parasite</a><a href="http://b.hatena.ne.jp/entry/https://www.warawareotoko.com/2014/12/23/post-6784/" target="_blank" rel="noopener noreferrer">![](images/)</a><br style="clear:both;" /><br>
 
 
-<h2>TOUR15 THE UNSTOPPABLE LIFE</h2>
+
+## TOUR15 THE UNSTOPPABLE LIFE
+
 
 [table id=7 /]
 
@@ -204,7 +228,9 @@ DIR EN GREY ONLINE先行
 
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 DUM SPIRO SPEROの時もそうだったけど、まだまだこの段階じゃ何もわからない。
 

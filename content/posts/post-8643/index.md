@@ -50,7 +50,9 @@ IFを開いたら①をタップ、次に②プラスマークをタップ
 <a href="images/I20151114_71.jpg">![](images/I20151114_71.jpg)</a>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 InstagramってTwitterでフォローしてる人見つけてもなんかフォローしずらい。。。
 
@@ -64,4 +66,6 @@ InstagramってTwitterでフォローしてる人見つけてもなんかフォ�
 .ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style>
 <a href="http://instagram.com/sinpeeee?ref=badge" class="ig-b- ig-b-v-24">![](images/ig-badge-view-24.png)</a>
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。

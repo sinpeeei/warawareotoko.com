@@ -16,7 +16,9 @@ title: ゾンビから本当に走って逃げるランニングアプリ「Zomb
 
 このアプリでは自分が実際に走ってゾンビから逃げます。その名も「Zombies,Run!」
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>Zombies,Run!のストーリー</b></div></h2>
+
+## Zombies,Run!のストーリー
+
 
 <iframe src="https://banners.itunes.apple.com/banner.html?partnerId=&aId=11ld5P&id=503519713&c=jp&l=ja-JP&bt=catalog&t=catalog_white&w=300&h=250" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:300px;height:250px;border:0px"></iframe>
 
@@ -29,7 +31,9 @@ title: ゾンビから本当に走って逃げるランニングアプリ「Zomb
 
 マジかよwwちょっとラー油切れてるからコンビニで買ってきてってレベルじゃねーぞおい！
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>Zombies,Run!の使い方</b></div></h2>
+
+## Zombies,Run!の使い方
+
 
 このアプリはランニングアプリとサウンドノベルゲームを一緒にしたARアプリです。
 
@@ -59,14 +63,18 @@ title: ゾンビから本当に走って逃げるランニングアプリ「Zomb
 使い方は以上です。
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>Zombies,Run!について思うところ</b></div></h3>
+
+### Zombies,Run!について思うところ
+
 
 全編英語です。ベースキャンプやら諸々の説明が英語なのでよくわかりません。
 
 まぁキャラの声が日本語だったら微妙な感じもしますが、でもその際はぜひ海外ドラマ声優で固めてほしいものです。
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>ポータルサイトで走ったログ管理もばっちり</b></div></h3>
+
+### ポータルサイトで走ったログ管理もばっちり
+
 
 アカウントを作ってPCサイトと同期すれば自分が走った経路を地図で見ることができます。
 さらにはどこでゾンビに追われ、どこで巻いたかなどなど。

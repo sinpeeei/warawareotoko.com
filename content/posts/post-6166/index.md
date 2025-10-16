@@ -66,7 +66,9 @@ title: DIR EN GREY「ARCHE」インストイベント発表に戸惑い新宿タ
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 注意事項はよく読もう！
 
 と言ったところで本日は以上になります。おやすみなさい。

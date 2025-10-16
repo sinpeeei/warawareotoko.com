@@ -14,7 +14,9 @@ title: sukekiyo=DIR EN GREY？突如現れた無名の新人バンド
 
 
 以下はぼくがTwitter上を探ってまとめた憶測です。もし間違っている部分がありましたらご指摘ください。
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>sukekiyoはなぜさわがれているか</b></div></h2>
+
+## sukekiyoはなぜさわがれているか
+
 <ul>
 	<li>11月初旬　COUNT DOWN JAPAN13/14に追加されたLINE UPに突如出現</li>
 	<li>11月15日　SUGIZO TOUR 2013 THRIVE TO REALIZE　12月29日（日）渋谷AX公演のオープニングACTとして出演決定</li>
@@ -51,7 +53,9 @@ title: sukekiyo=DIR EN GREY？突如現れた無名の新人バンド
 今見たら消えてる！！こいつは・・・！！！！
 <p style="text-align: center;">![](images/IMG_8271.png)</p>
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>sukekiyo情報</b></div></h2>
+
+## sukekiyo情報
+
 
 <li>メンバーは5人ってことでよろしい？</li>
 <li>とりあえずsun-krad所属で間違いなし</li>
@@ -62,7 +66,9 @@ title: sukekiyo=DIR EN GREY？突如現れた無名の新人バンド
 &nbsp;
 &nbsp;
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>それぞれのチケット情報はこちら</b></div></h3>
+
+### それぞれのチケット情報はこちら
+
 &nbsp;
 &nbsp;
 

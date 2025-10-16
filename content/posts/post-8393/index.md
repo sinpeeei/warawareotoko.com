@@ -8,7 +8,9 @@ tags:
 title: スーファミをHDMIでテレビ接続してプレイする方法
 ---
 
-PS4でメタルギアの最新作にして最終作が出たそうですね。Youtubeのゲーム実況者はこぞってプレイしているみたいです。ただし、ぼくは全く興味がわきません。メタルギアソリッドをやったことがあるだけ。あれをステルスゲームと呼ぶのにいささかの疑問を持っています。そんな、最新ゲームを横目で見ながら任天堂が誇る傑作RPG「MOTHER2」がやりたくてやりたくて、とうとうやるぜ！というお話です。<!--more--><h2>MOTHER2とは</h2>
+PS4でメタルギアの最新作にして最終作が出たそうですね。Youtubeのゲーム実況者はこぞってプレイしているみたいです。ただし、ぼくは全く興味がわきません。メタルギアソリッドをやったことがあるだけ。あれをステルスゲームと呼ぶのにいささかの疑問を持っています。そんな、最新ゲームを横目で見ながら任天堂が誇る傑作RPG「MOTHER2」がやりたくてやりたくて、とうとうやるぜ！というお話です。<!--more-->
+## MOTHER2とは
+
 
 若い人は知ってるかな〜知らないだろうな〜
 
@@ -45,7 +47,9 @@ Wii Uとかでダウンロードとかできるらいいけど・・・ニンテ
 ここはあえて、スーパーファミコンでやったるで！！
 
 
-<h2>スーパーファミコンをHDMI端子のテレビに出力する方法</h2>
+
+## スーパーファミコンをHDMI端子のテレビに出力する方法
+
 
 しかし、問題があります。
 
@@ -82,7 +86,9 @@ Wii Uとかでダウンロードとかできるらいいけど・・・ニンテ
 どうだーー！！！ぼくの環境では、画面が切れてたり気になるような不具合は今のところでていません！！
 
 
-<h2>まとめ</h2>
+
+## まとめ
+
 
 PS4のリッチなゲームに疲れたなら、今こそ原点回帰はいかがですかい？スーファミを二束三文で売り飛ばすくらいなら、今一度生き返らせましょう！！！
 
@@ -97,6 +103,8 @@ PS4のリッチなゲームに疲れたなら、今こそ原点回帰はいか�
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000065V6V/warawareotoko-22/ref=nosim/" target="_blank" >![](images/51EWH1BCJDL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000065V6V/warawareotoko-22/ref=nosim/" target="_blank" >バハムート ラグーン</a></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> スクウェア 1996-02-09</div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 4058</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=%83o%83n%83%80%81%5B%83g%83%89%83O%81%5B%83%93&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" target="_blank" >Amazon</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2590%25E3%2583%258F%25E3%2583%25A0%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25B0%25E3%2583%25BC%25E3%2583%25B3%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2590%25E3%2583%258F%25E3%2583%25A0%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25B0%25E3%2583%25BC%25E3%2583%25B3" target="_blank" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3D%25E3%2583%2590%25E3%2583%258F%25E3%2583%25A0%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25B0%25E3%2583%25BC%25E3%2583%25B3" target="_blank" >ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table>
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01M1VMFUA/warawareotoko-22/ref=nosim/" target="_blank" >![](images/51N7wSIFZeL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01M1VMFUA/warawareotoko-22/ref=nosim/" target="_blank" >ニンテンドークラシックミニ ファミリーコンピュータ</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> 任天堂 2016-11-10    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="margin:5px 0"><a href="http://www.amazon.co.jp/gp/search?keywords=%83j%83%93%83e%83%93%83h%81%5B%83N%83%89%83V%83b%83N&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" target="_blank" >Amazon</a></div><div class="shoplinkrakuten" style="margin:5px 0"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%258B%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場</a></div><div class="shoplinkyahoo" style="margin:5px 0"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%258B%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF&vcptn=kaereba" target="_blank" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>

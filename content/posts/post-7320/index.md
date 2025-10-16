@@ -55,7 +55,9 @@ title: 好きなことで生きていく奴らのせいでYouTubeがクソつま
 
 
 
-<h2>好きなことで生きていくふぁっく</h2>
+
+## 好きなことで生きていくふぁっく
+
 
 
 それとYoutubeをつまらなく感じるようになったもう一つの要因はYoutube自体が作ったと思います。（あくまでぼくの主観ですよ？）
@@ -90,7 +92,9 @@ title: 好きなことで生きていく奴らのせいでYouTubeがクソつま
 
 
 
-<h2>そんな中でも面白かった動画がこちら</h2>
+
+## そんな中でも面白かった動画がこちら
+
 
 それでも最近見た動画で面白い！！と思ったのがあります。ゲーム実況者のひゃくえんゲーマーさんのthe orderの実況動画です。
 
@@ -108,7 +112,9 @@ https://www.youtube.com/playlist?list=PLS31FdGkz-EhapOjUmTxuSz7uAIrABlYa
 じゃあ、面白い動画ってなんなのよって話になりますが、ちょっとゲーム実況を例にとって考えてみました。
 
 
-<h3>面白いゲーム動画の条件</h3>
+
+### 面白いゲーム動画の条件
+
 
 独断と偏見と経験則です。
 
@@ -137,7 +143,9 @@ https://www.youtube.com/playlist?list=PLS31FdGkz-EhapOjUmTxuSz7uAIrABlYa
 
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 まーとは言え、今は少し希望を持っているんですよね。ぼく。
 

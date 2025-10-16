@@ -10,7 +10,9 @@ title: DIR EN GREY 11th Album「PHALARIS」リリース前情報（インスト�
 ---
 
 DIR EN GREYの11枚目のアルバム「PHALARIS」が2022年6月15日にリリースされる。前作「<a href="https://www.warawareotoko.com/2018/09/27/post-12119/">The Insulated World</a>」からおよそ4年の間をあけて、ついに発売されることとなった。今回は発売前の解禁情報をまとめておく。すでに申し込み期日が過ぎているものなどもあるので、その点留意が必要。
-<h2>アルバムコンセプト</h2>
+
+## アルバムコンセプト
+
 <p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/y8sPLo-mZao" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 古代ギリシャの拷問器具「ファラリスの雄牛」に着想を得て命名されたとのこと。
 熱せられ黄金に見える外見からは想像できない、中身の惨状。以下参照
@@ -21,12 +23,16 @@ DIR EN GREYの11枚目のアルバム「PHALARIS」が2022年6月15日にリリ�
 — MUNE/コアチョコ HARDCC (@mune41) <a href="https://twitter.com/mune41/status/1526863465033322496?ref_src=twsrc%5Etfw">May 18, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote>
-<h3>ファラリスの雄牛とは？</h3>
+
+### ファラリスの雄牛とは？
+
 真鍮で鋳造された、中が空洞の雄牛の像であり、胴体には人間を中に入れるための扉がついている。受刑者となったものは、雄牛の中に閉じ込められ、牛の腹の下で火が焚かれる。真鍮は黄金色になるまで熱せられ、中の人間を炙り殺す。
 雄牛の頭部は複雑な筒と栓からなっており、苦悶する犠牲者の叫び声が、仕掛けを通して本物の牛のうなり声のような音へと変調される[2]。
 
 出典: フリー百科事典『ウィキペディア（Wikipedia）』:<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%A9%E3%83%AA%E3%82%B9%E3%81%AE%E9%9B%84%E7%89%9B">ファラリスの雄牛</a></blockquote>
-<h3>メンバーアーティスト写真</h3>
+
+### メンバーアーティスト写真
+
 今回は全員きちんと人間の形をしているようです。
 <blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-permalink="https://www.instagram.com/p/CdvJY-GLgbO/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
 <div style="padding: 16px;">
@@ -79,7 +85,9 @@ DIR EN GREY 11th ALBUM
 京さん、薫さん、Toshiyaさんの衣裳を製作させて頂きました！<a href="https://twitter.com/hashtag/%E4%BA%AC?src=hash&amp;ref_src=twsrc%5Etfw">#京</a> <a href="https://twitter.com/hashtag/%E8%96%AB?src=hash&amp;ref_src=twsrc%5Etfw">#薫</a> <a href="https://twitter.com/hashtag/Toshiya?src=hash&amp;ref_src=twsrc%5Etfw">#Toshiya</a><a href="https://twitter.com/hashtag/DIRENGREY?src=hash&amp;ref_src=twsrc%5Etfw">#DIRENGREY</a> <a href="https://twitter.com/hashtag/PHALARIS?src=hash&amp;ref_src=twsrc%5Etfw">#PHALARIS</a> <a href="https://t.co/uadRushfiC">https://t.co/uadRushfiC</a></p>
 — THE d'OR (@_THEdOR_) <a href="https://twitter.com/_THEdOR_/status/1527253399770910720?ref_src=twsrc%5Etfw">May 19, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h2>CD情報</h2>
+
+## CD情報
+
 発売形式は3パターン。どれもアルバム収録曲に違いはないが、オプションが異なっている。
 
 収録曲は「朧」「落ちた事のある空」を含む11曲
@@ -96,7 +104,9 @@ DIR EN GREY 11th ALBUM
  	<li>御伽</li>
  	<li>カムイ</li>
 </ol>
-<h3>通常盤</h3>
+
+### 通常盤
+
 [itemlink post_id="14689"]
 
 (CDのみ) SFCD-0273 ￥3,300 (tax in)
@@ -114,7 +124,9 @@ DIR EN GREY 11th ALBUM
  	<li>御伽</li>
  	<li>カムイ</li>
 </ol>
-<h3>初回生産限定盤</h3>
+
+### 初回生産限定盤
+
 [itemlink post_id="14691"]
 
 初回生産限定盤
@@ -139,7 +151,9 @@ DISC2:
  	<li>mazohyst of decadence</li>
  	<li>ain’t afraid to die</li>
 </ol>
-<h3>完全生産限定盤</h3>
+
+### 完全生産限定盤
+
 [itemlink post_id="14692"]
 [itemlink post_id="14693"]
 
@@ -190,7 +204,9 @@ Blu-ray or DVD
  	<li>Sustain the untruth</li>
  	<li>激しさと、この胸の中で絡み付いた灼熱の闇</li>
 </ol>
-<h2>インストアイベント:直筆サイン入りオリジナルカードお渡し会 （メンバー1人）</h2>
+
+## インストアイベント:直筆サイン入りオリジナルカードお渡し会 （メンバー1人）
+
 それぞれ開催店舗のサイトなどに詳細が記載されていますが、この記事公開時点ですでに予定数締切の店舗などもでているかもしれません。ご注意ください。
 
 詳細はオフィシャルサイトにて必ず確認を
@@ -221,7 +237,9 @@ Blu-ray or DVD
 
 開催日：2022年7月14日(木) 19:00〜
 【大阪】会場：タワーレコード梅田NU茶屋町店　店内イベントスペース
-<h2>DIR EN GREY×SHIBUYA TSUTAYA コラボカフェ</h2>
+
+## DIR EN GREY×SHIBUYA TSUTAYA コラボカフェ
+
 ！！！！最初聞いた時は耳を疑いました。
 事前予約制でチケット代が発生します。
 <blockquote>メンバープロデュースのフード＆ドリンクはもちろん、メンバーの巨大ビジュアル・衣装展示・貴重な写真展示、コラボカフェオリジナルグッズの販売など、DIR EN GREY一色となった空間をお楽しみいただけます。
@@ -257,14 +275,20 @@ SHIBUYA TSUTAYA オンラインショップ（https://shibuyatsutaya.stores.jp�
 ※1点ご購入につき一口分自動応募となります。応募券の発送はございません。
 
 詳細はオフィシャルサイトにてご確認ください。
-<h2>オンラインイベント</h2>
-<h3>LIVE映像鑑賞会</h3>
+
+## オンラインイベント
+
+
+### LIVE映像鑑賞会
+
 完全生産限定盤購入者対象で、特典ディスクの「疎外」のLIVE映像鑑賞会が実施されます。
 メンバーもチャットにて参加予定とのこと
 こちらは全員対象
 ＜開催日時＞
 2022年6月18日(土)午後20時～（予定）
-<h3>オンラインサイン会</h3>
+
+### オンラインサイン会
+
 完全生産限定盤購入者対象で、応募した中から抽選でオンラインサイン会が実施されます。
 ＜特典内容＞
 A賞　京 オンラインサイン会　【20名様】
@@ -276,14 +300,18 @@ F賞　直筆サイン入り『PHALARIS』告知ポスター【50名様】
 
 ＜オンラインサイン会実施予定日＞
 2022年7月1日(金)～7月3日(日)
-<h3>メンバー1~2名参加のオンラインイベント</h3>
+
+### メンバー1~2名参加のオンラインイベント
+
 全形態対象となっています。１シリアルにつき１申し込みとのことで全てに参加するには3枚購入が必要なようです。
 
 ＜特典内容＞
 ・《2022年7月1日(金)開催》オンラインイベント①【応募者全員招待】
 ・《2022年7月2日(土)開催》オンラインイベント②【応募者全員招待】
 ・《2022年7月3日(日)開催》オンラインイベント③【応募者全員招待】
-<h2>ツアー「TOUR22 PHALARIS -Vol.I-」</h2>
+
+## ツアー「TOUR22 PHALARIS -Vol.I-」
+
 神奈川県　　2022/6/2(木)　KT Zepp Yokohama -｢a knot｣only-
 新潟県　　　 2022/6/9(木)　新潟県民会館・大ホール
 宮城県　　　 2022/6/12(日)　SENDAI GIGS
@@ -298,7 +326,9 @@ F賞　直筆サイン入り『PHALARIS』告知ポスター【50名様】
 大阪府 　　　2022/7/16(土)なんばHatch　-Namba Hatch 20th Anniversary-
 
 Vol.ⅠということなのでVol.Ⅱが発表されるんでしょうね。
-<h2>メディア情報</h2>
+
+## メディア情報
+
 2022/6/3(金)19:00～20:30
 FM NACK5「BEAT SHUFFLE」
 リモート生ゲスト出演(Toshiya＆Shinya)
@@ -310,7 +340,9 @@ FM NACK5「BEAT SHUFFLE」
 
 「MASSIVE Vol.40」&lt;表紙・巻頭特集&gt;撮り下ろし＆パーソナルインタビュー
 https://twitter.com/youmasuda/status/1527454466878111744?s=20&amp;t=1LKWcysN9gKat1xtTbGgcQ
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 以上、5月24日時点の情報でした。
 
 情報には誤りがある場合がありますので、くれぐれもオフィシャルサイトを確認の上、各申し込み等をしてください。

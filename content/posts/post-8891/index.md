@@ -15,7 +15,9 @@ title: 【ライブレポ】DIR EN GREY ARCHE 2016_2_6@日本武道館
 ARCHEの世界観、今までの流れを汲んだ完成披露という印象でした。
 新しいものはなく、今までのツアーで見てきた風景でした。だからでしょうか、なんとなく武道館なのに狭く感じました。新木場やチッタみたいな。
 
-それと、今までのツアーの全部の衣裳を京が来ていたこともそれを裏付けているような気がします。<!--more--><h2>演出とメンバー衣裳</h2>
+それと、今までのツアーの全部の衣裳を京が来ていたこともそれを裏付けているような気がします。<!--more-->
+## 演出とメンバー衣裳
+
 
 昨日とは打って変わってという感じです。
 
@@ -34,7 +36,9 @@ ARCHEの世界観、今までの流れを汲んだ完成披露という印象で
 
 それと禍夜想で京が間奏からの入りを間違えてた。直前に軍服を脱いだ時に帽子も取れちゃってそれに気を取られてたのかな？
 
-<h2>セトリ</h2>
+
+## セトリ
+
 
 and Zero
 空谷の跫音
@@ -61,7 +65,9 @@ mamaradechansaw
 Undeux
 
 
-<h2>感想</h2>
+
+## 感想
+
 
 昨日と同じでアレに持っていかれました。。。
 
@@ -94,7 +100,9 @@ Undeux
 終わった後は京がToshiyaとハイタッチしたり
 
 
-<h2>今後の予定</h2>
+
+## 今後の予定
+
 
 で予想はしていましたが今後の予定が発表されました。
 
@@ -108,7 +116,9 @@ TOUR16-17 FROM DEPRESSION TO ___　決定
 第3弾　11月　mode of 鬼葬
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 ２日間お疲れ様でした。
 
@@ -130,13 +140,25 @@ TOUR16-17 FROM DEPRESSION TO ___　決定
 ということは、、、
 
 ↓月をじゃっかん間違えてるw
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">虜「5月6月10月12月はチャージタイムかなぁ」<br><br>suke「と思うじゃん？残念ツアーやるよー！」<br>TTT「夏フェス出るかも」<br>dirt「新作をご用意しておりまして」<br>deca「新曲またハイレゾです！」<br>やも「今年はかけもちで10バンドやります」<br><br>【これが俺たちの未来】</p>&mdash; しんぺー@ARCHE2/5,2/6 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/695940209364459520">2016, 2月 6</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">虜「5月6月10月12月はチャージタイムかなぁ」
+
+suke「と思うじゃん？残念ツアーやるよー！」<br>TTT「夏フェス出るかも」<br>dirt「新作をご用意しておりまして」<br>deca「新曲またハイレゾです！」<br>やも「今年はかけもちで10バンドやります」
+
+【これが俺たちの未来】</p>&mdash; しんぺー@ARCHE2/5,2/6 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/695940209364459520">2016, 2月 6</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 そして、さらに一つ思い出したことがあります。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">その日人類(虜)は思い出した。<br><br>GAUZEツアーのメンバー監修シリーズグッズのことを<br><br>コンプリートにいくらかかるのか<br><br>そして今年はそれが三連発<br><br>...and more</p>&mdash; しんぺー@ARCHE2/5,2/6 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/695954330537455617">2016, 2月 6</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">その日人類(虜)は思い出した。
+
+GAUZEツアーのメンバー監修シリーズグッズのことを
+
+コンプリートにいくらかかるのか
+
+そして今年はそれが三連発
+
+...and more</p>&mdash; しんぺー@ARCHE2/5,2/6 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/695954330537455617">2016, 2月 6</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -151,4 +173,6 @@ TOUR16-17 FROM DEPRESSION TO ___　決定
 ![](images/IIMG_0977.jpg)
 
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。

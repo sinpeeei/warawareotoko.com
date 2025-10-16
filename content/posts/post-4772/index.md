@@ -12,7 +12,9 @@ title: PIERROT•••再始動か解散LIVEか
 
 今朝タイムラインにて不可解なtweetを発見しました。
 
-<h2>PIERROT、復活。</h2>
+
+## PIERROT、復活。
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>は？？？？え？？？</p>&mdash; しんぺー@sukekiyo初日 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/statuses/453681754344157184">2014, 4月 8</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -39,7 +41,9 @@ Angeloの楽屋に潤の姿。
 それとタワレコに展示してあったアイジのギターストラップは、いまだにpierrotの時の•••小文字のね
 
 
-<h2>この告知がなにを意味するのか</h2>
+
+## この告知がなにを意味するのか
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>クリアスカイはインディーズ時代からのファンへの裏切り、マッドスカイはデビュー後からのファンへの裏切り。西武ドームの赤と青、神経がわれたわれる、有罪無罪。いつも裏と表の意味がある。じゃ4/12は何と対をなし、何を意味する？</p>&mdash; しんぺー@sukekiyo初日 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/statuses/453896949188407296">2014, 4月 9</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -64,7 +68,9 @@ Angeloの楽屋に潤の姿。
 <blockquote class="twitter-tweet" lang="ja"><p>しかし、DIR EN GREYが15年ぶりにGAUZEツアーをやって、sukekiyoのアルバムで京とキリトさんのコラボが実現して、PIERROTが土曜日に新宿アルタビジョンで何かを発表しようとしている…。不思議な巡り合わせですね。</p>&mdash; 渡部です。 (@watanabedeath) 2014, 4月 9</blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h3>ざわつくTwitter</h3>
+
+### ざわつくTwitter
+
 
 著名人からパンピーに身をやつしたラー、現役のオバンギャまで様々な方がざついていました。
 <blockquote class="twitter-tweet" lang="ja"><p>｀◎∀◎)!!!! RT <a href="https://twitter.com/jun_0110">@jun_0110</a>: ！！ RT <a href="https://twitter.com/PIERROT_0412">@PIERROT_0412</a>: PIERROT &#10;&#10;2014.04.12 &#10;18:00 &#10;&#10;新宿アルタビジョン&#10; &#10;<a href="http://t.co/lopHzrSqUK">http://t.co/lopHzrSqUK</a> <a href="http://t.co/WN3sdouOjs">pic.twitter.com/WN3sdouOjs</a></p>&mdash; YUKKE (@mucc_yukke) <a href="https://twitter.com/mucc_yukke/statuses/453586216898658304">2014, 4月 8</a></blockquote>
@@ -86,7 +92,9 @@ Angeloの楽屋に潤の姿。
 <a href="http://matome.naver.jp/odai/2139697522333380301">【バンギャ速報】突然の発表にあらぶるピエラーさんの名言まとめ #PIERROT</a>
 
 
-<h2>PIERROT解散当時を振り返る</h2>
+
+## PIERROT解散当時を振り返る
+
 
 アルタ前。そこはPIERROTが前代未聞の「不可能が可能になり、可能が不可能になる」ことを体現させたゲノムコントロールの地。
 
@@ -97,7 +105,9 @@ Angeloの楽屋に潤の姿。
 鮮明に思い出せる。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 PIERROT初の野郎限定で自然発生したダイブ。そして人生で最初で最後のダイブ。キリトに手ぱーんやられた！
 

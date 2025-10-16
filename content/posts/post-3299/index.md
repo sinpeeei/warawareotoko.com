@@ -16,7 +16,9 @@ title: DIR EN GREY TOUR2013 GHOUL -mazy- ＠新木場STUDIO COAST（スタジオ
 &nbsp;
 &nbsp;
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>まずはセトリ</b></div></h2>
+
+## まずはセトリ
+
 
 冷血なりせば
 Unknown.Despair.Lost
@@ -38,9 +40,13 @@ HADES
 STUCK MAN
 THE FINAL
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>本編で気がついたこと〜演出について〜</b></div></h2>
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>ブルーのライト</b></div></h3>
+## 本編で気がついたこと〜演出について〜
+
+
+
+### ブルーのライト
+
 
 途中なんかの曲でブルーのライトが一瞬はいったんだけど、ブルーのライトって珍しいかなと思った。
 しかも、ケルビン数が高くなった白いのライトだと思うんだけど、DQNの車のヘッドライドみたいな色で、めずらしいなと。
@@ -48,7 +54,9 @@ THE FINAL
 紫やら緑やらはよくあるけどブルーでした。
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>蜜と唾の映像大幅リニューアル</b></div></h3>
+
+### 蜜と唾の映像大幅リニューアル
+
 
 今回のツアー初参戦でしたので、初めてあの映像を見ました。
 今までの文字だけのものも好きでしたけど、今回の映像ありのものも、これまたおぞましい感じでたまらなかったです。
@@ -56,9 +64,13 @@ THE FINAL
 やっぱり赤児集団●●●とかって言葉ってすっげーまずい気がして本当にこれはもう社会的に蓋をして、人の目に触れさせちゃいけないくらいの演出だと思いました。
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>本日のハイライト</b></div></h2>
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>押しの凄さ</b></div></h3>
+## 本日のハイライト
+
+
+
+### 押しの凄さ
+
 
 上から見てて凄かったのが押しでした。
 まず開演5分前くらいに突然のいつもの押しが発生。すごかったー
@@ -67,7 +79,9 @@ THE FINAL
 あと空調効いてなかった気がする。。。
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>スモークの凄さ</b></div></h3>
+
+### スモークの凄さ
+
 
 輪郭？かなんかの時のスモークが凄すぎて液体がぶちゅーって飛んでて笑った。
 そして一切何も見えなくなりましたとさww
@@ -76,13 +90,17 @@ THE FINAL
 いやー2階にいると普段見えないものが見えてきますw
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>京と堕威絡みの凄さ</b></div></h3>
+
+### 京と堕威絡みの凄さ
+
 
 京が上手側に移動する際、堕威氏に接触しそうになったが間に合わなかったのだが、それを見て堕威氏がほらほらーって感じで背中をあわせてはにかむ京にキュン死。
 あれは本当にかわいかったww
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>エクスクルーシブシートお土産</b></div></h2>
+
+## エクスクルーシブシートお土産
+
 
 全てこのトートバックに入っております。これとは別にチケットと同じくらいのフライヤーのようなものもいただきました！
 <a href="images/dir-en-grey-ghoul6.jpg">![](images/dir-en-grey-ghoul6.jpg)</a>
@@ -104,7 +122,9 @@ THE FINAL
 
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 
 年内のLIVEはあるのか？
 はい、それについての発表はありませんでした。よって大阪でのツアーfinalにて何かしらの発表があるかと思われます。

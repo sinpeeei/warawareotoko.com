@@ -11,7 +11,9 @@ title: 【sukekiyo】豪華版購入者限定上映会行ってきた【PERSUASI
 行ってきました。PERSUASIO豪華版限定の上映会2部に行ってきました！会場は50名入るかどうかくらいの小さなシアターで、メンバーとの距離も近くマイクを使わずとも声が聞こえるくらいの狭さでした。その模様をご紹介します。<!--more-->ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
-<h2>上映会会場の様子</h2>
+
+## 上映会会場の様子
+
 
 多分、もうオープンにしてもいいはずですが明言しないでおきますが、sukekiyoにゆかりのある渋谷のミニシアターでした。
 
@@ -38,7 +40,9 @@ title: 【sukekiyo】豪華版購入者限定上映会行ってきた【PERSUASI
 
 1部の方は映像→メンバー挨拶だったみたいですが、2部は終わりが遅く京さんが寝る時間遅くなっちゃうからなのかメンバー挨拶→映像の流れでした。
 
-<h2>メンバーの様子</h2>
+
+## メンバーの様子
+
 
 服装は下記の写真の通り
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">今日のアップリンクその１&#10;&#10;sukekiyo:PERSUASIO(6.10release)プレミアム上映会。&#10;&#10;<a href="https://t.co/wHAnPBZBih">https://t.co/wHAnPBZBih</a> <a href="http://t.co/8BBhvbJzor">pic.twitter.com/8BBhvbJzor</a></p>&mdash; 浅井隆 ASAI Takashi (@asaitakashi) <a href="https://twitter.com/asaitakashi/status/606823833719341056">2015, 6月 5</a></blockquote>
@@ -56,7 +60,9 @@ UTAさんは前回の京さんの工場長のような色をしたゆったり�
 
 京はツーブロック部分は剃りあげて肌色。白髪に近い金でサラサラヘアー。それと変わった形の高そうなサングラス。ジャケットにふわっとしたスカートみたいなパンツにブーツでした。
 
-<h2>挨拶</h2>
+
+## 挨拶
+
 
 映像前のメンバーのトークは10〜15分程度。3つの質問を司会の匠がメンバー全員に聞いていくというスタイル。ノートの切れ端みたいなカンペをガサゴソとする匠はいつも通りでした。2部なので少し慣れてたのか途中からは見ないでの司会進行。
 
@@ -77,7 +83,9 @@ UTAさんは前回の京さんの工場長のような色をしたゆったり�
 ということで映像がスタート
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">感想。LIVE映像というよりも映像作品。LIVE中にバックに流れる映像とLIVEが融合している。</p>&mdash; しんぺー@ルナフェス初日参戦 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/606822422235381760">2015, 6月 5</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

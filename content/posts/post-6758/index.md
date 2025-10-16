@@ -13,7 +13,9 @@ title: DIR EN GREY ARCHEインスト情報
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
 
-<h2>インストアイベントのスケジュール</h2>
+
+## インストアイベントのスケジュール
+
 
 ■2014年12月13日(土)
 【神奈川県】タワーレコード川崎店
@@ -26,14 +28,20 @@ title: DIR EN GREY ARCHEインスト情報
 ■2015年1月5日(月)
 【大阪府】タワーレコード梅田NU茶屋町店
 
-<h2>メンバー出現情報</h2>
 
-<h3>タワーレコード川崎店</h3>
+## メンバー出現情報
+
+
+
+### タワーレコード川崎店
+
 まさかの京出現で、発狂者続出
 
 https://twitter.com/tower_kawasaki/status/543697439404732416
 
-<h3>タワーレコード新宿店</h3>
+
+### タワーレコード新宿店
+
 
 予想外。薫出現に騒然
 
@@ -42,19 +50,25 @@ https://twitter.com/tower_shinjuku/status/544075229106941952
 インストレポはこちら
 <a href="https://www.warawareotoko.com/2014/12/14/post-6731/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2014/12/14/post-6731/" target="_blank">DIR EN GREY「ARCHE」インストタワレコ新宿は薫さんでした！！！ | Gadget Zombie Parasite</a><a href="http://b.hatena.ne.jp/entry/https://www.warawareotoko.com/2014/12/14/post-6731/" target="_blank">![](images/)</a><br style="clear:both;" /><br>
 
-<h3>タワーレコード京都店</h3>
+
+### タワーレコード京都店
+
 
 ビール片手の超絶サワヤカメンDie
 
 https://twitter.com/tower_kyoto/status/546193475268403201
 
-<h3>HMV栄店</h3>
+
+### HMV栄店
+
 
 長身のサンタはイケメンのToshiya
 <blockquote class="twitter-tweet" lang="ja"><p>【イベント(あとがき)】DIR EN GREYの Toshiya様、サイン会にご参加頂きましたお客様ありがとう御座いました！クリスマスにピッタリな素敵なサイン会でしたね！また是非宜しくお願い致します♪メリークリスマース☆彡.ﾟ･*. <a href="http://t.co/A4LcjXur0E">pic.twitter.com/A4LcjXur0E</a></p>&mdash; HMV栄 (@HMV_Sakae) <a href="https://twitter.com/HMV_Sakae/status/548075539471138816">2014, 12月 25</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h3>タワーレコード梅田NU茶屋町店</h3>
+
+### タワーレコード梅田NU茶屋町店
+
 
 日本一綺麗な36歳
 
@@ -63,7 +77,9 @@ https://twitter.com/tower_nuchaya/status/552092488949698561
 
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 さて残りの日程はどっちにどっちが来るのでしょうか。
 50%の確率なので、今からどっちかにかけてみてもいいんでないでしょうか
 

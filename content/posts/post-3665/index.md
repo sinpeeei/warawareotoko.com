@@ -15,11 +15,15 @@ title: Amazonが映像配信始めたぞ！その名もAmazonインスタント�
 
 <p style="text-align: center;">![](images/b34738777b10c73cf413ca5c32189bab.png)</p>
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>Amazonインスタント・ビデオとは？</b></div></h2>
+
+## Amazonインスタント・ビデオとは？
+
 
 HuluやiTunesのビデオ映像配信みたいな映像配信サービスです。
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>料金はレンタルと購入の2種類</b></div></h3>
+
+### 料金はレンタルと購入の2種類
+
 
 レンタルは購入から視聴開始まで30日間有効で、視聴を始めると24時間以内もしくは48時間以内に見終わらないければなりません。
 利用料は100円から
@@ -28,7 +32,9 @@ HuluやiTunesのビデオ映像配信みたいな映像配信サービスです�
 購入の場合は何度も無期限で視聴可能ということです。
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>視聴方法も2種類</b></div></h3>
+
+### 視聴方法も2種類
+
 
 ストリーミングとダウンロードの2種類で再生可能
 
@@ -39,7 +45,9 @@ HuluやiTunesのビデオ映像配信みたいな映像配信サービスです�
 
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>視聴可能サービスはPCかKindle Fireのみ</b></div></h3>
+
+### 視聴可能サービスはPCかKindle Fireのみ
+
 
 
 <p style="text-align: center;">![](images/5d52c12d24a38e42562fb33d68e471e6.png)</p>
@@ -56,7 +64,9 @@ Macの場合はインストールすれば視聴可能です。
 
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h3>
+
+### しんぺーはこう思った
+
 
 HuleやたiTunesやら動画配信サービスは沢山あります。
 どれも同じ様な内容だとぼく自身は思ってます。

@@ -16,7 +16,9 @@ title: インフルエンザでずっと寝っぱなしなのでおすすめのY
 
 ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
-<h2>2BRO（兄者弟者）</h2>
+
+## 2BRO（兄者弟者）
+
 
 兄弟でゲーム実況をしている2人です。弟者の方が声優の大塚明夫さんにそっくりの声でめちゃくちゃ渋いのです。
 
@@ -39,13 +41,17 @@ title: インフルエンザでずっと寝っぱなしなのでおすすめのY
 <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PL1Z1KdfmKueZQQcQy7DJTmyrOda44DWZs" frameborder="0" allowfullscreen></iframe>
 
 
-<h2>アンソニーさんの「ほろ酔い雑談」</h2>
+
+## アンソニーさんの「ほろ酔い雑談」
+
 
 大人な感じのYoutubeクリエーターです。有名な人と比べるとまだまだ登録者数は少ないのですが、着実に力をつけてきている方です。家の内装も、お酒もオーディオも全て凝りまくってて拘りまくってめちゃくちゃかっこいい
 <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PL7f87HdajSTgWSUzDC-7e3LapEci_YmFK" frameborder="0" allowfullscreen></iframe>
 
 
-<h2>特殊メイク動画のkisaさん</h2>
+
+## 特殊メイク動画のkisaさん
+
 
 いろいろな特殊メイクをわかりやすく解説してくれてるイケメン
 これはDIR EN GREYの京メイクですが、他にも進撃の巨人やらなんやらいろいろとやってます。
@@ -54,7 +60,9 @@ title: インフルエンザでずっと寝っぱなしなのでおすすめのY
 <iframe width="560" height="315" src="//www.youtube.com/embed/cZfbu9uVuCI" frameborder="0" allowfullscreen></iframe>
 
 
-<h2>こんな面白いゲーム実況初めて「けつ毛中級兵」</h2>
+
+## こんな面白いゲーム実況初めて「けつ毛中級兵」
+
 
 この人は本当に神がかってる。
 こんなに面白いのは初めてみました。ゲームの腕前はそこそこな気がしますが、とにかく下ネタと他人への絡みやコメントが本当に面白い。今一番好きなチャンネルです。
@@ -65,7 +73,9 @@ title: インフルエンザでずっと寝っぱなしなのでおすすめのY
 <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PL2TRHKLw2i1NIlvkzZXnTcMswPYjX_YTd" frameborder="0" allowfullscreen></iframe>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 最近PS4を購入したんですが、これがとにかくヌルヌルしててやっばいです。
 そしてシェアの容易さ。そんなぼくの動画がこちらになります。
 

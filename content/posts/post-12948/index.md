@@ -14,7 +14,9 @@ title: 【ライブレポ】DIR EN GREY TOUR19「This Way to Self-Destruction」
 
 <!--more--> 
 
-<h2> This Way to Self-Destruction</h2>
+
+## This Way to Self-Destruction
+
 本ツアーは2018年9月にリリースされたアルバム「The Insulated World 」以降の3本目のツアーにあたります。
 
 TOUR18 FOLLOWERS
@@ -23,7 +25,9 @@ TOUR19 This Way to Self-Destruction
 
 厳密にはアルバム発売前の「TOUR18 WEARING HUMAN SKIN」も「The Insulated World 」の世界観をなす1ツアーではありました。
 
-<h3>メンバー衣装</h3>
+
+### メンバー衣装
+
 薫はいつものドレス
 Toshiyaはアー写通り
 京は燕尾服に勲章、クラウンメイク
@@ -36,7 +40,9 @@ Toshiyaは黒シャツ、京は目に縦線入ったクラウンメイクに上�
 Wアンコでは京は私服で上下オーバーサイズのジーンズみたいな奴にショッキングピンクの靴下。
 薫はオレンジっぽく見える花柄。もしかしてパンツはMSMLかな？
 
-<h3>セトリ</h3>
+
+### セトリ
+
 The World of Mercy
 人間を被る
 Rubbish Heap
@@ -61,7 +67,9 @@ THE DEEPER VILENESS
 EN.2
 SUSTAIN THE UNTRUTH
 
-<h3>ライブレポ</h3>
+
+### ライブレポ
+
 Mercy始まりで前日は感情のままに歌い散らす印象だったのに対して、全ての曲を歌い上げるかたちでいかにもファイナルっぽかった。
 
 個人的には整理番号がかなりよく、2列目くらいにいた上に柵に押し付けられていたのでかなり色々しんどかったけど、しっかりと見尽くせたライブだった。特に冒頭でToshiyaが前方にせり出してきて、マントを翻す姿は美しすぎて圧倒された。見惚れる、見惚れる。恍惚として立ち尽くしてしまった。あと、Mercyの冒頭のベース弾かない部分では、アンプに腕をかけてもたれているToshiyaはやはり素晴らしかった。
@@ -81,7 +89,9 @@ MMってなんだよw
 
 Toshiyaがまーたダイヤリーで噛み合わなかったとか言いかねないし、まー延長しちゃうけどいいっすか？いいんすか？みたいな雰囲気から、アンコの声が一層大きくなったところでメンバー再登場。この短時間に京は着替えて、メイク落として生まれたての様な顔になってました。タマゴかな？薫も同じくお着替え。速い
 
-<h2>TOUR20 疎外</h2>
+
+## TOUR20 疎外
+
 「The Insulated World」最後のツアーです。と思ったけど、もしかしてファンクラブ限定の短いツアーが発生するかもね。
 
 オリンピックに備えて、改修や建設中だった会場が満を侍してオープン。このツアーも聞いたことがない新しい会場での開催がいくつかラインナップされてます。
@@ -98,7 +108,9 @@ Toshiyaがまーたダイヤリーで噛み合わなかったとか言いかね�
 2020年4月23日（木）東京都 新木場STUDIO COAST
 <a href="images/20191122075257.jpg">![](images/20191122075257.jpg)</a>
 
-<h3>KT Zepp Yokohama</h3>
+
+### KT Zepp Yokohama
+
 今はなき横浜BLITZの近くに建設される予定です。
 
 <blockquote>
@@ -118,7 +130,9 @@ Toshiyaがまーたダイヤリーで噛み合わなかったとか言いかね�
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3249.8409033499174!2d139.6231756152527!3d35.45873298024671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60185c694f3f8c3d%3A0x7a0e04caf3e31aba!2z44CSMjIwLTAwMTIg56We5aWI5bed55yM5qiq5rWc5biC6KW_5Yy644G_44Gq44Go44G_44KJ44GE77yU5LiB55uu77yT4oiS77yS!5e0!3m2!1sja!2sjp!4v1574356556032!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-<h3>仙台GIGS</h3>
+
+### 仙台GIGS
+
 最近の仙台と言えばPITでしたがそれよりも新しく2017年にできたのがこのGIGです。
 
 
@@ -130,7 +144,9 @@ Toshiyaがまーたダイヤリーで噛み合わなかったとか言いかね�
 <a href="https://www.sendaigigs.com/">https://www.sendaigigs.com/</a>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.571662001987!2d140.94681391574616!3d38.24304567967691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f89883a268ad3af%3A0xe9b96b6c6cf26058!2z5LuZ5Y-w44Ku44Kw44K5IFNFTkRBSSBHSUdT!5e0!3m2!1sja!2sjp!4v1574356638121!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-<h2>THE INSULATED WORLD FINAL at ぴあホールMM</h2>
+
+## THE INSULATED WORLD FINAL at ぴあホールMM
+
 本来ならアルバムの集大成は日本武道館のはず。が、当日はオリンピックの開会式ということで使えるはずもなく。
 
 新しくKT Zepp Yokohamaの近くにできるホールにて「The Insulated World」の完結を執り行うことになったようです。
@@ -139,7 +155,9 @@ Toshiyaがまーたダイヤリーで噛み合わなかったとか言いかね�
 2020年7月24日（金・祝）神奈川県 ぴあアリーナMM
 <a href="images/20191122075302.jpg">![](images/20191122075302.jpg)</a>
 
-<h3>ぴあホールMMとは？</h3>
+
+### ぴあホールMMとは？
+
 横浜みなとみらい建設予定で、Zepp Yokohamaのすぐ近くです。
 座席は10000人規模ということで、武道館と同クラスのようです。
 
@@ -152,7 +170,9 @@ Toshiyaがまーたダイヤリーで噛み合わなかったとか言いかね�
 
 ちなみに、困ったことにオリンピックの開会式に被るらしい。地方から来る方は、足もさることながら宿がめちゃくちゃ困るかもですな。
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 始まった時は暑かったのに、もう冬です。寒いです。
 ツアー終わりに、また生きる理由をくれるDIR EN GREYイズ最高。
 これでまたチケ代稼ぎの仕事に精を出せるわけです。頑張りましょう。

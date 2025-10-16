@@ -32,7 +32,9 @@ title: 【ライブレポ】sukekiyo「鳳凰の間」2014_4_28＠恵比寿LIQUI
 </div>
 初回生産限定盤を手に入れないとわからない情報については発売日にこちらに掲載します。
 ただし、すでにTwitterで出回っていましたが•••
-<h2>本日の物販</h2>
+
+## 本日の物販
+
 バックに謎の敏也の文字•••
 ![](images/4ae416599bc7d72f7e6932c9df09caca.png)
 
@@ -48,7 +50,9 @@ LIVE前に受けると思ったけどそうでもなかったtweetがこちら�
 
 — しんぺー@sukekiyo0501 (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/statuses/460698162353541120">2014, 4月 28</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h2>sukekiyo「鳳凰の間」＠恵比寿LIQUIDROOM感想</h2>
+
+## sukekiyo「鳳凰の間」＠恵比寿LIQUIDROOM感想
+
 最速でもアルバムを入手したのが今日ですので、皆さん棒立ちでした。
 無理やり乗ろうとしてもどこかぎこちないw
 
@@ -114,7 +118,9 @@ LIVE前に受けると思ったけどそうでもなかったtweetがこちら�
 
 これに関しては、皆さん同意されている方が多いみたいです。それでも言っていいのかどうかわからない雰囲気がタイムラインに流れておりましたw
 それこそ「黙れ」と言われそう。
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 京が寡黙を求めるからと言って、皆寡黙やで〜って喧伝する必要はないと思います。
 そういう雰囲気なら自然とそうなると思うし。
 ま、そういう意味では、まだアルバムを手に入れていない人は、LIVEまで聴かないという選択肢もありなんじゃなかろうか！
@@ -123,7 +129,9 @@ LIVE前に受けると思ったけどそうでもなかったtweetがこちら�
 そして、いつもと違って皆殺気立ってた。。。なんでだろ。ちょいこわかったな。。。
 
 といった所で本日は以上です！おやすみなさい。
-<h3>ちなみに各メンバーのブログも更新さていました。</h3>
+
+### ちなみに各メンバーのブログも更新さていました。
+
 <a href="http://ameblo.jp/takumixofficial/entry-11836748896.html" target="_blank" rel="noopener">![](images/entry-11836748896.html)</a><a style="color: #0070c5;" href="http://ameblo.jp/takumixofficial/entry-11836748896.html" target="_blank" rel="noopener">sukekiyo「鳳凰の間」無事終了。｜匠オフィシャルブログ「Takumi's blog」by Ameba</a>![](images/entry-11836748896.html)
 <blockquote class="twitter-tweet" lang="ja">sukekiyo初単独公演『鳳凰の間』@恵比寿リキッドルーム、無事終了です！お越し頂いた皆様、ありがとうございました！個人的な課題はまだまだあるけど楽しかった！次は日本青年館2DAYS！宜しくどうぞ！
 

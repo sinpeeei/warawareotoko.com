@@ -9,11 +9,15 @@ tags:
 title: 攻殻機動隊とかサイコパスとかのアニメに出てくるドローンとかサイボーグ技術とかのテクノロジーが実現可能なのか調べてみた
 ---
 
-攻殻機動隊のARISEがテレビで放送開始しましたね。そこで、ふと登場するテクノロジーが今現在の技術で実現可能なのか、はたまた将来的に実現する見込みがあるのか調べてみました。<!--more--><h2>攻殻機動隊</h2>
+攻殻機動隊のARISEがテレビで放送開始しましたね。そこで、ふと登場するテクノロジーが今現在の技術で実現可能なのか、はたまた将来的に実現する見込みがあるのか調べてみました。<!--more-->
+## 攻殻機動隊
+
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td style="border:none;text-align:left"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0041FITIA/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">攻殻機動隊 STAND ALONE COMPLEX Solid State Society [Blu-ray]</a></td></tr><tr><td style="border:none"><table  border="0" cellpadding="0" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0041FITIA/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">![](images/51feOOGXITL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-detail" style="margin-bottom:5px;">田中敦子 バンダイビジュアル 2010-12-22</div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 17861</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=%8DU%8Ak%8B%40%93%AE%91%E0%20STAND%20ALONE%20COMPLEX%20Solid%20State%20Society%20&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank">Amazon</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%2594%25BB%25E6%25AE%25BB%25E6%25A9%259F%25E5%258B%2595%25E9%259A%258A%2520STAND%2520ALONE%2520COMPLEX%2520Solid%2520State%2520Society%2520%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank">楽天市場</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2594%25BB%25E6%25AE%25BB%25E6%25A9%259F%25E5%258B%2595%25E9%259A%258A%2520STAND%2520ALONE%2520COMPLEX%2520Solid%2520State%2520Society%2520" rel="nofollow"  target="_blank">Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3D%25E6%2594%25BB%25E6%25AE%25BB%25E6%25A9%259F%25E5%258B%2595%25E9%259A%258A%2520STAND%2520ALONE%2520COMPLEX%2520Solid%2520State%2520Society%2520" rel="nofollow"  target="_blank">ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table></td></tr></table>
 
-<h3>光学迷彩</h3>
+
+### 光学迷彩
+
 
 すでに光学迷彩としての研究がされています。もっというと攻殻機動隊の光学迷彩から着想を得て、実証しようとしているみたいです。実験用の服装もわざわざ笑い男仕様にしているあたりにオタクさを伺えます。
 
@@ -39,7 +43,9 @@ title: 攻殻機動隊とかサイコパスとかのアニメに出てくるド�
 
 
 
-<h3>義体化</h3>
+
+### 義体化
+
 
 <strong>筋電義手</strong>
 脳からの電気信号を受け取って義手を動かす筋電義手というものらしいです。
@@ -56,7 +62,9 @@ title: 攻殻機動隊とかサイコパスとかのアニメに出てくるド�
 
 
 
-<h3>電脳</h3>
+
+### 電脳
+
 
 単純に脳と脳をネットでつなぐという実験は成功しているようです。
 参考:<a href="http://www.nicolelislab.net/?p=369">FIRST BRAIN-TO-BRAIN INTERFACE ALLOWS TRANSMISSION OF TACTILE AND MOTOR INFORMATION BETWEEN RATS</a>
@@ -71,14 +79,18 @@ title: 攻殻機動隊とかサイコパスとかのアニメに出てくるド�
 この技術はそれこそ全身義体化した際に、身体中の機械を動かすために応用されるでしょう。
 
 
-<h2>PSYCHO-PASS サイコパス</h2>
+
+## PSYCHO-PASS サイコパス
+
 
 参考:<a href="https://www.warawareotoko.com/2015/01/11/post-6961/">【ネタバレあり】劇場版PSYCHO-PASS（サイコパス）あらすじと感想</a>
 
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td style="border:none;text-align:left"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00UKQ2SZ4/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">劇場版 PSYCHO-PASS サイコパス Blu-ray Premium Edition</a></td></tr><tr><td style="border:none"><table  border="0" cellpadding="0" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00UKQ2SZ4/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank" target="_top">![](images/41bttW4WgbL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-detail" style="margin-bottom:5px;">花澤香菜 東宝 2015-07-15</div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 63</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=%83T%83C%83R%83p%83X&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank">Amazon</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%2591%25E3%2582%25B9%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank">楽天市場</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%2591%25E3%2582%25B9" rel="nofollow"  target="_blank">Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3D%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%2591%25E3%2582%25B9" rel="nofollow"  target="_blank">ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table></td></tr></table>
 
-<h3>シビュラシステム（サイマティックスキャン）</h3>
+
+### シビュラシステム（サイマティックスキャン）
+
 
 <strong>赤外分光脳計測（near-infrared spectroscopy; NIRS）</strong>
 脳みそに何らかの機械をつなげたりすることなく、皮膚の上から近赤外光を当てることで脳内血流などを計測する脳活動計測法です。
@@ -95,7 +107,9 @@ title: 攻殻機動隊とかサイコパスとかのアニメに出てくるド�
 
 参考:<a href="http://www.mee.co.jp/sales/acoustics/kokodake/">http://www.mee.co.jp/sales/acoustics/kokodake/</a>
 
-<h3>3Dホログラム</h3>
+
+### 3Dホログラム
+
 
 劇中では、服装をオフィス用と私服を一瞬で切り替えたり、部屋の内装を一瞬で変えたりしていますがこちらも現在少しづつ発展しています。
 それがプロジェクションマッピングです。
@@ -111,7 +125,9 @@ title: 攻殻機動隊とかサイコパスとかのアニメに出てくるド�
 ただ現状立体構造のものに対して映像で3Dぽく映しているだけで、あくまで平面なのが現状の限界のようです。立体構造のものに3Dで映像を投影できるようになれば色々と応用はできそうです。
 
 
-<h3>ドローン</h3>
+
+### ドローン
+
 
 これは正直すでに実用化されていますし、一般家庭においても利用できるものです。というかAmazonで売っています。
 
@@ -126,7 +142,9 @@ title: 攻殻機動隊とかサイコパスとかのアニメに出てくるド�
 どちらにしろ、この分野は今後急速に発展すると同時に、法整備も迅速に行われるでしょう。
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 調べてみると、色々とすでに実用段階まできているものが多いみたいですね。
 

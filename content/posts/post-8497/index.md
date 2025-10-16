@@ -8,10 +8,14 @@ tags:
 title: 中目黒にオープンしたスヌーピーの「PEANUTS Cafe」行ってきた
 ---
 
-目黒川沿いにオープンしましたスヌーピーのテーマカフェ「PEANUTS Cafe」に行ってきましたのでご紹介。こちら人気のため、完全予約制となっていますので、ふらっといってすぐにお食事ということはできませんのご注意ください。<!--more--><h2>PIENUTS Cafe（ピーナッツカフェ）はこんなところ</h2>
+目黒川沿いにオープンしましたスヌーピーのテーマカフェ「PEANUTS Cafe」に行ってきましたのでご紹介。こちら人気のため、完全予約制となっていますので、ふらっといってすぐにお食事ということはできませんのご注意ください。<!--more-->
+## PIENUTS Cafe（ピーナッツカフェ）はこんなところ
 
 
-<h3>PIENUTS Cafe（ピーナッツカフェ）はここ</h3>
+
+
+### PIENUTS Cafe（ピーナッツカフェ）はここ
+
 
 中目黒駅から川沿いにちょこっと歩きます。
 
@@ -48,7 +52,9 @@ title: 中目黒にオープンしたスヌーピーの「PEANUTS Cafe」行っ�
 
 
 
-<h3>お食事はこんな感じ</h3>
+
+### お食事はこんな感じ
+
 
 食事はスパゲティやサンドイッチといった普通のカフェメニューです。
 
@@ -78,7 +84,9 @@ title: 中目黒にオープンしたスヌーピーの「PEANUTS Cafe」行っ�
 ![](images/IIMG_9260.jpg)
 
 
-<h2>食器やグッズも買える</h2>
+
+## 食器やグッズも買える
+
 
 1階はカフェスペースのほかにもグッズ類が売ってます。
 コップやプレートなどの食器、クッキーなど以外にもカワイイグッズが購入できます。ただし、こちらの購入も90分の時間制限内に済まさなければなりませんので注意です。
@@ -92,7 +100,9 @@ PEANUTS Cafe<a href="http://www.peanutscafe.jp/#!page1">「http://www.peanutscaf
 
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 ぼくも幼稚園のころはスヌーピーのグッズを持っていました。幼稚園のカバンやエプロンなんかにもプリントされていた気がします。
 
@@ -112,7 +122,9 @@ PEANUTS Cafe<a href="http://www.peanutscafe.jp/#!page1">「http://www.peanutscaf
 
 あーでも、彼は今台湾でLIVE中www　ということで禁断症状が。。
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。
 
 
 <table  border="0" cellpadding="5" style="border:none"><tr><td valign="top" style="border:none"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EUUCC5M/warawareotoko-22/ref=nosim/" target="_blank" >![](images/51RvfVBUOSL._SL160_.jpg)</a></td><td valign="top" style="border:none;text-align:left"><div class="kaerebalink-detail" style="margin-bottom:5px;"> アヲハタ </div><div class="kaerebalink-salesranking" style="margin-bottom:5px">売り上げランキング : 15949</div><table style="border:none;margin-top:10px"><tr><td style="border:none;text-align:left;"><div class="shoplinkamazon" style="margin-right:5px"><a href="http://www.amazon.co.jp/gp/search?keywords=%83A%83%92%83n%83%5E%20%83s%81%5B%83i%83b%83c%83o%83%5E%81%5B%20160g%81~3%96%7B&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" target="_blank" >Amazonで購入</a></div><div class="shoplinkrakuten" style="margin-right:5px"><a href="http://hb.afl.rakuten.co.jp/hgc/0f6e221b.2eb9748a.0f6e221c.35cc1e84/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A2%25E3%2583%25B2%25E3%2583%258F%25E3%2582%25BF%2520%25E3%2583%2594%25E3%2583%25BC%25E3%2583%258A%25E3%2583%2583%25E3%2583%2584%25E3%2583%2590%25E3%2582%25BF%25E3%2583%25BC%2520160g%25C3%25973%25E6%259C%25AC%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場で購入</a></div><div class="shoplinkyahoo" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A2%25E3%2583%25B2%25E3%2583%258F%25E3%2582%25BF%2520%25E3%2583%2594%25E3%2583%25BC%25E3%2583%258A%25E3%2583%2583%25E3%2583%2584%25E3%2583%2590%25E3%2582%25BF%25E3%2583%25BC%2520160g%25C3%25973%25E6%259C%25AC" target="_blank" >Yahooショッピングで購入![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="margin-right:5px"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3D%25E3%2582%25A2%25E3%2583%25B2%25E3%2583%258F%25E3%2582%25BF%2520%25E3%2583%2594%25E3%2583%25BC%25E3%2583%258A%25E3%2583%2583%25E3%2583%2584%25E3%2583%2590%25E3%2582%25BF%25E3%2583%25BC%2520160g%25C3%25973%25E6%259C%25AC" target="_blank" >ヤフオク!で購入![](images/gifbanner?sid=3041033&pid=882660047)</a></div></td><td style="vertical-align:bottom;padding-left:10px;font-size:x-small;border:none">by <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></td></tr></table></font></td></tr></table>

@@ -25,7 +25,9 @@ title: 【ライブレポ】 PIERROT DICTATORS CIRCUS FINAL「I said hello」201
 
 今日は、そんなPIERROTの王道とも言えるLIVEだった。
 新旧•••新てこともないんだけどインディーズ時代の曲からメジャーまで網羅した構成だった。
-<h2>セトリ</h2>
+
+## セトリ
+
 1. HELLO
 2．PIECES
 3．PSYCHEDELIC LOVER
@@ -53,10 +55,14 @@ title: 【ライブレポ】 PIERROT DICTATORS CIRCUS FINAL「I said hello」201
 6．蜘蛛の意図
 7．SEPIA
 ラストは、あの日最後に演奏された曲「SEPIA」で締めくくられた。
-<h3>WOWOWでの放送</h3>
+
+### WOWOWでの放送
+
 いつも通りの「キチガイ」発言
 しかも、今日は生放送と断ってからのw生放送ではそのまま放送されたのかな？
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 LIVE行く前のぼくの思った
 https://twitter.com/s_s_p_y/status/525509305668096000
 

@@ -13,12 +13,6 @@ title: 海外ドラマ紹介：数学系刑事ドラマ「NUMBERS」
 どうも、社会人6年目異動8回笑われ男です。
 一週間ブログ100本投稿35本目です。今回は海外ドラマのご紹介です。
 
-<script type="text/javascript">// <![CDATA[
-google_ad_client = "ca-pub-5375836130573295"; /* ads by google */ google_ad_slot = "3126708966"; google_ad_width = 468; google_ad_height = 60;
-// ]]></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">// <![CDATA[
-
-
-// ]]></script>
 このドラマ、あのリドリースコットが弟のトニースコットと兄弟でプロデュースしているということで、随所に兄弟愛や家族愛とあと友情、愛情、仲間との絆的なものがちりばめられております。
 <div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>好きなところ</b></div>
 数学という今までにない切り口！ここが面白い。
@@ -34,9 +28,3 @@ google_ad_client = "ca-pub-5375836130573295"; /* ads by google */ google_ad_slot
 最終的にすでに完結しているので、今から見る人はゲオで１００円とかで借りれると思うのでいいのではないでしょうか！
 兄弟のいる人見て！あとは弟がいる女の子とか！
 
-<script type="text/javascript">// <![CDATA[
-google_ad_client = "ca-pub-5375836130573295"; /* -ad- */ google_ad_slot = "9321993362"; google_ad_width = 200; google_ad_height = 200;
-// ]]></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">// <![CDATA[
-
-
-// ]]></script>

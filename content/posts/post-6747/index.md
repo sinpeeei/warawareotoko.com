@@ -14,7 +14,9 @@ title: 【歌詩解釈】DIR EN GREY「輪郭」「sustain the untruth」
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
 
-<h2>ぼくがDIR EN GREYのLIVEに行く理由</h2>
+
+## ぼくがDIR EN GREYのLIVEに行く理由
+
 
 LIVEで激しい曲とかが続いて、あ、ヤバいそろそろ限界かも•••とか、ふと冷静になった瞬間とかにくる、冷静な感覚
 客観とも達観ともとれない頭の中の自分の声がイヤにハッキリして聞こえる。
@@ -30,7 +32,9 @@ https://twitter.com/s_s_p_y/status/544841192815341568
 この悟りを得るためにぼくはDIR EN GREYのLIVEに行ってます。
 
 
-<h2>歌詞解釈「輪郭」</h2>
+
+## 歌詞解釈「輪郭」
+
 
 昨日の輪郭を聞いていて、ふと「悟り」が降りてきた。
 
@@ -73,7 +77,9 @@ https://twitter.com/s_s_p_y/status/544841192815341568
 「その燐火に捧げる〜」の燐火とは鬼火のことだし、やはり鬼は死神という解釈でいいはず。
 
 
-<h2>「sustain the untruth」は「輪郭」のアンサーソング</h2>
+
+## 「sustain the untruth」は「輪郭」のアンサーソング
+
 
 https://twitter.com/s_s_p_y/status/544835998962569217
 
@@ -88,7 +94,9 @@ https://twitter.com/s_s_p_y/status/544835998962569217
 考えすぎでしょうか
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 ここまで、一曲理解できた(気がする)のは初めて。
 

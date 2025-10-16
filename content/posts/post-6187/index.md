@@ -24,7 +24,9 @@ title: リア充が写真撮る時アロハみてーなポーズやるけどさ�
 
 で、この際だから他にも気になってた写真撮影時のハンドサイン諸々についてまとめてみる。
 
-<h2>SUGIZOのあれ</h2>
+
+## SUGIZOのあれ
+
 
 <blockquote class="twitter-tweet" lang="ja"><p>TOSHIさんZepp Diver City、素晴らしかった！ 若者衆、頑張ってた！ X曲はもちろんだけど、特に「Made in Heaven」と「雨音」が絶品だった！ 流石でした。。。SGZ <a href="http://t.co/y44mDLNnaS">pic.twitter.com/y44mDLNnaS</a></p>&mdash; SUGIZO (@SUGIZOofficial) <a href="https://twitter.com/SUGIZOofficial/status/505338011060420609">2014, 8月 29</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -45,7 +47,9 @@ SUGIZO氏はスタートレックの大ファンだそうです。
 ソースが知恵袋しかないので間違ってるかもしれませんが。
 
 
-<h2>ロック、メタルファンがよくやるやつ</h2>
+
+## ロック、メタルファンがよくやるやつ
+
 
 これはぼく自身好んでよくやります。
 
@@ -60,7 +64,9 @@ wikipediaに詳しくのっております。起源や意味に関して諸説�
 
 長いから要約しますね。
 
-<h2>コルナ（メロイックサイン）のとは？</h2>
+
+## コルナ（メロイックサイン）のとは？
+
 
 <blockquote>
 地中海諸国では侮辱的な意味を持つ。このジェスチャーの起源は古代ギリシアまで遡るとされている。コルナは、イタリア語で角（つの）を意味する。
@@ -91,7 +97,9 @@ wikipediaに詳しくのっております。起源や意味に関して諸説�
 
 自分を起源と主張する人もちらほら。<a href="http://www.barks.jp/news/?id=1000008758">ロニー・ジェイムス・ディオ</a>やジーンシモンズなど。
 
-<h2>ベビーメタルのキツネ</h2>
+
+## ベビーメタルのキツネ
+
 
 Twitterで若いベビーメタルファンが、メロイックサインを見て“キツネ”と言ってるのを見て苦笑せざるおえないのですが、あれはベビーメタルがあくまでメタルではなく、“アイドル”として表現しているパロディ的なサインです。
 
@@ -99,6 +107,8 @@ Twitterで若いベビーメタルファンが、メロイックサインを見�
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 色んなサインがあるわな。SUGIZO氏のあれがスタートレックとは思わなんだww
 と言ったところで本日は以上になります。おやすみなさい。

@@ -12,7 +12,9 @@ title: Amazonプライムデー2018に参戦するので情報まとめてみた
 
 <!--more-->
 
-<h2>Amazonプライムデーとは</h2>
+
+## Amazonプライムデーとは
+
 ![](images/PD950x150._CB1198675309_.jpg)
 
 Amazonのプライム会員を対象とした年に1回の大規模セールです。
@@ -24,7 +26,9 @@ Amazonのプライム会員を対象とした年に1回の大規模セールで�
 
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=primeday&banner=027G4F9SWVE2AX0FG102&f=ifr&linkID=908a7d541e2ac0b5adcfdcd73a5c30cf&t=warawareotoko-22&tracking_id=warawareotoko-22" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
-<h2>プライム会員のメリット</h2>
+
+## プライム会員のメリット
+
 そもそもプライム会員ってなんぞやという説明ですが
 
 プライム会員ならメリットたくさん
@@ -40,46 +44,68 @@ kindleで対象の本を毎月１冊無料で読める
 
 Amazonプライム会員の年会費は3900円、1ヶ月計算すると300円ちょっとです。どうでしょうか、圧倒的なコスパがおわかりいただけたかと思います。
 
-<h2>セールの種類</h2>
+
+## セールの種類
+
 
 プライムデーのセールは３種類
 
-<h3>特選セール</h3>
+
+### 特選セール
+
 プライムデーの目玉商品が数量限定で販売されます。だいたいの人がこれ狙い
 
-<h3>数量限定タイムセール</h3>
+
+### 数量限定タイムセール
+
 こっちは時間限定数量限定のタイムセールです。特選セールに比べると少し劣りますが、いつもの商品が安くなることにかわりはありませんのでこちらも要チェックです。
 
-<h3>その他のセール・特典</h3>
+
+### その他のセール・特典
+
 実は何気にこちらが要注目です。例えば値段が変わってなくてもポイントアップするような場合もあります。kindle本なんかも値段が変わってなくても５０％分のポイントバックみたいなのもあったりしますので、そういうものも見つけていくようにしましょう。
 
 
-<h2>目玉商品</h2>
+
+## 目玉商品
+
 ラインナップとして事前発表されているもののうちいくつかピックアップしました。正直これだけだとどうしても欲しいというもの以外は微妙だと思います。ただし併せていろんな商品が安くなることもありますので、すみずみまでチェックすることが重要です。
 
 あらかじめほしいものリストに追加しておいて、お知らせ通知をオンにしておくことでセール開始時にプッシュ通知がくるようになります。
 詳細は<a href="https://www.amazon.co.jp/b/ref=s9_acss_bw_cg_PD18018_4a1_cta_w?ie=UTF8&node=5818926051&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=merchandised-search-8&pf_rd_r=ECK6WGYB62B8N2DP67AW&pf_rd_t=101&pf_rd_p=1513157c-5199-4bb7-b28c-ec56edae44ca&pf_rd_i=4483321051#refinement_01">こちら</a>
 
-<h3>Amazonデバイス</h3>
+
+### Amazonデバイス
+
 [itemlink post_id="11872"]
 [itemlink post_id="11873"]
 
-<h3>PC・家電・ゲーム</h3>
+
+### PC・家電・ゲーム
+
 [itemlink post_id="11874"]
 [itemlink post_id="11875"]
 [itemlink post_id="11876"]
 
-<h3>ホーム/日用品・食品</h3>
+
+### ホーム/日用品・食品
+
 [itemlink post_id="11877"]
 [itemlink post_id="11878"]
 
-<h3>スポーツ・おもちゃ・DIY</h3>
+
+### スポーツ・おもちゃ・DIY
+
 [itemlink post_id="11879"]
 
-<h3>服・シューズ・バッグ・腕時計</h3>
+
+### 服・シューズ・バッグ・腕時計
+
 [itemlink post_id="11880"]
 
-<h2>必勝ツール「keepa」の導入を絶対すべき！！</h2>
+
+## 必勝ツール「keepa」の導入を絶対すべき！！
+
 
 セールに勝つためにいくつかの下準備があります。よりお得に、そしてより賢く買い物をするために。
 
@@ -96,7 +122,9 @@ Chromeで<a href="https://chrome.google.com/webstore/detail/keepa-amazon-price-t
 そんな時はこのツールを使って真実を見極めてください。
 
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 今回紹介しましたツール以外にも本当はAmazonクラシックカードを作ったり、ポイントアップキャンペーンにエントリーしたりとか、さらにお得に買い物をする方法はいくらでもあります。
 

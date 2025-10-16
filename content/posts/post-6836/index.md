@@ -18,7 +18,9 @@ title: COUNT DOWN JAPAN14_15参加のDIR EN GREYがガラガラとな
 ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
-<h2>DIR EN GREYがガラガラの原因</h2>
+
+## DIR EN GREYがガラガラの原因
+
 
 ![](images/38dcc5103a1403e0ed5c300771dc486f.png)
 
@@ -85,7 +87,9 @@ title: COUNT DOWN JAPAN14_15参加のDIR EN GREYがガラガラとな
 
 だいたいが数十RT超えるし、ちょっと「お、おふ」「バンギャ、、、これがバンギャ、、、」って思ってると思うw
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 いまこれ書きながらスマホのアプリの通知が来たんですが、それが「sukekiyo」というワードが一定数ツイートされてるっていう知らせでした。
 
 みんなDIRが終わった途端明日のsukekiyoの心配をツイートしだしたかw

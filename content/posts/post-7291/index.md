@@ -31,7 +31,9 @@ sukekiyoの「The Unified Field」ツアーの追加公演「-VITIUM-」@調布�
 
 
 
-<h2>本日の格好はもちろん和装</h2>
+
+## 本日の格好はもちろん和装
+
 
 ![](images/3bce2a4345a8df414e16e67e167d12b7.jpg)
 
@@ -47,7 +49,9 @@ sukekiyoの「The Unified Field」ツアーの追加公演「-VITIUM-」@調布�
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>セトリ</h2>
+
+## セトリ
+
 
 1. elisabeth addict
 2. celeste
@@ -67,7 +71,9 @@ sukekiyoの「The Unified Field」ツアーの追加公演「-VITIUM-」@調布�
 16. mama
 17. in all weathers
 
-<h2>本日の演出</h2>
+
+## 本日の演出
+
 
 今回のツアーでは一貫した演出がされてきました。映像から入り、曲中もバックに映像、そしてダンサーによる演舞。どれもが去年のツアーよりも格段に深化しています。
 
@@ -86,7 +92,9 @@ sukekiyoの「The Unified Field」ツアーの追加公演「-VITIUM-」@調布�
 
 ってか、歌詩を映し出すとかムックみたい。（ちなみに昔ムックのLIVEDVD</a>見てるときに、一緒に見てた父親が、「あーこれいいなーわかりやすい」とその演出を賞賛してたというのはどうでもいいお話）
 
-<h2>いただいた「粗品」はこちら</h2>
+
+## いただいた「粗品」はこちら
+
 
 まずは和装特典。
 
@@ -109,7 +117,9 @@ sukekiyoの「The Unified Field」ツアーの追加公演「-VITIUM-」@調布�
 
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 まだ上海公演が残っていますが、ようやく、、、sukekiyo第1章が終幕という感じですね。デビューから長いようで、まだ1年程度しかたってなかったのか・・・
 

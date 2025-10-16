@@ -14,7 +14,9 @@ title: 攻殻機動隊ARISE「Ghost Whispers」見てきて微妙だったよっ
 時系列は、前作のGhost Painの後のお話。
 <div class="kwout" style="text-align: center;">![](images/s2u_bor_rou_sha_w300.jpg)<p style="margin-top: 10px; text-align: center;">攻殻機動隊ARISEの感想 | Gadget Zombie Parasite</p></div>
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>よく覚えてないけどあらすじ</b></div></h2>
+
+## よく覚えてないけどあらすじ
+
 
 確か冒頭は後の公安9課になるっぽい建物、荒巻課長が管轄する施設に原因不明のシステムダウンがおきます。ほんの数秒でしたが、その際にタチコマ、じゃなくて、ロジコマの一体に何らかのシステムが上書きされますーーーーって所からお話が始まるのです。
 
@@ -32,7 +34,9 @@ title: 攻殻機動隊ARISE「Ghost Whispers」見てきて微妙だったよっ
 一部劇場版の「Ghost In the shell」みたいなのがからみつつで終わります。
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 
 えーっととりあえず、前作同様よくわからない。
 

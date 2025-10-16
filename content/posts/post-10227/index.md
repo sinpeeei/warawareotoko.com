@@ -8,7 +8,9 @@ tags:
 title: バレンタインという投資制度をやめて欲しい
 ---
 
-今年もこの季節がやってきました。女性が男性にチョコレートを渡す日本独自の文化「バレンタインデー」です。女性側からも嫌で面倒いと思いますし、もはや社内で義理で配るとか今時やってるとこあんのかすらわかりませんが、少なくともぼくの周りでは配られます。<!--more--><h2>返礼品がいやだ</h2>
+今年もこの季節がやってきました。女性が男性にチョコレートを渡す日本独自の文化「バレンタインデー」です。女性側からも嫌で面倒いと思いますし、もはや社内で義理で配るとか今時やってるとこあんのかすらわかりませんが、少なくともぼくの周りでは配られます。<!--more-->
+## 返礼品がいやだ
+
 
 配られた男性側としては悪い気分はしないのですが、返礼品を暗に求められているようで来月にはもらった物品の数倍の値段の「なにか」を渡さねばならない雰囲気です。
 
@@ -18,11 +20,17 @@ title: バレンタインという投資制度をやめて欲しい
 
 だから、バレンタインとという制度自体やめてほしい。。。
 
-<h2>バレンタインと関係なく食べたいチョコタルト</h2>
+
+## バレンタインと関係なく食べたいチョコタルト
+
 
 チーズタルトのbakeの新商品です。チョコムースのタルトです。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B5%E3%83%AD%E3%83%B3%E3%83%87%E3%83%A5%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9?src=hash">#サロンデュショコラ</a> に並んでる方はぜひ待ち時間にこちらの記事を読んでいただきたい<br><br>パリの <a href="https://twitter.com/hashtag/%E3%82%B5%E3%83%AD%E3%82%B7%E3%83%A7?src=hash">#サロショ</a> でも２年連続受賞してる京都のショコラティエDari Kさんとの物語！<br><br>BAKEでは今日からこのカカオでチョコタルト販売です。<a href="https://t.co/FOIy0YUY2U">https://t.co/FOIy0YUY2U</a> <a href="https://t.co/V4cgPSBWHk">pic.twitter.com/V4cgPSBWHk</a></p>&mdash; 塩谷 舞（mai shiotani） (@ciotan) <a href="https://twitter.com/ciotan/status/827401241395294208">2017年2月3日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B5%E3%83%AD%E3%83%B3%E3%83%87%E3%83%A5%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9?src=hash">#サロンデュショコラ</a> に並んでる方はぜひ待ち時間にこちらの記事を読んでいただきたい
+
+パリの <a href="https://twitter.com/hashtag/%E3%82%B5%E3%83%AD%E3%82%B7%E3%83%A7?src=hash">#サロショ</a> でも２年連続受賞してる京都のショコラティエDari Kさんとの物語！
+
+BAKEでは今日からこのカカオでチョコタルト販売です。<a href="https://t.co/FOIy0YUY2U">https://t.co/FOIy0YUY2U</a> <a href="https://t.co/V4cgPSBWHk">pic.twitter.com/V4cgPSBWHk</a></p>&mdash; 塩谷 舞（mai shiotani） (@ciotan) <a href="https://twitter.com/ciotan/status/827401241395294208">2017年2月3日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 まだ食べてないんですが、取り急ぎ食べてみようと思いまして皆様にもご紹介した次第です。
@@ -40,7 +48,9 @@ title: バレンタインという投資制度をやめて欲しい
 人気になったので数年前に値上げされましたが、めちゃくちゃ美味しい。
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 そういや年末にお歳暮のつもりで買って結局配らなかったチョコが大量に家にあるから、配られる前に配ってやろうかな。
 

@@ -14,7 +14,9 @@ title: 【イベントレポ】MASSIVEトークセッション「ゲストDIR EN
 
 <!--more-->
 
-<h2>エピソード紹介</h2>
+
+## エピソード紹介
+
 
 19:30スタートで終わりは22:30過ぎでした。
 
@@ -34,7 +36,9 @@ title: 【イベントレポ】MASSIVEトークセッション「ゲストDIR EN
 
 ![](images/35328A4C-5839-4D35-A933-A8A266631FE1.jpeg)
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 いや、マジで楽しかったです！！
 

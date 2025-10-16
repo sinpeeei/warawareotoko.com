@@ -10,7 +10,9 @@ title: 2018年3月の行った！見た！買った！
 
 3月はなるべくブログを更新したいとかほざいてたわりに４回しか更新してないとか。恥じ入る以外にないです。忙しいとかそういうことりよりもネタがないことの方が割と深刻で、ネタがあれば何かしら書けるんですが、インプットが足りないのか心にササクレが足りないのか、テキストで表現したいことが思い浮かびませんでした。その代わり、やりたかったLINEスタンプのリリースをいたしました！６月末まで毎週リリースします！！ということで、3月の振り返りです。
 
-<h2>新規開拓店舗</h2>
+
+## 新規開拓店舗
+
 
 3月新たに行った飲食店はこちら
 
@@ -25,7 +27,9 @@ title: 2018年3月の行った！見た！買った！
 品川のラーメンストリート的なところにある店朝ごはんとして食べました。
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BgsKKaRAzLc/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BgsKKaRAzLc/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#せっかく 品川 に来たから朝ごはんに #ラーメン 食べた #麺スタグラム #ランチ</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/sinpeeee/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> かいばらゆうざん</a>さん(@sinpeeee)がシェアした投稿 - <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-03-24T02:56:15+00:00"> 3月 23, 2018 at 7:56午後 PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
 
-<h2>面白いYoutube動画</h2>
+
+## 面白いYoutube動画
+
 
 つにバーチャルユーチューバーに心奪われた。中でもこの輝夜月(カグヤルナ)が好き。
 
@@ -46,7 +50,9 @@ unityで使った3Dモデルをoculus riftつけて、性能のいいPCでモー
 
 ということで、何かしらの方法で美少女になりたい！
 
-<h3>今月のけっつん中級兵</h3>
+
+### 今月のけっつん中級兵
+
 
 今月のけっつんですが、なんと大阪からどこぞの田舎に引っ越したらしい。昔からの夢を実現するために。
 
@@ -61,7 +67,9 @@ unityで使った3Dモデルをoculus riftつけて、性能のいいPCでモー
 
 このシステムにより明らかに投げ銭が増えてる気がする。良い工夫
 
-<h2>買って良かったもの</h2>
+
+## 買って良かったもの
+
 
 間違いなく「Apple Pencil」
 本当に買ってよかった。なんでもっと早く買わなかったのか！遅延なし、使いやすい！
@@ -86,7 +94,9 @@ https://line.me/S/sticker/3220336
 
 よかったらどうぞ。
 
-<h3>今月の仮想通貨投資</h3>
+
+### 今月の仮想通貨投資
+
 
 コインチェックから盗まれたNEMの分のJPYすなわち、日本円が帰ってきました。ピーク時に比べてだいぶ安く、返却時のNEM相場に比べて高い金額の88円程度で帰ってきました。
 
@@ -98,7 +108,9 @@ https://line.me/S/sticker/3220336
 ということで全体的に安い時期だからこそ買い増しをしました。目標はリップル1000枚です。あとちょっと買えば達成できます。そしたらガチホ、長期保有する所存です。
 
 
-<h2>4月にやりたいこと</h2>
+
+## 4月にやりたいこと
+
 
 さて、4月にやりたいことですが、新しい季節！無理をしてでも何かやりたい！
 
@@ -113,7 +125,9 @@ WEBの勉強
 
 あと映像何かつくります！！！
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 おかしい、まだ正月だと思っていたらもう3月と終わり。おかしい、おかしい。急いで色々こなさないとまたすぐに年末になっちゃうわ！
 

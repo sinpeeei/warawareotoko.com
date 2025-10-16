@@ -16,7 +16,9 @@ title: sukekiyo「別れを惜しむフリは貴方の為」-寡黙の儀-に参
 
 さて本日のLIVEで、寡黙の儀に参加される方が持っていた方がいいんじゃね？って思うものがいくつか思い浮かびましたのでご紹介。
 
-<h2>sukekiyo「別れを惜しむフリは貴方の為」-寡黙の儀-とは</h2>
+
+## sukekiyo「別れを惜しむフリは貴方の為」-寡黙の儀-とは
+
 
 寡黙の儀とは、今回のツアーの中の京都劇場3daysの真ん中の5月5日に行われる特別公演のことです。
 
@@ -45,7 +47,9 @@ title: sukekiyo「別れを惜しむフリは貴方の為」-寡黙の儀-に参
 
 ということで今ならまだ間に合う！このガジェットを揃えておけ！
 
-<h2>対寡黙の儀用おすすめガジェット</h2>
+
+## 対寡黙の儀用おすすめガジェット
+
 
 まずは一番心配なのがバッテリーです。ということでぼくも愛用しまくっているモバイルブースターのダンボーをおすすめします！
 ミニサイズもありますが、でっかいサイズがおすすめです。なんてったってiPhoneをフル充電で6回程充電できます。
@@ -75,10 +79,14 @@ title: sukekiyo「別れを惜しむフリは貴方の為」-寡黙の儀-に参
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CBE9ARW/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">![](images/31s1A2egYdL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CBE9ARW/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">iPhone5 専用 広角 ・ マクロ ・ 魚眼 3in1 レンズ 並行輸入品 【レッド】</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> テクテック     </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/simple1.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=iPhone5&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで見る</a></div><div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/simple1.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://hb.afl.rakuten.co.jp/hgc/1263948e.a4330505.1263948f.788da92c/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiPhone5%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で見る</a></div><div class="shoplinkyahoo" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/simple1.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3DiPhone5" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピングで見る![](images/gifbanner?sid=3041033&pid=882528283)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
 
-<h2>動画撮影時の注意事項</h2>
+
+## 動画撮影時の注意事項
+
 あと、iPhoneのみになりますが、動画撮影時の注意事項と操作方法をご紹介します。
 
-<h3>動画撮影はゼッタイ横持ちで！！</h3>
+
+### 動画撮影はゼッタイ横持ちで！！
+
 
 iPhoneでの動画撮影は必ず横持ちで行いましょう。
 なぜなら！
@@ -89,7 +97,9 @@ iPhoneでの動画撮影は必ず横持ちで行いましょう。
 横だとこのように大きい画像をとることができます。それにステージが全部入るくらい広角になるのです。
 ![](images/c9a482b99d8003e9d6c22227e50b3c621.png)
 
-<h3>こまめに保存を！！</h3>
+
+### こまめに保存を！！
+
 長い動画を撮影すると、保存にそれだけ時間がかかります。
 ですから理想は1曲ずつくらいで区切って撮影することをおすすめします。
 
@@ -98,14 +108,18 @@ iPhoneでの動画撮影は必ず横持ちで行いましょう。
 そのため、なるべく区切って保存しましょう。
 でもそうすると細切れの動画になってしまうので，以下の解決朔を提案します。
 
-<h3>複数カメラで撮影しよう！！</h3>
+
+### 複数カメラで撮影しよう！！
+
 
 単独参列の場合は、スマホを複数用意しましょう。
 そうすることで交互に撮影と保存ができます。
 
 友達との参列の場合は、1曲ずつ交代で撮影をすればいいでしょう。
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 どうでしょうか？今Amazonで注文すれば、寡黙の儀までに手元に届くはずです。
 

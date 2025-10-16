@@ -16,8 +16,12 @@ title: 【ライブレポ】DIR EN GREY TOUR18 WEARING HUMAN SKIN 2018_8_24@国�
 
 ホールというのに、開場後に長い列でぞくぞくとみなさん入場されていました。夏休み期間中ということもあり、小学生くらいの子ども連れの方もいつもより多かったように思います。最近ですとASIAN KUNG-FU GENERATIONがライブに子どもを連れてくる人にイヤーマフの貸し出しをするというのが話題になっていましたが、少し心配になりました。DIR EN GREYの場合は、それ以外にも成長に何かしらの悪影響が出ないか心配な部分がなくもないけどw
 
-<h2>LIVEレポ</h2>
-<h3>衣装</h3>
+
+## LIVEレポ
+
+
+### 衣装
+
 京は完全な白塗りにグールメイク。目頭にピンク色の蛍光塗料とそこから顔の横に向かってラインが引かれていた。歯には銀色の矯正器具のようなものをつけていたため、ニターッと笑うと暗闇に蛍光の怪しげな光と光る歯が見えて怖い。白いベールを被り、スキニーパンツにスカート、ヒールが高いブーツを履いていた。蛇の目のようなカラコンをつけてた。アンコールではこちらのTシャツを着て、途中で脱いでいた。久しぶり？の上半身裸に声があがってた。
 
 ![](images/NewImage.png)
@@ -33,7 +37,9 @@ Toshiyaはボタンが沢山ついているシャツ、その下には黒のノ�
 Dieは白というか灰色と黒のパッチワーックっぽい布とショートパンツにタイツ。足が細すぎ。どうしたらそんなに細くなるの。
 Shinyaは貴族のようなシャツ。
 
-<h3>セトリ</h3>
+
+### セトリ
+
 詩踏み
 咀嚼
 蜷局
@@ -56,9 +62,15 @@ The IIID EMPIRE
 Beautiful Dirt
 羅刹国
 
-<h3>LIVEレポ</h3>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">俺はライブをする為に生きている<br>俺は音源に意思を込める為に生きている<br>ただ、それだけの為に明日が存在する<br>今はそれだけで十分だ<br><br>誰の為に生きる？<br><br>京</p>&mdash; 京 (@kyo_official) <a href="https://twitter.com/kyo_official/status/1032915565826912256?ref_src=twsrc%5Etfw">August 24, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### LIVEレポ
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">俺はライブをする為に生きている<br>俺は音源に意思を込める為に生きている<br>ただ、それだけの為に明日が存在する<br>今はそれだけで十分だ
+
+誰の為に生きる？
+
+京</p>&mdash; 京 (@kyo_official) <a href="https://twitter.com/kyo_official/status/1032915565826912256?ref_src=twsrc%5Etfw">August 24, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ホールだからなのか、音がいいからなのかわからないけど、ドラムで叩かれた振動がそのまま肌に響く感覚を久しぶりに感じた。
 はじめてライブというものに参加した1999年9月9日のPIERROTのライブで感じたそれを思い出した。あの時は2階席の後ろの方だったにも関わらず、震える感触をかんじた。
@@ -114,9 +126,13 @@ https://youtu.be/6uPeXZmfji4
 
 [itemlink post_id="11832"]
 
-<h2>TOUR18 WEARING HUMAN SKIN</h2>
 
-<h3>ツアー日程</h3>
+## TOUR18 WEARING HUMAN SKIN
+
+
+
+### ツアー日程
+
 以下、残りの日程。この合間にアルバム関連のイベントが開かれる。興味がある方はまだチケットはあるところもあるようなので間に合いそうです。
 
 2018/8/28(火) 福岡県 福岡市民会館
@@ -131,7 +147,9 @@ https://youtu.be/6uPeXZmfji4
 <a href="http://eplus.jp/sys/main.jsp">eplus</a>
 <a href="http://l-tike.com/">ローチケ</a>
 
-<h3>アルバム関連イベント日程</h3>
+
+### アルバム関連イベント日程
+
 予約会日程
 2018年8月27日(月) 【福岡県】タワーレコード福岡パルコ店
 2018年8月29日(水) 【京都府】タワーレコード京都店
@@ -143,7 +161,9 @@ https://youtu.be/6uPeXZmfji4
 インストアイベント
 2018年9月25日(火) 【東京都】タワーレコード新宿店
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 個人的に、今回のツアーは今日でラストでした。これで年内東京公演がないと明言されているので追加のツアーはないのでしょう。
 

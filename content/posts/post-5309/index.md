@@ -12,7 +12,9 @@ title: 今週のsukekiyoまとめ!4月27日〜4月30日(2014)
 
 今週のsukekiyoは初ワンマンライブがあり、アルバムが発売され、ツアーが始まりといった具合に激動の動きがありました。LIVEの記事も含めて改めてこちらにまとめます。
 
-<h2>sukekiyo初ワンマン「鳳凰の間」@恵比寿リキッドルーム</h2>
+
+## sukekiyo初ワンマン「鳳凰の間」@恵比寿リキッドルーム
+
 
 この日はちょうどアルバム「IMMORTALIS」のフラゲの日でしたが、手にしてから聴いて、LIVEに参列した方は極めて少なかったのではないでしょうか。そのせいもあってか、皆ほとんどのらなかったLIVEでした。
 そしてあったまってきた段階で京からの「黙れ」
@@ -21,7 +23,9 @@ title: 今週のsukekiyoまとめ!4月27日〜4月30日(2014)
 <a href="https://www.warawareotoko.com/2014/04/28/post-5216/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2014/04/28/post-5216/" target="_blank">sukekiyo「鳳凰の間」＠恵比寿LIQUIDROOM | Gadget Zombie Parasite</a>![](images/)<br style="clear:both;" /><br>
 
 
-<h2>アルバム「IMMORTALIS」発売、そしてNHK-FM出演</h2>
+
+## アルバム「IMMORTALIS」発売、そしてNHK-FM出演
+
 
 アルバム購入を見送っていた方は、ぜひ買いましょう。
 そしてできればLIVEにいきましょう。あの空気感はLIVEにいかなければ絶対に味わえません。
@@ -51,7 +55,9 @@ title: 今週のsukekiyoまとめ!4月27日〜4月30日(2014)
 <a href="http://www.barks.jp/news/?id=1000102964" target="_blank">![](images/?id=1000102964)</a><a style="color:#0070C5;" href="http://www.barks.jp/news/?id=1000102964" target="_blank">【インタビュー】sukekiyo、1stアルバム『IMMORTALIS』を最深部まで紐解くメンバー5人の超ロングインタビュー | sukekiyo | BARKS音楽ニュース</a><a href="http://b.hatena.ne.jp/entry/http://www.barks.jp/news/?id=1000102964" target="_blank">![](images/?id=1000102964)</a><br style="clear:both;" /><br>
 
 
-<h2>ツアー初日「別れを惜しむフリは貴方の為」＠日本青年館</h2>
+
+## ツアー初日「別れを惜しむフリは貴方の為」＠日本青年館
+
 
 これに関しては記事をどうぞ。
 その時に感じたことを込めました。
@@ -63,7 +69,9 @@ title: 今週のsukekiyoまとめ!4月27日〜4月30日(2014)
 なお、２日目に関しては参列しておりませんので様子がわかりません。
 あしからず。
 
-<h2>追加公演発表。「別れを惜しむフリは貴方の為-漆黒の儀-」</h2>
+
+## 追加公演発表。「別れを惜しむフリは貴方の為-漆黒の儀-」
+
 
 <a href="https://www.warawareotoko.com/2014/05/02/post-5243/" target="_blank">![](images/)</a><a style="color:#0070C5;" href="https://www.warawareotoko.com/2014/05/02/post-5243/" target="_blank">sukekiyoツアー二○一四「別れを惜しむフリは貴方の為」追加公演「漆黒の儀」決定 | Gadget Zombie Parasite</a>![](images/)<br style="clear:both;" /><br>
 
@@ -72,7 +80,9 @@ title: 今週のsukekiyoまとめ!4月27日〜4月30日(2014)
 
 それでも今日とれなかった人がいるようなので、また2次以降がんばってみてください！
 
-<h2>京のサイン会＠タワレコ京都</h2>
+
+## 京のサイン会＠タワレコ京都
+
 
 本日サイン会、感動の様子がツイッターから伝わってきました。
 本日の京さんはこちら！
@@ -81,7 +91,9 @@ title: 今週のsukekiyoまとめ!4月27日〜4月30日(2014)
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 さあ、明日からいよいよ京都３daysですね！
 
@@ -92,7 +104,9 @@ title: 今週のsukekiyoまとめ!4月27日〜4月30日(2014)
 
 といったところで本日は以上になります。おやすみなさい。
 
-<h3>参考インタビュー</h3>
+
+### 参考インタビュー
+
 
 どれもいい記事です！
 

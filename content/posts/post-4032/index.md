@@ -14,7 +14,9 @@ title: DIR EN GREY「SUSTAIN THE UNTRUTH」最新情報
 ![](images/dir-en-grey.jpg)
 
 
-<h2>久しぶりの「DIR EN GREY×Booチャンネル」</h2>
+
+## 久しぶりの「DIR EN GREY×Booチャンネル」
+
 
 ぶぃーーーーってことでひっさしぶりのBooちゃんです。
 
@@ -31,14 +33,18 @@ title: DIR EN GREY「SUSTAIN THE UNTRUTH」最新情報
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/app/niconico/id307764057?mt=8&uo=4&at=11ld5P" target="_blank" >![](images/mzl.womxlcdv.png)</a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/app/niconico/id307764057?mt=8&uo=4&at=11ld5P" target="_blank" >niconico</a></div><div class="pochi_price" style="display:inline;">無料</div><div class="pochi_time" style="font-size:x-small;display:inline;">(2014.01.15時点)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/artist/dwango-co.-ltd./id297539595?uo=4&at=11ld5P" target="_blank" >DWANGO Co., Ltd.</a></div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
 
 
-<h2>テレ朝特番「DUM SPIRO SPERO at 日本武道館」</h2>
+
+## テレ朝特番「DUM SPIRO SPERO at 日本武道館」
+
 
 ツアー前の特番です。皆さんカレンダー登録をお忘れなく。
 <blockquote class="twitter-tweet" lang="ja"><p>1月25日(土)27:45～28:15 には、テレビ朝日にて「DIR EN GREY 特番 DUM SPIRO SPERO at 日本武道館」と題した番組の放送が決定！メンバーインタビューやライヴ映像から武道館公演をフィーチャーします。<a href="http://t.co/oZIqUcCQmN">http://t.co/oZIqUcCQmN</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/statuses/422975154835034112">2014, 1月 14</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>そして•••日本武道館追加チケット発売</h2>
+
+## そして•••日本武道館追加チケット発売
+
 
 ただし先着！！
 
@@ -46,7 +52,9 @@ title: DIR EN GREY「SUSTAIN THE UNTRUTH」最新情報
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h3>どんな風な席になるのか</h3>
+
+### どんな風な席になるのか
+
 
 多分、あれでしょ？北側を解放すんでしょ？
 
@@ -61,7 +69,9 @@ title: DIR EN GREY「SUSTAIN THE UNTRUTH」最新情報
 北東スタンド、北スタンド、北西スタンドを解放してざっと2,000名追加くらいでしょうか•••
 
 
-<h2>しんぺーはこう思った</h2>
+
+## しんぺーはこう思った
+
 
 正直武道館の両日行きたいな〜と考えてます。しかしながらチケットを撮ったのは土曜日のみ。
 まさか売り切れるって思ってなくて•••

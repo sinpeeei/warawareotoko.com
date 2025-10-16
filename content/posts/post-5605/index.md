@@ -35,7 +35,9 @@ title: 京とホドロフスキー監督対談！ホドロフスキー監督作�
 ホドロフスキー監督に関してのwikiはこちら
 <a href="http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%83%9B%E3%83%89%E3%83%AD%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC" target="_blank">![](images/%E3%82%A2%E3%83%AC%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%83%9B%E3%83%89%E3%83%AD%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC)</a><a style="color:#0070C5;" href="http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%83%9B%E3%83%89%E3%83%AD%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC" target="_blank">アレハンドロ・ホドロフスキー - Wikipedia</a><a href="http://b.hatena.ne.jp/entry/http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%83%9B%E3%83%89%E3%83%AD%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC" target="_blank">![](images/%E3%82%A2%E3%83%AC%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%83%9B%E3%83%89%E3%83%AD%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC)</a><br style="clear:both;" /><br>
 
-<h2>京、ホドロフスキー対談概要</h2>
+
+## 京、ホドロフスキー対談概要
+
 
 買った！読んだ！鳥肌立った！
 
@@ -54,7 +56,9 @@ title: 京とホドロフスキー監督対談！ホドロフスキー監督作�
 買う価値があるインタビューです。
 
 
-<h2>ホドロフスキー監督の作品「ホーリーマウンテン」見た</h2>
+
+## ホドロフスキー監督の作品「ホーリーマウンテン」見た
+
 
 全く、意味が解らない。というか不可解。というか、なんとなくわかりそうで、やっぱりわからないわ。って感じ
 
@@ -63,7 +67,9 @@ title: 京とホドロフスキー監督対談！ホドロフスキー監督作�
 まぁでもそれも、虜補正というか、やぱり京が尊敬する監督の映画だからとか、そんな補正は入ってると思うわけです。
 でも、それでもいいかなと思う。たとえそれでそう感じていたのだとしても、それでいいやって思った。
 
-<h3>「ホーリーマウンテン」あらすじ</h3>
+
+### 「ホーリーマウンテン」あらすじ
+
 
 そんなんもんはねー！wikiにすらほとんど載ってない！
 でも、なんとなくでまとめますと、こんなかんじです。
@@ -78,7 +84,9 @@ title: 京とホドロフスキー監督対談！ホドロフスキー監督作�
 
 っていうお話です。
 
-<h3>「ホーリーマウンテン」のここがいいかなと思ったシーン</h3>
+
+### 「ホーリーマウンテン」のここがいいかなと思ったシーン
+
 
 それぞれの弟子の紹介シーンがあるんですが、その弟子達の仕事がちょっと風刺的
 
@@ -101,7 +109,9 @@ title: 京とホドロフスキー監督対談！ホドロフスキー監督作�
 
 まぁ面白かったと思う！
 
-<h3>ホーリーマウンテンを見るならAmazonのインスタントビデオが断然おすすめ！</h3>
+
+### ホーリーマウンテンを見るならAmazonのインスタントビデオが断然おすすめ！
+
 
 はい、前置き長くなりましたが、もしまだホドロフスキー監督の映画を見ていないなら、Amazonのインスタントビデオが超絶おすすめです。
 
@@ -120,7 +130,9 @@ TSUTAYAとかゲオでこのDVDを見つけるのってけっこう難儀な気�
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004AM6Q9S/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">![](images/5140sElflsL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004AM6Q9S/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">ホーリー・マウンテン HDリマスター版 [DVD]</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">アレハンドロ・ホドロフスキー Happinet(SB)(D) 2011-03-04    </div><div class="kaerebalink-link1" style="margin-top:10px;"></div></div><div class="booklink-footer" style="clear: left"></div></div>
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 映画に関してはとりあえず、京が心酔する理由が垣間見えた気がします。
 ホドロフスキー監督は日本からも多大な影響を受けているみたいで、日本のアニメやらなんやらにも精通しているそうです。
 

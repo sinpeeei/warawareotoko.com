@@ -13,7 +13,9 @@ title: DIR EN GRE soundwave in Australiaまとめ
 ![](images/a0002_009865.jpg)
 
 中々現地からの情報が入ってきませんね。
-<h2>とりあえずの第一報がこいつでした。</h2>
+
+## とりあえずの第一報がこいつでした。
+
 
 このやり取りからでしょうか。虜界隈でShinyaがコアラだっこしてんじゃね？ってなったのかと思います。
 <blockquote class="twitter-tweet" lang="ja"><p><a href="https://twitter.com/_x_Shinya_x_">@_x_Shinya_x_</a> 何度見てもめっちゃいい写真ですね！！！美しすぎる(((o(*ﾟ▽ﾟ*)o)))&#10;せっかくなので、コアラちゃん連れて帰って来て下さい☻w</p>&mdash; Lyuon (@lyuon56) <a href="https://twitter.com/lyuon56/statuses/436829670130999298">2014, 2月 21</a></blockquote>
@@ -50,7 +52,9 @@ https://twitter.com/zhanghesbooty/status/437478805012107264
 
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 いつも思うけど海外は撮影OKなの？って。多分ダメですよね？
 

@@ -10,7 +10,9 @@ title: Google homeとminiの比較。Chromecastも買った方がぜったいい
 
 ぼくはGoogle home miniを主に音楽を聴くために使用しています。がっつりと曲を聴くというよりも、なんとなーく流してBGMのようにしています。そんな中、年末のセールでGoogle homeが半額の7000円で投げ売りされていたので、この際どうせならきれいな音で音楽を聴きたいと思い、miniから上位モデルへと乗り換えをすることにしました。
 
-ということで、本日はGoogle homeのレビュー及びminiとの比較です。<!--more--><h2>Google homeとは？</h2>
+ということで、本日はGoogle homeのレビュー及びminiとの比較です。<!--more-->
+## Google homeとは？
+
 
 Google homeとはGoogleが出しているスマートスピーカーです。GoogleアシスタントというAIを搭載しており、音声入力により様々なことをしてくれます。
 
@@ -19,7 +21,9 @@ Google homeとはGoogleが出しているスマートスピーカーです。Goo
 現在、日本ではGoogle homeとGoogle home miniの2種類が販売されています。
 海外だと最上位モデルのGoogle home MAXというのも販売されているようです。
 
-<h3>Google homeレビュー</h3>
+
+### Google homeレビュー
+
 
 ![](images/IIMG_1036.jpg)
 
@@ -41,7 +45,9 @@ Google homeとはGoogleが出しているスマートスピーカーです。Goo
 なお、miniにはついていない、音楽のストップ&再生昨日がついています。あたまをちょんとさわればスタートストップができます。音量はあたまをくるくるとさわるとできます。
 ![](images/IIMG_1043.jpg)
 
-<h3>miniとの比較</h3>
+
+### miniとの比較
+
 
 ![](images/IIMG_1039.jpg)
 
@@ -52,7 +58,9 @@ miniでは感じられなかった低音をかなり感じることができま�
 それに対しGoogle homeは低音がかなりしっかりと聞こえて、太い音質を体感できます。
 
 
-<h2>どっちがオススメ</h2>
+
+## どっちがオススメ
+
 
 miniを買って、スピーカーをつなげればいいじゃなんと思うかもしれません。
 ぼくもそう思いました。しかし、安いスピーカーを繋げて見るとホワイトノイズがすごく気になります。
@@ -63,7 +71,9 @@ miniを買って、スピーカーをつなげればいいじゃなんと思う�
 なので、音楽を聴きたい人はGoogle homeを購入がおすすめです。
 スマートスピーカーとしての機能を使いたいだけならminiで十分です。
 
-<h2>Chormecastとの連携が最強</h2>
+
+## Chormecastとの連携が最強
+
 
 ![](images/IIMG_1046.jpg)
 
@@ -79,7 +89,9 @@ Google homeをこのChromecastと連携させるとほんっとうにYoutubeの�
 
 ![](images/IIMG_1049.jpg)
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 いやー最初からこっち買っておいてもよかった！！
 本当にYoutube視聴がめちゃくちゃはかどる！！！音楽もすごく綺麗に聴けますし。

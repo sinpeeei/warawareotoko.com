@@ -15,7 +15,9 @@ title: sukekiyo後始末！「別れを惜しむフリは貴方の為」メン�
 次に表に出るのは今週末のタワレコ新宿でのトークセッションでしょうか？
 それに合わせてメンバーもすでに東京に帰ってきているみたいです。
 
-<h2>YUCHI氏新福菜館でラーメン食べる</h2>
+
+## YUCHI氏新福菜館でラーメン食べる
+
 https://twitter.com/yuchivalism/status/464014230945935361
 
 ところで、このラーメンの画像見た瞬間にぴーんときました。このつゆの色、ネギの感じ、ここは京都駅近くのあの店だ！！
@@ -45,7 +47,9 @@ https://twitter.com/yuchivalism/status/464014230945935361
 <a href="http://ameblo.jp/takumixofficial/entry-11844312719.html" target="_blank">![](images/entry-11844312719.html)</a><a style="color:#0070C5;" href="http://ameblo.jp/takumixofficial/entry-11844312719.html" target="_blank">sukekiyo 京都劇場3DAYS終了！！！｜匠オフィシャルブログ「Takumi's blog」by Ameba</a>![](images/entry-11844312719.html)<br style="clear:both;" /><br>
 
 
-<h2>Leafで京が行ったカフェ「遊形サロン・ド・テ」</h2>
+
+## Leafで京が行ったカフェ「遊形サロン・ド・テ」
+
 Leafは京都以外だとなかなか手に入れづらいですよね。しかも今回アナウンスがあったのかなんなのか、見逃した人結構いたんじゃないでしょうか？
 
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00JLNHHA8/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">![](images/51hD8C2R8zL._SL160_.jpg)</a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00JLNHHA8/warawareotoko-22/ref=nosim/" rel="nofollow" target="_blank">Leaf (リーフ) 2014年 06月号</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> リーフ・パブリケーションズ 2014-04-25    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/simple1.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=%83%8A%81%5B%83t%20Leaf&__mk_ja_JP=%83J%83%5E%83J%83i&tag=warawareotoko-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div><div class="shoplinkyahoo" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/simple1.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882528283&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3D%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2595%2520Leaf" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング![](images/gifbanner?sid=3041033&pid=882528283)</a></div><div class="shoplinkyahooAuc" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/simple1.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3041033&pid=882660047&vc_url=http%3A%2F%2Fauctions.search.yahoo.co.jp%2Fsearch%3Fvo%3D%26ve%3D%26auccat%3D0%26aucminprice%3D%26aucmaxprice%3D%26aucmin_bidorbuy_price%3D%26aucmax_bidorbuy_price%3D%26loc_cd%3D0%26abatch%3D0%26istatus%3D0%26filtered%3D1%26ei%3DUTF-8%26tab_ex%3Dcommerce%26va%3D%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2595%2520Leaf" rel="nofollow"  target="_blank" title="ヤフオク!" >ヤフオク!![](images/gifbanner?sid=3041033&pid=882660047)</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
@@ -60,7 +64,9 @@ Leafは京都以外だとなかなか手に入れづらいですよね。しか�
 
 なお、未確定情報ですが、京さんがお召し上がりになられたのはムースショコラ ボルト酒のジュレ、わらび餅？？？かな。さだかではありませんw
 
-<h2>sukekiyo1stアルバム「IMMORTALIS」オリコン週間チャート5位</h2>
+
+## sukekiyo1stアルバム「IMMORTALIS」オリコン週間チャート5位
+
 
 別にどうでもいいけどね。順位とか•••
 
@@ -70,7 +76,9 @@ https://twitter.com/watanabedeath/status/463882245166469120
 
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 さて、最後に書きますが、京が着ていたシャツについてです。
 どうやらポールスミスのものみたいですよ。腰にかけて赤い花びら？でドットの黒いシャツです。

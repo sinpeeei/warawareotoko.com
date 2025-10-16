@@ -12,7 +12,9 @@ title: コーヒー断ちして2週間たってかわったこと
 &nbsp;
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>その結果、胃の調子が治りました！！</b></div></h2>
+
+## その結果、胃の調子が治りました！！
+
 
 胃の具合が治った・・・かな？
 ただ、吐き気はなくなりました！
@@ -29,7 +31,9 @@ title: コーヒー断ちして2週間たってかわったこと
 ん〜やはりカフェインの力って凄いです。
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>胃の調子の不調はコーヒーだけだったのか？</b></div></h2>
+
+## 胃の調子の不調はコーヒーだけだったのか？
+
 
 
 そもそも胃の調子が悪かったのってなんだったのか・・・
@@ -41,8 +45,9 @@ title: コーヒー断ちして2週間たってかわったこと
 <li>ストレス</li>
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid;"><b>コーヒー飲み過ぎ、カフェイン取り過ぎ
-</b></div></h3>
+
+### コーヒー飲み過ぎ、カフェイン取り過ぎ
+
 
 これが主要因なのは解ってます。
 
@@ -60,7 +65,9 @@ title: コーヒー断ちして2週間たってかわったこと
 コーヒーも1時間に4杯以上飲むと急性カフェイン中毒の危険があるようです。
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid;"><b>サプリメント飲み過ぎ</b></div></h3>
+
+### サプリメント飲み過ぎ
+
 
 亜鉛のサプリメントを日々過剰摂取してました。
 
@@ -80,7 +87,9 @@ title: コーヒー断ちして2週間たってかわったこと
 
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid;"><b>寝不足</b></div></h3>
+
+### 寝不足
+
 
 普段4時間〜4時間30分程度しか寝ません。
 だから日中ねむいねむい。
@@ -94,7 +103,9 @@ title: コーヒー断ちして2週間たってかわったこと
 
 
 
-<h3><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 0px 5px; border-style: solid;"><b>ストレス</b></div></h3>
+
+### ストレス
+
 
 普段ストレスは感じませんし、これは最も要因としては低いんじゃないかなと思います。
 
@@ -105,7 +116,9 @@ title: コーヒー断ちして2週間たってかわったこと
 
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>コーヒー断ち辛かった！！</b></div></h2>
+
+## コーヒー断ち辛かった！！
+
 
 かわりに紅茶飲みました
 
@@ -121,7 +134,9 @@ title: コーヒー断ちして2週間たってかわったこと
 
 
 
-<h2><div style="padding: 8px 8px; border-color: #000000; border-width: 0 0 1px 5px; border-style: solid; background: #F8F8F8;"><b>しんぺーはこう思った</b></div></h2>
+
+## しんぺーはこう思った
+
 
 そもそも胃が悪くなるほど、カフェインとっちゃいかんですよね。
 

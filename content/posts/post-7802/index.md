@@ -11,7 +11,9 @@ title: '【LUNATIC FEST.】BUCK-TICKとX-JAPAN #ルナフェス 参戦するっ�
 
 さてLUNATIC FEST.通称ルナフェスの最終ラインナップの発表が来週月曜日に迫ってきています。が、ここにきて大御所がとんでもないミスをしたいたいです。というかこれも織り込み済みか？<!--more-->ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
-<h2>BUCK-TICKにアップされたアー写のファイル名が・・・</h2>
+
+## BUCK-TICKにアップされたアー写のファイル名が・・・
+
 
 ルナフェス参戦を暗示するものだったらしいです。
 
@@ -26,7 +28,9 @@ http://www.buck-tick.com/buck-tick/files/20150513/topslide-lunafest-asha-fuchi-a
 
 
 
-<h2>Yoshikiもリーク？？？</h2>
+
+## Yoshikiもリーク？？？
+
 
 たまたまTwitter開いたら最終ラインナップ明日なのによしきがこんなツイートを
 
@@ -36,7 +40,9 @@ http://www.buck-tick.com/buck-tick/files/20150513/topslide-lunafest-asha-fuchi-a
 えーーとこれは出るってことでOK？？？
 
 
-<h2>その他のルナフェス関連記事はこちら</h2>
+
+## その他のルナフェス関連記事はこちら
+
 
 まー、もうこれは確定でしょうね。
 
@@ -63,7 +69,9 @@ http://www.buck-tick.com/buck-tick/files/20150513/topslide-lunafest-asha-fuchi-a
 
 <a href="https://www.warawareotoko.com/2015/05/10/post-7767/">【LUNATIC FEST.】参戦バンドの活動歴の長さを比較してみた #ルナフェス</a>
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 PIERROTはでないのかPIERROTは。
 

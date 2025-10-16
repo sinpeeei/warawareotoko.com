@@ -65,7 +65,9 @@ Youtubeでの音声は<a href="http://youtu.be/T_2ihEs0OkE">こちら</a>
 このサイクルよ！！考えないで！！いま！！もう！！すぐに！！グーグルに入金！！
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 <blockquote class="twitter-tweet" lang="ja"><p>とりあえず知らない人にDIRすきになってほしいとか一切思わないし食わず嫌いしないでとか言うきも毛頭ないんだけど、ぱんぴーが興味本意でDIRを目にして「う、うわぁ」とかなってるのを見るのが凄い好き</p>&mdash; しんぺー@LIVE納済み (@s_s_p_y) <a href="https://twitter.com/s_s_p_y/status/547301172101382144">2014, 12月 23</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

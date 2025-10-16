@@ -15,7 +15,9 @@ title: sukekiyoもう海外公演やるってよ。欧州公演「sukekiyo 二�
 
 とは言え、やはりここは参列者としてこの情報を押さえておきたいと思います。
 
-<h2>「雨上がりの優詩」スケジュール</h2>
+
+## 「雨上がりの優詩」スケジュール
+
 
 公演予定会場はこちら
 
@@ -29,7 +31,9 @@ title: sukekiyoもう海外公演やるってよ。欧州公演「sukekiyo 二�
 <a href="http://sukekiyo-official.jp/live/index.html" target="_blank">sukekiyo official site</a> より引用
 </blockquote>
 
-<h3>「雨上がりの優詩」考察、ツアータイトルが日本と違うのはなぜか？</h3>
+
+### 「雨上がりの優詩」考察、ツアータイトルが日本と違うのはなぜか？
+
 
 https://twitter.com/s_s_p_y/status/471624080999714818
 
@@ -59,7 +63,9 @@ https://twitter.com/s_s_p_y/status/471624510962016256
 
 あらゆる残酷な空想に耐えておけ 現実は 突然 無慈悲になるものだから
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 いきなり海外公演かぁ。というか京自身が海外嫌いなのでsukekiyoは日本限定かと思ってました。
 

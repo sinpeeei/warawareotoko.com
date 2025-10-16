@@ -38,7 +38,9 @@ PIERROT復活
 PIERROTの頃からずっと貫いてきたものを感じた。
 
 だから軽率にもAngeloに向き合ってみようと思って全アルバムを聴こうと思いました。
-<h2>魂は救済された。そこには未来があった。</h2>
+
+## 魂は救済された。そこには未来があった。
+
 結論を書きますが、ぼくのピエラーとしての魂はここにきてようやく救済されました。両手をもがれた怪物だと思っていたものは、今は違うナニかに変わり、PIERROTのように凶悪さではなく、ひたすら希望を振りまく女神のようでした。
 
 AngeloはPIERROTじゃない、PIERROTはAngeloでもない。最終的にたどり着いたのはAngeloは自由だったという言葉でした。
@@ -47,7 +49,9 @@ AngeloはPIERROTじゃない、PIERROTはAngeloでもない。最終的にたど
 予めご承知おきください。
 
 なお全アルバムが聴けるのはSpotifyのみのようです。
-<h3>REBIRTH OF NEWBORN BABY</h3>
+
+### REBIRTH OF NEWBORN BABY
+
 発売当時、聴いていて痛々しくて聴くに耐えなかった。だから聴くのを辞めたし、PIERROTの影を追うことを辞めたんだった。この頃にはDIR EN GREYに完全に振り切ってた。
 
 今聴くと、やっぱり痛々しかった。傷だらけの怪物という感じで、その中にもキレイな歌声が垣間見えるような印象。
@@ -56,12 +60,16 @@ AngeloはPIERROTじゃない、PIERROTはAngeloでもない。最終的にたど
 https://twitter.com/s_s_p_y/status/1251932457345052672?s=20
 
 https://open.spotify.com/album/0xQLPfEY4e7PRJVuupgLPi
-<h3>Design</h3>
+
+### Design
+
 正直FAITHまでなんとなく聴いていたのであまり印象はなかった。
 
 2周目で聴き始めた時に感じたのは、キレイな曲ばかりだった。
 https://open.spotify.com/album/4HMZ6eHak44hURai2Mmgw8
-<h3>BABEL</h3>
+
+### BABEL
+
 https://twitter.com/s_s_p_y/status/1253484942362685440?s=20
 
 なんとなく今までにない試みをいくつもしているように感じました。通しで聴いてからこそ、このアルバムを機転に色々変われたんじゃなかろうかと予測しています。
@@ -69,11 +77,15 @@ https://twitter.com/s_s_p_y/status/1253484942362685440?s=20
 なんとなく、新旧混在でここから新たにAngeloとしての道が始まったのかなと思うと、キリトの孤独やそれを支える2人はどういう心境で、このアルバムが生まれた時にそこはかとなく希望が生まれたんじゃないかと勝手に思い描いちゃってます。
 
 https://open.spotify.com/album/2upf5lpcimByNvVoyCH4ne
-<h3>RETINA</h3>
+
+### RETINA
+
 たまに、明らかにキリトはその時の興味分野が作品に影響しているんじゃないのか？って思う時があります。例えば、PIERROT時代のスカルアーマメントとかも某漫画の暴走族からとってるんじゃないかと思うし、このRETINAもiPhoneからとったのかな？とか思うし。キリトの使用機材について知識はありませんが、スティーブ・ジョブズに傾倒してたのかな。
 
 https://open.spotify.com/album/0OlUZlkKRtN5AqhFwhmO6f
-<h3>FAITH</h3>
+
+### FAITH
+
 ここまで何となく作業中に流しながら聴いてきたAngeloのアルバムの中で一番「はっ」としたのがこのアルバムでした。
 思わず手を止めてしまった。
 
@@ -82,24 +94,32 @@ https://twitter.com/s_s_p_y/status/1250311609827778565?s=20
 それと時系列で聴いてるから、この時はまだ知らなかったけど、この後に続くアルバムがどれも進化が続く感じで度肝抜かれ続けます。
 
 https://open.spotify.com/album/3U3sXhsfSXS9oIoKy39NAA
-<h3>PSYCHE</h3>
+
+### PSYCHE
+
 PRAYという曲。なんというかきっとこれはレクイエムで、今までのPIERROTやキリトへのレクイエムなんじゃないかと今思えています。そして、ずっと心に抱えていたぼくのピエラーとしての何かが癒された瞬間だったかもしれません。仕事中に聴いてたから思わず曲の方を停止しました。涙が溢れそうになって、我慢するのが大変でした。でもポロ、ツーをしなかったのはきっと下瞼がでかいからでしょう。
 
 https://twitter.com/s_s_p_y/status/1250607687940714497?s=20
 
 https://open.spotify.com/album/0VGyjsFKEnqspGXP9DD88M
-<h3>CORD</h3>
+
+### CORD
+
 これもまーた「キリトプログラミングやり始めた？？」って言うことを感じるようなタイトルですが、思い返すとPIERROTの時の神話やゲノムその辺がプログラムという形を変えた「仕組まれたモノ」という意味あいに変わってるのかなとか勝手に解釈。
 
 https://open.spotify.com/album/6isW4I9gnF8xIW3jq52m7D
-<h3>HETERODOX</h3>
+
+### HETERODOX
+
 ここまで聴いてきたAngeloと明らかに異なっている。キリトの歌声がキレイでかつ力強い
 どうも、Angeloはコンスタントにほぼ毎年アルバムを出していることに気がついた。なんかその精力的なペースに強い意志を感じる。
 
 https://twitter.com/s_s_p_y/status/1250707897136209920?s=20
 
 https://open.spotify.com/album/60xdcuNuJBfrLLUHygThxG
-<h3>RESONANCE</h3>
+
+### RESONANCE
+
 ここまで書いてきて、早くこのアルバムについてのところに来たくてウズウズしました。本当に度肝抜かれるほど驚いた。
 思わず笑っちゃったくらいに、すごいアルバムでした。もうこのバンドはPIERROTとは完全に違うものに進化していました。もし、ぼくと同じような思いからAngeloが聴けない人がいるんだったら、是非聴いて欲しいと思います。聴かなくてもいい。
 
@@ -108,7 +128,9 @@ https://open.spotify.com/album/60xdcuNuJBfrLLUHygThxG
 https://twitter.com/s_s_p_y/status/1251925880097533952?s=20
 
 https://open.spotify.com/album/4kSG8dxL4zzCjLpPSm99VA
-<h3>FAUST</h3>
+
+### FAUST
+
 そして、このアルバム。
 
 PIERROTはコンセプチュアルなアルバムを作り、その世界観を大事にしていたと思います。なんとなく、それに近い表現方法が取られているように感じました。
@@ -120,7 +142,9 @@ Angeloはどこまでも制限がなく、自由で、どこにでも行ける�
 
 https://twitter.com/s_s_p_y/status/1251947459372179456?s=20
 https://open.spotify.com/album/3yJH8fdLCYqtS2OpUR2o3a
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 改めて、本当に通しでこのタイミングで聴けてよかった。
 
 今、俯瞰してようやく聴くことができた。

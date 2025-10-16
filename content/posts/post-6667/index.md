@@ -21,7 +21,9 @@ title: 【遠征記】DIR EN GREY 「TOUR2015 THE GRACE OF GOD」新幹線初め
 
 ということで、わからないことだらけでした。
 
-<h2>新幹線のお作法</h2>
+
+## 新幹線のお作法
+
 
 <a href="images/wpid-20141206100240.jpg">![](images/wpid-20141206100240.jpg)</a>
 (さっき東京でたのにもう富士山)
@@ -41,7 +43,9 @@ title: 【遠征記】DIR EN GREY 「TOUR2015 THE GRACE OF GOD」新幹線初め
 <a href="images/wpid-20141206100243.jpg">![](images/wpid-20141206100243.jpg)</a>
 (WiFiが遅くてMacさんが使えない)
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 夜行バスに比べると尋常じゃないスピード
 しかし高い•••

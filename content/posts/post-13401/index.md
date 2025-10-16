@@ -11,7 +11,9 @@ title: 【ライブレポ】Angelo -Acoustic Live Streaming「NEOPHASE」-2020_0
 
 個人的にAngeloの初ライブがまさかストリーミングのライブになるとは思っていませんでした。6月のホールライブに行けるならんたいなと思っていたら、あっという間に中止となりました。リアルなライブに行けるのはいつなのか。とりあえずAngelo初ライブの感想です。
 
-<h2>NEOPHASE</h2>
+
+## NEOPHASE
+
 ZAIKOというシステムを使ってのライブストリーミングで開催されました。リハーサルスタジオからの映像を放送しているそうです。
 
 <div class="graybox"><a href="https://zaiko.io/">https://zaiko.io/</a></div>
@@ -24,12 +26,16 @@ ZAIKOというシステムを使ってのライブストリーミングで開催
 
 ただ、繰り返しになりますが映像が綺麗だった！
 
-<h3>ピエラーが久しぶりにキリトが歌っている姿を見た感想</h3>
+
+### ピエラーが久しぶりにキリトが歌っている姿を見た感想
+
 やっぱりバンドサウンドがいい！やっぱり生がいい！早く見たい！！！という思いが強まりました。
 そしてスタジオではありましたが相当な緊張感が流れていたのが見て取れとれました。これがキリトがYoutubeでよく言ってる憑依という状態かなと思いました。
 まだまだ曲をぼく自身覚えていないし、聴き込んでいないので次回までにもっと聴かねば！
 
-<h3>LIVE DVD</h3>
+
+### LIVE DVD
+
 今回のチケットが1800円。ライブDVDが4180円。
 合わせておよそ6000円でちょうどチケット1枚分くらい。
 
@@ -45,7 +51,9 @@ Angelo -Acoustic Live Streaming「NEOPHASE」-
 <a href="https://www.ffb.tokyo/angelo/html/products/detail.php?product_id=3">https://www.ffb.tokyo/angelo/html/products/detail.php?product_id=3</a>
 </blockquote>
 
-<h3>Angelo Studio Live Streaming「NEOPHASE Ⅱ - The switched world -」</h3>
+
+### Angelo Studio Live Streaming「NEOPHASE Ⅱ - The switched world -」
+
 次回はアコースティックではなくライブサウンドでということだそうです。
 
 もしかしたら、こういった取り組みは一時的なものではなく、今後のスタンダードになっていくのかもしれません。
@@ -79,7 +87,9 @@ ZAIKO ライブ配信チケットの購入から視聴まで
 <a href="https://twitter.com/ZaikoLiveStream/status/1251300571077677057">https://twitter.com/ZaikoLiveStream/status/1251300571077677057</a>
 </blockquote>
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 次回ライブのチケットも即購入しました！
 楽しみです。定期開催される様な感じでしょうか。ただ、リアルあってのオンラインだと思います。そっちに参戦できる日まで楽しみにそっちも待っていたいと思います。
 

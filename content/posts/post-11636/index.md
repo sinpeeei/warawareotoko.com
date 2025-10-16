@@ -16,11 +16,15 @@ title: 【ライブレポ】DIR EN GREY TOUR2018 真世界2018_04_18＠新木場
 開演前の謎押しが一向に発生しないから油断していると、開演直前やっぱり来た。ドドドという地鳴りとともに、扉とは逆方向からの押し。柵があったから後ろから回って来た人たちが雪崩れ込んだみたい。
 足が浮いた状態で横移動しました。ロックマンの空中ダッシュみたいな感じ。
 
-<h2>LIVEレポ</h2>
+
+## LIVEレポ
+
 
 4月16日のCLUB CITTA'のa knot限定LIVEは落選してしまい、参戦できませんでしたので今回のツアーはこの日が初めてでした。新鮮な気持ちで見たかったので、LIVEレポのツイートはあえて見ず、新曲のトレーラーも見ず、一切のネタバレをせずにこの日を迎えました。
 
-<h3>セトリ</h3>
+
+### セトリ
+
 人間を被る
 DIFFERENTSENSE
 LOTUS
@@ -51,7 +55,9 @@ THE IIID EMPIRE
 アンコール一発目の新曲は、パンクっぽいスピーディーな曲でした。映像もあいまってかなり若いw感じでしたが、でもきっとアルバムの中におさまって一連の流れで聴くとしっくりくるんだろうなという感じです。あと、こっからどうせどんどん進化していくんだろうし。
 
 
-<h3>メンバー衣装</h3>
+
+### メンバー衣装
+
 
 だいたいアー写通りだったと思います。
 
@@ -69,7 +75,9 @@ THE IIID EMPIRE
 
 
 Toshiyaはマントみたいなものを羽織っていました。アンコはツアーTシャツA
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">新木場1日目、ありがとう。<br><br>Toshiya<a href="https://t.co/OX8l7pIyG4">https://t.co/OX8l7pIyG4</a> <a href="https://t.co/LRtMCLNs5V">pic.twitter.com/LRtMCLNs5V</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/986596757734748160?ref_src=twsrc%5Etfw">2018年4月18日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">新木場1日目、ありがとう。
+
+Toshiya<a href="https://t.co/OX8l7pIyG4">https://t.co/OX8l7pIyG4</a> <a href="https://t.co/LRtMCLNs5V">pic.twitter.com/LRtMCLNs5V</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/986596757734748160?ref_src=twsrc%5Etfw">2018年4月18日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -87,7 +95,9 @@ Dieはアー写通り？右側頭部がなかったので多分髪型もアー�
 アンコはジーズン的な袖なしの何かでした。スギちゃんと評する人が多すぎ
 
 
-<h3>感想</h3>
+
+### 感想
+
 
 途中何度かぶっ倒れるかと思いましたが、なんとか生きてた。久しぶりの首の膨張感、深く息を吸い込むと痛む胸。とにかく楽しかった。「人間を被る」が楽しみです。
 くっそかっこえええわ。ひたすら松ぼっくりが写っていたけど、確かあれって食べられるんですよね。仙人の食べ物的な言い伝えでめちゃくちゃ栄養価が高い。そのため食べると不老不死が得られるとかなんとか。
@@ -99,17 +109,23 @@ Dieはアー写通り？右側頭部がなかったので多分髪型もアー�
 
 アルバムはいつ出るんだー！秋か冬に出たとして、次のツアーは発売前の秋口とかかな？？
 
-<h2>追加公演</h2>
+
+## 追加公演
+
 
 ツアー初日に告知ありましたが、追加公演が2つ。a knot onlyとシングル発売記念ライブが新木場スタジオコーストにて開催されます。
 初日のa knotは落ちたので次回は行きたいところ！
 
 あとシングル発売記念LIVEはなんだか懐かしい感じですが、CD封入シリアルによる抽選制。
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">4月25日(水)発売の最新SINGLE『人間を被る』発売記念LIVE超最速先行受付方法は作品の封入チラシをご確認ください。<br>※【通常盤】は初回プレス分のみ封入になりますので、お早目のご予約をオススメ致します。<br><br>▼ DIR EN GREY - 『人間を被る』 30sec Teaser (CLIP)<a href="https://t.co/12ZZUjT1eC">https://t.co/12ZZUjT1eC</a> <a href="https://t.co/PbaoEgO7fH">https://t.co/PbaoEgO7fH</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/986090836311007232?ref_src=twsrc%5Etfw">2018年4月17日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">4月25日(水)発売の最新SINGLE『人間を被る』発売記念LIVE超最速先行受付方法は作品の封入チラシをご確認ください。<br>※【通常盤】は初回プレス分のみ封入になりますので、お早目のご予約をオススメ致します。
+
+▼ DIR EN GREY - 『人間を被る』 30sec Teaser (CLIP)<a href="https://t.co/12ZZUjT1eC">https://t.co/12ZZUjT1eC</a> <a href="https://t.co/PbaoEgO7fH">https://t.co/PbaoEgO7fH</a></p>&mdash; DIR EN GREY (@DIRENGREY_JP) <a href="https://twitter.com/DIRENGREY_JP/status/986090836311007232?ref_src=twsrc%5Etfw">2018年4月17日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 本当にとにかく熱くて楽しいLIVEでした。
 もう、本当にそれ以外の言葉が見つからない。

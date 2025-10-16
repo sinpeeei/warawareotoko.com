@@ -9,12 +9,16 @@ tags:
 title: '【LUNATIC FEST.】ついに最終ラインナップ発表！リーク通りのXとBUCK-TICK！ #ルナフェス'
 ---
 
-さあ！！ついに発表！！ルナフェス最終ラインナップ！！<!--more--><h2>ルナフェス最終ラインナップ発表</h2>
+さあ！！ついに発表！！ルナフェス最終ラインナップ！！<!--more-->
+## ルナフェス最終ラインナップ発表
+
 
 https://twitter.com/sugizoofficial/status/600013443127582722
 
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 
 
 リーク通りぃぃぃいいいいい！！！ってかリークしたから早めにしかも深夜にw発表したのか？？

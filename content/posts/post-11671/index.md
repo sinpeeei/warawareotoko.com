@@ -21,7 +21,9 @@ DIR EN GREYのニューシングル「人間を被る」発売以降、収録曲
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zN-Zk-TdSQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h2>山手線ホームの広告はいくらかかってるの？</h2>
+
+## 山手線ホームの広告はいくらかかってるの？
+
 
 ![](images/IMG_3052-1.jpg)
 
@@ -36,7 +38,9 @@ DIR EN GREYのニューシングル「人間を被る」発売以降、収録曲
 
 参考：<a href="http://www.jeki.co.jp/transit/mediaguide/lineup/index.html">http://www.jeki.co.jp/transit/mediaguide/lineup/index.html</a>
 
-<h2>DIR EN GREYはweb広告をずっと出すべき</h2>
+
+## DIR EN GREYはweb広告をずっと出すべき
+
 
 ただ、広告自体は出すべきだと思います。
 
@@ -55,7 +59,9 @@ DIR EN GREYのニューシングル「人間を被る」発売以降、収録曲
 
 ただしシングルに関しての広告で1ヶ月くらいしたら、きっと出なくなると思う。もし、次回も継続的に出そうとしてるならリターゲティングのタグを埋め込んで置いて、追っかけて広告を出し続けられるようにするべきだろう。あと広告からのリンク先がオフィシャルサイトのトップページなのはいかがなものか。せめて広告用の専用ランディングページ作るとかしないと、ファン以外には何も伝わらんだろ。
 
-<h2>今考えるとDIRTのポッポアップショップと広告は猫ひろしに比べると成功してた感</h2>
+
+## 今考えるとDIRTのポッポアップショップと広告は猫ひろしに比べると成功してた感
+
 
 以前ToshiyaのアパレルブランドであるDIRTが渋谷109にポッポアップショップを出店していました。そして期間中109の地下のアドエリアにも広告を出していました。
 
@@ -69,7 +75,9 @@ DIR EN GREYのニューシングル「人間を被る」発売以降、収録曲
 
 ということでDIR EN GREYの方は猫ひろしよりももっと効果的な広告を打ってくれよ。
 
-<h2><a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y">しんぺー</a>はこう思った。
+
 
 次はきっとアルバムの発売時にこういった広告がでるんでしょう。その時はもう少しまともなのを出してほしいものです。
 

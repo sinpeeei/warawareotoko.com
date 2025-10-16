@@ -13,7 +13,9 @@ title: Instagramで相手のおすすめに自分を表示させない方法
 そうならないために、<strong>相手の「おすすめ」に自分を表示しないやり方です。
 </strong>
 
-<h2>相手の「おすすめに自分を表示させないようにするやり方」</h2>
+
+## 相手の「おすすめに自分を表示させないようにするやり方」
+
 
 PCサイトからしかこの設定を変えることができないようです。
 
@@ -34,11 +36,15 @@ PCサイトからしかこの設定を変えることができないようです
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><a href="https://itunes.apple.com/jp/app/instagram/id389801252?mt=8&uo=4&at=11ld5P" target="_blank" rel="noopener">![](images/512x512bb.jpg)</a><div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;"><div class="pochi_name"><a href="https://itunes.apple.com/jp/app/instagram/id389801252?mt=8&uo=4&at=11ld5P" target="_blank" rel="noopener">Instagram</a></div><div class="pochi_price" style="display:inline;">無料</div><div class="pochi_time" style="font-size:x-small;display:inline;">(2016.10.26時点)</div><div class="pochi_seller"><a href="https://itunes.apple.com/jp/developer/instagram-inc./id389801255?uo=4&at=11ld5P" target="_blank" rel="noopener">Instagram, Inc.</a></div><div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" rel="nofollow noopener" target="_blank">ポチレバ</a></div></div><div class="pochireba-footer" style="clear: left"></div></div>
 
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 フォローされてからだと下手に会社の人とかだとブロックできないし、何よりびびる。。。鍵付きにしてても承認しないと気まずいし・・・
 
 まぁやっぱり自分にはとぅいったーさんが性に合いますわwww
 
 
-と言ったところで本日は以上になります。<br><br>おやすみなさい。
+と言ったところで本日は以上になります。
+
+おやすみなさい。

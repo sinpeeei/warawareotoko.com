@@ -12,13 +12,17 @@ title: DIR EN GREY京のニューヘアースタイルのピンク色がどん�
 ![](images/IIMG_6641.jpg)
 
 ピンク色と一言にいいましても、いくつも種類がございます。
-<h2>ピンク色とは？</h2>
+
+## ピンク色とは？
+
 <blockquote>ピンク（英語: pink）は赤と白を混ぜて出来る色の一つ。しばしば明るい赤と表現されるが、より正確には明度が高く彩度の低い赤である。ピンクは濃淡によってさまざまなバリエーションが存在する。
 引用元:wikipedia</blockquote>
 wikipediaに示されているPinkはこんな色でございます。おそらく一般的なピンク色かとおもいます。
 
 <span style="color: #ffc0cb;">◼︎◼︎◼︎</span>
-<h2>ピンク色の種類</h2>
+
+## ピンク色の種類
+
 <span style="color: #f7c2c2; font-size: 14pt;">◼︎◼︎◼︎シャモア</span>
 
 <span style="color: #ffbdb3; font-size: 14pt;">◼︎◼︎◼︎シェル・ピンク</span>
@@ -74,7 +78,9 @@ Amazonで染めるの売ってましたけど、こんなビビッドなまっ�
 </tr>
 </tbody>
 </table>
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 それと写真フォルダ漁ってて気がつきましたが、初日に京が着てたのっておそらくこれです。
 <blockquote class="twitter-tweet" lang="ja">≪更新≫NACK日記(番組ブログ) に2/20放送後記をアップしました！ゲスト【sukekiyo】のブログでしか公開していない写真やリスナープレゼント、Q＆Aも公開中★ <a href="http://t.co/RJ0Gd8DMVI">http://t.co/RJ0Gd8DMVI</a> <a href="https://twitter.com/hashtag/bs795?src=hash">#bs795</a> <a href="http://t.co/M23E5LGwMi">pic.twitter.com/M23E5LGwMi</a>
 

@@ -11,7 +11,9 @@ title: Webデザインが気になるV系バンドのオフィシャルサイト
 ちょいとV系界隈のバンドのオフィシャルサイトを巡回してみました。初めて見るサイトとかもあって新鮮でございましたので、紹介してみます。他意はありませんし、バンドへの評価等ではなくあくまでサイトの使い勝手等々を客観的な感じで見てみた感想になります。<!--more-->ハローしんぺー(<a href="https://twitter.com/s_s_p_y" target="_blank">@s_s_p_y</a> )です。
 オフィより詳しくて、wikiよりも有用なsukekiyo情報サイト「Gadget Zombie Parasite(ガジェットゾンビィパラサイト)」へようこそ。
 
-<h2>DIR EN GREY</h2>
+
+## DIR EN GREY
+
 
 ![](images/DIR-EN-GREY-OFFICIAL-SITE.png)
 出典：<a href="http://direngrey.co.jp/">http://direngrey.co.jp/
@@ -23,7 +25,9 @@ title: Webデザインが気になるV系バンドのオフィシャルサイト
 
 
 
-<h2>MERRY</h2>
+
+## MERRY
+
 
 だいぶ見やすい！
 ![](images/IMERRY-Official-Website.png)
@@ -35,7 +39,9 @@ title: Webデザインが気になるV系バンドのオフィシャルサイト
 
 
 
-<h2>cali≠gari</h2>
+
+## cali≠gari
+
 
 ![](images/0bafec7ff1e34e6e2e80cbd5e92820b7.png)
 出典：<a href="http://www.missitsu.com/">http://www.missitsu.com/</a>
@@ -51,7 +57,9 @@ title: Webデザインが気になるV系バンドのオフィシャルサイト
 ![](images/e967d15bffd7dd28212b93bdc97072b8.png)
 
 
-<h2>L'Arc〜en〜Ciel</h2>
+
+## L'Arc〜en〜Ciel
+
 
 ![](images/ILArc-en-Ciel.com2_.png)
 出典：<a href="http://www.larc-en-ciel.com/">http://www.larc-en-ciel.com/</a>
@@ -66,9 +74,13 @@ title: Webデザインが気になるV系バンドのオフィシャルサイト
 他のサイトに比べると格段に外国っぽいです。訪問者が日本以外の人が多いのかな？？
 
 
-<h2>sukekiyo</h2>
 
-![](images/Isukekiyo-official-web-site.png)<h2></h2>
+## sukekiyo
+
+
+![](images/Isukekiyo-official-web-site.png)
+## 
+
 出典：<a href="http://sukekiyo-official.jp/">http://sukekiyo-official.jp/</a>
 
 DIR EN GREYと同じような構成になってます。メニュー（グローバルナビゲーション）と最新情報と各種バナー
@@ -78,7 +90,9 @@ DIR EN GREYと同じような構成になってます。メニュー（グロー
 ただ、vitiumのバナーがちょっとクリックしにくい気がする。。。それとやっぱり前回のIMMORTALISの時とコンセプトがガラッと変わったのか、全体的な雰囲気も変わっているなーって感じです。
 
 
-<h2>Angelo</h2>
+
+## Angelo
+
 
 ![](images/IAngelo.png)
 出典：<a href="http://angeloweb.jp/index.php">http://angeloweb.jp/index.php</a>
@@ -88,7 +102,9 @@ DIR EN GREYと同じような構成になってます。メニュー（グロー
 ただ全体的に少しだけ安っぽく見えるのはなぜでしょう。配色がモノトーンだからかな。あとメインビジュアルがコロコロ変わりすぎ。スピードが速い。さらにクリックできないし。その辺がなんか個人サイトみたいな印象を受けました。
 
 
-<h2>ムック</h2>
+
+## ムック
+
 
 
 ![](images/IMUCC.png)
@@ -104,7 +120,9 @@ DIR EN GREYと同じような構成になってます。メニュー（グロー
 
 あとカレンダーでスケジュールが一覧できるのがすごく便利そう！！
 
-<h2>GLAY</h2>
+
+## GLAY
+
 
 ![](images/IGLAY-HAPPYSWING.png)
 出典：<a href="http://www.glay.co.jp/">http://www.glay.co.jp/</a>
@@ -119,7 +137,9 @@ DIR EN GREYと同じような構成になってます。メニュー（グロー
 ![](images/c5b95ffa387120c1dbe86efa9b13ff9c.png)
 これは本当今すぐDIR EN GREYやらsukekiyoでもやってほしい！！入金忘れやいろいろなことの漏れを防げる！！おなしゃす！！
 
-<h2>LUNA SEA</h2>
+
+## LUNA SEA
+
 
 ![](images/ILUNA-SEA-OFFICIAL-WEBSITE.png)
 出典：<a href="http://www.lunasea.jp/app-def/S-102/wp/">http://www.lunasea.jp/app-def/S-102/wp/</a>
@@ -132,7 +152,9 @@ URLのけつにwpってついてるからWordPressでも使ってるんでしょ
 玄人仕様になっています。
 
 
-<h2>X</h2>
+
+## X
+
 
 ![](images/IX-Japan-Official-Website.png)
 出典：<a href="http://www.xjapanmusic.com/index.html">http://www.xjapanmusic.com/index.html</a>
@@ -154,7 +176,9 @@ URLのけつにwpってついてるからWordPressでも使ってるんでしょ
 
 さすがです！！！
 
-<h2><a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。</h2>
+
+## <a href="https://twitter.com/s_s_p_y" target="_blank">しんぺー</a> はこう思った。
+
 Xが衝撃的すぎた。。。
 
 個人的にデザインが一番気に入ったのがメリーでした。メリーのサイト見ててYoutube動画で最新のを見たら、療養中のテツがでてた。思ってたのと違ってだいぶ重篤そうなんだね。それでもこうして姿を見せてるってあたりきっと並々ならぬ覚悟と気合があるんだろうな。

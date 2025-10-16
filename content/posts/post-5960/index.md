@@ -20,7 +20,9 @@ title: DIR EN GREY「GAUZE」ツアーグッズ発表される。少量ではあ
 <!--more-->
 さて、本日DIR EN GREYの夏のツアー「TOUR14 PSYCHONNECT -mode of "GAUZE"?-」のグッズの発表がありました。(<a href="http://www.sp-freewillonline.com/direngrey/information.php?id=1848503940&page=detail" target="_blank">DIR EN GREY online</a>)
 
-<h2>ツアーグッズ一覧</h2>
+
+## ツアーグッズ一覧
+
 <ol>
 <li>限定Tシャツ 6,100円</li>
 <li>Tシャツ 4,100円</li>
@@ -38,7 +40,9 @@ title: DIR EN GREY「GAUZE」ツアーグッズ発表される。少量ではあ
 
 ここでいくつかひっかかることが、ラバーキーホルダーって？スポンジキーホルダーって？
 
-<h3>スポンジキーホルダーとは？</h3>
+
+### スポンジキーホルダーとは？
+
 
 これのこと？
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=warawareotoko-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B000NVGUUA" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
@@ -48,7 +52,9 @@ title: DIR EN GREY「GAUZE」ツアーグッズ発表される。少量ではあ
 違うか、でもあたらずも遠からず、たぶん
 
 
-<h3>ラバーキーホルダーとは？</h3>
+
+### ラバーキーホルダーとは？
+
 
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=warawareotoko-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00A4VXJYY" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
@@ -58,13 +64,17 @@ title: DIR EN GREY「GAUZE」ツアーグッズ発表される。少量ではあ
 ようは、あれだな。スポンジかゴムかってことだよ。きっと。(多分違う)
 
 
-<h3>ワークシャツとは？</h3>
+
+### ワークシャツとは？
+
 
 これは実用性ありそう！
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=warawareotoko-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B001GIPEU6" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 
-<h2>1999年のグッズが本当に本当にちょっとだけ販売されるみたい</h2>
+
+## 1999年のグッズが本当に本当にちょっとだけ販売されるみたい
+
 
 <blockquote>
 ※少量ではありますが海外グッズ、1999年頃のグッズを販売致します。
@@ -79,7 +89,9 @@ title: DIR EN GREY「GAUZE」ツアーグッズ発表される。少量ではあ
 
 皆さんは1999年、何をしてましたか？
 
-<h2>しんぺーはこう思った。</h2>
+
+## しんぺーはこう思った。
+
 
 今回会場限定グッズとか、これ全通する人泣かせだなぁ
 

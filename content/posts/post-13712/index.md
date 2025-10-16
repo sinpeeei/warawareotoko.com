@@ -10,14 +10,18 @@ title: Kpop男性アイドルグループ「Stray Kids」のファンになり�
 
 J.Y.ParkとTwiceが一緒にでてる韓国のバラエティ番組がYoutubeに流れてくるようになり、Nizi Projectが流れてくるようになり、NiziUとTwiceをはじめKpopをがっつり聴くようになりました。さらに、そこから本格的にはまってしまったのがStray Kidsです。
 
-<h2>Stray Kidsとは</h2>
+
+## Stray Kidsとは
+
 TwiceやNiziUが所属する韓国のJYP Entertainmentの男性9人からなるグループです。
 
 自分たちで作詞作曲を行うアイドルグループで、事務所の年代で言うとTwiceよりも後輩で、ITZYより先輩(NiziUはITZYより後輩)という位置のようです。
 
 NiziUがそのMVにも出演していたりですが、日本国内ではあまり話題にはなっていないようです。ただ、国内でも人気はだいぶあるようで、本来であれば今年大規模な日本でのライブが予定されていました。
 
-<h3>ぼくがはまったきっかけ</h3>
+
+### ぼくがはまったきっかけ
+
 まず最初に知ったのがYouTubeの「The First Take」
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7DY0FXJV18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -46,14 +50,18 @@ NiziUがそのMVにも出演していたりですが、日本国内ではあま�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySxIjeCScgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2>ライブレポ</h2>
+
+## ライブレポ
+
 そんなStray Kidsですが先日、オンラインコンサートがありました。
 
 まだ全ての曲を知らないので、セトリは割愛しますが、LIVE自体はオンラインコンサートのメリットを最大限に活かしてセットが目まぐるしくかわり、水を使った演出やコンセプチュアルなセットを用いたものなどがありました。
 
 各メンバーそれぞれの見所もあり、とても楽しいものでした。
 
-<h3>VLIVE</h3>
+
+### VLIVE
+
 Stray Kidsを見るために色々と調べてたらわかったのですが、Kpopアイドルの動画を見るにはこの「VLIVE」というプラットフォームが欠かせないツールのようです。
 
 このアプリを入れていると、めちゃくちゃな高頻度で生配信が放送されてきます。
@@ -64,7 +72,9 @@ Stray Kidsを見るために色々と調べてたらわかったのですが、K
 
 <a href="https://apps.apple.com/jp/app/v-live-global-star-live-app/id1019447011?itscg=30200&amp;itsct=apps_box" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">![](images/540x540bb.jpg)</a>
 
-<h2><a href=“https://twitter.com/s_s_p_y”>しんぺー</a>はこう思った。</h2>
+
+## <a href=“https://twitter.com/s_s_p_y”>しんぺー</a>はこう思った。
+
 本当は今年ぴあアリーナでのライブが決まっていたみたいです。ただし、コロナの影響で中止となりました。
 
 国内でもそんな人気なんすね！知らなかった！はやくライブに行ってみたいです。
