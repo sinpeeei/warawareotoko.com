@@ -1,302 +1,254 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>テレワーク on 私のカワイイトラとウマ</title>
-    <link>http://localhost:1313/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/</link>
-    <description>Recent content in テレワーク on 私のカワイイトラとウマ</description>
-    <generator>Hugo -- 0.147.8</generator>
-    <language>ja</language>
-    <lastBuildDate>Wed, 12 Jan 2022 09:00:46 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2022年1月デスク環境紹介</title>
-      <link>http://localhost:1313/posts/post-14219/</link>
-      <pubDate>Wed, 12 Jan 2022 09:00:46 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-14219/</guid>
-      <description>&lt;p&gt;2021年12月よりまたテレワークになりましたので、自宅環境に大きく手を加えました。本日はデスク環境の紹介です。&lt;/p&gt;
-&lt;p&gt;今まで&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「持ってるガジェットMAXで手の届く範囲に整理して配置してある」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;という感じでした。&lt;/p&gt;
-&lt;p&gt;[st-cmemo myclass=&amp;ldquo;st-text-guide st-text-guide-memo&amp;rdquo; webicon=&amp;ldquo;st-svg-pencil&amp;rdquo; iconcolor=&amp;quot;#919191&amp;quot; bgcolor=&amp;quot;#fafafa&amp;quot; color=&amp;quot;#000000&amp;quot; bordercolor=&amp;quot;&amp;quot; borderwidth=&amp;quot;&amp;quot; iconsize=&amp;quot;&amp;quot;]&lt;a title=&#34;2021年7月版のデスク環境紹介&#34; href=&#34;https://www.warawareotoko.com/2021/07/02/post-13965/&#34;&gt;2021年7月版のデスク環境紹介&lt;/a&gt;[/st-cmemo]&lt;/p&gt;
-&lt;p&gt;ただ、&lt;span class=&#34;hutoaka&#34;&gt;物が多いので収納が必要&lt;/span&gt;になりました。&lt;/p&gt;
-&lt;p&gt;そのため、&lt;span class=&#34;hutoaka&#34;&gt;棚を設置。さらに物が多くなりました。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;hutoaka&#34;&gt;物が多いのでケーブルも多くなり、結局雑然としていました。&lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2022年1月のデスク環境&#34;&gt;2022年1月のデスク環境&lt;/h2&gt;
-&lt;p&gt;今回のコンセプトは、&lt;span class=&#34;huto&#34;&gt;「落ち着いた感じ」&lt;/span&gt;です。
-またまた、YouTubeで色んな海外セットアップツアーを漁ったり、Instagramでおしゃれなのを探したりしました。&lt;/p&gt;
-&lt;p&gt;やったこと
-[st-cmemo myclass=&amp;ldquo;st-text-guide st-text-guide-point&amp;rdquo; webicon=&amp;ldquo;st-svg-check&amp;rdquo; iconcolor=&amp;quot;#FF8F00&amp;quot; bgcolor=&amp;quot;#FFF8E1&amp;quot; color=&amp;quot;#000000&amp;quot; bordercolor=&amp;quot;#FFE082&amp;quot; borderwidth=&amp;quot;&amp;quot; iconsize=&amp;ldquo;150&amp;rdquo;]&lt;/p&gt;
-&lt;ul&gt;
- 	&lt;li&gt;デスクの移動&lt;/li&gt;
- 	&lt;li&gt;壁・テーブルの色変更&lt;/li&gt;
- 	&lt;li&gt;不要設備の撤去&lt;/li&gt;
-&lt;/ul&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>テレワーク on 私のカワイイトラとウマ</title><link>https://www.warawareotoko.com/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/</link><description>Recent content in テレワーク on 私のカワイイトラとウマ</description><generator>Hugo -- 0.147.8</generator><language>ja</language><lastBuildDate>Wed, 12 Jan 2022 09:00:46 +0000</lastBuildDate><atom:link href="https://www.warawareotoko.com/tags/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年1月デスク環境紹介</title><link>https://www.warawareotoko.com/posts/post-14219/</link><pubDate>Wed, 12 Jan 2022 09:00:46 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-14219/</guid><description>&lt;p>2021年12月よりまたテレワークになりましたので、自宅環境に大きく手を加えました。本日はデスク環境の紹介です。&lt;/p>
+&lt;p>今まで&lt;/p>
+&lt;p>&lt;strong>「持ってるガジェットMAXで手の届く範囲に整理して配置してある」&lt;/strong>&lt;/p>
+&lt;p>という感じでした。&lt;/p>
+&lt;p>[st-cmemo myclass=&amp;ldquo;st-text-guide st-text-guide-memo&amp;rdquo; webicon=&amp;ldquo;st-svg-pencil&amp;rdquo; iconcolor=&amp;quot;#919191&amp;quot; bgcolor=&amp;quot;#fafafa&amp;quot; color=&amp;quot;#000000&amp;quot; bordercolor=&amp;quot;&amp;quot; borderwidth=&amp;quot;&amp;quot; iconsize=&amp;quot;&amp;quot;]&lt;a title="2021年7月版のデスク環境紹介" href="https://www.warawareotoko.com/2021/07/02/post-13965/">2021年7月版のデスク環境紹介&lt;/a>[/st-cmemo]&lt;/p>
+&lt;p>ただ、&lt;span class="hutoaka">物が多いので収納が必要&lt;/span>になりました。&lt;/p>
+&lt;p>そのため、&lt;span class="hutoaka">棚を設置。さらに物が多くなりました。&lt;/span>&lt;/p>
+&lt;p>&lt;span class="hutoaka">物が多いのでケーブルも多くなり、結局雑然としていました。&lt;/span>&lt;/p>
+&lt;h2 id="2022年1月のデスク環境">2022年1月のデスク環境&lt;/h2>
+&lt;p>今回のコンセプトは、&lt;span class="huto">「落ち着いた感じ」&lt;/span>です。
+またまた、YouTubeで色んな海外セットアップツアーを漁ったり、Instagramでおしゃれなのを探したりしました。&lt;/p>
+&lt;p>やったこと
+[st-cmemo myclass=&amp;ldquo;st-text-guide st-text-guide-point&amp;rdquo; webicon=&amp;ldquo;st-svg-check&amp;rdquo; iconcolor=&amp;quot;#FF8F00&amp;quot; bgcolor=&amp;quot;#FFF8E1&amp;quot; color=&amp;quot;#000000&amp;quot; bordercolor=&amp;quot;#FFE082&amp;quot; borderwidth=&amp;quot;&amp;quot; iconsize=&amp;ldquo;150&amp;rdquo;]&lt;/p>
+&lt;ul>
+&lt;li>デスクの移動&lt;/li>
+&lt;li>壁・テーブルの色変更&lt;/li>
+&lt;li>不要設備の撤去&lt;/li>
+&lt;/ul>
 [/st-cmemo]
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-14219/images/IMG_5520.png&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;デスクの移動&#34;&gt;デスクの移動&lt;/h3&gt;
-&lt;p&gt;デスクの位置を部屋の反対側に持っていきました。これで西日対策万全。
-窓側に持っていったので、お外の様子も見れるようになりました。&lt;/p&gt;
-&lt;h3 id=&#34;壁テーブルの色変更&#34;&gt;壁・テーブルの色変更&lt;/h3&gt;
-&lt;p&gt;続いて壁紙
+&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-14219/images/IMG_5520.png">&lt;/p>
+&lt;h3 id="デスクの移動">デスクの移動&lt;/h3>
+&lt;p>デスクの位置を部屋の反対側に持っていきました。これで西日対策万全。
+窓側に持っていったので、お外の様子も見れるようになりました。&lt;/p>
+&lt;h3 id="壁テーブルの色変更">壁・テーブルの色変更&lt;/h3>
+&lt;p>続いて壁紙
 落ち着いた雰囲気にするために、部屋の最も大きい面積をしてるも、何も機能していない壁に変化をもたらしました。
-貼って剥がせる壁紙シートを貼りました。ダークな落ち着いた雰囲気となりました。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-14219/images/IMG_5430.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;デスクの色
-最初はデスクに色を塗ろうかと思っていましたが、色々めんどくさそうだったので、これまたカッティングシートを貼りました。これで部屋がだいぶ落ち着いた感じになりました。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-14219/images/IMG_5431.png&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;不要設備の撤去&#34;&gt;不要設備の撤去&lt;/h3&gt;
-&lt;p&gt;デスクの上から不要なものを撤去&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-14219/images/IMG_5522.png&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
- 	&lt;li&gt;片手キーボード&lt;/li&gt;
- 	&lt;li&gt;マイク&lt;/li&gt;
- 	&lt;li&gt;照明&lt;/li&gt;
- 	&lt;li&gt;デュアルモニター&lt;/li&gt;
- 	&lt;li&gt;ニンテンドースイッチのスタンド&lt;/li&gt;
- 	&lt;li&gt;棚（移動）&lt;/li&gt;
-&lt;/ul&gt;
+貼って剥がせる壁紙シートを貼りました。ダークな落ち着いた雰囲気となりました。&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-14219/images/IMG_5430.png">&lt;/p>
+&lt;p>デスクの色
+最初はデスクに色を塗ろうかと思っていましたが、色々めんどくさそうだったので、これまたカッティングシートを貼りました。これで部屋がだいぶ落ち着いた感じになりました。&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-14219/images/IMG_5431.png">&lt;/p>
+&lt;h3 id="不要設備の撤去">不要設備の撤去&lt;/h3>
+&lt;p>デスクの上から不要なものを撤去&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-14219/images/IMG_5522.png">&lt;/p>
+&lt;ul>
+&lt;li>片手キーボード&lt;/li>
+&lt;li>マイク&lt;/li>
+&lt;li>照明&lt;/li>
+&lt;li>デュアルモニター&lt;/li>
+&lt;li>ニンテンドースイッチのスタンド&lt;/li>
+&lt;li>棚（移動）&lt;/li>
+&lt;/ul>
 PCゲームをやらないことに気がついたのでゲームに使うものを撤去しました。
 デュアルモニターも撤去。iPadのサイドカーでOK（YouTube見るだけだし）
 スイッチも自分の部屋では、モニターでやらないし、キャプチャーすることもないのでスタンドは不要。
-&lt;p&gt;棚は移動して、小物を置いていますが、まだここは整理しきれてない。不要なものを捨てないと&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-14219/images/IMG_5524.png&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;しんぺーはこう思った&#34;&gt;&lt;a href=&#34;https://twitter.com/s_s_p_y&#34;&gt;しんぺー&lt;/a&gt;はこう思った。&lt;/h2&gt;
-&lt;p&gt;今後やりたいこと&lt;/p&gt;
-&lt;p&gt;Mac miniを使っていますが、動画編集中にカクツクカクツク。テキスト入力が間に合わない。そろそろM1 Macに買い替えたい。
-Mac Book Airにしてデュアルモニターとして使ってもいい。&lt;/p&gt;
-&lt;p&gt;年末Mac miniにトラブルがあり、初期化する時にBootcampのWindowsも消してしまいました。
-なので、家にWindowsがないので、そのうちゲーミングPCでWindowsを導入したいと思っています。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2021年7月版のデスク環境紹介</title>
-      <link>http://localhost:1313/posts/post-13965/</link>
-      <pubDate>Fri, 02 Jul 2021 11:48:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-13965/</guid>
-      <description>&lt;p&gt;そういえば今のデスク環境になってから記事を書いてなかったと思うので、この機会に紹介しようと思います。4月以降会社に出社するようになってから自室に入る時間がめっきり少なくなったのですが、最近子どもがRSウィルスで保育園をお休みしているので、在宅勤務にしています。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;images/20210702084837.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13965/images/20210702084837.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;自分のデスクに座っていると改めて色々と気がついて手を加えたくなったり、整理したくなったりしてきます。多分ですが、そのうちまた手を加えるかもしれませんので、今時点の環境となります。（あと整理整頓できてないからゴミとか写ってるのでご容赦を。）&lt;/p&gt;
-&lt;p&gt;前回からの変更点まとめ&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;有孔ボードの上下に棚設置&lt;/li&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;li&amp;gt;Macを有孔ボードに貼り付け&amp;lt;/li&amp;gt;
-
-
+&lt;p>棚は移動して、小物を置いていますが、まだここは整理しきれてない。不要なものを捨てないと&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-14219/images/IMG_5524.png">&lt;/p>
+&lt;h2 id="しんぺーはこう思った">&lt;a href="https://twitter.com/s_s_p_y">しんぺー&lt;/a>はこう思った。&lt;/h2>
+&lt;p>今後やりたいこと&lt;/p>
+&lt;p>Mac miniを使っていますが、動画編集中にカクツクカクツク。テキスト入力が間に合わない。そろそろM1 Macに買い替えたい。
+Mac Book Airにしてデュアルモニターとして使ってもいい。&lt;/p>
+&lt;p>年末Mac miniにトラブルがあり、初期化する時にBootcampのWindowsも消してしまいました。
+なので、家にWindowsがないので、そのうちゲーミングPCでWindowsを導入したいと思っています。&lt;/p></description></item><item><title>2021年7月版のデスク環境紹介</title><link>https://www.warawareotoko.com/posts/post-13965/</link><pubDate>Fri, 02 Jul 2021 11:48:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-13965/</guid><description>&lt;p>そういえば今のデスク環境になってから記事を書いてなかったと思うので、この機会に紹介しようと思います。4月以降会社に出社するようになってから自室に入る時間がめっきり少なくなったのですが、最近子どもがRSウィルスで保育園をお休みしているので、在宅勤務にしています。&lt;/p>
+&lt;p>&lt;a href="images/20210702084837.jpg">&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13965/images/20210702084837.jpg">&lt;/a>&lt;/p>
+&lt;p>自分のデスクに座っていると改めて色々と気がついて手を加えたくなったり、整理したくなったりしてきます。多分ですが、そのうちまた手を加えるかもしれませんので、今時点の環境となります。（あと整理整頓できてないからゴミとか写ってるのでご容赦を。）&lt;/p>
+&lt;p>前回からの変更点まとめ&lt;/p>
+&lt;ul>
+&lt;li>有孔ボードの上下に棚設置&lt;/li>
+&lt;pre>&lt;code>&amp;lt;li&amp;gt;Macを有孔ボードに貼り付け&amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;配線周り見直し&amp;lt;/li&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;ウルトラワイドモニター&#34;&gt;ウルトラワイドモニター&lt;/h2&gt;
-&lt;p&gt;前回からかわりありませんがあらためて。&lt;/p&gt;
-&lt;p&gt;この環境のポイントはウルトラワイドモニターです。
-以前は普通サイズのモニターを２枚並べて使っていました。片っぽに会社のPCを繋げ、もう片方は自分のMacを繋げていました。会社でもデュアルモニターだったので、自宅でテレワークになって単純にモニター面積が半分くらいになったので、どうしたものかと思っていました。&lt;/p&gt;
-&lt;p&gt;そこで、思い切ってウルトラワイドモニターを導入しました。継ぎ目がない1枚のモニターは集中力も上昇する気がします。さらに、このモニターはUSBハブ機能も備えており、デスク常のケーブル整理に一役買ってくれることを期待しました。&lt;/p&gt;
-&lt;h2 id=&#34;有孔ボード&#34;&gt;有孔ボード&lt;/h2&gt;
-&lt;p&gt;デスクの横の有孔ボードは、ツーバイフォー材を立てて、そこにレールフックをつけて引っ掛けています。さらにその上下に板をつけて棚にしています。&lt;/p&gt;
-&lt;p&gt;この有孔ボードにMac miniの本体を専用のステーで貼り付け、配線各種も全部この裏を通す形で目立たなくしています。ここが前回からの変更点です。&lt;/p&gt;
-&lt;p&gt;Macを空中に上げたことで配線類を多少隠すことに成功。
-若干ケーブルマネージメントが甘いところが課題。それは電源コードの長さが足りないためで、現状改善できずにいます。&lt;/p&gt;
-&lt;h2 id=&#34;その他の設備&#34;&gt;その他の設備&lt;/h2&gt;
-&lt;p&gt;一番気に入ってて、多分壊れるまで一生使うであろうアイテムがRealforceのキーボードです。&lt;/p&gt;
-&lt;p&gt;これを使い出してから他のキーボードが使えません。会社に行って安いキーボードを触った時「？？？？？」となりました。キーが軽すぎる。&lt;/p&gt;
-&lt;p&gt;次に気に入ってるのが、地味だけどスマホホルダーです。2台立たせられるようになっています。会社用とプライベートを並べて立てられるし、電話会議の時にヘッドセットを繋げたり、充電できたりするし便利です。&lt;/p&gt;
-&lt;p&gt;あと何気にヘッドセットはとても重宝しています。
-コンデンサマイクも買ってみましたが、それよりも良いみたいです。&lt;/p&gt;
-&lt;p&gt;自分の声を相手に的確に伝えられ、かつ他の音はあんまり届かない。しかもめちゃくちゃコスパがいい。会議用に高いマイク買うよりも、こっちおすすめします。&lt;/p&gt;
-&lt;h2 id=&#34;次にいじりたいところ&#34;&gt;次にいじりたいところ&lt;/h2&gt;
-&lt;p&gt;なんと言っても配線。&lt;/p&gt;
-&lt;p&gt;ケーブルマネジメントをもっとしっかりとやりたい。
-そのために、口数が多くて長い電源コードを見つけないと。&lt;/p&gt;
-&lt;p&gt;あとモニター裏の壁を有効利用したい。&lt;/p&gt;
-&lt;p&gt;シャレオツな色の壁紙を貼って、怪しい灯りで照らしたい。
-そんでもって、ポスターを貼るか簡易的な棚を作るかしたいと思っています。&lt;/p&gt;
-&lt;h2 id=&#34;しんぺーはこう思った&#34;&gt;&lt;a href=&#34;https://twitter.com/s_s_p_y&#34;&gt;しんぺー&lt;/a&gt;はこう思った。&lt;/h2&gt;
-&lt;p&gt;テレワークが解除になったので、次の課題は外で家でできていたことと同じ様なことをどれだけできるかの環境構築が課題かなと思っています。&lt;/p&gt;
-&lt;p&gt;そのためにiPadを買いました。（正確には外用として割安になっていた型落ちの整備品をゲット）&lt;/p&gt;
-&lt;p&gt;iPadをベースに外でも作業できるように色々と考えたいと思います。&lt;/p&gt;
-&lt;p&gt;と言ったところで本日は以上です。
-おやすみなさい。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>さよならテレワーク</title>
-      <link>http://localhost:1313/posts/post-13905/</link>
-      <pubDate>Sun, 04 Apr 2021 05:54:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-13905/</guid>
-      <description>&lt;p&gt;この1年、ほぼ会社に行かずずっと家から仕事をしていました。最初の方こそ世間的にも会社的にも色々な環境整備が必要でしたが、今では快適に過ごすことができています。&lt;/p&gt;
-&lt;p&gt;しかし、それももう終わりました。&lt;/p&gt;
-&lt;p&gt;さよなら、テレワーク。&lt;/p&gt;
-&lt;h2 id=&#34;テレワークで良かったこと&#34;&gt;テレワークで良かったこと&lt;/h2&gt;
-&lt;p&gt;色々なことを達成できた気がします。&lt;/p&gt;
-&lt;p&gt;単純に通勤時間が消滅したことで、他のことが出来たし、気持ちにも余裕が出来ました。&lt;/p&gt;
-&lt;h3 id=&#34;ダイエット成功&#34;&gt;ダイエット成功&lt;/h3&gt;
-&lt;p&gt;リングフィットアドベンチャーによるダイエットで目標体重をクリアすることができました。&lt;/p&gt;
-&lt;p&gt;お昼ご飯を用意している間や通勤時間だった時間帯に取り組みました。&lt;/p&gt;
-&lt;p&gt;今は体重もう元に戻ってるけどw&lt;/p&gt;
-&lt;p&gt;想定外だったのが、通勤という行為が実は意外なほどに運動になっていたということ。通勤が消滅して運動量が激減し、活動量が減りました。&lt;/p&gt;
-&lt;p&gt;だから通勤で使っていた時間をリングフィットアドベンチャーに充てました。&lt;/p&gt;
-&lt;p&gt;ただ、違うのは疲労感。通勤で感じる疲労感よりも、ちゃんとした運動をやった後の疲労感は違います。消耗してる感じがしない。&lt;/p&gt;
-&lt;h3 id=&#34;家族との時間子どもと過ごす時間が作れた&#34;&gt;家族との時間、子どもと過ごす時間が作れた&lt;/h3&gt;
-&lt;p&gt;子どもの保育園の送り迎えを毎日やりました。&lt;/p&gt;
-&lt;p&gt;その結果、だいぶ子どもと仲良くなった気がします。あと奥さんの負担も軽減でき、うちの一家的にもだいぶ良いサイクルを作って過ごすことができました。&lt;/p&gt;
-&lt;p&gt;それも、もう元に戻ります。&lt;/p&gt;
-&lt;p&gt;本当に守るべきものは何なのか？今後は、それについて改めて考える機会になりそうです。&lt;/p&gt;
-&lt;h3 id=&#34;新しいスキルお料理開発に取り組めた&#34;&gt;新しいスキル(お料理)開発に取り組めた&lt;/h3&gt;
-&lt;p&gt;ずっと家にいて、ほとんど変化のない生活でした。&lt;/p&gt;
-&lt;p&gt;そこで感じたのは自分で変化を持たせることの重要性です。&lt;/p&gt;
-&lt;p&gt;色々と試しました。&lt;/p&gt;
-&lt;p&gt;部屋の環境整備、新しいことを始める(熱帯魚飼ったり、アクアポニックスにしてみたり)、色々ゲームやったり、動画投稿してみたり&lt;/p&gt;
-&lt;p&gt;最終的に行き着いたのがお料理です。&lt;/p&gt;
-&lt;p&gt;さらに料理風景を動画に撮ってYouTubeに投稿したりし始めました。&lt;/p&gt;
-&lt;p&gt;よく、このテレワーク生活が始まった時にビジネス系のインフルエンサー界隈では、資格取得とかスキル取得云々が流行りましたが、果たして新しく明確なスキル取得して今ジョブチェンジできた人ってどれくらいいるんでしょうか。疑問です。&lt;/p&gt;
-&lt;p&gt;多分明確に自分の仕事や環境が滅茶苦茶に破壊されたような人間じゃなければ難しいんじゃないかなと思います。&lt;/p&gt;
-&lt;p&gt;だから、ぼくはお料理スキルの開発を目指しました。&lt;/p&gt;
-&lt;p&gt;うちの家族だと奥さんしか料理アビリティがないので、そこに新しくぼくがアビリティとして取得すれば、色々な状況に対応ができるようになります。&lt;/p&gt;
-&lt;p&gt;今後もお料理にチャレンジしていこうと思います。&lt;/p&gt;
-&lt;h2 id=&#34;思ってたのと違ったところ&#34;&gt;思ってたのと違ったところ&lt;/h2&gt;
-&lt;h3 id=&#34;インプット読書学習の時間はとれなかった&#34;&gt;インプット(読書、学習)の時間はとれなかった&lt;/h3&gt;
-&lt;p&gt;時間が無限にできるんじゃないかと思っていました。その結果無限にインプット時間が生まれるんじゃね？とか考えてました。&lt;/p&gt;
-&lt;p&gt;そんなことなかった。&lt;/p&gt;
-&lt;p&gt;普通にインプットの時間は作らないとできないし、逆に自由にできる時間は他のことに充てたので、読書なんか全くできませんでした。&lt;/p&gt;
-&lt;h3 id=&#34;運動量が激減&#34;&gt;運動量が激減&lt;/h3&gt;
-&lt;p&gt;通勤は苦痛だけど意外な程体力を使っていて、健康維持のための運動にはなっていた。&lt;/p&gt;
-&lt;p&gt;これが結論です。&lt;/p&gt;
-&lt;p&gt;ただ、肩こりなどの不調も激減。&lt;/p&gt;
-&lt;p&gt;ほとんどマッサージに行きませんでした。&lt;/p&gt;
-&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
-&lt;p&gt;ぼくは今後もずっとテレワークを続けたいと思いました。&lt;/p&gt;
-&lt;p&gt;暑くない、静か＝人間らしい生活、集中できる環境&lt;/p&gt;
-&lt;p&gt;しかし、それが全てリセット。&lt;/p&gt;
-&lt;p&gt;元通りの出社になりました。&lt;/p&gt;
-&lt;p&gt;他の会社では、事務所縮小だったり、極端なところだと解約だったりもあるらしいですが、そんな中で、コミュニケーションを目的に出社を強制するのは、他のデメリットよりも「コミュニケーション」にメリットを見出しているのでしょうか。&lt;/p&gt;
-&lt;p&gt;この一年、コミュニケーションの仕方もだいぶ変わりました。&lt;/p&gt;
-&lt;p&gt;大雑把に言うと、以前よりも丁寧にコミュニケーションを取るようになりました。&lt;/p&gt;
-&lt;p&gt;慮るようになった。&lt;/p&gt;
-&lt;p&gt;文面や雰囲気だけで伝えきれない部分があるから、より一層丁寧に伝わる努力をするようになりました。&lt;/p&gt;
-&lt;p&gt;でも、それってこうなる前から重視されて然るべき要素だったと思います。&lt;/p&gt;
-&lt;p&gt;むしろ、正しいコミュニケーショが対面だからと言う理由で、「察しろ」という空気感で、おざなりにされていたのではないでしょうか。&lt;/p&gt;
-&lt;p&gt;デジタルのいいところは証跡が残ること。&lt;/p&gt;
-&lt;p&gt;全てに証拠が残ること。&lt;/p&gt;
-&lt;p&gt;だからこそ、アナログよりもデジタルの方が齟齬が生まれにくいと思います。何より齟齬の原因も掴みやすいと思います。&lt;/p&gt;
-&lt;p&gt;旧来のコミュニケーションを重視しようとする人種は、おそらく今後の世界では旧世代になるのではないでしょうか。&lt;/p&gt;
-&lt;p&gt;ぼくはそう思います。&lt;/p&gt;
-&lt;h2 id=&#34;しんぺーはこう思った&#34;&gt;&lt;a href=&#34;https://twitter.com/s_s_p_y&#34;&gt;しんぺー&lt;/a&gt;はこう思った。&lt;/h2&gt;
-&lt;p&gt;自分にとって何が大切か&lt;/p&gt;
-&lt;p&gt;そして、どうしたらそれを守れるのか&lt;/p&gt;
-&lt;p&gt;そう言ったことを明確に認識させてくれた体験でした。&lt;/p&gt;
-&lt;p&gt;今後の人生の身の振り方、しっかりと考えていきたいと思います。&lt;/p&gt;
-&lt;p&gt;と言ったところで本日は以上です。
-おやすみなさい。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2020年11月版のデスク環境紹介</title>
-      <link>http://localhost:1313/posts/post-13695/</link>
-      <pubDate>Wed, 02 Dec 2020 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-13695/</guid>
-      <description>&lt;p&gt;今年の4月くらいから始まったテレワークですが、ぼく自身はまだ継続中です。このまま永遠に続いて欲しいところです。開始当初は、作業環境に関して最低限の費用で構築をしたのですが、今回大幅にアップデートを行なったのでご紹介したいと思います。&lt;/p&gt;
-&lt;h2 id=&#34;アップデートビフォーアフター&#34;&gt;アップデートビフォーアフター&lt;/h2&gt;
-&lt;p&gt;こちらが4月くらいの状態です。
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13695/images/IMG_3368.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;古いディスプレイを引っ張り出してきてデュアルモニター化しています。片っぽに会社のノートPC、もう一方に自分のMacをつなげて、キーボードとマウスを切り替えながら使っていました。&lt;/p&gt;
-&lt;p&gt;そのあとモニターアームを導入して少しアップデート
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13695/images/IMG_3475.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;そして、これが2020年11月末時点の状態です。
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13695/images/IMG_0175.jpeg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;具体的には、「ウルトラワイドモニターを導入」「壁にボードを取り付け」「サイドテーブルを設置」「カーテンで部屋を間仕切り設置」を行いました。&lt;/p&gt;
-&lt;h3 id=&#34;ウルトラワイドモニター&#34;&gt;ウルトラワイドモニター&lt;/h3&gt;
-&lt;p&gt;[itemlink post_id=&amp;ldquo;13680&amp;rdquo;]
-LGの35WN75C-Bという曲面うルトラワイドモニターです。&lt;/p&gt;
-&lt;p&gt;両端が曲がっていて、ゲームなどをやるときに没入感が増すようになっています。写真編集などを行う人にとっては、正確な編集に支障をきたすかもということで嫌われるみたいです。ただ、ぼくは仕事とそのほかゲームなどで使う予定だし、1万円くらいの違いなので、思い切って曲面にしました。&lt;/p&gt;
-&lt;p&gt;これが設置してみてびっくり。&lt;/p&gt;
-&lt;p&gt;非常によいです。&lt;/p&gt;
-&lt;p&gt;デスクの前に座るだけで、なんだかクリエィティブな気分になってモチベーションがあがります。&lt;/p&gt;
-&lt;p&gt;ゲームはまだやっていませんが、映画とかみてもこれはいいかもしれません。&lt;/p&gt;
-&lt;h3 id=&#34;ラブリコでdiy&#34;&gt;ラブリコでDIY&lt;/h3&gt;
-&lt;p&gt;[itemlink post_id=&amp;ldquo;13699&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;ツーバイフォーと呼ばれる規格の木材を壁に立てる際に使うのがラブリコという製品です。他にもディアウォールという商品も有名です。DIYをやろうと思う人ならおそらく知ってるんじゃないかと思います。&lt;/p&gt;
-&lt;p&gt;ツーバイフォーは塗装済みのものを楽天で購入。ホームセンターで買うと持って帰ってこなくちゃいけないのが、ちょっとめんどいと思い、通販で買いました。&lt;/p&gt;
-&lt;!--&lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34;&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&#34;border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td style=&#34;width:240px&#34;&gt;&lt;a href=&#34;https://hb.afl.rakuten.co.jp/ichiba/1dd7dd06.858e3a13.1dd7dd07.19b0889c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fipcdiylab%2Fww248w%2F&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;nofollow sponsored noopener noreferrer&#34; style=&#34;word-wrap:break-word;&#34;&gt;![](images/?me_id=1368541&amp;item_id=10000085&amp;pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fipcdiylab%2Fcabinet%2F1bn63.jpg%3F_ex%3D240x240&amp;s=240x240&amp;t=picttext)&lt;/a&gt;&lt;/td&gt;&lt;td style=&#34;vertical-align:top;width:248px;&#34;&gt;&lt;p style=&#34;font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word&#34;&gt;&lt;a href=&#34;https://hb.afl.rakuten.co.jp/ichiba/1dd7dd06.858e3a13.1dd7dd07.19b0889c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fipcdiylab%2Fww248w%2F&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;nofollow sponsored noopener noreferrer&#34; style=&#34;word-wrap:break-word;&#34;&gt;ホワイト塗装済みツーバイフォー材（2x4）約38ミリ X 89ミリ X 2400ミリ LABRICO（ラブリコ）／ディアウォール／ウォリスト用&lt;/a&gt;&lt;br&gt;&lt;span &gt;価格：4290円（税込、送料別)&lt;/span&gt; &lt;span style=&#34;color:#BBB&#34;&gt;(2020/12/1時点)&lt;/span&gt;&lt;/p&gt;&lt;div style=&#34;margin:10px;&#34;&gt;&lt;a href=&#34;https://hb.afl.rakuten.co.jp/ichiba/1dd7dd06.858e3a13.1dd7dd07.19b0889c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fipcdiylab%2Fww248w%2F&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;nofollow sponsored noopener noreferrer&#34; style=&#34;word-wrap:break-word;&#34;&gt;![](images/rl.svg)&lt;/a&gt;&lt;a href=&#34;https://hb.afl.rakuten.co.jp/ichiba/1dd7dd06.858e3a13.1dd7dd07.19b0889c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fipcdiylab%2Fww248w%2F%3Fscid%3Daf_pc_bbtn&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==&#34; target=&#34;_blank&#34; rel=&#34;nofollow sponsored noopener noreferrer&#34; style=&#34;word-wrap:break-word;&#34;&gt;&lt;div style=&#34;float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;&#34;&gt;楽天で購入&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;p style=&#34;color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word&#34;&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;--&gt;
-&lt;p&gt;壁を傷つけることなく、部屋に柱を立てたり、棚を作ったりすることができます。&lt;/p&gt;
-&lt;p&gt;これを使って前からやりたかった、有孔ボードに色々ひっかけて、デスクの上を整理するやつをやりました。&lt;/p&gt;
-&lt;p&gt;実はこの後もまだ追加で手を加えようと思っていて、簡易的な棚を作ろうと思っています。&lt;/p&gt;
-&lt;h3 id=&#34;サイドテーブル&#34;&gt;サイドテーブル&lt;/h3&gt;
-&lt;p&gt;本当はこのテーブルをDIYしようと思っていました。しかしYoutubeで参考動画等を見るうちに、その工程の煩雑さを知り、結局買うことにしました。&lt;/p&gt;
-&lt;p&gt;でも、買って正解。&lt;/p&gt;
-&lt;p&gt;[itemlink post_id=&amp;ldquo;13696&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;耐荷重も80kgあって、揺れないし、デザインもグッド。&lt;/p&gt;
-&lt;p&gt;気に入りました。&lt;/p&gt;
-&lt;h3 id=&#34;室内にカーテンで間仕切り&#34;&gt;室内にカーテンで間仕切り&lt;/h3&gt;
-&lt;p&gt;ノイズキャンセリングヘッドホンがあるので、防音に関してはそこまで必要性はないのですが、ただ少しでも空間が区切られると気持ちにもメリハリがついて、仕事にも集中できそうなので設置してみました。&lt;/p&gt;
-&lt;p&gt;また、これからの季節、エアコンによる暖房費がかかってきそうなので少しでも保温効果を高めるためにも、空間を狭くするのは省エネ的にもよろしいんじゃないかと思います。&lt;/p&gt;
-&lt;p&gt;カーテンレールはこれ。防音カーテンはニトリです。
-[itemlink post_id=&amp;ldquo;13697&amp;rdquo;]&lt;/p&gt;
-&lt;h2 id=&#34;しんぺーはこう思った&#34;&gt;&lt;a href=&#34;https://twitter.com/s_s_p_y&#34;&gt;しんぺー&lt;/a&gt;はこう思った。&lt;/h2&gt;
-&lt;p&gt;ずっと家にいると刺激がなくなって、マンネリ化してきます。
-だからこそ、少しずつ変化を持たせたりすることは重要なんじゃないかと思います。&lt;/p&gt;
-&lt;p&gt;これからも、手を加えていく予定です。&lt;/p&gt;
-&lt;p&gt;次は、棚に手を加えるのと、照明関係です。&lt;/p&gt;
-&lt;p&gt;と言ったところで本日は以上です。
-おやすみなさい。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2020年5月版のデスク環境紹介。参考動画100本見てデスク環境整理した話</title>
-      <link>http://localhost:1313/posts/post-13241/</link>
-      <pubDate>Sun, 03 May 2020 11:00:52 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-13241/</guid>
-      <description>&lt;p&gt;外出自粛、テレワークにより自宅で仕事をしている人も多いはず。家の中で過ごすことが多くなったため、模様替えや掃除整理をやり始めた人もいることでしょう。かく言うぼくも、デスク周りの散らかりが気になり出して環境を整理し直しました。今のところ、以前よりもだいぶ快適に作業できるようになっております。&lt;/p&gt;
-&lt;p&gt;ただし、納得したデスク環境になるまで紆余曲折がありました。Youtubeで海外のSetup Tour（＝デスクの環境構築動画）をみまくったり、様々なブログの記事を読み漁りました。その結果得た知見をご紹介させていただければと思います。&lt;/p&gt;
-&lt;h2 id=&#34;在宅で自室のデスク環境を見直し&#34;&gt;在宅で自室のデスク環境を見直し&lt;/h2&gt;
-&lt;p&gt;在宅でテレワークを行なっているので、だんだんと自宅のデスク環境が気になり出しました。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;散らかるケーブル
+&lt;/code>&lt;/pre>
+&lt;/ul>
+&lt;h2 id="ウルトラワイドモニター">ウルトラワイドモニター&lt;/h2>
+&lt;p>前回からかわりありませんがあらためて。&lt;/p>
+&lt;p>この環境のポイントはウルトラワイドモニターです。
+以前は普通サイズのモニターを２枚並べて使っていました。片っぽに会社のPCを繋げ、もう片方は自分のMacを繋げていました。会社でもデュアルモニターだったので、自宅でテレワークになって単純にモニター面積が半分くらいになったので、どうしたものかと思っていました。&lt;/p>
+&lt;p>そこで、思い切ってウルトラワイドモニターを導入しました。継ぎ目がない1枚のモニターは集中力も上昇する気がします。さらに、このモニターはUSBハブ機能も備えており、デスク常のケーブル整理に一役買ってくれることを期待しました。&lt;/p>
+&lt;h2 id="有孔ボード">有孔ボード&lt;/h2>
+&lt;p>デスクの横の有孔ボードは、ツーバイフォー材を立てて、そこにレールフックをつけて引っ掛けています。さらにその上下に板をつけて棚にしています。&lt;/p>
+&lt;p>この有孔ボードにMac miniの本体を専用のステーで貼り付け、配線各種も全部この裏を通す形で目立たなくしています。ここが前回からの変更点です。&lt;/p>
+&lt;p>Macを空中に上げたことで配線類を多少隠すことに成功。
+若干ケーブルマネージメントが甘いところが課題。それは電源コードの長さが足りないためで、現状改善できずにいます。&lt;/p>
+&lt;h2 id="その他の設備">その他の設備&lt;/h2>
+&lt;p>一番気に入ってて、多分壊れるまで一生使うであろうアイテムがRealforceのキーボードです。&lt;/p>
+&lt;p>これを使い出してから他のキーボードが使えません。会社に行って安いキーボードを触った時「？？？？？」となりました。キーが軽すぎる。&lt;/p>
+&lt;p>次に気に入ってるのが、地味だけどスマホホルダーです。2台立たせられるようになっています。会社用とプライベートを並べて立てられるし、電話会議の時にヘッドセットを繋げたり、充電できたりするし便利です。&lt;/p>
+&lt;p>あと何気にヘッドセットはとても重宝しています。
+コンデンサマイクも買ってみましたが、それよりも良いみたいです。&lt;/p>
+&lt;p>自分の声を相手に的確に伝えられ、かつ他の音はあんまり届かない。しかもめちゃくちゃコスパがいい。会議用に高いマイク買うよりも、こっちおすすめします。&lt;/p>
+&lt;h2 id="次にいじりたいところ">次にいじりたいところ&lt;/h2>
+&lt;p>なんと言っても配線。&lt;/p>
+&lt;p>ケーブルマネジメントをもっとしっかりとやりたい。
+そのために、口数が多くて長い電源コードを見つけないと。&lt;/p>
+&lt;p>あとモニター裏の壁を有効利用したい。&lt;/p>
+&lt;p>シャレオツな色の壁紙を貼って、怪しい灯りで照らしたい。
+そんでもって、ポスターを貼るか簡易的な棚を作るかしたいと思っています。&lt;/p>
+&lt;h2 id="しんぺーはこう思った">&lt;a href="https://twitter.com/s_s_p_y">しんぺー&lt;/a>はこう思った。&lt;/h2>
+&lt;p>テレワークが解除になったので、次の課題は外で家でできていたことと同じ様なことをどれだけできるかの環境構築が課題かなと思っています。&lt;/p>
+&lt;p>そのためにiPadを買いました。（正確には外用として割安になっていた型落ちの整備品をゲット）&lt;/p>
+&lt;p>iPadをベースに外でも作業できるように色々と考えたいと思います。&lt;/p>
+&lt;p>と言ったところで本日は以上です。
+おやすみなさい。&lt;/p></description></item><item><title>さよならテレワーク</title><link>https://www.warawareotoko.com/posts/post-13905/</link><pubDate>Sun, 04 Apr 2021 05:54:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-13905/</guid><description>&lt;p>この1年、ほぼ会社に行かずずっと家から仕事をしていました。最初の方こそ世間的にも会社的にも色々な環境整備が必要でしたが、今では快適に過ごすことができています。&lt;/p>
+&lt;p>しかし、それももう終わりました。&lt;/p>
+&lt;p>さよなら、テレワーク。&lt;/p>
+&lt;h2 id="テレワークで良かったこと">テレワークで良かったこと&lt;/h2>
+&lt;p>色々なことを達成できた気がします。&lt;/p>
+&lt;p>単純に通勤時間が消滅したことで、他のことが出来たし、気持ちにも余裕が出来ました。&lt;/p>
+&lt;h3 id="ダイエット成功">ダイエット成功&lt;/h3>
+&lt;p>リングフィットアドベンチャーによるダイエットで目標体重をクリアすることができました。&lt;/p>
+&lt;p>お昼ご飯を用意している間や通勤時間だった時間帯に取り組みました。&lt;/p>
+&lt;p>今は体重もう元に戻ってるけどw&lt;/p>
+&lt;p>想定外だったのが、通勤という行為が実は意外なほどに運動になっていたということ。通勤が消滅して運動量が激減し、活動量が減りました。&lt;/p>
+&lt;p>だから通勤で使っていた時間をリングフィットアドベンチャーに充てました。&lt;/p>
+&lt;p>ただ、違うのは疲労感。通勤で感じる疲労感よりも、ちゃんとした運動をやった後の疲労感は違います。消耗してる感じがしない。&lt;/p>
+&lt;h3 id="家族との時間子どもと過ごす時間が作れた">家族との時間、子どもと過ごす時間が作れた&lt;/h3>
+&lt;p>子どもの保育園の送り迎えを毎日やりました。&lt;/p>
+&lt;p>その結果、だいぶ子どもと仲良くなった気がします。あと奥さんの負担も軽減でき、うちの一家的にもだいぶ良いサイクルを作って過ごすことができました。&lt;/p>
+&lt;p>それも、もう元に戻ります。&lt;/p>
+&lt;p>本当に守るべきものは何なのか？今後は、それについて改めて考える機会になりそうです。&lt;/p>
+&lt;h3 id="新しいスキルお料理開発に取り組めた">新しいスキル(お料理)開発に取り組めた&lt;/h3>
+&lt;p>ずっと家にいて、ほとんど変化のない生活でした。&lt;/p>
+&lt;p>そこで感じたのは自分で変化を持たせることの重要性です。&lt;/p>
+&lt;p>色々と試しました。&lt;/p>
+&lt;p>部屋の環境整備、新しいことを始める(熱帯魚飼ったり、アクアポニックスにしてみたり)、色々ゲームやったり、動画投稿してみたり&lt;/p>
+&lt;p>最終的に行き着いたのがお料理です。&lt;/p>
+&lt;p>さらに料理風景を動画に撮ってYouTubeに投稿したりし始めました。&lt;/p>
+&lt;p>よく、このテレワーク生活が始まった時にビジネス系のインフルエンサー界隈では、資格取得とかスキル取得云々が流行りましたが、果たして新しく明確なスキル取得して今ジョブチェンジできた人ってどれくらいいるんでしょうか。疑問です。&lt;/p>
+&lt;p>多分明確に自分の仕事や環境が滅茶苦茶に破壊されたような人間じゃなければ難しいんじゃないかなと思います。&lt;/p>
+&lt;p>だから、ぼくはお料理スキルの開発を目指しました。&lt;/p>
+&lt;p>うちの家族だと奥さんしか料理アビリティがないので、そこに新しくぼくがアビリティとして取得すれば、色々な状況に対応ができるようになります。&lt;/p>
+&lt;p>今後もお料理にチャレンジしていこうと思います。&lt;/p>
+&lt;h2 id="思ってたのと違ったところ">思ってたのと違ったところ&lt;/h2>
+&lt;h3 id="インプット読書学習の時間はとれなかった">インプット(読書、学習)の時間はとれなかった&lt;/h3>
+&lt;p>時間が無限にできるんじゃないかと思っていました。その結果無限にインプット時間が生まれるんじゃね？とか考えてました。&lt;/p>
+&lt;p>そんなことなかった。&lt;/p>
+&lt;p>普通にインプットの時間は作らないとできないし、逆に自由にできる時間は他のことに充てたので、読書なんか全くできませんでした。&lt;/p>
+&lt;h3 id="運動量が激減">運動量が激減&lt;/h3>
+&lt;p>通勤は苦痛だけど意外な程体力を使っていて、健康維持のための運動にはなっていた。&lt;/p>
+&lt;p>これが結論です。&lt;/p>
+&lt;p>ただ、肩こりなどの不調も激減。&lt;/p>
+&lt;p>ほとんどマッサージに行きませんでした。&lt;/p>
+&lt;h2 id="結論">結論&lt;/h2>
+&lt;p>ぼくは今後もずっとテレワークを続けたいと思いました。&lt;/p>
+&lt;p>暑くない、静か＝人間らしい生活、集中できる環境&lt;/p>
+&lt;p>しかし、それが全てリセット。&lt;/p>
+&lt;p>元通りの出社になりました。&lt;/p>
+&lt;p>他の会社では、事務所縮小だったり、極端なところだと解約だったりもあるらしいですが、そんな中で、コミュニケーションを目的に出社を強制するのは、他のデメリットよりも「コミュニケーション」にメリットを見出しているのでしょうか。&lt;/p>
+&lt;p>この一年、コミュニケーションの仕方もだいぶ変わりました。&lt;/p>
+&lt;p>大雑把に言うと、以前よりも丁寧にコミュニケーションを取るようになりました。&lt;/p>
+&lt;p>慮るようになった。&lt;/p>
+&lt;p>文面や雰囲気だけで伝えきれない部分があるから、より一層丁寧に伝わる努力をするようになりました。&lt;/p>
+&lt;p>でも、それってこうなる前から重視されて然るべき要素だったと思います。&lt;/p>
+&lt;p>むしろ、正しいコミュニケーショが対面だからと言う理由で、「察しろ」という空気感で、おざなりにされていたのではないでしょうか。&lt;/p>
+&lt;p>デジタルのいいところは証跡が残ること。&lt;/p>
+&lt;p>全てに証拠が残ること。&lt;/p>
+&lt;p>だからこそ、アナログよりもデジタルの方が齟齬が生まれにくいと思います。何より齟齬の原因も掴みやすいと思います。&lt;/p>
+&lt;p>旧来のコミュニケーションを重視しようとする人種は、おそらく今後の世界では旧世代になるのではないでしょうか。&lt;/p>
+&lt;p>ぼくはそう思います。&lt;/p>
+&lt;h2 id="しんぺーはこう思った">&lt;a href="https://twitter.com/s_s_p_y">しんぺー&lt;/a>はこう思った。&lt;/h2>
+&lt;p>自分にとって何が大切か&lt;/p>
+&lt;p>そして、どうしたらそれを守れるのか&lt;/p>
+&lt;p>そう言ったことを明確に認識させてくれた体験でした。&lt;/p>
+&lt;p>今後の人生の身の振り方、しっかりと考えていきたいと思います。&lt;/p>
+&lt;p>と言ったところで本日は以上です。
+おやすみなさい。&lt;/p></description></item><item><title>2020年11月版のデスク環境紹介</title><link>https://www.warawareotoko.com/posts/post-13695/</link><pubDate>Wed, 02 Dec 2020 12:00:00 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-13695/</guid><description>&lt;p>今年の4月くらいから始まったテレワークですが、ぼく自身はまだ継続中です。このまま永遠に続いて欲しいところです。開始当初は、作業環境に関して最低限の費用で構築をしたのですが、今回大幅にアップデートを行なったのでご紹介したいと思います。&lt;/p>
+&lt;h2 id="アップデートビフォーアフター">アップデートビフォーアフター&lt;/h2>
+&lt;p>こちらが4月くらいの状態です。
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13695/images/IMG_3368.jpg">&lt;/p>
+&lt;p>古いディスプレイを引っ張り出してきてデュアルモニター化しています。片っぽに会社のノートPC、もう一方に自分のMacをつなげて、キーボードとマウスを切り替えながら使っていました。&lt;/p>
+&lt;p>そのあとモニターアームを導入して少しアップデート
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13695/images/IMG_3475.jpg">&lt;/p>
+&lt;p>そして、これが2020年11月末時点の状態です。
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13695/images/IMG_0175.jpeg">&lt;/p>
+&lt;p>具体的には、「ウルトラワイドモニターを導入」「壁にボードを取り付け」「サイドテーブルを設置」「カーテンで部屋を間仕切り設置」を行いました。&lt;/p>
+&lt;h3 id="ウルトラワイドモニター">ウルトラワイドモニター&lt;/h3>
+&lt;p>[itemlink post_id=&amp;ldquo;13680&amp;rdquo;]
+LGの35WN75C-Bという曲面うルトラワイドモニターです。&lt;/p>
+&lt;p>両端が曲がっていて、ゲームなどをやるときに没入感が増すようになっています。写真編集などを行う人にとっては、正確な編集に支障をきたすかもということで嫌われるみたいです。ただ、ぼくは仕事とそのほかゲームなどで使う予定だし、1万円くらいの違いなので、思い切って曲面にしました。&lt;/p>
+&lt;p>これが設置してみてびっくり。&lt;/p>
+&lt;p>非常によいです。&lt;/p>
+&lt;p>デスクの前に座るだけで、なんだかクリエィティブな気分になってモチベーションがあがります。&lt;/p>
+&lt;p>ゲームはまだやっていませんが、映画とかみてもこれはいいかもしれません。&lt;/p>
+&lt;h3 id="ラブリコでdiy">ラブリコでDIY&lt;/h3>
+&lt;p>[itemlink post_id=&amp;ldquo;13699&amp;rdquo;]&lt;/p>
+&lt;p>ツーバイフォーと呼ばれる規格の木材を壁に立てる際に使うのがラブリコという製品です。他にもディアウォールという商品も有名です。DIYをやろうと思う人ならおそらく知ってるんじゃないかと思います。&lt;/p>
+&lt;p>ツーバイフォーは塗装済みのものを楽天で購入。ホームセンターで買うと持って帰ってこなくちゃいけないのが、ちょっとめんどいと思い、通販で買いました。&lt;/p>
+&lt;!--&lt;table border="0" cellpadding="0" cellspacing="0">&lt;tr>&lt;td>&lt;div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;">&lt;table>&lt;tr>&lt;td style="width:240px">&lt;a href="https://hb.afl.rakuten.co.jp/ichiba/1dd7dd06.858e3a13.1dd7dd07.19b0889c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fipcdiylab%2Fww248w%2F&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener noreferrer" style="word-wrap:break-word;">![](images/?me_id=1368541&amp;item_id=10000085&amp;pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fipcdiylab%2Fcabinet%2F1bn63.jpg%3F_ex%3D240x240&amp;s=240x240&amp;t=picttext)&lt;/a>&lt;/td>&lt;td style="vertical-align:top;width:248px;">&lt;p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word">&lt;a href="https://hb.afl.rakuten.co.jp/ichiba/1dd7dd06.858e3a13.1dd7dd07.19b0889c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fipcdiylab%2Fww248w%2F&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener noreferrer" style="word-wrap:break-word;">ホワイト塗装済みツーバイフォー材（2x4）約38ミリ X 89ミリ X 2400ミリ LABRICO（ラブリコ）／ディアウォール／ウォリスト用&lt;/a>&lt;br>&lt;span >価格：4290円（税込、送料別)&lt;/span> &lt;span style="color:#BBB">(2020/12/1時点)&lt;/span>&lt;/p>&lt;div style="margin:10px;">&lt;a href="https://hb.afl.rakuten.co.jp/ichiba/1dd7dd06.858e3a13.1dd7dd07.19b0889c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fipcdiylab%2Fww248w%2F&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener noreferrer" style="word-wrap:break-word;">![](images/rl.svg)&lt;/a>&lt;a href="https://hb.afl.rakuten.co.jp/ichiba/1dd7dd06.858e3a13.1dd7dd07.19b0889c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fipcdiylab%2Fww248w%2F%3Fscid%3Daf_pc_bbtn&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener noreferrer" style="word-wrap:break-word;">&lt;div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;">楽天で購入&lt;/div>&lt;/a>&lt;/div>&lt;/td>&lt;/tr>&lt;/table>&lt;/div>&lt;br>&lt;p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word">&lt;/p>&lt;/td>&lt;/tr>&lt;/table>-->
+&lt;p>壁を傷つけることなく、部屋に柱を立てたり、棚を作ったりすることができます。&lt;/p>
+&lt;p>これを使って前からやりたかった、有孔ボードに色々ひっかけて、デスクの上を整理するやつをやりました。&lt;/p>
+&lt;p>実はこの後もまだ追加で手を加えようと思っていて、簡易的な棚を作ろうと思っています。&lt;/p>
+&lt;h3 id="サイドテーブル">サイドテーブル&lt;/h3>
+&lt;p>本当はこのテーブルをDIYしようと思っていました。しかしYoutubeで参考動画等を見るうちに、その工程の煩雑さを知り、結局買うことにしました。&lt;/p>
+&lt;p>でも、買って正解。&lt;/p>
+&lt;p>[itemlink post_id=&amp;ldquo;13696&amp;rdquo;]&lt;/p>
+&lt;p>耐荷重も80kgあって、揺れないし、デザインもグッド。&lt;/p>
+&lt;p>気に入りました。&lt;/p>
+&lt;h3 id="室内にカーテンで間仕切り">室内にカーテンで間仕切り&lt;/h3>
+&lt;p>ノイズキャンセリングヘッドホンがあるので、防音に関してはそこまで必要性はないのですが、ただ少しでも空間が区切られると気持ちにもメリハリがついて、仕事にも集中できそうなので設置してみました。&lt;/p>
+&lt;p>また、これからの季節、エアコンによる暖房費がかかってきそうなので少しでも保温効果を高めるためにも、空間を狭くするのは省エネ的にもよろしいんじゃないかと思います。&lt;/p>
+&lt;p>カーテンレールはこれ。防音カーテンはニトリです。
+[itemlink post_id=&amp;ldquo;13697&amp;rdquo;]&lt;/p>
+&lt;h2 id="しんぺーはこう思った">&lt;a href="https://twitter.com/s_s_p_y">しんぺー&lt;/a>はこう思った。&lt;/h2>
+&lt;p>ずっと家にいると刺激がなくなって、マンネリ化してきます。
+だからこそ、少しずつ変化を持たせたりすることは重要なんじゃないかと思います。&lt;/p>
+&lt;p>これからも、手を加えていく予定です。&lt;/p>
+&lt;p>次は、棚に手を加えるのと、照明関係です。&lt;/p>
+&lt;p>と言ったところで本日は以上です。
+おやすみなさい。&lt;/p></description></item><item><title>2020年5月版のデスク環境紹介。参考動画100本見てデスク環境整理した話</title><link>https://www.warawareotoko.com/posts/post-13241/</link><pubDate>Sun, 03 May 2020 11:00:52 +0000</pubDate><guid>https://www.warawareotoko.com/posts/post-13241/</guid><description>&lt;p>外出自粛、テレワークにより自宅で仕事をしている人も多いはず。家の中で過ごすことが多くなったため、模様替えや掃除整理をやり始めた人もいることでしょう。かく言うぼくも、デスク周りの散らかりが気になり出して環境を整理し直しました。今のところ、以前よりもだいぶ快適に作業できるようになっております。&lt;/p>
+&lt;p>ただし、納得したデスク環境になるまで紆余曲折がありました。Youtubeで海外のSetup Tour（＝デスクの環境構築動画）をみまくったり、様々なブログの記事を読み漁りました。その結果得た知見をご紹介させていただければと思います。&lt;/p>
+&lt;h2 id="在宅で自室のデスク環境を見直し">在宅で自室のデスク環境を見直し&lt;/h2>
+&lt;p>在宅でテレワークを行なっているので、だんだんと自宅のデスク環境が気になり出しました。&lt;/p>
+&lt;p>&lt;strong>散らかるケーブル
 ありすぎる不要なもの
-とりあえず積んであるナニカ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;それまで気にも留めなかったデスク環境をどうにかしたいと思い出し、その気持ちがどんどん大きくなりもう止めることができなくなってしまっていました。&lt;/p&gt;
-&lt;h3 id=&#34;雑然としている理由分析&#34;&gt;雑然としている理由分析&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13241/images/IMG_3368.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;何が理由でデスクが散らかっているように感じるのか？上にも書きましたが改めて分析すると理由は3つ。&lt;/p&gt;
-&lt;p&gt;「物が多い」「ケーブルがグチャグチャ」「スペースが狭い」&lt;/p&gt;
-&lt;p&gt;つまり、実際的な問題と視覚的な情報量の多さの2点が解決すべき問題点だと認識しました。
-そこで、前々から気になっていたモニターアームを導入する検討を行いました。&lt;/p&gt;
-&lt;h3 id=&#34;モニターアームの導入失敗&#34;&gt;モニターアームの導入〜失敗〜&lt;/h3&gt;
-&lt;p&gt;モニターアームはモニター物理的に持ち上げ、モニターの足を排除してくれるアイテムです。物理的にモニターを持ち上げるわけですから、当然デスクの上のスペースが広くなります。&lt;/p&gt;
-&lt;p&gt;[itemlink post_id=&amp;ldquo;13243&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;これを期待して購入しました。ただ、昨今のテレワークの影響で同じ様に考えた人が多かったようで、若干品薄な上に少し高くなっていました。&lt;/p&gt;
-&lt;p&gt;注文から到着まで1週間以上かかりましたが、手元に届いてすぐに設置し問題なく使用することができました。&lt;/p&gt;
-&lt;p&gt;↓デスクの構造上若干心配だったけどギリギリで設置できた。
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13241/images/IMG_3386.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;ただし、「モニターアーム導入によりデスク周りがすっきり！！こりゃおすすめです！」とはなりませんでした。全く思う様にはいかなかった。&lt;/p&gt;
-&lt;p&gt;↓ぐちゃぐちゃ
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13241/images/IMG_3401.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;おかしい、何かを間違ったのか？そこで、デスク周りを整理する動画や、海外のSetup Tourと呼ばれるお洒落なデスク紹介動画を見漁りました。100本くらいは見たんじゃないかと思います。&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kNB-Irvok5s&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;そこで導き出した結論です。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「モニターアームを使えばデスク環境が綺麗になるのではない。デスク環境を綺麗にできるやつがモニターアームを使うのだ。」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そして、デスク環境を整備する上で欠かせないスキル、それが「&lt;strong&gt;Cable Management&lt;/strong&gt;」です。
-&lt;strong&gt;デスク環境の整備は、ケーブルの整理が全て&lt;/strong&gt;です。これができながければやっていないのと一緒です。ぼくはこれができていませんでした。&lt;/p&gt;
-&lt;h2 id=&#34;デスク環境を整備するためには&#34;&gt;デスク環境を整備するためには&lt;/h2&gt;
-&lt;h3 id=&#34;ケーブルマネジメント&#34;&gt;ケーブルマネジメント&lt;/h3&gt;
-&lt;p&gt;ケーブルの整理に必要な手順は2つだけです。
-&lt;strong&gt;「束ねる」そして「隠す」です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ケーブルはなんとなく束ねるだけではダメです。きちんとした&lt;strong&gt;道具を使って束ねて、結束させないといけません。&lt;/strong&gt;何かの拍子にぐちゃっとなるようではいけません。&lt;/p&gt;
-&lt;p&gt;また、結束したケーブルは見えない様に工夫する必要があります。&lt;strong&gt;視覚的情報量を減らすことでスッキリしていると脳が認識します。&lt;/strong&gt;仕事の作業効率もアップすることでしょう。&lt;/p&gt;
-&lt;p&gt;↓ケーブルを束ねるやつを使いました。
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13241/images/IMG_3481.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13241/images/IMG_3474.jpg&#34;&gt;
-あと、使用している製品を限りなくバスパワーのものを使う方がいいなと思いました。USBケーブルと電源ケーブルの両方が必要な外付けHDDを2台使用していますが、それだけで4本のケーブルが必要となります。改めてPC周辺機器に対しても気を配る必要があることを学びました。&lt;/p&gt;
-&lt;p&gt;↓整理後の現在の様子がこちら
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post-13241/images/IMG_3475.jpg&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;完全なカッコ良さを追求するならば&#34;&gt;完全なカッコ良さを追求するならば&lt;/h3&gt;
-&lt;p&gt;ここからは完全な欲望と妄想の世界です。実際にそうすることはなさそうな気がしますが、海外の動画を見ていて感じるセクシーさについてです。&lt;/p&gt;
-&lt;p&gt;かっこいい人ほど、使用製品の色を統一しています。また、何故かほとんどの人がモニター裏を怪しい光で照らしています。絶対に使用中にそんな色で光らせないでしょという感じで光らせています。&lt;/p&gt;
-&lt;h3 id=&#34;番外編&#34;&gt;番外編&lt;/h3&gt;
-&lt;p&gt;ちなみにケーブル整理の基本は束ねる、隠すと書きましたが、究極的には「見せる」という方法もあります。
-Casey Nesitatの以前のスタジオがそうです。&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/mJY-HhPcFhQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;壁に敢えて見せる形で固定することで男らしい無骨さを演出しています。また、それ以外にも敢えて整理していなさそうでしているカッコ良さ。&lt;/p&gt;
-&lt;p&gt;モニター裏を怪しく光らすよりも、ぼくがたどり着きたいのはどちらかというとこっちかなーと思います。&lt;/p&gt;
-&lt;h2 id=&#34;しんぺーはこう思った&#34;&gt;&lt;a href=&#34;https://twitter.com/s_s_p_y&#34;&gt;しんぺー&lt;/a&gt;はこう思った。&lt;/h2&gt;
-&lt;p&gt;もうしばらくテレワークが続きそうです。&lt;/p&gt;
-&lt;p&gt;次は部屋の壁紙をいじりたいとかそういう欲望が少しずつ目覚めつつあります。とりあえずは抑えておきたいと思います。&lt;/p&gt;
-&lt;p&gt;と言ったところで本日は以上です。
-おやすみなさい。&lt;/p&gt;
-&lt;p&gt;[itemlink post_id=&amp;ldquo;13243&amp;rdquo;]&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+とりあえず積んであるナニカ&lt;/strong>&lt;/p>
+&lt;p>それまで気にも留めなかったデスク環境をどうにかしたいと思い出し、その気持ちがどんどん大きくなりもう止めることができなくなってしまっていました。&lt;/p>
+&lt;h3 id="雑然としている理由分析">雑然としている理由分析&lt;/h3>
+&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3368.jpg">&lt;/p>
+&lt;p>何が理由でデスクが散らかっているように感じるのか？上にも書きましたが改めて分析すると理由は3つ。&lt;/p>
+&lt;p>「物が多い」「ケーブルがグチャグチャ」「スペースが狭い」&lt;/p>
+&lt;p>つまり、実際的な問題と視覚的な情報量の多さの2点が解決すべき問題点だと認識しました。
+そこで、前々から気になっていたモニターアームを導入する検討を行いました。&lt;/p>
+&lt;h3 id="モニターアームの導入失敗">モニターアームの導入〜失敗〜&lt;/h3>
+&lt;p>モニターアームはモニター物理的に持ち上げ、モニターの足を排除してくれるアイテムです。物理的にモニターを持ち上げるわけですから、当然デスクの上のスペースが広くなります。&lt;/p>
+&lt;p>[itemlink post_id=&amp;ldquo;13243&amp;rdquo;]&lt;/p>
+&lt;p>これを期待して購入しました。ただ、昨今のテレワークの影響で同じ様に考えた人が多かったようで、若干品薄な上に少し高くなっていました。&lt;/p>
+&lt;p>注文から到着まで1週間以上かかりましたが、手元に届いてすぐに設置し問題なく使用することができました。&lt;/p>
+&lt;p>↓デスクの構造上若干心配だったけどギリギリで設置できた。
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3386.jpg">&lt;/p>
+&lt;p>ただし、「モニターアーム導入によりデスク周りがすっきり！！こりゃおすすめです！」とはなりませんでした。全く思う様にはいかなかった。&lt;/p>
+&lt;p>↓ぐちゃぐちゃ
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3401.jpg">&lt;/p>
+&lt;p>おかしい、何かを間違ったのか？そこで、デスク周りを整理する動画や、海外のSetup Tourと呼ばれるお洒落なデスク紹介動画を見漁りました。100本くらいは見たんじゃないかと思います。&lt;/p>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kNB-Irvok5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
+&lt;p>そこで導き出した結論です。&lt;/p>
+&lt;p>&lt;strong>「モニターアームを使えばデスク環境が綺麗になるのではない。デスク環境を綺麗にできるやつがモニターアームを使うのだ。」&lt;/strong>&lt;/p>
+&lt;p>そして、デスク環境を整備する上で欠かせないスキル、それが「&lt;strong>Cable Management&lt;/strong>」です。
+&lt;strong>デスク環境の整備は、ケーブルの整理が全て&lt;/strong>です。これができながければやっていないのと一緒です。ぼくはこれができていませんでした。&lt;/p>
+&lt;h2 id="デスク環境を整備するためには">デスク環境を整備するためには&lt;/h2>
+&lt;h3 id="ケーブルマネジメント">ケーブルマネジメント&lt;/h3>
+&lt;p>ケーブルの整理に必要な手順は2つだけです。
+&lt;strong>「束ねる」そして「隠す」です。&lt;/strong>&lt;/p>
+&lt;p>ケーブルはなんとなく束ねるだけではダメです。きちんとした&lt;strong>道具を使って束ねて、結束させないといけません。&lt;/strong>何かの拍子にぐちゃっとなるようではいけません。&lt;/p>
+&lt;p>また、結束したケーブルは見えない様に工夫する必要があります。&lt;strong>視覚的情報量を減らすことでスッキリしていると脳が認識します。&lt;/strong>仕事の作業効率もアップすることでしょう。&lt;/p>
+&lt;p>↓ケーブルを束ねるやつを使いました。
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3481.jpg">&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3474.jpg">
+あと、使用している製品を限りなくバスパワーのものを使う方がいいなと思いました。USBケーブルと電源ケーブルの両方が必要な外付けHDDを2台使用していますが、それだけで4本のケーブルが必要となります。改めてPC周辺機器に対しても気を配る必要があることを学びました。&lt;/p>
+&lt;p>↓整理後の現在の様子がこちら
+&lt;img loading="lazy" src="https://www.warawareotoko.com/posts/post-13241/images/IMG_3475.jpg">&lt;/p>
+&lt;h3 id="完全なカッコ良さを追求するならば">完全なカッコ良さを追求するならば&lt;/h3>
+&lt;p>ここからは完全な欲望と妄想の世界です。実際にそうすることはなさそうな気がしますが、海外の動画を見ていて感じるセクシーさについてです。&lt;/p>
+&lt;p>かっこいい人ほど、使用製品の色を統一しています。また、何故かほとんどの人がモニター裏を怪しい光で照らしています。絶対に使用中にそんな色で光らせないでしょという感じで光らせています。&lt;/p>
+&lt;h3 id="番外編">番外編&lt;/h3>
+&lt;p>ちなみにケーブル整理の基本は束ねる、隠すと書きましたが、究極的には「見せる」という方法もあります。
+Casey Nesitatの以前のスタジオがそうです。&lt;/p>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mJY-HhPcFhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
+&lt;p>壁に敢えて見せる形で固定することで男らしい無骨さを演出しています。また、それ以外にも敢えて整理していなさそうでしているカッコ良さ。&lt;/p>
+&lt;p>モニター裏を怪しく光らすよりも、ぼくがたどり着きたいのはどちらかというとこっちかなーと思います。&lt;/p>
+&lt;h2 id="しんぺーはこう思った">&lt;a href="https://twitter.com/s_s_p_y">しんぺー&lt;/a>はこう思った。&lt;/h2>
+&lt;p>もうしばらくテレワークが続きそうです。&lt;/p>
+&lt;p>次は部屋の壁紙をいじりたいとかそういう欲望が少しずつ目覚めつつあります。とりあえずは抑えておきたいと思います。&lt;/p>
+&lt;p>と言ったところで本日は以上です。
+おやすみなさい。&lt;/p>
+&lt;p>[itemlink post_id=&amp;ldquo;13243&amp;rdquo;]&lt;/p></description></item></channel></rss>
