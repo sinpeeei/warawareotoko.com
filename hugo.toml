@@ -30,7 +30,7 @@ publishDir = "docs"
 
   socialIcons = [
     { name = "Twitter", url = "https://x.com/s_s_p_y" },
-    { name = "Note", url = "https://note.com/sinpeeei" }
+    { name = "Note", url = "https://note.com/s_s_p_y" }
   ]
 
 [params.profileMode]
